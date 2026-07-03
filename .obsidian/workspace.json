@@ -6,7 +6,7 @@
       {
         "id": "0063774153777ecb",
         "type": "tabs",
-        "dimension": 70.67448680351906,
+        "dimension": 70.05780346820809,
         "children": [
           {
             "id": "1a85d23c9c30aca8",
@@ -26,14 +26,12 @@
             "id": "854a68f1e300cb3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "inbox/理解股债负相关性，一个宏观因子视角.md",
-                "mode": "source",
-                "source": false
+                "file": "inbox/CampbellPfluegerViceira_ARFE_20250820.pdf"
               },
-              "icon": "lucide-file",
-              "title": "理解股债负相关性，一个宏观因子视角"
+              "icon": "lucide-file-text",
+              "title": "CampbellPfluegerViceira_ARFE_20250820"
             }
           }
         ],
@@ -42,7 +40,7 @@
       {
         "id": "0a162ddbff8be985",
         "type": "tabs",
-        "dimension": 29.32551319648094,
+        "dimension": 29.942196531791907,
         "children": [
           {
             "id": "d27b2ac56d8659c2",
@@ -236,8 +234,8 @@
   },
   "active": "854a68f1e300cb3f",
   "lastOpenFiles": [
-    "未命名 1.md",
     "inbox/理解股债负相关性，一个宏观因子视角.md",
+    "未命名 1.md",
     "未命名.md",
     "欢迎.md",
     "inbox/欧洲历史概览.md",
