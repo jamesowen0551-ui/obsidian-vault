@@ -14,7 +14,7 @@ aliases: [seminar, seminar_v1]
 
 # seminar (Version 1)
 
-**Conversation:** [[Nexus/Conversations/claude/2026/05/Untitled|中外利率分化报告转换]]
+**Conversation:** [[内容分析请求|中外利率分化报告转换]]
 
 ## Content
 

@@ -14,7 +14,7 @@ aliases: [build, build_v4]
 
 # build (Version 4)
 
-**Conversation:** [[Nexus/Conversations/claude/2026/05/Untitled|钢琴榔头硬化和磨损的不可逆性]]
+**Conversation:** [[内容分析请求|钢琴榔头硬化和磨损的不可逆性]]
 
 ## Content
 

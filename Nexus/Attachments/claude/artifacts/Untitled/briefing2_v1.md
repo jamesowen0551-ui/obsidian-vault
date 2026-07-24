@@ -14,7 +14,7 @@ aliases: [briefing2, briefing2_v1]
 
 # briefing2 (Version 1)
 
-**Conversation:** [[Nexus/Conversations/claude/2026/05/Untitled|中外利率分化报告转换]]
+**Conversation:** [[内容分析请求|中外利率分化报告转换]]
 
 ## Content
 
