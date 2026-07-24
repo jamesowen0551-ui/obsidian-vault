@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "conversationFolder": "Nexus/Conversations",
+    "reportFolder": "Nexus/Reports",
+    "attachmentFolder": "Nexus/Attachments",
+    "addDatePrefix": false,
+    "dateFormat": "YYYY-MM-DD",
+    "useCustomMessageTimestampFormat": false,
+    "messageTimestampFormat": "locale",
+    "lastConversationsPerPage": 50,
+    "importCompletionCount": 1,
+    "hasShownUpgradeNotice": false,
+    "hasSeenClaude132UpgradeNotice": false,
+    "hasCompletedUpgrade": false,
+    "currentVersion": "1.6.8",
+    "previousVersion": "1.6.8"
+  },
+  "importedArchives": {
+    "meta:data-4026cb12-3ef5-4399-ac5c-c3f5988060ed-1783165814-63448932-batch-0000.zip:4005694:1783167067868": {
+      "fileName": "data-4026cb12-3ef5-4399-ac5c-c3f5988060ed-1783165814-63448932-batch-0000.zip",
+      "date": "2026-07-04T12:43:01.577Z"
+    }
+  },
+  "upgradeHistory": {
+    "completedUpgrades": {
+      "1_6_8": {
+        "version": "1.6.8",
+        "date": "2026-07-04T12:42:06.203Z",
+        "completed": true
+      }
+    },
+    "completedOperations": {}
+  },
+  "lastVersion": "1.6.8",
+  "hasCompletedUpgrade": true,
+  "upgradeDate": "2026-07-04T12:42:06.203Z",
+  "versionTrackingEnabled": true
+}
