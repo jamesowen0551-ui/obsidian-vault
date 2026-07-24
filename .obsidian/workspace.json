@@ -58,14 +58,10 @@
             "id": "326379fffe7dabd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Claude对话存档/2026-05-29 泰隆银行钱潮大类资产配置策略.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-05-29 泰隆银行钱潮大类资产配置策略"
+              "title": "新标签页"
             }
           }
         ],
@@ -244,8 +240,21 @@
   },
   "active": "a968dd26451c92c6",
   "lastOpenFiles": [
-    "Claude对话存档/为什么构建的组合里把仓位和久期混在一起看了.md",
+    "研究专题/00 股债相关性与A股因子研究.md",
+    "研究专题/CampbellPfluegerViceira_ARFE_20250820.pdf",
+    "研究专题/股债相关性文献清单.md",
+    "研究专题/A股最强？——反转因子深度解析.md",
+    "研究专题/理解股债负相关性，一个宏观因子视角.md",
+    "研究专题",
+    "claude_conversations/20260529_缇庤仈鍌ㄨ鎭細璁笌甯傚満鍒╃巼璧板娍璇嗗埆.md",
+    "claude_conversations/20260528_鍐呭瀹℃煡.md",
+    "inbox/CampbellPfluegerViceira_ARFE_20250820.pdf",
+    "inbox/A股最强？——反转因子深度解析.md",
+    "inbox/欧洲历史概览.md",
+    "inbox/理解股债负相关性，一个宏观因子视角.md",
     "inbox/股债相关性文献清单.md",
+    "Claude对话存档/2026-05-29 泰隆银行钱潮大类资产配置策略.md",
+    "Claude对话存档/为什么构建的组合里把仓位和久期混在一起看了.md",
     "Claude对话存档/artifacts/Untitled/thailand_macro_research_part2_v1.md",
     "Claude对话存档/artifacts/Untitled/thailand_macro_research_v1.md",
     "Claude对话存档/artifacts/Untitled/build_combined_v3.md",
@@ -260,16 +269,6 @@
     "Claude对话存档/artifacts/Untitled/m_guanghe_v1.md",
     "Claude对话存档/artifacts/Untitled/helpers_v1.md",
     "Claude对话存档/artifacts/Untitled/minutes_v2.md",
-    "Claude对话存档/artifacts/Untitled/minutes_v1.md",
-    "Claude对话存档/artifacts/Untitled/build_minutes_v1.md",
-    "Claude对话存档/artifacts/Untitled/SKILL_v1.md",
-    "Claude对话存档/artifacts/Untitled/build_v5.md",
-    "Claude对话存档/artifacts/Untitled/build_v4.md",
-    "Claude对话存档/artifacts/Untitled/build_v3.md",
-    "Claude对话存档/artifacts/Untitled/build_v2.md",
-    "Claude对话存档/artifacts/Untitled/briefing2_v2.md",
-    "Claude对话存档/artifacts/Untitled/briefing2_v1.md",
-    "Claude对话存档/artifacts/Untitled/speech_v2.md",
     "Claude对话存档/artifacts/Untitled",
     "Claude对话存档/artifacts/FOMC与国债利率的政策识别",
     "Claude对话存档/artifacts",
@@ -277,9 +276,6 @@
     "claude_conversations",
     "未命名.base",
     "Nexus/Reports/claude",
-    "Nexus/Reports",
-    "Nexus/Conversations/claude/2026/07",
-    "Nexus/Attachments/claude/artifacts/FOMC与国债利率的政策识别",
     "未命名.canvas"
   ]
 }
