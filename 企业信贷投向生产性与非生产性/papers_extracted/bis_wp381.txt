@@ -1,0 +1,872 @@
+
+--- Page 1 ---
+ 
+ 
+ 
+  
+BIS Working Papers 
+No 381 
+ 
+ 
+Reassessing the impact of 
+finance on growth  
+by Stephen G Cecchetti and Enisse Kharroubi  
+ 
+ 
+Monetary and Economic Department 
+July 2012 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+JEL classification: D92, E22, E44, O4 
+ 
+Keywords: Growth, financial development, credit booms, R&D 
+intensity, financial dependence  
+
+
+--- Page 2 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIS Working Papers are written by members of the Monetary and Economic Department of 
+the Bank for International Settlements, and from time to time by other economists, and are 
+published by the Bank. The papers are on subjects of topical interest and are technical in 
+character. The views expressed in them are those of their authors and not necessarily the 
+views of the BIS. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This publication is available on the BIS website (www.bis.org). 
+ 
+ 
+© Bank for International Settlements 2012. All rights reserved. Brief excerpts may be 
+reproduced or translated provided the source is stated. 
+ 
+ 
+ISSN 1020-0959 (print) 
+ISSN 1682-7678 (online)
+
+--- Page 3 ---
+ iii
+ 
+ 
+Reassessing the impact of finance on growth 
+Stephen G Cecchetti and Enisse Kharroubi* 
+July 2012 
+Abstract 
+This paper investigates how financial development affects aggregate productivity growth. 
+Based on a sample of developed and emerging economies, we first show that the level of 
+financial development is good only up to a point, after which it becomes a drag on growth. 
+Second, focusing on advanced economies, we show that a fast-growing financial sector is 
+detrimental to aggregate productivity growth. 
+ 
+ 
+JEL classification: D92, E22, E44, O4 
+Keywords: Growth, financial development, credit booms, R&D intensity, financial 
+dependence 
+                                                 
+*  Cecchetti is Economic Adviser at the Bank for Inte rnational Settlements (BIS) and Head of its Monetary and 
+Economic Department, and Kharroubi is Economist at the BIS. This paper was prepared for the Reserve Bank 
+of India’s Second International Research Conference in Mumbai, India, on 1–2 February 2012. We thank 
+Claudio Borio, Leonardo Gambacorta, Christian Upper and Fabrizio Zampolli for helpful suggestions; and 
+Garry Tang for valuable research assistance. The views expressed in this paper are those of the authors and 
+not necessarily those of the BIS. 
+
+--- Page 5 ---
+ 1
+ 
+ 
+1.  Introduction 
+One of the principal conclusions of modern economics is that finance is good for growth. The 
+idea that an economy needs intermediation to match borrowers and lenders, channelling 
+resources to their most efficient uses, is fundamental to our thinking. And, since the 
+pioneering work of Goldsmith (1969), McKinnon (1973) and Shaw (1973), we have been able 
+to point to evidence supporting the view that financial development is good for growth. More 
+recently, researchers were able to move beyond simple correlations and establish a 
+convincing causal link running from finance to growth. While there have been dissenting 
+views, today it is accepted that finance is not simply a by-product of the development 
+process, but an engine propelling growth.
+1 This, in turn, was one of the key elements 
+supporting arguments for financial deregulation. If finance is good for growth, shouldn’t we be 
+working to eliminate barriers to further financial development?  
+It is fair to say that recent experienc e has led both academics and policymakers to 
+reconsider their prior conclusions. Is it true regardless of the size and growth rate of the 
+financial system? Or, like a person who eats too much, does a bloated financial system 
+become a drag on the rest of the economy? 
+In this paper, we address this question by examin ing the impact of the size and growth of the 
+financial system on productivity growth at the level of aggregate economies. We present two 
+very striking conclusions. First, as is the case  with many things in life, with finance you can 
+have too much of a good thing. That is, at low levels, a larger financial system goes hand in 
+hand with higher productivity growth. But there comes a point – one that many advanced 
+economies passed long ago – where more banking and more credit are associated with 
+lower growth.  
+Our second result comes from looking at the impact of growth in the financial system – 
+measured as growth in either employment or value added – on real productivity growth. Here 
+we find evidence that is unambiguous: faster growth in finance is bad for aggregate real 
+growth. One interpretation of this finding is that financial booms are inherently bad for trend 
+growth. 
+At first, these results may seem surprising. After all, a more developed financial system is 
+supposed to reduce transaction costs, raising investment directly, as well as improving the 
+distribution of capital and risk across the economy.
+2 These two channels, operating through 
+the level and composition of investment, are the mechanisms by which financial development 
+improves growth. 3 But the financial industry competes for resources with the rest of the 
+economy. It requires not only physical capital, in the form of buildings, computers and the 
+like, but highly skilled workers as well. Finance literally bids rocket scientists away from the 
+satellite industry. The result is that people who might have become scientists, who in another 
+                                                 
+1  The view that financial development is simply a by-product of growth is discussed in Robinson (1952): “Where 
+enterprise leads, finance follows”. For the more recent wo rk establishing causality, see Levine et al (2000) for 
+country-level evidence and Rajan and Zingales (1998) for industry-level evidence. For an alternative view, see 
+Easterly et al (2000), who suggest that financial development may only be good up to a point. 
+2  See Pagano (1993) for a simple analytical model of fi nancial development as a reduction in transaction costs 
+in the context of an AK model. A more comprehensive approach is developed in Holmström and Tirole (1997), 
+who provide a model for why different financial patterns (direct finance vs intermediated finance) may coexist 
+altogether. 
+3  Theoretical contributions relating the role of financial intermediaries to the composition of investment include: 
+Acemoğlu and Zilibotti (1997), who look at how the presence  of financial intermediaries affects the risk return 
+profile of entrepreneurs’ projects; Holmström and Tirole (1998), who examine how financial intermediaries can 
+help save on liquidity hoarding; and Aghion et al (2010), who show how financial development helps reduce 
+the growth cost of economic fluctuations. 
+
+--- Page 6 ---
+2 
+ 
+ 
+age dreamt of curing cancer or flying to Mars, today dream of becoming hedge fund 
+managers.4  
+There is an important sense in which this description of the consequences of a financial 
+boom is no different from those of the dotcom boom of the 1990s, or the impact of any other 
+boom tied to more tangible output. Booming industries draw in resources at a phenomenal 
+rate. It is only when they crash, after the bust, that we realise the extent of the 
+overinvestment that occurred. Too many companies were formed, with too much capital 
+invested and too many people employed. Importantly, after the fact, we can see that many of 
+these resources should have gone elsewhere. Following the dotcom bust innumerable 
+computers were scrapped, office buildings vacated and highly trained people laid off. 
+The remainder of the paper provides the empirical evidence for our conclusions. In Section 2, 
+we examine the impact of financial system size on productivity growth in a sample of 50 
+advanced and emerging market economies over the past three decades. To measure 
+financial sector size, we consider both output measures like private credit to GDP as well as 
+input measures like the financial sector’s share in total employment (in this latter case, we 
+restrict our analysis restricted to advanced c ountries because of limited data availability). 
+Considering the level of financial development, we find that when private credit grows to the 
+point where it exceeds GDP, it becomes a drag on productivity growth. Using employment 
+measures, we find that when the financial sector represents more than 3.5% of total 
+employment, further increases in financial sector size tend to be detrimental to growth.  
+In Section 3, we examine the impact of the growth rate of the financial system on aggregate 
+productivity growth in a sample of advanced countries over the past three decades. Again, 
+our analysis is restricted to advanced economies due to data limitations. There we find that, 
+compared with a country where the financial sector’s share in total employment is stable, a 
+typical financial boom – employment growth of 1.6% per year – reduces growth in aggregate 
+GDP per worker by roughly one half of 1 percentage point. 
+2.  The inverted U-shaped effect of financial development  
+We begin by examining the relationship between the size of a country’s financial system and 
+its productivity growth to see whether there is a point where bigger is no longer better. In 
+what follows, we examine various measures of financial development, starting with the ratio 
+of private credit to GDP.  
+2.1  Private credit and growth 
+We begin with a simple histogram constructed from a sample of 50 advanced and emerging 
+countries over the period 1980–2009. Using five-year non-overlapping GDP-per-worker 
+growth and private credit to GDP we compute the average growth conditional on the quartiles 
+of the ratio of private credit to GDP. The resulting histogram in Graph 1, computed from a 
+total of 300 data points, shows that GDP-per-worker growth increases from the first to the 
+                                                 
+4  Philippon and Reshef (2009) provide empirical evidence  that, over the past 30 year s, the US banking industry 
+has become relatively skilled-labour-intensive. Analytic al contributions investigating occupational choices 
+between producing and financing include Philippon (2007), which provides a model where human capital is 
+allocated between entrepreneurial and financial career s, and where entrepreneurs can innovate but face 
+borrowing constraints that financiers can help to alleviat e. Cahuc and Challe (2009) also develop an analytical 
+model focusing on the allocation of workers between financial intermediation and production sectors in the 
+presence of asset price bubbles. 
+
+--- Page 7 ---
+ 3
+ 
+ 
+third private credit to GDP quartile, before declining in the final quartile. That is, countries 
+with the highest level of private credit to GDP have lower trend growth than the rest. 
+ 
+Graph 1 
+Average GDP-per-worker growth by private credit to GDP quartiles 
+Each bar represents the five-year average GDP-per-worke r growth conditional on the five-year average private 
+credit to GDP ratio belonging to a specific quartile of the sample distribution. The sample covers 50 countries over 
+the period 1980–2009. GDP-per-worker growth and privat e credit to GDP are averaged for non-overlapping 
+periods over five years. For country sample and sources, see data appendix. 
+ 
+Graph 2 
+Private credit to GDP ratio and growth 
+ 
+Graphical representation of     t k t kyt t kfdt t kfdk t t ky , ,
+2
+5 , , 1 5 , , 0, 5 ,          over the period 
+1980–2009. For country sample and sources, see data appendix. 
+ 
+Of course, this histogram does not imply that private credit is bad for growth at high levels. 
+Countries with high private credit to GDP are more developed economies, which grow more 
+slowly for a variety of reasons. Convergence effects are the most obvious. To address this, 
+we compute deviations from country-specific m eans, and control for initial conditions. The 
+result, based on the sample of data, is in Graph 2. The relationship is clearly not monotonic. 
+That is, at low levels of credit, more credit raises trend growth. But there comes a point 
+where the additional lending and a bigger financial system become a drag on growth. 
+0.0
+0.5
+1.0
+1.5
+2.0
+first quartile second quartile third quartile fourth quartile
+–0.10
+–0.05
+0.00
+0.05
+0.10
+–0.50 –0.25 0.00 0.25 0.50 0.75 1.00
+Five-year average GDP-per-worker growth
+Five-year average private credit to GDP
+(Deviation from country mean)
+(Deviation from country mean)
+
+--- Page 8 ---
+4 
+ 
+ 
+To get a more precise sense of this relationship, and to test our hypothesis that the effects of 
+finance on growth can go from good to bad, we turn to a panel regression. 5 We regress the 
+five-year average growth in output per worker in a given country on the following variables: 
+the level of financial development; the squared level of financial development (looking for the 
+parabola in Graph 2); and a series of control variables known to influence aggregate growth. 
+To fix ideas and notation, we write this as: 
+  t k t k t t kt t kt t kkt t k y Xfdfdy , , , 5 , 2
+2
+, 5 , 1 , 5 , 0, 5 ,              (1) 
+where yk,t is the log of output per worker in country k  in year t; yk,t+5,t
+ 
+is the average growth in 
+output per worker in country k from time t to t+5; fdk,t+5,t is the average ratio of private credit to 
+GDP in country k from time t  to t+5, our measure of financial development; X k,t+5,t is a set of 
+control variables averaged from time t  to t+5, including working population growth, openness 
+to trade measured by the ratio of imports and exports to GDP, the share of government 
+consumption in GDP and CPI inflation;  is a constant and k is a vector of country dummies; 
+and  is the error term, which we allow for heteroskedasticity. Our hypothesis is that 0 will be 
+positive and 1 negative.  
+In the first column of Table 1 we report the result with no controls. Here we see what we 
+expect – the relationship is parabolic. Continuing across the columns of the table, we 
+sequentially add controls. The nonlinearity is robust. Regardless of the exact specification, 
+the coefficient of the level of financial development, 0, is around 0.035 and that on the 
+quadratic term, 1, is always close to –0.018.6  
+We can use the estimated coefficients to compute an estimate of the peak of the inverted U –
+the vertical line in Graph 2. These are reported near the bottom of the table, together with 
+95% interval estimates. The point estimates all roughly 100% of GDP, a figure that is quite 
+close to the threshold of 90% computed in Cecchetti et al (2011).
+7 
+To see what these numbers mean, we can look at a few examples. Starting with New 
+Zealand, in the first half of the 1990s, private credit was below 90% of GDP. Credit then rose 
+steadily, reaching nearly 150% of GDP by the time of the crisis. The estimates in Table 1 
+suggest that this increase created a drag of nearly one half of 1 percentage point on trend 
+productivity growth.  
+Thailand is another interesting case. In the run-up to the Asian crisis of 1997–98, the ratio of 
+Thai private credit to GDP reached 150%. More recently, this measure of financial sector 
+size has fallen to roughly 95%. This time, the result is a benefit of roughly one half of 
+1 percentage point in trend productivity growth.  
+                                                 
+5  Our work in this section builds on an extensive body of research, especially the empirical literature relating 
+growth to finance. Notable contributions on this topic include King and Levine (1993), Islam (1995), Levine and 
+Zervos (1998), Beck et al (2000) and Cecchetti et al  (2011). Comprehensive surveys can be found in Levine 
+(1997, 2005). 
+6  We note that the results reported in Table 1 are robus t to adding a variety of changes to equation (1). These 
+include: (i) using GDP per capita instead of GDP per wo rker as the dependent variab le; (ii) using alternative 
+measures of financial development li ke private credit by banks to GDP, bank deposits to GDP, financial 
+system deposits to GDP, or bank assets to GDP; and (iii) dropping certain countries, such as the former 
+communist countries, from the sample. 
+7 The difference between the estimates is probably a resu lt of differences in data and methods. The current 
+study uses a broader set of countries, while the latte r employs a somewhat more sophisticated econometric 
+model. 
+
+--- Page 9 ---
+ 5
+ 
+ 
+Finally, take the example of the United States, where private credit grew to more than 200% 
+of GDP by the time of the financial crisis. Reducing this to a level closer to 100% would, by 
+our estimates, yield a productivity growth gain of more than 150 basis points. 
+ 
+Table 1 
+GDP-per-worker growth and private credit to GDP 
+Dependent variable: five-
+year average real GDP-
+per-worker growth 
+(1) (2) (3) (4) (5) (6) 
+Five-year average private 
+credit to GDP 
+0.036*** 0.038*** 0.035*** 0.035*** 0.035*** 0.048** 
+(0.011) (0.011) (0.011) (0.011) (0.011) (0.021) 
+Five-year average private 
+credit to GDP squared 
+–0.018*** –0.018*** –0.018*** –0.017*** –0.017*** –0.022*** 
+(0.005) (0.005) (0.005) (0.005) (0.005) (0.008) 
+Log of real GDP per worker –0.742*** –1.020*** –1.110*** –1.110*** –1.160*** –6.220*** 
+(0.211) (0.210) (0.208) (0.207) (0.204) (1.200) 
+Five-year working 
+population growth 
+ –0.478*** –0.480*** –0.47 1*** –0.501*** –0.685*** 
+ (0.162) (0.160) (0.163) (0.152) (0.162) 
+Five-year average 
+openness to trade 
+  0.010*** 0.010*** 0.009*** 0.054*** 
+  (0.003) (0.003) (0.003) (0.010) 
+Five-year average 
+government consumption 
+share in GDP 
+   0.0106 0.0107 –0.145 
+   (0.046) (0.045) (0.331) 
+Five-year average CPI 
+inflation 
+    0.0378 0.047 
+    (0.036) (0.037) 
+       
+Turning point for the effect 
+of private credit to GDP on 
+real GDP-per-worker growth 
+0.98 1.02 0.99 0.99 1.01 1.08 
+95% confidence interval  [0.97;1.00] [1.01;1.03] [0.98;1.01] [0.98;1.01] [0.99;1.02] [1.06;1.11]
+Observations 270 270 270 270 270 270 
+R-squared 0.098 0.160 0.190 0.190 0.213 0.424 
+The dependent variable is the five-year average real GDP-per-worker growth for 1980–2009 for each country, 
+which yields six observations per country. Five-year averages for the independent variables are computed over 
+the same period as the dependent variable. The log of r eal GDP per worker is the natural logarithm of real 
+GDP per worker for the initial year of the period ov er which the averages are computed, divided by 100. All 
+estimates include a non-reported constant. Column (6) includes country dummies. Robust standard errors are 
+in parentheses. Significance at  the 1/5/10% level is indica ted by ***/**/*. The turnin g point for th e effect of 
+private credit to GDP on real GDP-per-worker growth is the level for private credit to GDP below (above) which 
+an increase in private credit to GDP is estimated to raise (reduce) real GDP-per-worker growth. For country 
+sample and sources, see data appendix. 
+ 
+We should be very clear that we do not in any way view these peak debt values as targets, 
+and neither should any readers (or authorities). These are levels of debt that a country 
+should only approach in extremis. And as discussed in more detail by Cecchetti et al (2011), 
+under normal circumstances we would expect to see debt at much lower levels than these 
+thresholds. Keeping debt well below 90% of GDP provides the room needed to respond in 
+
+--- Page 10 ---
+6 
+ 
+ 
+the event of a severe shock. Otherwise, should a crisis arise, the additional accumulation of 
+debt would result in a drag on growth that would make recovery even more difficult than it 
+already is.8 
+2.2  Alternative measures of financial development 
+In the previous section, financial developm ent was measured using total credit extended to 
+the private sector. In this section we examine the robustness of this result to the use of 
+alternative measures of financial sector size. We start by looking at the consequences of 
+using bank credit rather than total credit, and then move on to study the relationship between 
+growth and the share of employment accounted for by the financial sector.  
+2.2.1  Bank credit as a measure of financial development 
+Differences in financial system structure im ply that credit can mean different things in 
+different countries. And this difference could be the driving force behind our results. For 
+example, the inverted U-shape could reflect compositional effects, with bank-based financial 
+systems being one part of the parabola and mark et-based financial systems being the other. 
+To examine this possibility, we replace private credit with private credit by banks (relative to 
+GDP) in equation (1).  
+Table 2 presents the results of this exercise. Again, we start with no controls in the first 
+column and add controls sequentially moving to the right in the table. The results confirm 
+both the parabolic relationship and its robustness. Furthermore, the point estimates 
+themselves are very close to those in Table 1.  
+Looking at the peak of the parabola, we estimate that for private credit extended by banks, 
+the turning point is closer to 90% of GDP – somewhat lower than for total credit. Many 
+countries are close to or beyond this level, suggesting that more credit will not translate into 
+higher trend growth. For example, in Portugal , private credit by banks was 160% of GDP at 
+the onset of the financial crisis. The corresponding figure for the UK was 180% of GDP and 
+even reached 200% of GDP in Denmark. By contrast, a country like India, where bank credit 
+is less than 50% of GDP, can still reap significant benefits from further financial deepening in 
+terms of increasing productivity growth. 
+ 
+                                                 
+8  This argument is consistent with the results of welfare maximisation, which would imply that, in normal times, 
+debt should be maintained below the level at which borrowing constraints become binding. 
+
+--- Page 11 ---
+ 7
+ 
+ 
+Table 2 
+GDP-per-worker growth and private credit by banks to GDP 
+Dependent variable: 
+five-year average real 
+GDP-per-worker growth 
+(1) (2) (3) (4) (5) (6) 
+Five-year average private 
+credit by banks to GDP 
+0.0369*** 0.0373*** 0.0336*** 0. 0334*** 0.0325*** 0.0477**
+(0.0117) (0.0116) (0.0118) (0. 0118) (0.0121) (0.0208) 
+Five-year average private 
+credit by banks to GDP 
+squared 
+–0.0196*** –0.0193*** –0.0185*** –0. 0184*** –0.0178*** –0.0229***
+(0.00520) (0.00522) (0.00521) (0 .00519) (0.00543) (0.00836)
+Log of real GDP per 
+worker 
+–0.732*** –0.979*** –1.046*** –1. 049*** –1.086*** –6.279***
+(0.195) (0.197) (0.195) (0 .195) (0.191) (1.174) 
+Five-year working 
+population growth 
+ –0.461*** –0.463*** –0.455* ** –0.483*** –0.675***
+ (0.164) (0.163) (0.166) (0.155) (0.164) 
+Five-year average 
+openness to trade 
+  0.0105*** 0.0105*** 0.00979*** 0.0545***
+  (0.00295) (0.00297) (0.00296) (0.0108) 
+Five-year average 
+government consumption 
+share in GDP 
+   0.00962 0.00977 –0.114 
+   (0.0453) (0.0445) (0.329) 
+Five-year average CPI 
+inflation 
+    0.0364 0.0456 
+    (0.0368) (0.0368) 
+     
+Turning point for the effect 
+of private credit to GDP 
+on real GDP-per-worker 
+growth 
+0.94 0.96 0.91 0.91 0.92 1.04 
+95% confidence interval  [0.93;0.95] [0.95;0.98] [0.90;0.92] [0.90;0.92] [0.90;0.93] [1.02;1.07] 
+Observations 269 269 269 269 269 269 
+R-squared 0.103 0.161 0.194 0.194 0.215 0.426 
+The dependent variable is the five-year average real GDP-per-worker growth for 1980–2009 for each country, 
+which yields six observations per country. Five-year averages for the independent variables are computed over 
+the same period as the dependent variable. The log of r eal GDP per worker is the natural logarithm of real 
+GDP per worker for the initial year of the period over  which the averages are computed, divided by 100. All 
+estimates include a non-reported constant. Column (6) includes country dummies. Robust standard errors are 
+in parentheses. Significance at the 1/ 5/10% level is indicated by ***/**/*. The turning point for the effect of 
+private credit by banks to GDP on real GDP-per-worker growth is the level for private credit by banks to GDP 
+below (above) which an increase in private credit to GDP is estimated to raise (reduce) real GDP-per-worker 
+growth. For country sample and sources, see data appendix. 
+2.2.2  Financial sector employment as a measure of financial development 
+The use of credit as a measure of financial development means that we are focusing on the 
+output of the sector. An alternative gauge of financial sector size and financial development, 
+one based on inputs, is the financial sector’s share in the economy’s total employment. Using 
+a more limited sample drawn from 21 OECD economies over the period from 1980 to 2009, 
+we look at the relationship between the financial sector’s use of the economy’s labour 
+resources and aggregate growth. In addition to providing a different measure of financial 
+development, the analysis using an input-based m easure of financial development provides 
+
+--- Page 12 ---
+8 
+ 
+ 
+an important check that the inverted U-shaped effect on growth is not simply the result of 
+using a sample which mixes advanced and emerging market economies.  
+ 
+Graph 3 
+Financial sector share in employment and growth1 
+ 
+1  Graphical representation of     t k t kyt t kfst t kfsk t t ky , ,
+2
+5 , , 1 5 , , 0, 5 ,          over the period 
+1980–2009. For country sample and sources, see data appendix. 
+ 
+We start with a scatter plot in Graph 3, which is analogous to Graph 2. The results confirm 
+our previous results: the relationship between growth and the financial sector’s share in 
+employment is an inverted U. At low levels, an increase in the financial sector’s share in total 
+employment is actually associated with higher GDP-per-worker growth. But there is a 
+threshold beyond which a larger financial sector becomes a drag on productivity growth. 
+Turning to the regression analysis, we estimate equation (1) using the five-year average 
+financial sector share in total employment in  country as a measure of financial development 
+(fd). Again, on the left-hand side we have the five-year average growth in output per worker 
+in a given country. And on the right-hand side, we have the financial sector’s share in total 
+employment, the financial sector’s share in total employment squared, and various controls. 
+Table 3 presents the results from this exercise. Here we see the result that we expect – the 
+relationship is parabolic.
+9 Again, the result is robust to the addition of controls. 
+ 
+                                                 
+9  Introducing country fixed effects changes the results only  modestly. In particular, the estimated coefficient for 
+the linear and the quadratic term are such that the share of financial inte rmediation in total employment that 
+maximises growth is lower than the one obtained without country fixed effects. This reinforces the idea that the 
+estimated turning point should be regarded not as a target but rather as an upper bound. 
+–0.04
+–0.03
+–0.02
+–0.01
+0.00
+0.01
+0.02
+–0.004 –0.002 0.000 0.002 0.004 0.006
+Five-year average GDP-per-worker growth
+Five-year average financial intermediation share in total employment
+(Deviation from country mean)
+(Deviation from country mean)
+
+--- Page 13 ---
+ 9
+ 
+ 
+Table 3 
+GDP-per-worker growth and financial sector share in employment 
+Dependent variable: five-
+year average real GDP-
+per-worker growth 
+(1) (2) (3) (4) (5) (6) 
+Five-year average financial 
+intermediation share in total 
+employment 
+3.345*** 3.335*** 3.354*** 3.347 *** 3.341*** 5.574** 
+(0.690) (0.677) (0.675) (0.706) (0.705) (2.602) 
+Five-year average financial 
+intermediation share in total 
+employment squared 
+–43.35*** –43.31*** –43.48*** –43. 37*** –43.30*** –103.6*** 
+(9.025) (9.004) (8.980) (9.516) (9.493) (35.82) 
+Log of real GDP per worker –3.346*** –3.334*** –3.409*** –3. 417*** –3.407*** –6.087***
+(0.665) (0.672) (0.708) (0.708) (0.707) (1.537) 
+Five-year working 
+population growth 
+ 0.0243 0.00762 0.007 99 0.0129 –0.111 
+ (0.189) (0.174) (0.174) (0.181) (0.237) 
+Five-year average 
+openness to trade 
+  0.00195 0.00194 0.00193 0.0171 
+  (0.00431) (0.00442) (0.00439) (0.0173) 
+Five-year average 
+government consumption 
+share in GDP 
+   0.00260 0.00249 –0.360 
+   (0.0581) (0.0586) (0.269) 
+Five-year average CPI 
+inflation 
+    –0.00256 0.0181 
+    (0.0236) (0.0250) 
+       
+Turning point (in %) for the 
+effect of financial 
+intermediation share in total 
+employment on real GDP-
+per-worker growth 
+3.86 3.85 3.86 3.86 3.86 2.69 
+95% confidence interval  [1.20;6.51] [1.28;6.42] [1.29;6.42] [1.22;6.50] [1.22;6.50] [–6.34;11.7]
+Observations 95 95 95 95 95 95 
+R-squared 0.331 0.331 0.333 0.333 0.333 0.536 
+The dependent variable is the five-year average real GDP-per-worker growth for 1980–2009 for each country, 
+which yields six observations per country. Five-year averages for the independent variables are computed over 
+the same period as the dependent variable. The log of r eal GDP per worker is the natural logarithm of real 
+GDP per worker for the initial year of the period over  which the averages are computed, divided by 100. All 
+estimates include a non-reported constant. Column (6) includes country dummies. Robust standard errors are 
+in parentheses. Significance at  the 1/5/10% level is indicated by ***/**/*. The turning point for the effect of the 
+financial sector’s share in total employment on real GDP-per-worker growth is the level of the financial sector’s 
+share in total employment below (above) which an increase in the financial sector’s share in total employment 
+is estimated to raise (reduce) real GDP-per-worker  growth. For country sample and sources, see data 
+appendix. 
+ 
+To see what these numbers mean, we first look at the recent data for the sample countries 
+and evaluate them against the estimate for the turning point of 3.9% reported at the bottom 
+of Table 3. Graph 4 shows that in most countries, the financial sector’s share in total 
+employment is below or significantly below the threshold beyond which the effect on GDP-
+per-worker growth turns from positive to negative. Indeed, the size of the financial sector is 
+above this growth-maximising point only in so me cases. Examples are Canada, Switzerland, 
+Ireland and, to a lesser extent, the United States. However, as was stressed above, the 
+
+--- Page 14 ---
+10 
+ 
+ 
+growth-maximising size of the financial sector should not be considered as a target, in 
+particular because it is possible that the negative effect on growth may start materialising for 
+lower levels. From that point of view, all countries in our sample are considerably above the 
+lower band of the 95% confidence interval around the estimate for the turning point. This 
+means that for all countries, further increases in financial sector size are most likely to have 
+mixed effects on productivity growth. However, this result also owes to the limited sample we 
+use, which mechanically raises the size of  the confidence interval around the estimated 
+turning point. 
+ 
+Graph 4 
+Average financial sector share in total employment, 2005–09
+1 
+1  AU = Australia, AT = Austria, BE = Belgium, CA = Canada, CH = Switzerland, DE = Germany, DK = Denmark, 
+ES = Spain, FI = Finland, FR = France, GB = United Kingdom , IE = Ireland, IT = Italy, JP = Japan, KR = Korea, 
+NL = Netherlands, NO = Norway, NZ = New-Zealand, PT = Portugal, SE = Sweden, US = United States. 
+Sources: OECD Structural Analysis database; authors’ calculations. 
+ 
+Coming back to the countries where the financial sector’s share in total employment is above 
+the growth-maximising point, we can compute the gain in GDP-per-worker growth if their 
+financial sectors were to shrink back to the growth-maximising point. For Canada, the gain is 
+1.3 percentage points, for Switzerland 0.7 percentage points and for Ireland 0.2 percentage 
+points.  
+The case of Ireland is interesting because over the period 1995–99, the share of the Irish 
+financial sector’s share in total employment was 3.84% – very close to the growth-
+maximising value. But over the next 10 years, the share rose to more than 5%. Had the 
+share been constant between1995–99 and 2005–09, our estimates suggest that Irish trend 
+GDP-per-worker growth could have been as much as 0.4 percentage points higher over the 
+past decade.  
+3.  The real effects of financial sector growth 
+Having established that there is a point at which financial development switches from 
+propelling real growth to holding it back, we now turn to an examination of the impact of the 
+speed of development on productivity growth. Put another way, we examine how financial 
+0
+1
+2
+3
+4
+5
+6
+AU  AT  BE CA CH DE  DK ES  FI  FR GB IE IT  JP KR NL NO NZ PT SE US
+Average financial sector share in total employment, 2005-2009
+Growth-maximizing level
+95% lower confidence band
+
+--- Page 15 ---
+ 11
+ 
+ 
+sector booms – periods when financial development is moving at a particularly fast pace – 
+can affect growth.10  
+Unlike in the earlier exercise, we cannot simply rely on the ratio of private credit to GDP to 
+measure financial sector growth. If we were to do this, financial sector growth would be 
+negatively associated with GDP growth by construction. To bypass this problem, we use data 
+on employment in the financial sector and measure financial sector growth as the growth rate 
+in the financial sector’s share in total employment.  
+As noted in the previous section, using employ ment data comes at a cost since employment 
+data for the financial sector are available for a limited subset of our previous sample of 
+countries. Hence we focus on the 21-country subset of OECD countries. 
+ 
+Graph 5 
+Financial sector growth and productivity growth
+1 
+ 
+1  Graphical representation of t k t kyt t kfdk t t ky , , , 5 , 0, 5 ,           over the period 1980–2009, where yk,t
+ 
+is 
+the log of output per worker in country k in year t; yk,t+5,t is the average growth in output per worker in country k
+from time t to t+5; fdk,t+5,t is the average growth in financial intermediation employment in country k from time t to 
+t+5; k is a vector of country dummies; and k,t is a residual. For country sample and sources, see data appendix. 
+ 
+Graph 5 summarises our main finding. Again, on the vertical axis we plot the five-year 
+average GDP-per-worker growth. On the horizonta l axis, we now plot the five-year average 
+growth in the financial sector’s share in total employment.
+11 (As in Graphs 2 and 3, both 
+variables are measured as deviations from thei r country-specific means.) The result is quite 
+                                                 
+10  There is a large and well-known literature on this fi nancial accelerator and its quantitative implications for the 
+business cycle (see Bernanke and Gertler (1989) and Bernanke et al (1999), for instance). Likewise, there is a 
+significant body of research examining credit cycles (f rom Kiyotaki and Moore (1997)  to more recent work by 
+Caballero et al (2006) on the dotcom bubble or Lorenzon i (2008), who look at the normative implications of 
+credit booms). We are, however, unaware of empirical studies on the implications of financial booms for long-
+run growth. 
+11  The results reported in this section are robust to t he use of financial sector va lue added in place of the 
+financial sector’s share in total employment. 
+–0.04
+–0.02
+0.00
+0.02
+0.04
+–0.04 –0.02 0.00 0.02 0.04
+Five-year average real GDP-per-worker growth
+Five-year average financial intermediation employment growth
+(Deviation from country mean)
+(Deviation from country mean)
+
+--- Page 17 ---
+ 13
+ 
+ 
+Table 4 
+GDP-per-worker growth and financial sector growth 
+Dependent variable: five-year 
+average real GDP-per-worker 
+growth 
+(1) (2) (3) (4) (5) 
+Five-year average financial 
+intermediation employment growth 
+–0.471*** –0.327*** –0.325*** –0.328*** –0.331***
+(0.083) (0.074) (0.073) (0.073) (0.074) 
+Five-year working population growth –0.356* –0.275 –0.286 –0.270 –0.259
+(0.204) (0.186) (0.183) (0.188) (0.191) 
+Five-year average openness to trade 0.007 0.022 0.023 0.022 0.022
+(0.0148) (0.0138) (0.0143) (0.0142) (0.0138) 
+Five-year average government 
+consumption share in GDP 
+–0.762*** –0.636*** –0.626*** –0.637*** –0.635***
+(0.212) (0.219) (0.220) (0.220) (0.219) 
+Five-year average CPI inflation 
+0.021 0.011 0.011 0.011 0.011
+(0.018) (0.018) (0.018) (0.018) (0.018) 
+Log of real GDP per worker 
+–0.083*** –0.073*** –0.072*** –0.074*** –0.076***
+(0.014) (0.012) (0.012) (0.012) (0.012) 
+Financial intermediation share in total 
+employment 
+–1.732***  
+(0.529)     
+Private credit to GDP 
+–0.001  
+ (0.005)    
+Private credit by banks to GDP 
+–0.002  
+  (0.006)   
+Financial system assets to GDP 
+–0.000 
+   (0.006)  
+Banking system assets to GDP 
+ 0.002
+    (0.005) 
+ 
+     
+Observations 104 110 110 110 110 
+R-squared 0.616 0.583 0.584 0.583 0.583 
+The dependent variable is the five-year average real GDP-per-worker growth for 1980–2009 for each country. 
+Five-year averages for the independent variables are computed over the same period as the dependent 
+variable. The log of real GDP per worker is the natural lo garithm of real GDP per work er for the initial year of 
+the period over which the averages are computed. The financial intermediat ion share in total employment is 
+the share of the financial intermediation sector in total em ployment for the initial year of the period over which 
+the averages are computed. Private credit (by banks) to GDP is the ratio of private credit (by banks) to GDP for 
+the initial year of the period over which the averages are computed. Financial (banking) system assets to GDP 
+are measured as the ratio of financial (banking) system assets to GDP for t he initial year of the period over 
+which the averages are computed. All estimates incl ude country dummies. Robust standard errors are in 
+parentheses. Significance at the 1/5/10% level is indicated by ***/**/ *. For country sample and sources, see 
+data appendix. 
+ 
+Overall, the lesson is that big and fast-growing financial sectors can be very costly for the 
+rest of the economy. They draw in essential resources in a way that is detrimental to growth 
+at the aggregate level. 
+
+--- Page 18 ---
+14 
+ 
+ 
+4.  Conclusion 
+In this paper, we study the complex real effects of financial development and come to two 
+important conclusions. First, financial sector size has an inverted U-shaped effect on 
+productivity growth. That is, there comes a point where further enlargement of the financial 
+system can reduce real growth. Second, financial sector growth is found to be a drag on 
+productivity growth. Our interpretation is that because the financial sector competes with the 
+rest of the economy for scarce resources, financial booms are not, in general, growth-
+enhancing. This evidence, together with recent experience during the financial crisis, leads 
+us to conclude that there is a pressing need to reassess the relationship of finance and real 
+growth in modern economic systems. More finance is definitely not always better.  
+
+--- Page 19 ---
+ 15
+ 
+ 
+Data appendix 
+Data sources for Graphs 1–2 and Tables 1–2: 
+Penn World Tables: real GDP per worker, working population, ratio of imports and exports to 
+GDP, ratio of government consumption to GDP and CPI. 
+World Bank Financial Structure and Development database: ratio of private credit to GDP. 
+50 countries: Argentina, Australia, Austria, Bangladesh, Belgium, Brazil, Canada, Chile, 
+China, Colombia, the Czech Republic, Denmark, Egypt, Estonia, Finland, France, Germany, 
+Greece, Hungary, Iceland, India, Indonesia, Ireland, Italy, Japan, Korea, Luxembourg, 
+Mexico, Morocco, the Netherlands, New Zealand, Nigeria, Norway, Pakistan, the Philippines, 
+Poland, Portugal, Russia, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, 
+Thailand, Turkey, the United Kingdom, the United States, Venezuela and Vietnam. 
+Data sources for Graphs 3–4 and Tables 3–4: 
+Penn World Tables: real GDP per worker, working population, ratio of imports and exports to 
+GDP, ratio of government consumption to GDP and CPI.  
+World Bank Financial Structure and Development database: ratio of private credit to GDP, 
+ratio of private credit by banks to GDP, financial system assets to GDP and banking system 
+assets to GDP.  
+OECD Structural Analysis database: financial sector’s share in total employment. 
+21 countries: Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, 
+Ireland, Italy, Japan, Korea, the Netherlands, New Zealand, Norway, Portugal, Spain, 
+Sweden, Switzerland, the United Kingdom and the United States. 
+
+--- Page 20 ---
+16 
+ 
+ 
+References 
+Acemoğlu, D and F Zilibotti (1997): “Was Prometheus unbound by chance? Risk, 
+diversification, and growth”, Journal of Political Economy, 105, pp 709–75. 
+Aghion, P, M Angeletos, A Banerjee and K Manova (2010): “Volatility and growth: credit 
+constraints and the composition of investment”, Journal of Monetary Economics , 57,  
+pp 246–65. 
+Beck, T, A Demirgüç-Kunt and R Levine (2000): “A new database on financial development 
+and structure”, World Bank Economic Review, 14, pp 597–605. 
+Beck, T and R Levine (2002): “Industry growth and capital allocation: does having a market- 
+or bank-based system matter?”, Journal of Financial Economics, 64, pp 147–180. 
+Beck, T, R Levine and N Loayza (2000): “Finance and the sources of growth”, Journal of 
+Financial Economics, 58, pp 261–300. 
+Bernanke, B and M Gertler (1989): “Agency costs, net worth, and business fluctuations”, 
+American Economic Review, 79, pp 14–31. 
+Bernanke, B, M Gertler and S Gilchrist (1999): “The financial accelerator in a quantitative 
+business cycle framework”, in J Taylor and M Woodford (eds), Handbook of 
+Macroeconomics, Chapter 21, Elsevier, pp 1341–93. 
+Caballero, R, E Farhi and M Hammour (2006): “Speculative growth: hints from the US 
+economy”, American Economic Review, 96, pp 1159–1192. 
+Cecchetti, S, M Mohanty and F Zampolli (2011): “The real effect of debt”, BIS Working 
+Papers, no 352. 
+Cahuc, P and E Challe (2009): “Produce or speculate? Asset bubbles, occupational choice, 
+and efficiency”, IZA Discussion Paper, no 4630. 
+Easterly, Islam and Stiglitz (2000): “Shaken and Stirred: Explaining Growth Volatility”, 
+Discussion paper, The World Bank. 
+Goldsmith, R (1969): Financial structure and development, Yale University Press. 
+Heston, A, R Summers and B Aten (2011): “Penn World Table Version 7.0”, Center for 
+International Comparisons of Production, Income and Prices at the University of 
+Pennsylvania. 
+Holmström, B and J Tirole (1997): “Financial intermediation, loanable funds, and the real 
+sector”, Quarterly Journal of Economics, 112, pp 663–691. 
+——— (1998): “Private and public supply of liquidity”, Journal of Political Economy , 106, 
+pp 1–40. 
+Islam, N (1995): “Growth empirics: a panel data approach”, Quarterly Journal of Economics, 
+110, pp 1127–70. 
+King, B and R Levine (1993): “Finance and growth: Schumpeter might be right”, Quarterly 
+Journal of Economics, 108, pp 713–737. 
+Kiyotaki, N and J Moore (1997): “Credit cycles” Journal of Political Economy , 105,  
+pp 211–48.  
+Levine, R (1997): “Financial development and economic growth: views and agenda”, Journal 
+of Economic Literature, 35, pp 688–726. 
+——— (2005): “Finance and growth: theory and evidence”, Handbook of Economic Growth , 
+1, Elsevier, pp 865–934. 
+
+--- Page 21 ---
+ 17
+ 
+ 
+Levine, R, N Loayza and T Beck (2000): “Financia l intermediation and growth: Causality and 
+causes”, Journal of Monetary Economics, 46, pp 31-77. 
+Levine, R and S Zervos (1998): “Stock markets, banks and economic growth”, American 
+Economic Review, 88, pp 537–58. 
+Lorenzoni, G (2008): “Inefficient credit booms”, Review of Economic Studies, 75, pp 809–33. 
+McKinnon, R (1973): Money and capital in economic development , Brookings Institution, 
+Washington DC. 
+Organisation for Economic Co-operation and Development (2010): Economic Outlook , 
+2010/2. 
+——— (2011): OECD Database for Structural Analysis (STAN). 
+Pagano, M (1993): “Financial markets and growth: an overview”, European Economic 
+Review, 37, pp 613–22. 
+Philippon, T (2007): “Financiers vs engineers: should the financial sector be taxed or 
+subsidized”, NBER Working Papers, no 13560. 
+Philippon, T and A Reshef (2009): “Wages and human capital in the US financial industry: 
+1909–2006”, NBER Working Papers, no 14644. 
+Rajan, R and L Zingales (1998): “Financial dependence and growth”, American Economic 
+Review, 88, pp 559–86. 
+Robinson (1952): “The Generalization of the General Theory”, in The Rate of Interest and 
+Other Essays (London: Mac Millan). 
+Shaw, E (1973): Financial deepening and economic development , Oxford University Press, 
+New York. 

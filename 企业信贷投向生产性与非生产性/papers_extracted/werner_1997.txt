@@ -1,0 +1,802 @@
+
+--- Page 1 ---
+Werner, Richard A.
+Article
+Towards a New Monetary Paradigm: A Quantity Theorem
+of Disaggregated Credit, with Evidence from Japan
+Kredit und Kapital
+Provided in Cooperation with:
+Duncker & Humblot, Berlin
+Suggested Citation: Werner, Richard A. (1997) : Towards a New Monetary Paradigm: A Quantity
+Theorem of Disaggregated Credit, with Evidence from Japan, Kredit und Kapital, ISSN 0023-4591,
+Duncker & Humblot, Berlin, Vol. 30, Iss. 2, pp. 276-309,
+https://doi.org/10.3790/ccm.30.2.276
+This Version is available at:
+https://hdl.handle.net/10419/293352
+Standard-Nutzungsbedingungen:
+Die Dokumente auf EconStor dürfen zu eigenen wissenschaftlichen
+Zwecken und zum Privatgebrauch gespeichert und kopiert werden.
+Sie dürfen die Dokumente nicht für öffentliche oder kommerzielle
+Zwecke vervielfältigen, öffentlich ausstellen, öffentlich zugänglich
+machen, vertreiben oder anderweitig nutzen.
+Sofern die Verfasser die Dokumente unter Open-Content-Lizenzen
+(insbesondere CC-Lizenzen) zur Verfügung gestellt haben sollten,
+gelten abweichend von diesen Nutzungsbedingungen die in der dort
+genannten Lizenz gewährten Nutzungsrechte.
+Terms of use:
+Documents in EconStor may be saved and copied for your personal
+and scholarly purposes.
+You are not to copy documents for public or commercial purposes, to
+exhibit the documents publicly, to make them publicly available on the
+internet, or to distribute or otherwise use the documents in public.
+If the documents have been made available under an Open Content
+Licence (especially Creative Commons Licences), you may exercise
+further usage rights as specified in the indicated licence.
+  https://creativecommons.org/licenses/by/4.0/
+
+--- Page 2 ---
+Berichte 
+Towards  a  New  Monetary  Paradigm:  A  Quantity  Theorem 
+of  Disaggregated  Credit,  with  Evidence  from  Japan 
+By Richard  A.  Werner,*  Oxford  and  Tokyo** 
+I. Introduction 
+Thomas  Kuhn's (1962) account  of  the  growth  of  scientific  knowledge 
+describes  the  process  of  a  paradigm  shift  as  follows:  the  received  theory 
+or approach,  consisting  of  a  set  of  assumptions  and  procedures,  becomes 
+unable  to  explain  an  increasing  number  of  'anomalies'.  It  is  initially 
+patched  up  by  ad  hoc  assumptions  or  adjustments,  but  as  the  number  of 
+inexplicable  facts  rises,  it  is  eventually  replaced  by  a  new  paradigm  that 
+explains âs much  as  the  previous  approach  but  in  addition  can  also 
+account  for  the  'anomalies'.  Similarly, Lakatos  (1970), who  suggested  the 
+concept  of  scientific  research  programmes  that  are  based  on  a  hard  core 
+of provisionally  accepted  assumptions,  argues  that  a  research  programme 
+will  be  rejected,  if  another  programme  can  explain  everything  its  rival 
+* I am  grateful  for  comments  by  Nicholas  Dimsdale,  Tim  Jenkinson, C. H. 
+Kwan,  Stephen  Nickell,  Yukio  Noguchi,  Michael Pollitt,  Götz Uebe, Naoyuki 
+Yoshino, an  anonymous  referee  and  numerous  economists  in  Tokyo.  Kimiko  Hana-
+busa and  Keiko  Sakai  provided  invaluable  research  assistance.  I  am  especially 
+indebted  to  John  Baldwin,  Tim  Jenkinson,  Keimei  Kaizuka,  Stephen  Nickell  and 
+Hirohiko  Okumura  for  their  kind  backing.  Research  support  has  been  gratefully 
+received  over  a  period  of  two  years  from  the  following  institutions:  The  Commis-
+sion of  European  Communities,  The  Japan  Foundation,  The  Economic  and  Social 
+Research Council  and  The  Citibank  Foundation.  I  am  grateful  for  the  hospitality 
+of the  Institute  for  Monetary  and  Economic  Studies  of  the  Bank  of  Japan  and  the 
+Institute  for  Fiscal  and  Monetary  Policy  of  the  Ministry  of  Finance.  The  paper  is 
+based on  a  draft  presented  at  the  Royal  Economic  Society  Annual  Conference, 
+April 1993, the Fifth  PACAP  Finance  Conference  in  Kuala  Lumpur  in  June 1993 
+and at  the  Bank  of  Japan,  Institute  for  Monetary  and  Economic  Studies  in  June 
+1993. Moreover,  it  was  discussed  in  the  'Economics  Focus'  of  The  Economist, 
+13 June 1993. It reflects  my  views  alone. 
+** The author  is  Research  Associate  at  the  Institute  of  Economics  and  Statis-
+tics,  University  of  Oxford,  Visiting  Lecturer  at  Sophia  University,  Tokyo,  and 
+Chief  Economist  at Jardine Fleming  Securities  (Asia),  Tokyo. 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 3 ---
+Berichte 277 
+can explain,  but  also  those  facts  the  rival  could  not  (see  Backhouse , 
+1985, for  a  discussion  of  economic  methodology). 
+In the 1980s and early 1990s, three  'anomalies'  have  occurred  in  a 
+number  of  countries  which  have  been  difficult  to  reconcile  with  the  gen-
+erally  accepted  relationship  of  money,  economic  activity  and  prices 
+according  to  the  traditional  monetary  paradigm.  These  are (1) the appar-
+ent velocity  decline  and  the  resulting  instability  or  'breakdown'  of  the 
+money demand  function  in  several  Anglo-Saxon  countries,  Scandinavia 
+and in  Japan; (2) the occurrence  of  significant  asset  price  rises,  often 
+dubbed  'bubbles',  especially  in  the  UK,  Scandinavian  countries,  Taiwan, 
+Korea  and  Japan;  and (3), the enormous  surge  of  capital  flows  from 
+Japan in  the 1980s and their  sudden  collapse  in  the  early 1990s. 
+In this  paper  a different  monetary  paradigm  is proposed  that,  despite  its 
+simplicity  is  found  to  encompass  the  old  approach  and  at  the  same  time 
+accounts for  the anomalies  that  the  old  approach  could  not  explain. 
+The paper  is  organised  as follows:  First,  the  three  main  'anomalies'  are 
+reviewed,  as  reflected  in  the  recent  literature.  Second,  a  simple  alterna-
+tive  macro-economic  model  is  introduced  that  is  in  theory  able  to 
+explain  these  'anomalies'.  The  new  approach  suggests (1) to replace  the 
+standard  definition  of  the  money  supply  as  deposits  with  a  definition 
+based on  credit  creation; (2) that  the  standard  'quantity  theory  of  money' 
+is a  special  case  of  a  more  general  disaggregated  quantity  theorem, 
+which  distinguishes  between  credit  creation  used  for  'real'  and  'finan-
+cial'  transactions;  a  sudden  rise  of  the  latter  may  be  induced  by  banks, 
+which  results  in  asset  price  bubbles;  and (3) that  excess  credit  creation 
+entering  the  'financial  circulation'  is  likely  to  spill  over  abroad  as  for-
+eign investment  and  hence  determine  capital  flows.  Third,  the  relation-
+ships postulated  by  the  alternative  model  are  tested  empirically.  Since 
+Japan is  the  most  important  country  where  all  'anomalies'  have  occurred 
+and indeed  seem to have  been  most  pronounced,  the  Japanese experience 
+is drawn  on  for  the  empirical  work.  It  is  found  that  all  three  anomalies 
+can be  explained  empirically  by  the  new  approach.  The  paper  ends  by 
+discussing  some implications  for  economic  policy  and  future  research. 
+II.  Anomalies  of  the standard  macro monetary model 
+The received  approach  in  monetary  economics,  centring  on  the  macro-
+economic relationship  between  money,  economic  activity  and  prices,  is 
+usually  expressed  in  its  most  basic  form  by  the  well-known  equation  of 
+exchange, commonly  referred  to  as  the  'quantity  theory  of  money' 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 4 ---
+278 Berichte 
+(deriving  from  Newcomb, 1885, and Fisher, 1911). Often  in  logarithmic 
+form,  it  is  still  the  core  workhorse  of  most  macro-economic  models: 
+(1)  MV  = PY 
+Ρ is the  price  level  of  goods  and  services  and Y represents  national 
+output  or  income. M is the  supply  of  money,  originally  defined  as 'cash'. 
+In practice,  money  is  usually  defined  as  an  aggregate  of  private  sector 
+assets, largely  deposits.  Often,  several  definitions  of  money,  from  Ml  to 
+M4, are used  in  parallel  without  a  priori  theoretical  superiority,  simply 
+depending  on  which  suits  the  purposes  of  the  author  best  or  happens  to 
+have the  best  empirical  fit.  Velocity  V  is assumed  to  be  constant.  With  a 
+stable velocity,  a  dependable  relationship  between  nominal  national 
+income PY  and M exists in  the  form  of  a  money  demand  function.  This 
+has been  put  to  use  by  central  banks  in  an  attempt  to  control  nominal 
+GDP by  money  supply  targeting. 
+1. The  anomaly of  the velocity  decline 
+The stable  relationship  between M and Ρ or M and PY  proposed  by  the 
+equation  of  exchange  more  or  less  appeared  to  hold  until  the 1970s. 
+However  it  „increasingly  came  apart  at  the  seams  during  the  course  of 
+the 1980s" ( Goodhart , 1989), especially  in  several  Anglo-Saxon  and 
+Scandinavian  countries  and  Japan,  where  significant  declines  in  velocity 
+were observed.  „Once  viewed  as  a pillar  of  macro-economic  models,  it  is 
+now widely  regarded  as  one  of  the  weakest  stones  in  the  foundation" 
+( Boughton, 1991). Variable  velocity  is  a  problem  for  traditional  monetary 
+models, because  it  renders  the  money  demand  function  'unstable'  and 
+hence monetary  policy  difficult  or  impossible  to  implement. 
+A large  body  of  literature  has  tried  to  grapple  with  this  'anomaly'  (see 
+the surveys  by  Goodhart, 1989, and Goldfeld  and Sichel , 1990). Many 
+writers  have  explained  it  by  financial  liberalisation  and  structural 
+changes in  the  financial  system  which  are  difficult  to  quantify  (see Bank 
+of  Japan , 1988, for  such  an  argument  about  the  Japanese  case).  In 
+response, different  definitions  of  money  have  been  used,  usually  getting 
+broader  and  culminating  in  a  liquidity-weighted  average  of  deposits,  the 
+'divisia  index'  (see,  for  instance,  Bank  of  England, 1996). Others have 
+suggested different  measures  of  prices Ρ by incorporating  not  only  goods 
+and services,  but  also  asset  prices (Shibuya , 1991). Similarly,  the  so-
+called  P*  models  have  tried  to  modify  the  old  theory  (see,  for  instance, 
+Deutsche Bundesbank , 1992). Nevertheless,  the  main  problem  remains: 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 5 ---
+Berichte 279 
+'recurring  bouts  of  instability  in  money  demand' (Goldfeld  and Sichel, 
+1990, p. 349). As a  result,  most  researchers  have  abandoned  the  ambition 
+of finding  a  generally  applicable  measure  of  the  money  supply  or  a  gen-
+eral  explanation  of  the  anomaly.  In  the  UK  and  the  US,  policy  makers 
+have shifted  monetary  targeting  until  finally  giving  it  up  altogether. 1 
+Today, virtually  all  central  banks  monitor  various  deposit  aggregates  and 
+make ad  hoc judgements.  Given  this  state  of  affairs  concerning  a  central 
+tenet of  macro-economics,  many  researchers  have  called  for  'an  alterna-
+tive  paradigm'  (Spindt, 1987; also Judd  and  Scadding, 1982; Gordon , 
+1984; Roley,  1985). 2 
+2. The  anomaly of  asset price  bubbles 
+Another  important  'anomaly'  is  the  occurrence  of  significant  rises  of 
+asset prices  in  several  countries  during  the 1980s. Often  this  has  been 
+referred  to  as  asset price  inflation  or  financial  'bubbles'  (see  Muellbauer 
+and Murphy, 1989, and Muellbauer, 1992, on the  UK,  Ministry  of 
+Finance, 1993, on Japan  and  Shigemi, 1995, for  an  overview  of  selected 
+countries).  The  Japanese  case is  particularly  rich  in  evidence,  as  during 
+the 1980s Japan witnessed  what  must  rank  as  the  biggest  financial 
+'bubble'  on  record.  Stock  and  land  prices  rose  rapidly.  According  to  the 
+National  Land  Agency (1990), the consumer  price  index  rose  by  less than 
+500% between 1955 and 1989. Land  prices,  however,  increased  by  more 
+than 5000% over the  same  period,  the  biggest  rises  taking  place  in  the 
+late 1980s. In 1989 it was  calculated  that  the  real  estate  value  of  Metro-
+politan  Tokyo  exceeded  the  real  estate  value  of  the  entire  United  States 
+of America.  Land  accounted  for 70% of Japan's  total  net  worth,  while  it 
+made up  less  than 25 % of US  net  worth.  Noguchi (1990) argued  that  in 
+the 1980s land  prices  were  detached  from  their  theoretical  net  present 
+value. Asako (1991) found  that  the  Japanese  land  price  'bubble'  was  too 
+large to  qualify  as  'rational  bubble'.  Japanese  asset prices  have  therefore 
+remained  unexplained  by  economic  fundamentals (French  and  Poterba, 
+1991). Some observers  {Werner,  1991, 1993,  1994) had however  begun  to 
+point  out  the  importance  of  bank  behaviour  and  credit  creation  in  the 
+propagation  of  asset  bubbles.  This  is  disputed  by  others  {Hutchison, 
+1994). 
+ι The Federal  Reserve 'de-emphasised'  Ml  targeting  in 1982 and abandoned  for-
+mal targeting  altogether  in 1987 (see Board  of  Governors  of  the Federal  Reserve 
+System, 1988). 
+2 Leventakis  and  Brissimis (1991) call  for  a  new  approach  that  can  also  take 
+capital  flows  into  consideration. 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 6 ---
+280 Berichte 
+3. The  anomaly of  Japanese foreign  investment 
+The third  major  'anomaly'  of  monetary  economics  in  the 1980s con-
+cerns Japanese  capital  outflows,  which  in  the 1980s far  exceeded  the 
+record-high  current  account  surplus  and  rendered  Japan  the  biggest  ever 
+net long-term  capital  exporter.  This  dramatic  expansion  of  Japanese for-
+eign investment  was  followed  by  an  equally  dramatic  collapse:  In 1991, 
+Japanese net  capital  exports  suddenly  vanished  and  the  world's  largest 
+creditor  nation  turned  into  a  net  importer  of  capital,  despite  a  resurgent 
+current  account  surplus.  Although  these  extraordinary  developments 
+should  have  attracted  widespread  interest,  surprisingly  little  work  has 
+been done  on  Japanese  capital  flows. 3 The  few  existing  studies,  mainly 
+based on  interest  rate  differentials  and  exchange  rates,  have  not  been 
+very successful  empirically 4 - despite  the  fact  that  none  attempts  to 
+tackle  the  collapse  of  foreign  investment  in 1991. 
+The only  paper  that  successfully  explains  Japanese  capital  flows  in  the 
+1980s and early 1990s has done  so  by  moving  beyond  the  traditional 
+portfolio  models  by  incorporating,  more  or  less  ad  hoc,  a  variable  that 
+represents  the  Japanese asset price  bubble:  Werner  (1994) found  that  in  a 
+Kouri-Porter (1974) type model  of  capital  flows,  price  variables  had  little 
+explanatory  power,  while  land-related  credit  creation,  which  was  sus-
+pected to  be  fuelling  the  land  price  boom  in  Japan,  was  strongly  signifi-
+cant. However,  this  attempt  to  reconcile  traditional  models  with  reality 
+has done  so  only  with  great  difficulty:  the  key  variable  of  the  portfolio 
+model  is  not  a  price,  but  a  quantity.  Moreover,  this  quantity - land-
+related  credit - is not  a  private  sector  asset,  but  a  liability.  This  raises 
+questions  about  the  applicability  of  the  portfolio  model  approach  alto-
+gether, which  so  far  has  been  the  theoretical  underpinning  of  capital 
+flow  studies. 
+Werner's finding  resembles  another  'anomaly'  occurring  in  the 1960s, 
+when  enormous  US  capital  outflows  seemed  to  buy  up  large  parts  of 
+Europe - dubbed le défi  American  at the  time.  Some  observers  had 
+argued  that  US  capital  flows  might  be  due  to  excess  credit  creation  in 
+the US.  Charles  Kindleberger (1966) relayed  this  suspicion  as follows: 
+3 As in  other  studies  on  Japanese foreign  investment,  the  focus  is  on  long-term 
+capital  flows,  which  dominated  the  capital  account  and  seem  to  have  been  the 
+autonomous  force,  with  short-term  capital  flows  behaving  more  like  a  residual  in 
+order  to  balance  the  balance  of  payments  identity  between  the  capital  and  current 
+accounts. 
+4 Ueda's (1990) regression  has  a  disappointing  fit  and  is  not  subjected  to  the 
+standard  tests. 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 7 ---
+Berichte 281 
+A favourite  European  banking  view  is  that  the  capital  outflow  from  the  USA  is 
+the result  of  excessive  credit  creation  in  the  latter.  It  is  sometimes  said  that  the 
+USA exports  inflation,  although  it  is  not  explained  how  it  happens  that  the  USA 
+has lower  rates  of  increase  in  prices  and  money  supply  than  European  countries. 
+(In one  view,  the  USA  has  no  inflation  because  it  exported  it  to  Europe!) ... John 
+Exter of the  First  National  City  Bank  of  New  York  has  gone so far  as to say  that  a 
+dollar  in  credit  creation  is a dollar  of  capital  outflow  (p. 216). 
+However,  Kindleberger  dismissed  such  a  link,  so  that  it  was  never  put 
+to a  serious  econometric  test  or  embedded  in  a  theoretical  model. 
+III.  Towards  a new paradigm  of disaggregated Credit 
+Various  attempts  have  been  made to  amend  the  old  monetary  paradigm 
+by adding  ad  hoc assumptions  and  extensions  to  the  standard  framework 
+in order  to  account  for  the  three  'anomalies'.  However,  major  problems 
+remain.  Thus  a  new  general  approach  that  can  account  for  whatever  the 
+old framework  could  explain,  but  also  the  observed  anomalies  should 
+receive precedence  over  the  old  framework.  Below  an  attempt  is  made  at 
+presenting  such  an approach  in  its  most  basic  form. 
+1. 'Money'  is credit 
+The tradition  to  define M in (1) as a  deposit  aggregate  is  problematic 
+for  several  reasons: 
+(a) The  'quantity  theory  of  money'  argues  that  money  is  directly 
+related  to  nominal  income  or  output,  and  hence  to  prices.  However,  only 
+purchasing  power  that  is  actually  used  for  transactions  can  influence 
+nominal  income.  Therefore,  a  quantity  relationship  between  prices  or 
+GDP and  money  should  more  precisely  refer  to  that  part  of  the  money 
+supply  that  becomes  effective  purchasing  power.  Traditional  money 
+supply  measures,  such  as  Ml, M2 or M3 mainly  refer  to  money  that  is 
+deposited  with  banks.  At  any  moment  in  time,  this  is  merely  potential , 
+not effective  purchasing  power,  since  deposits  need  to  be  withdrawn 
+first.  Deposits  do  not  represent  spending  but  the  opposite,  namely  sav-
+ings. But  only  spending  can  be expected  to affect  GDP  directly  in (1). 
+(b) Defining  money  by  certain  private  sector  assets,  such  as  deposits, 
+leads to  the  theoretical  dilemma  that  is  not  clear  where  to  draw  the  line 
+among the  wide  spectrum  of  private  assets. Since  none  of  them  is  at  any 
+moment  in  time  directly  used  for  purchases,  but  merely  represents  poten-
+tial  purchasing  power,  there  is  no  a  priori  theoretical  reason  why  not 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 8 ---
+282 Berichte 
+increasingly  broader  definitions  of  private  sector  assets  should  be  used 
+to define  M.  Time  deposits,  CDs,  bonds  and  perhaps  even  real  estate 
+could  be  defined  as  money  in  this  view.  Any  chosen  monetary  aggregate 
+is then  susceptible  to  shifts  of  private  sector  assets into  or  out  of  its  defi-
+nition  domain.  This  would  suggest  increases  or  reductions  in  the  'money 
+supply',  without  any  macro-economic  change  in  the  amount  of  purchas-
+ing power  or  transactions  in  the  economy. 5 Consequently,  the  large  litera-
+ture  on  the  definition  of  the  money  supply  had  to  remain  arbitrary  and 
+inconclusive. 
+(c) Early  writers  such  as Hume (1752), Say (1803) and Newcomb (1885) 
+that  firmly  established  the  idea  of  the  'quantity  theory'  were  mainly 
+thinking  about  an  economy  using  commodity  money,  such  as  gold,  as 
+medium  of  exchange.  The  role  of  banks  was  both  smaller  and  less  well 
+understood  than  it  is  today.  The  redefinition  of M as bank  deposits  has 
+been justified  since  Phillips (1920) by the  assumption  of  a  stable  link 
+between  deposits  and  the  monetary  base,  the  familiar  money  multiplier, 
+which  seems to  render  unnecessary  the  explicit  modelling  of  the  role  of 
+banks. 
+However,  since  the  treatment  of  informational  imperfections  in  the 
+credit  market  by Stiglitz  and Weiss  (1981), this  view  has  increasingly 
+been challenged  by  the  'credit  school'.  A  wealth  of  empirical  evidence 
+has been  supportive  of  the  credit  view. 6 Yet,  the  tendency  of  modern 
+macro-economics  to  start  with  the  'micro-foundations'  has  hindered  even 
+the credit  literature:  On  the  micro-level,  each  bank  appears  to  be  taking 
+in deposits  and  then  giving  the  money  out  as  loans.  'Credit  view' 
+research thus  treats  banks  merely  as  'financial  intermediaries'.  However, 
+for  the  whole  economy  the  causation  is  in  reverse:  banks  create  new  pur-
+chasing  power  by  the  extension  of  loans.  Thus  the  literature  has  so  far 
+focused on  micro-economic  models  and  has neglected  the  implications  of 
+the credit  view  on  macro-economic  relationships,  such  as the  equation  of 
+exchange (1). 
+This paper  proposes  that  the  problems  of  the  traditional  approach  can 
+be solved  by  changing  the  focus  from  deposit  aggregates  to  measures  of 
+5 In Japan,  for  instance,  the  traditional  deposit  measure  M2  + CD does  not 
+include  private  deposits  with  the  postal  savings  system.  Any  shift  of  private 
+deposits from  banks  to  postal  savings  accounts  has  therefore  tended  to  slow  the 
+growth  of  the  'money  supply'  defined  by  M2  + CD and  any  reverse  shift  suggested 
+faster  'money  supply'  growth - when in  actual  fact  neither  effective  purchasing 
+power, nor  economic  transactions,  nor  GDP  was  affected. 
+6 See Gertler (1988), Goodhart (1989), Jaffee  and Stiglitz  (1990) and Allsopp  and 
+Mayer (1994) for  a  survey. 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 9 ---
+Berichte 283 
+credit creation. 7 Using total bank credit as the  measure  of  the  'money 
+supply' M in equation (1) has the  advantage  that  (a)  credit  always  repre-
+sents effective  purchasing  power,  as  no  borrower  will  take  out  a  loan  if 
+there is  no  plan  to  use  the  money  for  transactions;  (b)  it  becomes  possi-
+ble to  define  effective  purchasing  power  clearly - namely  not  bank  liabil-
+ities,  but  bank  assets or  private  sector  liabilities  to  the  bank  sector;  and 
+(c) credit  aggregates  are  available  by  economic  sector  and  hence  provide 
+us with  additional  information  about  the  direction  of  purchasing  power -
+something  deposit  aggregates  cannot  tell  us. 
+2. A Dichotomous  Equation  of  Exchange 
+Another  fundamental  flaw  of  the  traditional  approach  has  been  that 
+equation (1) assumes that  money M is spent  on  transactions  involving 
+goods and  services  only,  represented  by  Y.  Clearly,  this  is  doubtful. 
+Events of  the 1980s - booming  financial  markets  and  rising  asset prices -
+are suggestive  of  the  hypothesis  that,  increasingly,  private  sector  pur-
+chasing  power  had  been  used for  financial  transactions  that  had  a  bigger 
+impact  on  asset prices  than  on  GDP  growth. 
+Fisher  and  Keynes  felt  similarly  about  the  experience  of  the 1920s. 
+Keynes (1930) suggested to  divide  deposit-money  flows  into  those  enter-
+ing the  'industrial'  circulation  and  those  being  employed  in  the  'finan-
+cial'  circulation.  This  division,  however,  was  practically  impossible,  since 
+deposits do  not  give  any  indication  about  the  use  to  which  money  is  put 
+in the  economy.  However,  adopting  the  credit  view,  and  defining M in (1) 
+as total  credit,  such  a  distinction  becomes  possible,  because  data  on  the 
+direction  of  loans  by  sector  are  available  in  most  countries.  By  institu-
+tional  analysis  and  the  use  of  such  disaggregated  credit  data  it  can  be 
+determined,  at  least  approximately,  what  share  of  purchasing  power  is 
+primarily  spent  on  'real'  transactions  that  are  part  of  GDP  and  what  part 
+is primarily  used  for  financial  transactions. 
+7 Proponents  of  the  deposit  view  sometimes  argue  that  it  should  not  matter, 
+whether  deposits  or  loans  are  being  analysed,  as both  tend  to  be  equal  in  the  long 
+run.  Due  to  the  problem  of  defining  deposit  money,  this  is  often  not  true.  Werner 
+(1996b) has  shown  that  in  the  Japanese case, a broad  credit  measure  and  M2  + CD, 
+the traditional  deposit  measure,  diverged  greatly  in  the 1990s. While  significant 
+growth  of  M2  + CD seemed  to  suggest  an  economic  recovery  in 1995, the credit 
+aggregate suggested  a  contraction  of  nominal  GDP  growth - for  the  first  time 
+since 1931. The latter  is  what  happened.  Conversely,  while  M2  + CD growth 
+remained  stable  from  mid- 1995, the credit  aggregate  suggested  a sudden  economic 
+recovery  from  the  fourth  quarter  of 1995, which  again  materialised. 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 10 ---
+284 Berichte 
+While  a  more  complex  disaggregation  is  possible,  here  the  first  basic 
+step of  a dichotomous  credit-money  circulation  is  undertaken: 
+C represents  loans  by  deposit-taking  financial  institutions.  C R is 
+credit-money  used  for  'real  transactions'  that  are  part  of  GDP,  such  as 
+investment  or  consumption,  and  C F is  credit-money  used  for  financial 
+transactions,  such  as  speculative  real  estate  purchases,  which  are  not 
+part  of  GDP. With  this  distinction  the  classical  quantity  theory  of  money 
+can now  be  reformulated  in  a  more  precise  way.  For  the  'real  economy' 
+we obtain  the  following  equation  of  exchange: 
+With  a  stable  'real'  velocity  of  credit-money,  V R, the stock  of  credit-
+money that  enters  the  real  circulation  determines  the  nominal  value  of 
+goods and  services.  However,  credit-money  may  also  be  used  to  purchase 
+financial  or  real  estate  assets,  without  directly  entering  the  investment-
+wage-consumption  cycle  of  the  real  economy  for  a  significant  length  of 
+time.  Initially  making  the  simplistic  assumption  that  asset  price  adjust-
+ment takes  the  same  form  as  goods price  adjustment,  a  tentative  formu-
+lation  of  the  financial  circulation  (which  abstracts  from  other  factors) 
+may be: 
+(4) C fV f  =  P fA 
+With  a  stable  'financial'  velocity  of  credit-money,  the  stock  of  credit-
+money that  enters  the  'financial'  circulation  determines  the  nominal 
+value  of  assets, P F χ A. 
+When credit  creation  is increasingly  channelled  into  the  financial  circu-
+lation,  total  C  in (2) rises, while  P R may  not  be  affected  by much.  But  P F 
+would  be  pushed  up  according  to  equation (4). In other  words,  in  times 
+when  banks  lend  heavily  for  speculative  purposes,  such  as  the  margin 
+lending  of  the 1920s in the  US  or  the  property  lending  of  the 1980s in 
+Scandinavia  and  Japan,  asset  price  inflation  is  likely  to  occur,  although 
+consumer prices  may  hardly  rise. 8 In  a  world  of  perfectly  competitive 
+(2) c = C R +  C F 
+(3) c*  V R = PR Y 
+3. Financial  asset  bubbles 
+8 In the  UK  experience,  a  speculative  bubble  in  the  housing  market  was  trig-
+gered by  competition  among  banks  to  extend  mortgages  to  individuals.  The  share 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 11 ---
+Berichte 285 
+financial  markets,  symmetric  information  and  perfect  foresight,  this 
+would  not  happen.  However,  in  a  world  similar  to  the  one  we live  in,  this 
+is easily  possible:  Banks  tend  to  extend  loans  with  real  or  financial  assets 
+as collateral.  Ceteris  paribus,  if  more  purchasing  power  is  newly  created 
+that  is  used  for  real  estate  transactions  (i.e.  C F rises),  land  prices  (a  large 
+part  of  P F) rise.  Thus  the  appearance  of  asset  price  bubbles  is  not  an 
+'anomaly',  but  a  result  that  is  to  be expected,  if  C F rises  significantly. 
+The process  that  can  trigger  such  asset price  bubbles  deserves  consid-
+eration.  Banks  engage  in  asset  collateralisation,  because  each  bank 
+assumes it  cannot  influence  the  price  level  of  the  collateral  asset.  How-
+ever, if  a  large  proportion  of  a  country's  banks  engage  in  increased  real 
+estate-related  lending,  real  estate  prices  will  be  pushed  up  according  to 
+(4). Due to  the  fallacy  of  composition - individual  banks  take  land  prices 
+as given,  while  in  effect  all  banks  together  influence  land  prices - there 
+is an  externality  in  the  banks'  behaviour.  Land  prices,  although  driven 
+up by  the  collective  behaviour  of  banks,  are  seen  as  good  reason  to 
+extend  further  land-related  loans  by  individual  banks.  A  land  'bubble'  is 
+the result.  The  process  is  triggered  by  changed  bank  behaviour:  When  a 
+shock renders  banks  keen  to  expand  their  loan  books,  they  can  do  so by 
+focusing  on  collateralised  loans.  As  banks  raise  the  loan/valuation  ratios 
+(see Muellbauer ; 1992, on the  UK),  credit  constraints  are  alleviated,  col-
+lateral  prices  pushed  up  and  speculative  borrowing  demand  rises.  This 
+represents  a  kind  of  'Say's  law  of  credit':  credit  supply  creates  its 
+demand via  appreciating  collateral  values. 
+In the  UK  and  Scandinavian  countries  changed  bank  behaviour  seems 
+to have  been  triggered  by  deregulation  of  banking  controls  and  heigh-
+tened competition  between  banks  for  market  share.  It  may  be  equally 
+due to  regulation,  however  as  in  Japan.  Moreover,  historic  experience 
+suggests that  asset price  'bubbles'  can  be created  using  any  kind  of  asset 
+class as  preferred  collateral.  In  the 1980s, banks focused  on  real  estate 
+collateralisation.  In  the 1920s in the  US,  they  engaged  in  margin  lending, 
+using  stocks  as  collateral.  The  outcome  is  the  same:  the  price  of  the 
+collateralised  asset is driven  up,  which  facilitates  further  loan  growth. 
+of mortgage  loans  out  of  total  loans  rose  sixfold  from 1980 to 1984 alone (Dr ay son, 
+1985). In terms  of  our  model,  excess credit  creation  entered  not  only  the  financial, 
+but  also  the  real  circulation,  as  speculators  were  mainly  individuals,  not  firms  (as 
+in the  case  of  Scandinavia  and  Japan  in  the 1980s). Their  increased  purchasing 
+power  reduced  savings,  boosted  consumption  and  by  entering  the  real  circulation 
+pushed  up  consumer  prices.  It  also  produced  a  balance  of  payments  deficit,  as  the 
+domestic economy  was  not  able  to  satisfy  the  increased  demand  produced  by 
+excess credit  creation. 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 12 ---
+286 Berichte 
+4. The  velocity 'anomaly ' 
+In our  framework  it  is  also  not  surprising  that  researchers  reported 
+velocity  declines  in  those  countries  where  asset  bubbles  occurred, 
+because both  phenomena  are  due  to  a  disproportionate  rise  in  C F. This 
+can easily  be  seen  when  comparing  the  traditional  'quantity  theory  of 
+money' velocity  from (1) with  our  disaggregated  credit  velocity,  given  by: 
+(5) ν = V R + V F = constant 
+(5') y = PrY/Cr  + P FA/C F = constant 
+Even if  the  real  velocity  V R remained  constant  over  the 1980s, the velo-
+city  of  the  traditional  quantity  theory  of  money,  here  called  V M, would 
+give the  erroneous  impression  that  overall  velocity  has  declined,  since  it 
+is defined  as: 
+(6) V m =  PrY/M. 
+With  the  broad  money  supply M approximately  equalling  the  total 
+credit  aggregate  C,  redefine (6) as: 
+(6') V' m=PrY/C 
+and compare  it  with  the  real  velocity  V R : 
+(5.1) V* = PrY/CR. 
+Keeping (2) in mind,  it  is  clear  that  V' M will  fall  as C F rises  faster  than 
+CR and  income.  However,  real  velocity  V R need  not  decline.  The  observed 
+decline  is  merely  due  to  the  mis-specification  of (1), which  neglects 
+financial  transactions.  The  framework  of  disaggregated  credit  therefore 
+also explains  the  velocity  'anomaly'. 
+5. Open Economy  Extension 
+The basic model  of  disaggregated  credit  can  be extended  for  open  econo-
+mies to  take  account  of  international  capital  flows.  Foreign  assets consti-
+tute  one component  of  a diversified  asset portfolio.  Since  the  real  circula-
+tion  is confined  to the  domestic  real  economy, funds  for  net foreign  invest-
+ment (both  'direct'  and  'portfolio'  investment 9) derive  from  the  financial 
+circulation.  Similarly  to  the  'diffusion  of  specie'  of  classical  writers,  in  a 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 13 ---
+Berichte 287 
+world  with  high  capital  mobility,  increased  C F is  unlikely  to  remain 
+restricted  to  domestic  financial  transactions,  but  is  likely  to  increase  for-
+eign investment  as  well.  In  the  pure  case net capital  outflows  are  directly 
+proportional  to excess credit  creation  entering  the financial  circulation: 
+(7) AF = kAC F 
+This framework  provides  a  theoretical  explanation  of  the  'anomaly'  of 
+Japanese capital  flows  in  the 1980s and early 1990s: with  the  rise  of 
+credit  creation  in  financial  circulation,  capital  would  be  expected  to  flow 
+out of  Japan,  irrespective  of  interest  rate  and  exchange  rate  movements. 
+It would  also  support  the 1960s' suspicion  about  US  capital  flows.  It  is 
+also in  line  with  earlier  critique  of  the  prevailing  capital  flow  models 
+that  place  undue  emphasis  on  stock  adjustment  and  interest  differentials, 
+thus neglecting  the  importance  of  flow  adjustment  and  overall  portfolio 
+growth  (see Willett  and Forte , 1969; Floyd , 1969; Niehans, 1984; Werner, 
+1994). 10 Moreover,  it  is  in  line  with  the  finding  by  Werner  (1994). 
+IV. Explaining  the Japanese 'anomalies' empirically 
+1. The  Illusion  of  a Velocity  Decline  in  the 1980s 
+Using  the  traditional  definition  of  the  velocity  from (1) and (6), with 
+PR Y  represented  by  nominal  GDP  and  adopting  the  accepted  practice  of 
+defining M as the  broad  deposit  aggregate  M2  + CD (see,  for  instance, 
+Bank of  Japan, 1988), we obtain  the  velocity  curve  shown  in  Figure 1 for 
+the time  period 1970 to 1996. As can  be  seen, velocity  declined  signifi-
+cantly,  especially  in  the  decade  of  the 1980s. This confirms  the  'anomaly' 
+of traditional  monetary  theory.  According  to  our  disaggregated  frame-
+9 Ruffin  and Rassekh (1986) discuss why  in  an  international  macro-economic 
+model, portfolio  and  'direct'  foreign  investment  should  be considered  in  aggregate, 
+rather  than  individually.  They  provide  empirical  evidence  for  the  substitutability 
+of both  forms  of  long-term  investment  for  the  US  case.  Werner  (1994) provides 
+explicit  empirical  evidence  in  support  of  the  substitutability  hypothesis  in  the 
+case of 1980s' Japan. 
+10 Excess credit  creation  in  the  financial  circulation  expands  the  total  national 
+financial  portfolio.  In  this  case  even  with  an  unchanged  share  of  foreign  assets, 
+one would  expect  credit  creation  to  result  in  capital  outflows.  In  the  words  of 
+Willett  and Forte (1969), p. 247: "Thus  as  portfolios  grow  over  time,  the  absolute 
+amount  of  capital  placed  abroad  would  increase  even  though  relative  interest 
+incentives  remained  the  same". Thé open economy  model  could  also  be interpreted 
+as a  credit-economy  version  of  the  monetary  approach  to  capital  flows  (see  IMF, 
+1977; Gordon, 1977; Polak  and  Argy,  1977). 
+19 Kredit  und  Kapital  2/1997 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 14 ---
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 15 ---
+Berichte 289 
+work,  this  is  to  be  expected.  The  first  test  of  the  new  approach  is  there-
+fore to  see whether  the  velocity  of  the  real  circulation,  V Rl is  also  declin-
+ing, or  whether  it  is  constant.  Since  institutional  analysis  is  used  to iden-
+tify  the  proxies  for  C R and  C F, this  also  constitutes  a  test of  the  suitabil-
+ity  of  the  chosen  proxies. 
+We use  Bank  of  Japan  quarterly  sectoral  bank  loan  data  to  measure 
+CR, which  is  defined  from (2) as C R = C - CF. We  therefore  only  need  to 
+identify  C F, which  are  those  asset  collateralising  bank  loans  that  have 
+been used  for  speculative  asset  transactions.  As  has  been  found  earlier 
+(Nikkei  Koshasai  Joho, 1991; Werner,  1991), loans to  the  real  estate 
+sector, construction  firms  and  non-bank  financial  institutions  (which 
+mainly  served  as conduit  for  real  estate  loans)  represent  such  speculative 
+credit  creation  that  was  used  for  real  estate  transactions.  Using  these fig-
+ures, we  calculate  the  velocity  V' M of  equation (6') which  corresponds  to 
+the traditional  velocity  definition.  Figure 2 shows that  V' M declined  as 
+expected,  showing  a  strong  negative  trend.  It  can  be  seen that  the  velo-
+city  of  the  real  circulation  V R, i.e.  the  correctly  defined  velocity  of  equa-
+tion (5.1), remained  remarkably  stable - and in  fact  stayed  precisely  con-
+stant for  the  time  period 1982 (1) to 1991 (1), during  the  time  of  the 
+financial  'bubble'.  Testing  for  the  time  trend  (Table 1), we can  see that 
+V' M has a strong  and  significant  negative  trend,  while  V R has virtually  no 
+time  trend  at  all.  This  supports  the  proposed  framework  of  a  dichoto-
+mous credit  circulation  and  indicates  that  the  proxies  used  represent  C F 
+and C R fairly  accurately. 
+It may  be  concluded  that  the  alleged  velocity  decline  did  not  occur  in 
+Japan:  It  was  merely  due  to  the  misleading  definition  of  the  velocity, 
+based on  the  traditional  'quantity  theory  of  money',  which  neglects  the 
+possibility  of  a  rise  in  'money'  used  for  financial  transactions.  The  real 
+circulation  velocity  did  in  fact  not  decline. 
+Since V R is  on  average  constant,  equation (3) holds and  C R should  be 
+closely correlated  with  national  income  or  GDP.  In  Figure 3 we plot  the 
+growth  of  nominal  GDP  (the  real  economy)  against  the  growth  of  the  real 
+credit  circulation,  C R. As  can  be  seen,  once  we  have  filtered  out  credit 
+for  financial  transactions  C F, we  find  a  stable  one-to-one  relationship 
+between  that  'money'  (i.e.  credit  C R) that  enters  the  real  economy  and 
+the tangible  economy.  To  test (3) explicitly,  we  take  differences  (the 
+entire  model  is  kept  in  differences,  because (a) breaks  in  the  credit  series 
+can only  accurately  be  adjusted  when  in  differences,  (b)  capital  flows  in 
+equation (7) are a flow  variable  on  which  accurate  levels  are  unavailable, 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 31 ---
+Berichte 305 
+2. Policy  implications 
+The results  imply  for  policy  makers  that  it  is  imperative  to  monitor  the 
+allocation  of  credit  and  intervene,  if  credit  creation  for  unproductive, 
+especially  speculative  purposes  takes  place  to  a  significant  degree.  Once 
+an asset bubble  has  occurred,  excess  credit  creation  must  turn  into  bad 
+debt that  tends  to  cripple  the  banking  system  and  create  a  credit 
+crunch. 15 The  extent  of  the  problem  and  the  degree  of  fragility  of  the 
+Japanese banking  system  can  be  judged  from  Figure 2, indicating  the 
+large share  of  speculative  loans  in  banks'  portfolios.  In  this  situation,  a 
+long,  drawn-out  recession  is  likely,  as  reduced  credit  in  real  circulation 
+tends to  reduce  real  economic  activity - in line  with  equation (3) above. 
+In this  case,  the  central  bank  can  stimulate  demand  by  simply  creating 
+more money,  as  was  argued  by  Werner  (1994b).  After  a  long  delay  and 
+the longest  recession  in  Japan  since  the 1930s, the Bank  of  Japan  finally 
+adopted  this  policy  in  April 1995, which  produced  a  sudden,  significant 
+recovery  half  a  year later. 
+Our findings  suggest  that  central  bank  targeting  of  credit  aggregates  is 
+likely  to  be  more  successful  than  traditional  monetary  or  interest  rate 
+targeting.  They  also  call  for  comprehensive  disclosure  by  central  banks 
+of timely  and  detailed  credit  data. 
+3. Further  Research 
+The success  of  the  proposed  simple  framework  in  accounting  for  the 
+major  anomalies  that  the  traditional  approach  has  not  been  able  to 
+explain  is  an  indication  that  further  research  into  a  more  complex  disag-
+gregation  of  credit  may  prove  fruitful.  Since  in  this  paper  credit  aggre-
+gates were  taken  as  given,  further  research  should  also  explicitly  model 
+the bank  behaviour  and  bank  supervision  that  gave  rise  to  those  credit 
+aggregates. Finally,  our  approach  casts doubt  on  the  wide-spread  empha-
+sis of  traditional  economic  theory  on  prices - mainly  interest  rates.  We 
+found  that  key  economic  variables,  namely  nominal  GDP,  asset  prices 
+and Japanese  foreign  investment,  could  be  explained  single-handedly 
+with  quantity  variables - the quantity  of  disaggregated  credit - while 
+interest  rates  and  exchange  rates  dropped  out  in  parsimonious  reduc-
+tions  as insignificant. 
+is See  Werner  (1991) for  an  early  warning  of  the  impending  Japanese  banking 
+crisis  and  recession.  See Werner  (1996) for  empirical  support  of  the  argument  that 
+there has been a credit  crunch  in  Japan  in  the 1990s. 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 32 ---
+306 Berichte 
+In conclusion,  a  new,  more  general  approach  has  been  suggested  that 
+encompasses the  traditional  approach  by  rendering  it  merely  a  special 
+case. The  framework  for  the  growth  of  scientific  knowledge  proposed  by 
+Kuhn and Lakatos suggests a  paradigm  shift  in  this  case.  This  opens  a 
+whole  new  avenue  of  promising  work  in  the  new  research  programme  of 
+the macro-economic  role  of  credit. 
+References 
+Allsopp,  Christopher  and  Colin  Mayer  (eds.) (1994), 'Money  and  Banking', 
+Oxford  Reviews  of  Economic  Policy,  Vol. 10, No. 4 (Winter). - Asako, K. (1991), 
+'The land  price  bubble  Japan', Ricerche  Economiche, XLV, 2-3, pp. 451 -468.  -
+Backhouse,  Roger (1985), A History  of  Modern  Economic  Analysis,  Basil  Black-
+well:  Oxford. - Bank of  England (1996), Inflation  Report,  Summer  quarter. - Bank 
+of  Japan (1988), On  the  recent  behaviour  of  the  money  supply',  Monthly  Review, 
+(in Japanese). - Board  of  Governors  of  the Federal  Reserve  System (1988), Federal 
+Reserve Bulletin,  pp. 419-29.  -  Boughton, James  M. (1991), 'Long-run  money 
+demand in  large  industrial  countries',  IMF  Staff  Papers,  Vol. 38, No. 1 (March), 
+pp. 1-32.  -  Deutsche Bundesbank (1992), Monthly  Report,  Vol. 44, No. 8, 
+(August). - Drayson,  Stephen  J. (1985), 'The housing  finance  market:  recent 
+growth  in  perspective',  Bank  of  England  Quarterly  Bulletin,  vol. 25, no. 1, pp. 80 -
+91. - Floyd,  John  E. (1969), 'International  capital  movements  and  monetary  equi-
+librium',  American  Economic  Review,  (September). - French,  Kenneth  R.  and 
+James M.  Poterba (1991), 'Were Japanese stock  prices  too  high?',  Journal  of  Finan-
+cial  Economics, 29, pp. 337 - 363. - Fisher,  Irving (1911), The Purchasing  Power  of 
+Money, New  York. - Gertler,  Mark (1988), 'Financial  structure  and  aggregate  eco-
+nomic  activity:  An  overview',  Journal  of  Money, Credit,  and  Banking,  Vol. 20, No. 3 
+(August). - Goldfeld,  Stephen  M.  and  Daniel  E. Sichel  (1990), 'The Demand  for 
+Money',  in: B. M. Friedman  and F. H. Hahn (eds.), Handbook  of  Monetary  Eco-
+nomics,  Vol.  I, Elsevier  Science  Publishers, 1990, pp. 300 - 356. - Goodhart, C. A. E. 
+(1989), 'The conduct  of  monetary  policy',  Economic  Journal,  vol. 99, (June), 
+pp. 293 - 346. - Gordon,  R. J. (1984), 'The short-run  demand  for  money',  Journal  of 
+Money, Credit  and  Banking,  vol. 16, pp. 403 - 434. - Hendry,  David  F. (1979), 'Pre-
+dictive  failure  and  econometric  modelling  in  macroeconomics:  the  transactions 
+demand for  money',  in  R.  Ormerod (ed.), Modelling  the  Economy, Heinemann.  -
+Hendry,  David  F. and G. E. Mizon (1978), 'Serial  correlation  as  a convenient  sim-
+plification,  not  a  nuisance:  A  comment',  Economic  Journal,  vol. 88, pp. 549 - 563. -
+Hume, David (1752), in Hume's  Writings  on  Economics,  E. Rotwein  (ed.), 1955, 
+Edinburgh. - Hutchison,  Michael  M. (1994), 'Asset price  fluctuations  in  Japan: 
+What  role  for  monetary  policy?',  BoJ  Monetary  and  Economic  Studies,  vol. 12, 
+no. 2 (December). - Ito, Takatoshi  and  Tokuo  Iwaisako (1996), 'Explaining  asset 
+bubbles  in  Japan',  BoJ  Monetary  and  Economic  Studies,  Vol. 14, No. 1, (July). -
+Jaffee,  Dwight  and  Joseph Stiglitz  (1990), 'Credit  Rationing',  in: B. M. Friedman 
+and F. H. Hahn (eds.), Handbook  of  Monetary  Economics,  Vol.  II,  Elsevier  Science 
+Publishers Β. V., pp. 1838 - 888. - Judd,  J. P. and J. L.  Scadding (1982), 'The search 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 33 ---
+Berichte 307 
+for  a  stable  money  demand  function:  A  survey  of  the  post- 1973 literature',  Journal 
+of Economic  Literature,  vol. 20, pp. 993 - 1023. - Keynes,  John Maynard (1930), A 
+Treatise  on  Money,  Vol. 1, Macmillan, London. - Kindleberger,  Charles  P. (1966), 
+'Capital  movements  and  international  payments  adjustment', Konjunktur,  Zeit-
+schrift  für  angewandte  Konjunkturforschung,  vol.  12,  pt.  1,  10-27; reprinted in 
+Charles P.  Kindleberger  (1981), International Money - A Collection  of  Essays, 
+pp. 209 -224.  -  Kouri,  Pentti  J.  K.  and  Porter,  Michael  G. (1974), 'International 
+capital  flows  and  portfolio  equilibrium',  Journal  of  Political  Economy,  vol. 82, 
+May/June,  pp. 443 - 67. -  Kuhn,  Thomas S. (1962), The Structure  of  Scientific 
+Revolutions, 2nd edn., 1970. Chicago:  Chicago  University  Press. - Lakatos,  I. 
+(1970), Falsification  and  the  methodology  of  scientific  research  programmes.  In: 
+Lakatos,  I. and  Musgrave,  A.  (eds.) (1970), Criticism  and  the  Growth  of  Knowl-
+edge, Cambridge,  Cambridge  University  Press. - Leventakis,  John  A.  and  Sopho-
+cles N.  Brissimis (1991), Instability  of  the  US  money  demand  function',  Journal  of 
+Economic  Surveys,  Vol. 2, pp. 131 - 161. - Ministry  of  Finance (1993), The mechan-
+ism and  economic  effects  of  asset  price  fluctuations,  A  report  of  the  Research 
+Committee,  Institute  of  Fiscal  and  Monetary  Policy,  Tokyo  (April). - Muellbauer, 
+John and  A.  Murphy (1989), 'Why  has  the  UK  savings  rate  collapsed?',  mimeo, 
+Credit  Suisse  First  Boston,  July. - Muellbauer,  John (1992), 'Anglo-German  differ-
+ences in  housing  market  dynamics',  European  Economic  Review,  vol. 36, nos. 2/3, 
+April,  pp. 539 - 548. -  National  Land  Agency (1990), Tochihakusho,  Japan  (in 
+Japanese). - Newcomb,  S. (1885), Principles  of  Political  Economy. - Niehans,  J. 
+(1984), International  Monetary  Economics,  Johns  Hopkins  University  Press,  Balti-
+more. - Nikkei  Koshasai  Joho (1991), 'Nonbank  kenkyukai  jokokusho - sanko set-
+sumei shiryo',  Nihon  Koshasai  Kenkyujo,  No. 772. -  Noguchi,  Yukio (1990), 
+'Japan's land  problem',  Japanese  Economic  Studies,  (Summer). - Roley,  V. (1985), 
+'Money  demand  predictability',  Journal  of  Money,  Credit  and  Banking,  vol. 17, 
+pp. 611-411.  -  Ruffin,  Roy J.  and  Farhad  Rassekh (1986), 'The role  of  foreign 
+direct  investment  in  US  capital  outflows',  American  Economic  Review,  pp. 1126-
+30. - Shibuya,  Hiroshi (1991), 'Dogakuteki  tsuka  kachi  no  antei  to  kinyu  seisaku -
+kinri,  shisan  kakaku,  infre  shihyo',  mimeo,  Riron  Keizai  Gakkai  (Conference  of 
+the Japanese  Association  of  Economic  Theory). - Shigemi,  Yosuke (1995), 'Asset 
+inflation  in  selected  countries',  BoJ  Monetary  and  Economic  Studies,  Vol. 13, No. 2 
+(Dec.). - Spindt,  P.  A. (1987), 'On the  supply  of  the  demand  for  money',  Special 
+Studies  Paper,  No. 215, Board  of  Governors  of  the  Federal  Reserve  System, 
+Washington. - Stiglitz,  Joseph and  Andrew  Weiss  (1981), 'Credit  rationing  in  mar-
+kets with  imperfect  information',  American  Economic  Review,  vol. 71, 3, (June), 
+pp. 393 - 410. - Ueda,  Kazuo (1990), 'Japanese Capital  Outflows',  Journal  of  Bank-
+ing and  Finance,  vol. 14. -  Werner,  Richard  A. (1991), 'The Great  Yen  Illusion: 
+Japanese foreign  investment  and  the  role  of  land  related  credit  creation',  Oxford 
+Applied  Economics  Discussion  Papers,  No. 129, (December). - Werner,  Richard  A. 
+(1993), 'Towards  a  quantity  theorem  of  disaggregated  credit  and  international 
+capital  flows',  Paper  presented  at  the  Royal  Economic  Society  Annual  Conference 
+(April),  an  earlier  version  of  the  present  paper. - Werner,  Richard  A. (1994), 'Japa-
+nese foreign  investment  and  the  "land  bubble" ', Review of  International  Econo-
+mics, vol. 2, 2, (June), pp. 166 - 178. - Werner,  Richard  A.  (1994b),  Liquidity  Watch, 
+Jardine Fleming  Securities  Ltd.,  Tokyo  Branch,  (May). - Werner,  Richard  A. (1996), 
+'Has there  been  a  credit  crunch  in  Japan?',  paper  presented  at  the  Fifth  Conven-
+tion  of  the  East  Asian  Economic  Association,  Bangkok,  October 1996. -  Werner, 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 34 ---
+308 Berichte 
+Richard A. (1996b), 'Nichigin Manipulation', Ronso Toyokeizai,  Part  I  (July), 
+pp. 64-  73, (in  Japanese). -  Willett,  Thomas D.  and  Francesco  Forte  (1969), Inter-
+est rate  policy  and  external  balance',  The  Quarterly  Journal  of  Economics,  vol. 78, 
+pp. 242 - 262. 
+Summary 
+Towards a New Monetary  Paradigm:  A Quantity  Theorem 
+of Disaggregated Credit,  with  Evidence from  Japan 
+Three important  "anomalies"  that  have  occurred  in  the 1980s in several  coun-
+tries,  including  Scandinavia  and  Japan,  have  challenged  the  traditional  monetary 
+model: (1) the observed  velocity  decline  and  consequent  instability  of  the  money 
+demand  function; (2) significant  asset  price  rises,  often  referred  to  as  "bubbles" 
+and (3) enormous  capital  outflows  from  Japan  in  the 1980s and a sudden  reversal 
+in the  early 1990s. In this  paper,  a simple  model  is proposed  that  encompasses tra-
+ditional  theory  and  manages  to  explain  the  three  main  anomalies.  It  centres  on  a 
+"quantity  theory"  framework  of  credit-money  circulation,  which  is  disaggregated 
+into  "real"  and  financial  transactions.  Excess  credit  creation  in  the  "financial  cir-
+culation"  is  shown  to  be  responsible  for  asset  price  booms,  the  observed  velocity 
+decline  and,  in  an  open  economy  extension,  foreign  investment.  Empirical  evi-
+dence from  Japan  supports  the  model.  Implications  for  theory,  further  research 
+and policy  are  explored. 
+Zusammenfassung 
+Grundlagen eines neuen monetären Ansatzes: Die  Quantitätstheorie 
+des disaggregierten Kredits,  empirisch belegt am Beispiel Japans 
+In mehreren  Ländern,  einschließlich  Japans,  wurden  in  den  1980er  Jahren  drei 
+signifikante  „Anomalien"  beobachtet,  welche  den  traditionellen  monetären  Ansatz 
+in Frage  stellen:  1.  Der  scheinbare  Abfall  der  Geldumlaufgeschwindigkeit  und  die 
+sich daraus  ergebende  Instabilität  der  Geldnachfrage;  2.  ungewöhnlich  steile 
+Anstiege  von  Vermögenswerten,  oft  als „Bubble" oder Spekulationsblase  bezeich-
+net; und  3.  Kapitalausfuhren  von  Japan,  die  in  den  1980er  Jahren  historisch  große 
+Proportionen  annahmen,  aber  in  den  frühen  1990er  Jahren  plötzlich  zusammen-
+brachen.  In  diesem  Aufsatz  wird  ein  einfaches  Modell  vorgestellt,  das  die  traditio-
+nelle  Theorie  als  Spezialfall  beinhaltet  und  gleichzeitig  alle  drei  obigen  „Anoma-
+lien"  erklären  kann.  Es  basiert  auf  einer  „Quantitätstheorie"  der  Kreditgeldschöp-
+fung,  welche  in  „Finanzzirkulation"  und  „reale  Zirkulation"  disaggregiert  wird. 
+Es wird  gezeigt,  daß  überschüssige  Geldschöpfung  in  der  Finanzzirkulation  für 
+alle drei  „Anomalien"  verantwortlich  ist.  Das  Modell  wird  durch  empirische  Tests 
+am Beispiel  Japans  bestätigt.  Der  Aufsatz  schließt  mit  einer  Diskussion  der 
+Bedeutung  dieser  Resultate  für  monetäre  Theorie,  zukünftige  Forschung  und  Wirt-
+schaftspolitik. 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10
+
+--- Page 35 ---
+Berichte 309 
+Résumé 
+Vers un nouveau paradigme monétaire: La théorie  quantitative 
+du crédit désagrégé à l'exemple empirique  du  Japon 
+Trois «anomalies»  importantes  qui  se  sont  produites  dans  les  années 80 dans 
+plusieurs  pays,  y  compris  en  Scandinavie  et  au  Japon,  ont  remis  en  question  le 
+modèle monétaire  traditionnel: (1) un déclin  de  vitesse,  suivi  d'une  instabilité  de 
+la fonction  de  demande  monétaire, (2) des augmentations  importantes  des  prix  des 
+actifs - on fait  souvent  allusion  à  des «bulles» («bubbles») - et (3) d'énormes  sor-
+ties de  capitaux  du  Japon  dans  les  années 80 et un  revirement  soudain  au  début 
+des années 90. Dans cet  article,  on  propose  un  modèle  simple  qui  incorpore  la 
+théorie  traditionnelle  et  tente  d'expliquer  les  trois  anomalies  principales.  Il  se 
+centre sur  un  modèle  de  «théorie  quantitative»  de  la  circulation  de  la  monnaie-
+crédit  qui  est  désagrégée en  «transactions  réelles»  et financières.  Il  est  montré  que 
+la création  excessive  de  crédit  dans  la  «circulation  financière»  est  responsable  du 
+boum  des  prix  des  actifs,  du  déclin  de  vitesse  observé  et,  dans  une  économie 
+ouverte,  des  investissements  étrangers.  L'évidence  empirique  du  Japon  soutient  le 
+modèle. On  explore  dans  cet  article  les  implications  théoriques  et  politiques  ainsi 
+que celles  au  niveau  de la recherche. 
+OPEN ACCESS | Licensed under CC BY 4.0 | https://creativecommons.org/about/cclicenses/
+DOI https://doi.org/10.3790/ccm.30.2.276 | Generated on 2023-01-16 13:09:10

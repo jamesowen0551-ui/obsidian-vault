@@ -1,0 +1,1080 @@
+
+--- Page 1 ---
+ 
+ 
+  
+BIS Working Papers
+No 490 
+ 
+ Why does financial 
+sector growth crowd out 
+real economic growth?  
+by Stephen G Cecchetti and Enisse Kharroubi 
+ 
+Monetary and Economic Department 
+February 2015 
+   
+  JEL classification: D92, E22, E44, O4 
+Keywords: Growth, financial development, credit 
+booms, R&D intensity, financial dependence 
+
+--- Page 2 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIS Working Papers are written by members of the Monetary and Economic 
+Department of the Bank for International Settlements, and from time to time by 
+other economists, and are published by th e Bank. The papers are on subjects of 
+topical interest and are technical in char acter. The views expressed in them are 
+those of their authors and not necessarily the views of the BIS. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This publication is available on the BIS website (www.bis.org). 
+ 
+ 
+© Bank for International Settlements 2015. A ll rights reserved. Brief excerpts may be 
+reproduced or translated provided the source is stated. 
+ 
+ 
+ 
+ 
+ISSN 1020-0959 (print) 
+ISSN 1682-7678 (online) 
+
+--- Page 3 ---
+ 
+Financial sector growth and real growth 1
+ 
+ 
+Why does financial sector growth  
+crowd out real economic growth? 
+Stephen G Cecchetti and Enisse Kharroubi* 
+ 
+September 2014 
+ 
+ 
+Abstract 
+In this paper we examin e the negative relationsh ip between the rate of growth of the financial 
+sector and the rate of growth of total factor  productivity. We begi n by showing that by 
+disproportionately benefiting high collateral/low productivity projects, an exogenous increase in finance 
+reduces total factor productivity growth. Then, in a model with skilled workers and endogenous financial 
+sector growth, we establish the possibility of multip le equilibria. In the equilibrium where skilled labour 
+works in finance, the financial sect or grows more quickly at the expense of the real economy. We go on 
+to show that consistent with this theory, financial growth disproportionately harms financially dependent 
+and R&D-intensive industries. 
+Keywords: Growth, financial development, credit booms, R&D intensity, financial dependence 
+JEL classification: D92, E22, E44, O4 
+ 
+ 
+  
+ 
+*  Cecchetti is currently Professor of International Economics at  Brandeis International Business School and former Economic 
+Adviser and Head of Monetary an d Economic Department at the Bank for International Settlements (BIS). Kharroubi is Senior 
+Economist at the BIS. This paper was prepared for the joint In stitute for New Economic Thinking-Federal Reserve Bank of San 
+Francisco conference “Fin ance and the Welfare of Nations, ” held in San Francisco on 27 September 2013. We thank Claudio 
+Borio, Dietrich Domanski, Andy Filardo, Leonardo Gambacorta, Christian Upper and Fabrizio Zampolli for helpful discussions; 
+and Garry Tang for valuable research as sistance. The views expressed in this paper are those of the authors and not 
+necessarily those of the BIS. 
+
+--- Page 4 ---
+ 
+Financial sector growth and real growth 2
+ 
+ 
+1. Introduction 
+ In an earlier paper, we investigated how fina ncial development affects aggregate productivity 
+growth and concluded that the level of financial dev elopment is good only up to a point, after which it 
+becomes a drag on growth, and that a fast-growing  financial sector is detrimental to aggregate 
+productivity growth (Cecchetti and Kharroubi 2012). This second result is summarised in Graph 1, which 
+plots the five-year average GDP-per-worker growth on the vertical axis and the five-year average growth 
+in the financial sector’s share in total employment on the horizontal axis (b oth as deviations from their 
+country means).  
+Graph 1 
+Financial sector growth and productivity growth1 
+ 
+1 Graphical representation of titiyttifdttiy i ,,,5,,5,    for a sample of countries over the period 1980–2009, 
+where yi,t
+ 
+is the log of output per worker in country i in year t; yi,t+5,t is the average growth in output per worker in country i
+from time t to t+5; fdi,t+5,t is the average growth in financial intermediation employment share in country i from time t to t+5; 
+i is a vector of country dummies; and i,t is a residual. Country sample: Australia, Au stria, Belgium, Canada, Denmark, Finland,
+France, Germany, Ireland, Italy, Japan, Korea, the Netherlands, New Zealand, Norway, Portugal, Spain, Sweden, Switzerland, the 
+United Kingdom and the United States. 
+Sources: Cecchetti and Kharroubi (2012), Graph 5. 
+ 
+ As we show in the earlier paper, the result that  financial booms are a drag on growth is robust 
+to the inclusion of a wide variety of conditioning variables. 1 Moreover, the effects are economically 
+significant. For example, specifical ly, we establish that if, over the 2005 to 2009 period, Irish financial 
+ 
+1
+    This result holds in particular when the initial level of financial development – i.e. financial sector size – is controlled for. This 
+paper therefore stresses that the debate on finance and grow th should move from the relationship between the level of 
+finance development and growth (see Levine 1997, 2005 for deta iled surveys) to the relation ship between the growth of 
+finance and economic growth. 
+ 
+–0.04
+–0.02
+0.00
+0.02
+0.04
+–0.04 –0.02 0.00 0.02 0.04
+Five-year average real GDP-per-worker growth
+Five-year average financial intermediation employment growth
+(Deviation from country mean)
+(Deviation from country mean)
+
+--- Page 5 ---
+ 
+Financial sector growth and real growth 3
+ 
+ 
+sector employment had been flat  rather than growing 4.1% per year, it would have shaved 1.4 
+percentage points off of the –2.7% productivity decline. 
+ The purpose of this paper is to examine why financial sector growth harms real growth.  We 
+begin by constructing a model in which financial and real growth interact, and then turn to empirical 
+evidence. In our model, we first show  how an exogenous increase in fi nancial sector growth can reduce 
+total factor productivity growth. 2 This is a consequence of the fact that financial sector growth benefits 
+disproportionately high collateral/low productivity projects. This mechanism reflects the fact that periods 
+of high financial sector growth of ten coincide with the strong develop ment in sectors like construction, 
+where returns on projects are relatively easy to pledge as collateral but pr oductivity (growth) is relatively 
+low.  
+ Next, we introduce skilled workers who can be hir ed either by financiers to improve their ability 
+to lend, increasing financial sector growth, or by entrepreneurs to improve their returns (albeit at the 
+cost of lower pledgeability).3,4 We then show that when skilled worker s work in one sector it generates a 
+negative externality on the other sector. The extern ality works as follows: financiers who hire skilled 
+workers can lend more to entrepreneurs than thos e who do not. With more  abundant and cheaper 
+funding, entrepreneurs have an incentive to invest  in projects with higher pledgeability but lower 
+productivity, reducing their demand for skilled labour. Conversely, entrepreneurs who hire skilled 
+workers invest in high return/low pledgeability projects. As a result, financiers have no incentive to hire 
+skilled workers because the benefit in terms of increa sed ability to lend is limited since entrepreneurs’ 
+projects feature low pledgeability. 5 This negative externality can lead to multiple equilibria. In the 
+equilibrium where financiers employ the skilled workers,  so that the financial sector grows more rapidly, 
+total factor productivity growth is lower than it would be had agents coordinated on the equilibrium 
+where entrepreneurs attract the skilled labour. 6 Looking at welfare, we are able to show that, relative to 
+the social optimum, financial booms in which skilled labour work for the financial sector, are sub-optimal 
+when the bargaining power of financiers is sufficiently large. 
+ 
+2
+    Building on Pagano (1993), we model changes in financial sector growth as changes in financial transaction costs.  
+3
+    Goldin and Katz (2008) document the spectacular ascendan cy of finance amongst (male) Ha rvard graduates in the 1990s and 
+the 2000s. 
+4
+    See Philippon (2007) for a model where human capital is allo cated between entrepreneurial an d financial careers, and where 
+entrepreneurs can innovate but face borrowing constraints that fi nanciers can help to alleviate. Cahuc and Challe (2009) also 
+develop an analytical model focusing on the allocation of workers between financial intermediation and production sectors in 
+the presence of asset price bubbles. However, none of these papers is concerned with growth. 
+5
+    In the extreme case where the return to high productivity pr ojects is not pledgeable at all, there is then no benefit for f inanciers 
+to hire skilled workers since this would increase the ability to lend to entrepreneurs who are simply unable to borrow. 
+6
+    See Baumol (1990) and Murphy et al. (1991) for early contributions showing how the allocation of talent  may be inefficient in 
+the presence of rent seeking activities and the implications for growth. 
+
+--- Page 6 ---
+ 
+Financial sector growth and real growth 4
+ 
+ 
+ Turning to the empirical resu lts, we move beyond the aggregate results in Graph 1 and 
+examine industry-level data. Here we focus on manufacturing industries and find that industries that are 
+in competition for resources with finance are partic ularly damaged by financial booms. Specifically, we 
+find that manufacturing sectors th at are either R&D-intensive or dep endent on external finance suffer 
+disproportionate reductions in productivity growth  when finance booms. That is, we confirm the results 
+in the model: by draining resources from the real economy, financial sector growth becomes a drag on 
+real growth. 
+ The remainder of the paper is divided into fo ur parts, followed by a brief conclusion. In 
+Sections 2 and 3, we describe the model that guides our thinking about the relationship between growth 
+in the financial sector and growth in  the real sector. In the simpler model of Section 2, financial sector 
+growth is exogenous and we examine some comparative static s. The more complex model, in which 
+there is skilled labour and the growth rate of the financial system is endogenous, is developed in Section 
+3. This model exhibits multiple equilibria. We study those equilibria and examine their welfare ordering. 
+Then, in Section 4, we move to the empirical analysis. Building on the seminal paper by Rajan and 
+Zingales (1998), we study 33 manufacturing industries in 15 advanced economies. We find unambiguous 
+evidence for very large effects of financial booms on  industries that either have significant external 
+financing needs or are R&D-intensive. We report estimates that imply that a highly R&D-intensive 
+industry located in a country with a rapidly growing financial system will experience productivity growth 
+of something like 2 percentage points per year less than an industry that is not very R&D-intensive 
+located in a country with a slow-growing financial system. 
+2. The simple model 
+ To show how financial sector growth can become a drag on real growth we begin by 
+constructing a model with two grou ps of agents, financiers and entr epreneurs. Half the entrepreneurs 
+have access to high-productivity, while the other half  can only engage in low-productivity projects. But, 
+mirroring the real world where high-productivity proj ects are inherently riskier and more difficult to 
+finance, we assume that these entrepreneurs are less able to pledge their future returns as collateral to 
+potential financiers. That is, high-productivity projects  are less tangible than low productivity projects. 
+Furthermore, financiers face a cost of recovery in  the case a borrower defaults. When this cost of 
+recovery falls, financiers lend more, raising the growth rate of finance. But, this financial sector growth 
+favours the low productivity/high collateral sector, thereby reducing total factor productivity growth. 
+ The remainder of this section starts with th e general setup, before proceeding to derive the 
+quantity and price of borrowing, the resulting profits, and finally the growth rate of the economy. 
+
+--- Page 7 ---
+ 
+Financial sector growth and real growth 5
+ 
+ 
+2.1 The general framework, returns and pledgeability 
+ Consider a small open economy with a unit mass of agents. Half the agents are entrepreneurs 
+and the other half are financiers. Entrepreneurs and financiers each have an endowment at time t 
+labelled et and ft respectively. (We will ignore time subscripts before we get to the growth section.) 
+ Agents live for a single period with non-over lapping generations. At the beginning of each 
+period, entrepreneurs make borrowing decisions and financiers make lending decisions. At the end of 
+each period, entrepreneurs reap returns from investments and repay their loans. Financiers do the same. 
+Profits are then divided between cons umption and savings, with the la tter constituting the endowment 
+of the next generation at the beginning of the next period. 
+ At the beginning of each period, an equal numb er of entrepreneurs are assigned to one of two 
+types of projects, which we label a and b with gross return Ra>Rb>1. In addition to the projects differing 
+in their rates of return (type a greater than type b), they also vary based on the extent to which the 
+return can be pledged as collateral for a loan. But the return that can be pledged is less than 1. Denoting 
+the pledgeable return to type i projects i, we have i<1<Ri. Furthermore, we assume, realistically, that 
+the high-productivity projects are more difficult to pledge, A<B.7,8 
+ Turning to financiers, they ca n store their endowment from one period to the next, but obtain 
+no return. That is, storing one unit at the beginning of a period yields one unit at the end of the period. 
+Moreover, they face no pledgeability constraint, so th ey can borrow from the rest of the world at the 
+world opportunity cost of capital which is normalised to one. Furthermore, each financier is matched 
+randomly at the beginning of each period with one entrepreneur. 
+2.2 Borrowing 
+ To continue, denote the gross cost per unit of  borrowing and the amount of borrowing (both 
+to be determined in  equilibrium) as rl and d, respectively. Now an entrepreneur will only borrow if the 
+cost of borrowing is less than the return. That is, so long as rl ≤Ri. When this is the case, the 
+entrepreneur borrows as much as possible up to th e limit imposed by the pl edgeability constraint. This 
+constraint ensures that the entrepreneur will be better off paying back than defaulting.  
+ To determine this level of borrowing, no te that an entrepreneur assigned a type i project who 
+repays a loan of size d, will have profit equal to (e+d)Ri - rld. That is, the endowment (e) plus the amount 
+ 
+7
+    The model is completely deterministic, but mirrors a risk-neutral case with unlimited liability. 
+8
+    See Holmström and Tirole (1997) for a micro-foundation of the pledgeable return based on the existence of ex ante moral 
+hazard. 
+ 
+
+--- Page 8 ---
+ 
+Financial sector growth and real growth 6
+ 
+ 
+borrowed (d) times the project return (Ri) minus the repayment (rld). (We ignore the time subscripts 
+until the section on growth.) 
+ Conversely, a defaulting entrepreneur will have return equal to (e+d)(Ri-i) – the size of the 
+project (e+d) times the difference between the return (Ri) and the portion pledged (i). Furthermore, in 
+the event of default, the fina ncier recovers a fraction p of the loan. So, in th e event of default, the 
+entrepreneur’s profit equals (e+d)(Ri-i) - pr ld. Looking at this expression, we see that def aulting pays 
+less when either pledgeability (i) is high or the financier recoups a larger fraction of the loan (p is high). 
+Comparing the profit with and without default, we can write the no-default constraint as  
+(1)   dprRdedrRde liili  ))(()(  . 
+ Turning to the financier, we assume that recovering a fraction  p of the loan made to a 
+defaulting entrepreneur, costs the financier 
+
+
+
+
+
+ pc 1
+1ln  where c is a positive scalar.9 The optimal choice 
+for p is then the solution to this simple maximization problem: 
+(2)  dpcdprlp 
+
+
+
+
+
+ 1
+1lnmax . 
+which yields (1- p*) rl=c. Substituting this into (1), the no-default constraint is 
+(3)   ecd
+i
+i
+i 
+
+
+
+
+
+ 
+  for i=a,b 
+ As an aside, note that this expression is always positive. That is , c>a, b. If it were not, the 
+inequality in (1) would always be strict. That is the entrepreneur would never default. 
+To continue, given that (3) binds when the cost of borrowing is less than the project return, and 
+that entrepreneurs would never borrow if the cost  of borrowing were to exceed the project return , an 
+entrepreneur assigned a type i project with an endowment e will borrow an amount 
+(4)  ecd
+i
+i
+i 
+
+
+
+
+
+ 
+* , when rl≤Ri, and 0 otherwise. 
+ It will be useful later to note that c and *
+id move in opposite direction. So, as the cost for the 
+financier to recoup their loan in the case of default c falls, the level of borrowing *
+id goes up. 
+ 
+9
+    See Aghion, Banerjee and Piketty (1999) for a similar modelling of the no-default constraint as solving for ex post moral hazard. 
+
+--- Page 9 ---
+ 
+Financial sector growth and real growth 7
+ 
+ 
+Furthermore, the increase in *
+id  for a given drop in c will be larger, the larger is i. So, in the event that 
+there is financial innovation that improves the tec hnology the financier has to recoup defaulted loans, 
+this will drive up lending by more the more pledgeable the entrepreneurs’ assets. 
+2.3 Profits and the cost of capital in equilibrium 
+ Using the result in equation (4) we can write the type i entrepreneur’s total return, e
+i , as 
+(5)  ecrReRdrReR
+i
+i
+liiilii
+e
+i 
+
+
+
+
+
+ 
+ )()( *  when bl Rr   and 0 otherwise. 
+ Turning to the financier, re call that their endowment is f, they can borrow as much as they want 
+at unit cost, and that they are matched randomly with entrepreneurs. A financier lending to a type i 
+entrepreneur will lend *
+id , either borrowing fdi *  if it is positive, or storing the difference if it is not. 
+Using the result in equation (4), we can write the financier’s total return f
+i , as 
+(6)  ecrffddr
+i
+i
+liil
+f
+i 
+
+
+
+
+
+ 
+ )1()( ** , when 1≤rl≤Ri , and 0 otherwise. 
+ Note that for the first part of this expression to hold, it must be profitable for entrepreneurs to 
+borrow and for financiers to lend. This is why the condition 1≤rl≤Ri must be satisfied. 
+ We now turn to the determination of the equilibrium cost of capital. Following the literature on 
+the determination wages on the labour  market, we assume that the cost  of capital is determined as the 
+outcome of a bilateral bargaining game between one financier and one entrepreneur. Given that an i-
+type entrepreneur always earns  Rie just by investing the initial endo wment, and given that the financier 
+has a costless storage technology, the cost of lending satisfies  
+(7)    
+
+
+
+
+1*
+, maxarg eRfr i
+e
+i
+f
+i
+r
+il
+l
+ 
+where  denotes the bargaining power of the financier relative to that of the entrepreneur. The solution 
+to (7) is the bargaining-power-weighted aver age of the return to  the entrepreneur (=Ri) and that to the 
+financier (=1) 
+(8)   )1(*
+,   iil Rr . 
+ The intuitive result is that the higher  the bargaining power of the financier, , the higher the 
+cost of borrowing for entrepreneurs. 
+
+--- Page 10 ---
+ 
+Financial sector growth and real growth 8
+ 
+ 
+2.4 Growth 
+ We now have all the elements necessary to examine the determinants of growth in this 
+economy. Introducing time subscripts, we write the endowment of the entrepreneur at the beginning of 
+period t as et. Recalling that half are assigned a type a project and half are assigned a type b project, the 
+average total return of each entrepreneur is  e
+b
+e
+a  2
+1 . Denoting s the saved fraction of profits , the 
+dynamics of the entrepreneurs’ endowment is 
+(9)  t
+e
+b
+e
+a
+t ese 2
+1
+  . 
+Using equations (5) and (8), this can be written as 
+(10)  
+t
+b
+b
+a
+aba
+t
+t
+edRdRRR
+e
+e
+s
+1
+2
+1
+2
+1)1(2
+1 **1
+
+
+
+    
+The expression for the evolution of the financiers’ endowment is equivalent, and can be written as  
+(11)   
+t
+b
+b
+a
+a
+t
+t
+fdRdR
+f
+f
+s
+1
+2
+1
+2
+111 **1
+
+
+
+   . 
+Taken together, equations (10) and ( 11) characterise the growth rate of the aggregate economy. To see 
+this, first denote kt=e t+ft , the aggregate endowment (which we can think of as the level of capital in the 
+economy). We can now write the growth rate of the economy as  
+(12)   
+tt
+abbababa
+tt
+tt
+t
+t
+fe
+ddRRddRR
+fe
+fe
+k
+k
+s 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+ 
+ 
+
+1
+22211211 ****
+11
+1
+ . 
+The first term on the ri ght-hand-side of (13), 
+
+
+
+
+ 
+
+ 
+2112
+**
+baba ddRR , equals the growth rate that 
+the economy would experience if the two types of pr ojects had identical pledgeability characteristics (if 
+a=b). The second term, 
+
+
+
+
+ 
+22
+**
+abba ddRR , adjusts for the fact that the two types of projects differ in 
+their pledgeability and hence will support different le vels of financings. It measures total factor 
+productivity.  
+This leads us to the primary result:  
+ A reduction in the cost, c, of recovering claims from defaulting entrepreneurs raises the growth 
+rate of financiers but reduces aggregate total factor pr oductivity by raising disproportionally investment in 
+the low-productivity/high collateral projects. 
+
+--- Page 11 ---
+ 
+Financial sector growth and real growth 9
+ 
+ 
+ To see this, first note from equ ation (11) the dynamics of the financiers’ endowment, that since 
+both da and db rise when c falls, this growth rate must increa se. Second, turning to aggregate growth, 
+note from equation (12) that total factor pr oductivity moves inversely with the product
+))(( **
+abba ddRR   And recall from equation (4) that a decline in c drives up borrowing by more the 
+higher , so  the difference )( **
+ab dd   will  go up, driving aggregate productivity down.10  
+3. The model with skilled labour 
+ The exercise in Section 2 is on e in which changes in the growth rate of the financial sector, the 
+real economy and, hence, total factor productivity are driven by changes in the exogenous parameter c 
+that characterises the cost for financ iers of recovering claims from defaulting borrowers. In this section, 
+by introducing skilled labour that can be empl oyed either by financiers to lower the cost c or by 
+entrepreneurs to raise the return to investment R, we allow for endogenous changes in growth rates that 
+depend on which sector employs skilled workers. 
+ Following some preliminaries, we next derive the decentralised equilibrium of the economy, 
+including the level of profits, the cost of capital and the wage rate for skilled workers. We then proceed 
+to examine how this compares to the social optimum,  showing how it can be inefficient, allocating too 
+much skilled labour to finance. And finally, we examin e the relationship of grow th in finance to total 
+factor productivity growth. 
+3.1 The framework 
+ The economy is now populated by an equal number of entrepreneurs, financiers and skilled 
+workers. Entrepreneurs can now choose to invest either in a type 
+a or type b project. As is the case of the 
+model of Section 2, type a are more productive but less pledgeable; so Ra>Rb, and A<B. Running a 
+type a project requires hiring one skilled worker. Deno ting the number of skilled workers hired by the 
+entrepreneur as Le={0,1} the return to the entrepreneur can be expressed as 
+(13)  eaebe LRLRLR  )1()( ; 
+and the pledgeable return writes as 
+(14)  eaebe LLL   )1()( . 
+ 
+10
+   Put another way, the impact of a change in c on the growth rate of the economy depends on the first derivative of da and db 
+with respect to c. From equation (4) we see that this is negative. The second result depends on the second cross-partial 
+derivative of da and db with respect to c and, which is also negative. 
+
+--- Page 12 ---
+ 
+Financial sector growth and real growth 10
+ 
+ 
+ Financiers can hire skilled worker s. When they do, it reduces the cost of recovering claims from 
+defaulting entrepreneurs. When this cost, c is lower, financiers can lend more, earning higher profits. As 
+in the case of the entrepreneurs, financiers can chos e to hire one skilled worker . When they do, the cost 
+to recover claims on defaulting entrepreneurs falls from c to c, where cc  . Denoting the number of 
+skilled workers hired by the financier as Lf={0,1} the cost to recover claims on a defaulting entrepreneur 
+can be expressed as 
+(15)  fff LcLcLc  )1()( . 
+To complete the characterisation of the model, we turn to the timing of decisions and actions: 
+1. Entrepreneurs and financiers take a hiring decision and entrepreneurs choose a project type. The 
+wage rate to be paid to skilled workers is then determined.  
+2. Entrepreneurs and financiers are randomly ma tched as was the case previously: each 
+entrepreneur gets randomly matched with one financier, and the cost of borrowing is 
+determined by the bargaining game between the two.  
+3. Hiring, lending/borrowing and investment decisions are executed.  
+4. Entrepreneurs reap their output, pay back financiers and skilled workers get paid by 
+entrepreneurs or financiers depending on whom they worked for.  
+5. Agents make their co nsumption-saving decisions. A fraction s of final income is saved and 
+becomes the next generation's initial endowment. 
+With this in hand, we now turn to the solution of the model. 
+3.2 The decentralised equilibrium 
+ We solve for the equilibrium by backward induct ion, starting with the decisions taken within 
+the match between an entrepreneur and a financier, assuming the decision to hire a skilled worker has 
+already been taken. Then, after solving the decision ta ken within the match, we look at the decision to 
+hire a skilled worker. 
+ To do this, we begin by derivin g expressions for the entrepreneur’s and financier’s profits prior 
+to the payment of wages to the skilled work ers. For the entrepreneur with endowment e, who hires Le 
+skilled workers and borrows from a financier that hires Lf skilled workers, this is  
+(16)  .),(])([)(),( feleefee LLdrLRLeRLL  ,  
+where, as in (4),  
+
+--- Page 13 ---
+ 
+Financial sector growth and real growth 11
+ 
+ 
+eLLc
+LLLd
+ef
+e
+fe
+)()(
+)(),( 
+
+   
+and rl is the cost of capital such that le rLR )( . 
+For a financier with endowment f who hires Lf skilled workers and lends to an entrepreneur with 
+endowment e, who hires Le skilled workers, total returns prior to wage payments equal 
+(17)  .),(]1[),( felfef LLdrfLL  .  
+where the cost of capital lr satisfies  el LRr 1 . 
+Using these two expressions we can now compute th e equilibrium cost of capital from the bargaining 
+game in the same way as in equation (7): 
+(18)    
+
+
+
+
+1* )()()(maxarg)( eLRLfLLr eeeff
+r
+el
+l
+. 
+And the solution is again  
+ (19)   )1()()(*   eel LRLr . 
+Looking at (19), we see immediately for the case in which a financier matched with an entrepreneur that 
+hired a skilled worker the equilibrium cost of borrowing is higher. That is )0()1( **
+ll rr  . 
+Substituting (19) into (16) and ( 17) yields the entrepreneurs’ and fi nanciers’ total return before wage 
+payments: 
+(20)  
+),()1)((),(
+)],()1)()(1()([),( .
+feefef
+feeefee
+LLdLRfLL
+and
+LLdLRLRLL
+
+
+
+
+. 
+ Using the expressions in (20) we can compute the equilibrium wage rate offered to skilled 
+workers. Assuming that the market for skilled workers is perfectly compet itive, an entrepreneur’s ability 
+to pay a wage rate we and a financier’s ability to pay a wage rate wf depend on the additional profit the 
+worker generates by hiring such  a worker. An entrepreneur’s profit before wage payment is ),1( fe L  
+with a skilled worker and ),0( fe L  without. Analogously, a financie r who hires a skilled worker obtains 
+profits before wages of )1,( ef L and )0,( ef L otherwise. Entrepreneurs' and financiers' ability to pay 
+for skilled workers therefore satisfy the following conditions: 
+(21)   ),0(),1()( fefefe LLLw    and )0,()1,()( efefef LLLw   . 
+
+--- Page 14 ---
+ 
+Financial sector growth and real growth 12
+ 
+ 
+Depending on which of  these is higher, we or wf,, skilled workers will end up working either for the 
+entrepreneurs or the financiers.  
+To continue, write the difference in th e high and low return projects as ba RRR  , the 
+equivalent difference in pledgeability as ab   , and the difference betw een the high and low 
+cost of recovering loans from defaulted borrowers as ccc  . Furthermore, to simplify the algebra, 
+we normalise c .11 Using (20) and (21) we can derive the co nditions for skilled labour to be hired 
+by one sector or the other. Specifically, if )1()0(  effe LwLw , then there is a decentralized 
+equilibrium where entrepreneurs hire labour at the expense of financiers. Analogously, when
+)1()0(  feef LwLw , the decentralised equilibrium is one in which financiers hire skilled labour.  
+ Working this out, yields the following: skilled wo rkers end up in the entrepreneurial sector if 
+and only if 
+(22)  
+ 
+
+
+
+
+
+a
+a
+b
+a
+cR
+Rc )1(1)( * ,  
+where ccccc
+a
+a
+a
+a
+
+
+
+
+
+
+
+
+
+
+ 1*  
+ Similarly, skilled workers are hired by financiers if and only if 
+(23)  
+ 
+
+
+
+
+
+b
+b
+b
+a
+cR
+Rc )1(1)( . 
+ To help understand these conditions, first note that an entrepreneur’s ability to pay for skilled 
+workers depends on whether the fina ncier that the entrepreneur is matched with has hired one. The 
+reason is that this affects the amount of capital the entrepreneur can raise from the financier. 
+Interestingly, when the financier hires a skilled worker, this has two opposing effects on the wage rate an 
+entrepreneur can offer to skilled workers. First, it raises ew  because entrepreneurs can now borrow more 
+since the cost of recovery in default is lower. But it reduces the wage rate ew  because the increase in the 
+borrowing capacity is lower when a skilled worker is hired since the entrepreneur then invests in a less 
+pledgeable project. To see which of these dominates, we can compute 
+(24)  ecccc
+RRLwLw
+aa
+b
+b
+b
+afefe
+))((
+)1()(1)0()1( 
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ . 
+ 
+11
+  The parameters  and c play a similar role in the model: they both infl uence the financier’s incentive to lend. This equivalence 
+is our rationale for assuming c . 
+
+--- Page 15 ---
+ 
+Financial sector growth and real growth 13
+ 
+ 
+ Looking at (24), we see that the entrepreneurs' ability to pay for skilled workers decreases with 
+the number of skilled workers in the financial sector whenever the difference in pledgeability of type a 
+and type b, ab   is sufficiently large relative to the difference in returns, ba RRR  . The 
+result for financiers is similar: the financier’s ability to pay for a skilled worker depends on whether she is 
+matched with an entrepreneur that has hired one. The wage difference in these two cases is given by 
+(25)  eccc
+ccc
+RRLwLw
+aab
+a
+b
+b
+b
+aefef
+))((
+1)0()1( 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ As was the case for the entrepreneurs, from (25) we can conclude that a financier’s ability to 
+pay for skilled workers decreases with the number of skilled workers in the entrepreneurial sector 
+whenever the difference in pledgeability between the two types of projects is sufficiently large relative to 
+the differences in returns. Importantly, if both entrepreneurs’ and financiers’ ability to pay skilled workers 
+decreases when the other hires a skilled worker, th ere can be multiple equilibria. Indeed, for the 
+equilibrium conditions (22) and (23) to hold simultaneously, we need 
+(26)  
+b
+b
+a
+a c
+c 
+
+
+ 
+. 
+ The condition in (26) is more lik ely to hold the less pledgeable type a projects are relative to 
+type b, and the higher the cost of recovery for financie rs when they do not hire skilled labour. That is, 
+multiple equilibria are more likely the lower a, the higher b, and the higher c. To understand why 
+multiple equilibria arise here, recall that an entrepreneur’s ability to pay for skilled labour depends on 
+how many skilled workers are hired in the financial sector. The fewe r skilled workers in finance, the 
+higher the wage entrepreneurs will be able to offer. To  put it differently, it is as if the more workers 
+entrepreneurs hire, the higher the wa ge they can offer. And, what is true for entrepreneurs is true for 
+financiers. This form of increasing returns arises from the fact there is a complementarity between the 
+entrepreneur’s pledgeability and the financier’s cost of recovering in default: a higher plegdeability 
+amplifies the benefits of a lower cost of recovering in default. The existence of increasing returns creates 
+the potential for a labour market inefficiency that can lead to too many skilled workers being allocated 
+to one sector or the other. With this in mind, we now turn to the computation of social optimum, which 
+allows us to determine the cond itions under which the labour market allocates skilled labour 
+inefficiently. 
+
+--- Page 27 ---
+ 
+Financial sector growth and real growth 25
+ 
+ 
+5. Conclusion 
+ In this paper, we study the real effects of financial sector growth and come to two important 
+conclusions. First, the growth of a country's financia l system is a drag on prod uctivity growth. That is, 
+higher growth in the financial sector reduces real growth. In other words, financial booms are not, in 
+general, growth-enhancing, likely because the financial sector competes with the rest of the economy for 
+resources. Second, using sectoral data, we examine the distributional nature of this effect and find that 
+credit booms harm what we normally think of as the engines for growth – those that are more R&D-
+intensive. This evidence, together wi th recent experience during the financial crisis, leads us to conclude 
+that there is a pressing need to reassess the relationship of finance and real growth in modern economic 
+systems.  
+  
+
+--- Page 28 ---
+ 
+Financial sector growth and real growth 26
+ 
+ 
+References 
+Aghion P, A Banerjee and T Piketty (1999) : “Dualism and macroeconomic volatility”, The 
+Quarterly Journal of Economics, 114, pp 1359-97. 
+Baumol, W (1990): “Entrepreneurship: Prod uctive, Unproductive, and Destructive”, Journal of 
+Political Economy, 98, pp 893-921. 
+Beck, T, A Demirgüç-Kunt and R Levine (2000): “A  new database on financial development and 
+structure”, World Bank Economic Review, 14, pp 597–605. 
+Beck, T and R Levine (2002): “Industry growth and capital allocation: does having a market- or 
+bank-based system matter?”, Journal of Financial Economics, 64, pp 147–180. 
+Cecchetti, S, and E Kharroubi (2012): “Reassessi ng the impact of finance on growth”, BIS 
+Working Papers, no 381. 
+Cahuc, P and E Challe (2009): “Produce or specul ate? Asset bubbles, occupational choice, and 
+efficiency”, IZA Discussion Paper, no 4630. 
+Greenwood, R and D Scharfstein (2012), “The Growth of Modern Finance” mimeo Harvard 
+Business School. 
+Holmström, B and J Tirole (1997): “Financial intermediation, loanable funds, and the real sector”, 
+Quarterly Journal of Economics, 112, pp 663–691. 
+Levine, R (1997): “Financial development and economic growth: views and agenda”, Journal of 
+Economic Literature, 35, pp 688–726. 
+——— (2005): “Finance and grow th: theory and evidence”, Handbook of Economic Growth , 1, 
+Elsevier, pp 865–934. 
+Murphy, K, A Shleifer and R Vishny (1991): “The Allocation of Talent: Implications for Growth”, 
+106, pp 503–530. 
+Organisation for Economic Co-operation and Development (2010): (2011): OECD Database for 
+Structural Analysis (STAN). 
+Pagano, M (1993): “Financial markets and growth: an overview”, European Economic Review, 37, 
+pp 613–22. 
+Philippon, T (2007): “Financiers vs engineers: should the financial sector be taxed or subsidized”, 
+NBER Working Papers, no 13560. 
+Philippon, T and A Reshef (2009): “Wages and huma n capital in the US financial industry: 1909–
+2006”, NBER Working Papers, no 14644. 
+Philippon, T and A Reshef (2013): “An Internatio nal Look at the Growth of Modern Finance”, 
+Journal of Economic Perspectives, 27, pp 73-96. 
+Raddatz, C (2006): “Liquidity needs and vulnerability to financial underdevelopment”, Journal of 
+Financial Economics, 80, pp 677–722. 
+Rajan, R and L Zingales (1998): “F inancial dependence and growth”, American Economic Review, 
+88, pp 559–86. 
+ 
+  
+ 
+
+--- Page 29 ---
+ 
+Financial sector growth and real growth 27
+ 
+ 
+ 
+Table A1 
+Industry characteristics 
+Industry 
+code1 
+Description External financial 
+dependence2 R&D intensity3 
+1600 Tobacco products –27.00% 0.26% 
+1700 Textiles  51.08% 0.88% 
+1718 Textiles, textile products, le ather and footwear 50.20% 1.12% 
+1719 Textiles and textile products 27.61% 0.73% 
+1800 Wearing apparel, dressing and dyeing of furniture 30.99% 1.47% 
+1900 Leather, leather products and footwear  14.50% 0.80% 
+2000 Wood and products of wood and cork 16.39% 0.31% 
+2100 Pulp, paper and paper products  21.64% 0.00% 
+2122 Pulp, paper, paper products, pr inting and publishing 43.18% 1.14% 
+2200 Printing and publishing   63.08% 0.00% 
+2300 Coke, refined petroleum produc ts and nuclear fuel 21.80% 5.21% 
+2325 Chemical, rubber, plastics and fuel products 25.82% 9.67% 
+2400 Chemicals and chemical products  29.15% 13.51% 
+2401 Chemicals excluding pharmaceuticals   15.07% 8.55% 
+2423 Pharmaceuticals    109.10% 25.58% 
+2500 Rubber and plastics products  39.32% 2.86% 
+2600 Other non-metallic minera l products  6.68% 1.79% 
+2700 Basic metals   13.63% 1.60% 
+2728 Basic metals and fabricated  metal products 22.73% 1.43% 
+2800 Fabricated metal products, except  machinery and equipment 25.26% 1.35% 
+2900 Machinery and equipment, nec  37.04% 5.06% 
+3000 Office, accounting and computing machinery  83.78% 35.34% 
+3033 Electrical and optical equipment  40.87% 23.13% 
+3100 Electrical machinery and apparatus, nec  41.80% 8.43% 
+3200 Radio, television and communi cation equipment  68.33% 22.45% 
+3300 Medical, precision and opti cal instruments  47.62% 34.38% 
+3400 Motor vehicles, trailers an d semi-trailers  42.94% 15.73% 
+3435 Transport equipment   42.50% 20.75% 
+3500 Other transport equipment   43.69% 28.67% 
+3510 Building and repairing of ships 30.81% 0.00% 
+3529 Railroad equipment and transp ort equipment, nec 39.87% 11.56% 
+3530 Aircraft and spacecraft   82.03% 34.35% 
+3637 Manufacturing, nec, and recycling  16.91% 0.97% 
+1 ISIC Rev 3 classification. 2 External financial dependence is the ratio of capital expenditures minus cash flows to capital expenditures. 3 R&D 
+intensity is the ratio of R&D expenditures to value added. 
+Sources: OECD (2011); Raddatz (2006); authors’ calculations. 
+
+--- Page 30 ---
+ 
+Financial sector growth and real growth 28
+ 
+Table A2 
+Industry productivity growth, financial dependence and financial development growth1 
+Dependent variable: labour productivity growth (1) (2) (3) (4) (5) (6) (7) (8) (9) 
+Log of initial relative labour productivity 
+–0.027* –0.027** –0.027* –0.027* –0.026* –0.024** –0.027* –0.027* –0.027* 
+(0.014) (0.013) (0.014) (0.014) (0.014) (0.011) (0.014) (0.014) (0.014) 
+Interaction (financial dependence and private credit by 
+banks to GDP growth) 
+–1.004*** –1.581*** –1.056*** –1.102*** –0.964 *** –1.544*** –1.058*** –1.016*** –0.988*** 
+(0.312) (0.436) (0.320) (0.338) (0.356) (0.364) (0.344) (0.310) (0.318) 
+Interaction (financial dependence and initial private 
+credit by banks to GDP) 
+ 0.108*        
+ (0.058)        
+Interaction (financial dependence and average real 
+short-term interest rate) 
+  0.027*       
+  (0.016)       
+Interaction (financial dependence and average real 
+long-term interest rate) 
+   0.046*      
+   (0.026)      
+Interaction (financial dependence and average CPI 
+inflation rate) 
+    –0.005     
+    (0.017)     
+Interaction (financial dependence and average fiscal 
+balance to GDP) 
+     0.023**    
+     (0.011)    
+Interaction (financial dependence and average 
+government expenditures to GDP) 
+      0.001   
+      (0.002)   
+Interaction (financial dependence and average trade 
+balance to GDP) 
+       0 . 2 3 9   
+       (0.248)  
+Interaction (financial dependence and average current 
+account to GDP) 
+        0.001 
+        (0.002) 
+Observations 335 335 335 335 335 335 335 335 335 
+R-squared 0.360 0.375 0.366 0.369 0.360 0.382 0.361 0.362 0.361 
+The dependent variable is the average annual growth rate in labour productivity per worker for the period 2000–08 for each indu stry in each country. Initial relative labour productivity is the ratio of industry labour 
+productivity per worker to total manufacturing labour productivity per worker in 2000. Financial dependence is the median fract ion of capital expenditures not financed with  internal funds for US firms in the same 
+industry for the period 1980–89. The interaction variable is the product of variables in parentheses. Robust standard errors ar e in parentheses. All estimations include count ry and industry dummies. Significance at the 
+1/5/10% level is indicated by ***/**/*. 
+1 Country sample: Austria, Belgium, Canada, Denmark, Finland, France, Germany, Italy, Japan, Luxembourg, the Netherlands, Spain, Sweden, Switzerland and the United Kingdom. 
+Sources: Raddatz (2006); OECD, Economic Outlook and Structural Analysis database; World Bank Financial Structure and Development database; authors’ calculations. 
+ 
+ 
+
+--- Page 31 ---
+Financial sector growth and real growth 29
+ 
+Table A3 
+Industry productivity growth, R&D intensity and financial development growth1 
+Dependent variable: labour productivity growth (1) (2) (3) (4) (5) (6) (7) (8) (9) 
+Log of initial relative labour productivity 
+–0.030** –0.030** –0.031** –0.030** –0.031** –0.027** –0.030** –0.027** –0.030** 
+(0.014) (0.014) (0.014) (0.014) (0.013) (0.012) (0.014) (0.013) (0.013) 
+Interaction (financial dependence and private credit by 
+banks to GDP growth) 
+–1.327*** –1.616* –1.301** –1.221** –1.046* –2.185*** –1.187* –1.468*** –1.287** 
+(0.502) (0.825) (0.554) (0.608) (0.606) (0.675) (0.611) (0.508) (0.510) 
+Interaction (financial dependence and initial private 
+credit by banks to GDP) 
+ –0.052         
+ (0.106)         
+Interaction (financial dependence and average real 
+short-term interest rate) 
+  0.036        
+  (0.031)        
+Interaction (financial dependence and average real 
+long-term interest rate) 
+   0.057       
+   (0.054)       
+Interaction (financial dependence and average CPI 
+inflation rate) 
+    –0.040      
+    (0.031)      
+Interaction (financial dependence and average fiscal 
+balance to GDP) 
+     0.035*     
+     (0.020)     
+Interaction (financial dependence and average 
+government expenditures to GDP) 
+      –0.003    
+      (0.005)    
+Interaction (financial dependence and average trade 
+balance to GDP) 
+       1.220**   
+       (0.496)   
+Interaction (financial dependence and average current 
+account to GDP) 
+        0.008* 
+        (0.005) 
+Observations 335 335 335 335 335 335 335 335 335 
+R-squared 0.360 0.375 0.366 0.369 0.360 0.382 0.361 0.362 0.361 
+The dependent variable is the average annual growth rate in labour productivity per worker for the period 2000–08 for each indu stry in each country. Initial relative labour productivity is the ratio of industry labour 
+productivity per worker to total manufacturi ng labour productivity per worker in 2000. R&D intensity is the average for the rat io of R&D expenditures to value added for US industries for the period 1990–2000. The 
+interaction variable is the product of variables in parentheses. Robust standard errors are in parentheses. All estimations include country and industry dummies. Significance at the 1/5/10% level is indicated by ***/**/*. 
+1 Country sample: Austria, Belgium, Canada, Denmark, Finland, France, Germany, Italy, Japan, Luxembourg, the Netherlands, Spain, Sweden, Switzerland and the United Kingdom. 
+Sources: OECD, Economic Outlook and Structural Analysis database; World Bank Financial Structure and Development database; authors’ calculations. 
+ 
+ 

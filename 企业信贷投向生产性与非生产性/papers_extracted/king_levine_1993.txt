@@ -1,0 +1,814 @@
+
+--- Page 1 ---
+Finance and Growth: Schumpeter Might be Right
+Robert G. King; Ross Levine
+The Quarterly Journal of Economics, Vol. 108, No. 3. (Aug., 1993), pp. 717-737.
+Stable URL:
+http://links.jstor.org/sici?sici=0033-5533%28199308%29108%3A3%3C717%3AFAGSMB%3E2.0.CO%3B2-4
+The Quarterly Journal of Economics is currently published by The MIT Press.
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/about/terms.html. JSTOR's Terms and Conditions of Use provides, in part, that unless you have obtained
+prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you may use content in
+the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/journals/mitpress.html.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+The JSTOR Archive is a trusted digital repository providing for long-term preservation and access to leading academic
+journals and scholarly literature from around the world. The Archive is supported by libraries, scholarly societies, publishers,
+and foundations. It is an initiative of JSTOR, a not-for-profit organization with a mission to help the scholarly community take
+advantage of advances in technology. For more information regarding JSTOR, please contact support@jstor.org.
+http://www.jstor.org
+Tue Feb 19 03:34:39 2008
+
+--- Page 2 ---
+FINANCE AND GROWTH: 
+SCHUMPETER MIGHT BE RIGHT* 
+ROBERTG. KINGAND ROSS LEVINE 
+We present cross-country evidence consistent with Schumpeter's view that the 
+financial system can promote economic growth, using data on 80 countries over the 
+1960-1989 period. Various measures of the level of financial development are 
+strongly associated with real per capita GDP growth, the rate of physical capital 
+accumulation, and improvements in the efficiency with which economies employ 
+physical capital. Further, the predetermined component of financial development is 
+robustly correlated with future rates of economic growth, physical capital accumula- 
+tion, and economic efficiency improvements. 
+In 1911 Joseph Schumpeter argued that the services provided 
+by financial intermediaries-mobilizing savings, evaluating projects, 
+managing risk, monitoring managers, and facilitating transac- 
+tions-are essential for technological innovation and economic 
+development. Empirical work by Goldsmith [I9691 and McKinnon 
+[I9731 illustrates the close ties between financial and economic 
+development for a few c0untries.l But numerous influential econo- 
+mists believe that finance is a relatively unimportant factor in 
+economic development. Notably, Robinson [I9521 contends that 
+financial development simply follows economic growth. More re- 
+cently, Lucas [I9881 terms the relationship between financial and 
+economic development "over-stressed." In this paper we study 
+whether higher levels of financial development are positively 
+associated with economic development using data on over 80 
+countries from 1960 through 1989. Specifically, we investigate 
+whether higher levels of financial development are significantly 
+and robustly correlated with faster current and future rates of 
+*We received helpful advice from William Easterly, Mark Gertler, Lant 
+Pritchett, Nouriel Roubini, Andrei Shleifer, and Mark Watson. Sara Zervos 
+provided excellent research assistance. Financial support was received from the 
+World Bank research project, "How Do National Policies Affect Long-Run Growth?" 
+The findings, interpretations, and conclusions are the authors' own. They should 
+not be attributed to the World Bank, its Board of Directors, its management, or any 
+of its member countries. 
+1. Greenwood and Jovanovic [19901, Bencivenga and Smith [19911, Levine 
+[1991, 19921, King and Levine [1993bl, Saint-Paul [19921, and Roubini and 
+Sala-1-Martin [1991, 19921 link financial services with steady-state growth. For 
+recent empirical work, see Gertler and Rose [19921, King and Levine [1992a, 1993a1, 
+Roubini and Sala-i-Martin [1991], DeGregorio and Guidotti [1992], Gelb [I9891 and 
+the World Bank [19891. For microeconomic evidence on the effects of financial 
+liberalization, see Schiantarelli et al. [19921. 
+o 1993 by the President and Fellows of Harvard College and the Massachusetts Institute of 
+Technology. 
+The Quarterly Journal of Economics, August 1993 
+
+--- Page 3 ---
+718 QUARTERLY JOURNAL OF ECONOMICS 
+economic growth, physical capital accumulation, and economic 
+efficiency improvements. 
+To examine whether Schumpeter was right, we must define 
+"financial development" empirically. We construct four indicators 
+of financial development that are designed to measure the services 
+provided by financial intermediaries. First, we compute the tradi- 
+tional measure of financial depth, which equals the overall size of 
+the formal financial intermediary system, i.e., the ratio of liquid 
+liabilities to GDP. Second, we distinguish among financial institu- 
+tions conducting intermediation. Due to data limitations, this 
+means examining the importance of deposit banks relative to the 
+central bank in allocating domestic credit. Banks are likely to offer 
+better risk management and investment information services than 
+central banks. Third, we examine where the financial system 
+distributes assets using two measures: (a) credit issued to nonfinan- 
+cia1 private firms divided by total credit (excluding credit to banks) 
+and (b) credit issued to nonfinancial private firms divided by GDP. 
+Financial systems that primarily fund private firms probably 
+provide more services than financial systems that simply funnel 
+credit to the government or state enterprises. Although each 
+financial indicator has shortcomings, using this array of indicators 
+provides a richer picture of financial development than if we used 
+only a single measure. 
+In the tradition of recent cross-country studies of growth, we 
+study the relationship between financial development and long-run 
+output growth. Furthermore, we undertake a preliminary explora- 
+tion of the "channels" through which financial development is 
+linked to growth by examining two sources of growth. First, we 
+study the rate of physical capital accumulation, measured both as 
+an estimate of the per capita growth rate of physical capital and the 
+ratio of investment to GDP. Second, we study improvements in the 
+efficiency with which a society allocates capital, which we measure 
+as a growth residual after controlling for physical capital accumula- 
+tion. For short, we refer to per capita GDP growth, the rate of 
+capital accumulation, and improvements in economic efficiency as 
+"growth indicators." 
+We report two sets of findings. The first set involves the 
+strength of the contemporaneous relationship between financial 
+development and the growth indicators; we study the strength of 
+the partial correlation of the average level of financial development 
+over the 1960-1989 period with the average rate of real per capita 
+GDP growth, the rate of physical capital accumulation, and the 
+
+--- Page 4 ---
+719 FINANCE AND GROWTH 
+rate of improvement in economic efficiency over the same period. 
+We find that higher levels of financial development are positively 
+associated with faster rates of economic growth, physical capital 
+accumulation, and economic efficiency improvements both be- 
+fore and after controlling for numerous country and policy 
+characteristics. 
+The second set of findings focuses on the relationship between 
+the level of financial development and future rates of long-run 
+growth, physical capital accumulation, and economic efficiency 
+improvements. We find that the predetermined component of 
+financial development is a good predictor of long-run growth over 
+the next 10 to 30 years. Furthermore, higher levels of financial 
+development are strongly associated with future rates of capital 
+accumulation and future improvements in the efficiency with 
+which economies employ capital. Thus, finance does not only follow 
+economic activity, and the strong relationship between the level of 
+financial development and the rate of economic growth does not 
+simply reflect a positive association between contemporaneous 
+shocks to both financial and economic development. 
+These results suggest an important link between financial 
+development and long-run growth as suggested by Schumpeter 80 
+years ago. Furthermore, the significant, robust relationship be- 
+tween the level of financial development and both the current and 
+future rate of economic growth contrasts sharply with the weak, 
+fragile partial correlations between growth and a large variety of 
+other economic indicators as shown by Levine and Renelt [19921. 
+We begin our analysis by studying the contemporaneous 
+associations between financial development, growth, and the sources 
+of growth. First, we examine the strength of the empirical relation- 
+ship between long-run real per capita GDP growth and four 
+indicators of the level of financial sector development. The design 
+of our study is in the tradition of recent cross-country empirical 
+studies of growth (e.g., Kormendi and Meguire [19851; Barro 
+[1991]; Mankiw, Romer, and Weil [1992]; and Levine and Renelt 
+[1992]). In particular, after controlling for initial conditions and 
+other economic indicators, we find a positive, significant, and 
+robust partial correlation between the average annual rate of real 
+per capita GDP growth and the average level of financial sector 
+
+--- Page 5 ---
+720 QUARTERLY JOURNAL OF ECONOMICS 
+development over the 1960-1989 period. We term this a study of 
+< < contemporaneous" associations because we examine average 
+growth rates and average levels of financial development over the 
+same time period. Second, we explore the "channels" through 
+which financial development and growth are linked. Specifically, 
+we find that financial development is positively associated with 
+both the rate of physical capital accumulation and a measure of 
+improvements in economic efficiency. 
+A. Data: The Financial Indicators 
+We conduct both a purely cross-country analysis using data 
+averaged over the 1960-1989 period and a pooled cross-country, 
+time-series study using data averaged over the 1960s, 1970s, and 
+1980s, so that each country has three observations, data permit- 
+ting. Our data base includes the 119 developed and developing 
+countries studied in Levine and Renelt [19921, but lack of financial 
+data and elimination of major oil exporters typically restricts the 
+analysis to about 80 countries. 
+We construct four indicators of the level of financial sector 
+de~elopment.~The traditional practice (e.g., Goldsmith [I9691 and 
+McKinnon [19731) has been to use the size of the formal financial 
+intermediary sector relative to economic activity to measure finan- 
+cial sector development or "financial depth." Users of financial 
+depth hypothesize that the. size of financial intermediaries is 
+positively related to the provision of financial services. One mea- 
+sure of "financial depth" equals the ratio of liquid liabilities of the 
+financial system to GDP, which we term LLY. Liquid liabilities 
+consist of currency held outside the banking system plus demand 
+and interest-bearing liabilities of banks and nonbank financial 
+intermediarie~.~ The pure size of the financial system, however, 
+may not be closely related to financial services such as risk 
+management and information processing. 
+Consequently, we construct a second financial development 
+indicator to measure the relative importance of specific financial 
+institutions. For our set of about 80 countries, the only possible 
+2. King and Levine [I9921 study a broader array of financial indicators. 
+3. This measure equals "M3" or line 551 from the International Financial 
+Statistics; or when 551 is not available, we use line 34 plus line 35, which equals 
+"M2." The problem of deflating financial stocks (measured at the end of the period) 
+by GDP flow (measured over the period) is mitigated by using the arithmetic 
+average of this year's end-of-period and last year's end-of-period financial stock 
+values. Thus, LLY in 1965 is the average of liquid liabilities in 1964 and liquid 
+liabilities in 1965 divided by GDP in 1965. 
+
+--- Page 6 ---
+FINANCE AND GROWTH 721 
+institutional breakdown is between the central bank and deposit 
+money banks. Consequently, we study the ratio of deposit money 
+bank domestic assets to deposit money bank domestic assets plus 
+central bank domestic assets and call this variable BANK4 Intu-
+itively, banks seem more likely to provide the type of risk sharing 
+and information services emphasized in recent theoretical models 
+than central banks. There are problems with this measure of 
+financial development: banks are not the only financial intermedi- 
+aries that provide risk management, information acquisition, and 
+monitoring services; governments strongly influence banks in 
+many countries, so that the contrast between banks and central 
+banks may be murky; and the variable BANK does not measure to 
+whom the financial system is allocating credit. Nonetheless, by at 
+least partially isolating those financial intermediaries more likely 
+to provide the financial services emphasized in theoretical studies, 
+we believe BANK will augment and complement the conclusions 
+that could be drawn from using only financial depth, LLY. 
+The third and fourth financial development indicators are 
+designed to measure domestic asset distribution. A financial sys- 
+tem that simply funnels credit to the government or state-owned 
+enterprises may not be evaluating managers, selecting investment 
+projects, pooling risk, and providing financial services to the same 
+degree as financial systems that allocate credit to the private 
+sector. Thus, we compute the proportion of credit allocated to 
+private enterprises by the financial system. This measure equals 
+the ratio of claims on the nonfinancial private sector to total 
+domestic credit (excluding credit to money banks), and we call this 
+indicator PRIVATE. We also measure the ratio of claims on the 
+nonfinancial private sector to GDP and term this variable PRIVY.5 
+There are also problems with these measures of financial sector 
+development. PRIVATE and PRIVY may reflect the overall size of 
+the public sector and the degree of public sector borrowing and 
+therefore not accurately indicate the level of financial services. 
+Nevertheless, we include this broad array of financial indicators to 
+maximize the information on financial development in our study. 
+4. Central bank domestic assets are the summation of IFS lines 12a through 
+12f. Deposit money bank domestic assets are the summation of IF'S lines 22a 
+through 22f. 
+5. Claims on the nonfinancial private sector is IFS line 32d and domestic credit 
+(to nonmoney banks) is IFS lines 32a through 32f excluding 32e. 
+
+--- Page 7 ---
+722 QUARTERLY JOURNAL OF ECONOMICS 
+B. Growth Indicators: Measuring Growth and the Sources 
+of Growth 
+Besides studying the relationship between these four financial 
+indicators and average long-run real per capita GDP growth (GYP), 
+we conduct a preliminary inquiry of the linkages between the 
+financial indicators and the sources of growth. Given our broad set 
+of countries, we could not conduct detailed growth accounting 
+exercises. Consequently, we decompose growth into two compo- 
+nents: the rate of physical capital accumulation and everything 
+else. Specifically, let y equal real per capita GDP, k equal the real 
+per capita physical capital stock, x equal other determinants of per 
+capita growth, and a is a production function parameter, so that 
+y = kax. Taking logarithms and differencing yields GYP = a(GK) + 
+EFF, where GK is the growth rate of the real per capita physical 
+capital stock and EFF is the growth rate of everything else. As 
+described below, we measure GYP and GK directly. Then we choose 
+different values for a and define EFF as GYP - a(GK). We 
+experimented with values of a between 0.2 and 0.4 and found that 
+our results were not importantly affected; we report the results 
+with a = 0.3.6 
+The term EFF may consist of many factors. For example, 
+technology growth, human capital accumulation, increases in the 
+number of hours worked per worker, and improvements in the 
+employment of factor inputs would increase EFF. We attempted to 
+account for human capital accumulation in defining EFF by 
+including literacy rates, school enrollment rates, etc. Inclusion of 
+these variables did not alter our conclu~ions.~ Since EFF is 
+constructed to measure the residual of real per capita GDP growth 
+after accounting for the rate of physical capital accumulation, we 
+refer to EFF as improvements in "efficiency." 
+Benhabib and Spiegel [I9921 construct physical capital stock 
+measures for over 120 countries. After assuming that the relation- 
+ship between the capital-output ratio and the capital-labor ratio is 
+constant across time and countries, they use an iterative procedure 
+using investment data to construct capital stock series. We use 
+their data to compute GK.8 There are numerous statistical and 
+6. We obtain similar results using the change in real per capita GDP divided by 
+investment as an alternative measure of "efficiency." 
+7. We could not get complete, comparable data on the average number of hours 
+worked per worker for the countries in our data set. 
+8. We get similar results when we use the capital stock series constructed for 
+the World Bank's 1991World Development Report. 
+
+--- Page 8 ---
+FINANCE AND GROWTH 723 
+conceptual problems with the construction of physical capital stock 
+data in such a broad cross section of countries over such a long time 
+interval. Consequently, we also study the ties between the financial 
+indicators and the ratio of gross national investment divided by 
+output, INV. We call GYP, GK, INV, and EFF "growth indicators." 
+In summary, we study the empirical relationship between four 
+financial indicators and four growth indicators. The four financial 
+indicators are the ratio of the size of the formal financial intermedi- 
+ary sector to GDP (LLY), the importance of banks relative to the 
+central bank (BANK), the percentage of credit allocated to private 
+firms (PRNATE ), and the ratio of credit issued to private firms to 
+GDP (PRIVY). Our growth indicator are real per capita GDP 
+growth, the rate of physical capital accumulation (GK), the ratio of 
+domestic investment to GDP (INV), and a residual measure of 
+improvements in the efficiency of physical capital allocation (EFF). 
+C. Simple Correlations 
+Tables I-VI present summary statistics on the four financial 
+indicators, growth, and the sources of growth. Each financial 
+indicator is positively and significantly correlated with each growth 
+indicator at the 0.01 significance level. Tables I-IV also illustrate a 
+"step" relationship between financial development, growth, and 
+the sources of growth. For example, in Table I1 we divide countries 
+into four categories: very fast, fast, slow, and very slow growers, 
+with approximately the same number of countries in each category. 
+TABLE I 
+THEAVERAGELEVELOF FINANCIAL AND THE CONTEMPORANEOUSDEVELOPMENT 
+GROWTHRATEOF REALPERCAPITAGDP: 1960-1989 
+very 
+fast Fast Slow 
+Very 
+slow 
+Correlation 
+with growth (P-value) 
+LLY 0.60 0.38 0.29 0.22 0.55 (0.001) 
+BANK 0.81 0.73 0.71 0.60 0.44 (0.001) 
+PRNATE 0.70 0.56 0.61 0.51 0.37 (0.001) 
+PRIVY 0.35 0.27 0.20 0.13 0.50 (0.001) 
+GYP 0.045 0.026 0.014 -0.005 
+Very fast: GYP > 0.03, Fast: GYP > 0.02 and < 0 03, Slow: GYP > 0.005 and < 0.02, Very slow: GYP < 
+0.005. 
+LLY = Ratio of liquid liabilities to GDP, BANK = Deposit money bank domestic credit divided by deposit 
+money bank plus central bank domestic credit, PRNATE = Ratio of claims on the nonfinancial private sector to 
+total domestic credit, PRIVY = Ratio of claims on the nonfinancial private sector to GDP, GROWTH = Average 
+annual real per capita growth, 1960-1989. 
+Observations: Approximately twenty in each of the four categories. 
+
+--- Page 9 ---
+724 QUARTERLY JOURNAL OF ECONOMICS 
+TABLE I1 
+THEAVERAGELEVELOF FINANCIAL AND THE CONTEMPORANEOUSDEVELOPMENT 
+GROWTHRATEOF THE CAPITALSTOCK:1960-1989 
+Correlation 
+Very 
+fast Fast Slow 
+Very 
+slow 
+with capital 
+growth (P-value) 
+LLY 0.65 0.38 0.24 0.21 0.69 (0.001) 
+BANK 0.88 0.75 0.64 0.60 0.57 (0.001) 
+PRZVATE 0.73 0.62 0.54 0.50 0.50 (0.001) 
+PRIVY 0.43 0.23 0.16 0.14 0.65 (0.001) 
+GK 0.014 0.001 -0.007 -0.021 
+Verv fast: GK > 0.0072. Fast: GK > -0.0022 and < 0.0072. Slow: GK > -0.0126 and < -0.0022. Verv 
+slow: GI;.< -0.0126. 
+LLY = Ratio of liquid liabilities to GDP, BANK = Deposit money bank domestic credit divided by deposit 
+monev bank ~lus central bank domestic credit. PRIVATE = Ratio of claims on the nonfinancial ~rivate sector to 
+total iomestic credit, PRIVY = Ratio of claims on the nonfinancial private sector to GDP, GK =Average growth 
+rate of the real per capita capital stock, 1960-1989. 
+Observations: Approximately twenty in each of the four categories. 
+As we "step" from countries that experienced slower growth over 
+the 1960-1989 period to countries with faster growth, we see a 
+corresponding increase in financial depth, the importance of banks 
+relative to the central bank, the fraction of credit allocated to the 
+nonfinancial private sector, and the ratio of private sector credit to 
+GDP. Similarly, countries with faster rates of physical capital 
+accumulation (Tables I1and III), and countries with more efficient 
+TABLE I11 
+THEAVERAGELEVEL DEVELOPMENTOF FINANCIAL AND THE CONTEMPORANEOUS 
+LEVELOF INVESTMENT:1960-1989 
+Correlation 
+Very very with 
+high High Low low investment (P-value) 
+LLY 0.58 0.42 0.29 0.22 0.54 (0.001) 
+BANK 0.83 0.76 0.67 0.56 0.58 (0.001) 
+PRIVATE 0.71 0.63 0.52 0.50 0.51 (0.001) 
+PRIVY 0.37 0.28 0.17 0.14 0.48 (0.001) 
+INV 0.273 0.225 0.193 0.130 
+Very high: IhV > 0.243, High: IhV > 0.205 and < 0.243, Low: INV > 0.167 and < 0.205, Verylow: INV < 
+0.167. 
+LLY = Ratio of liquid liabilities to GDP, BANK = Deposit money bank domestic credit divided by deposit 
+money bank plus central bank domestic credit, PRIVATE = Ratio of claims on the nonfinancial private sector to 
+total domestic credit, PRIVY = Ratio of claims on the nonfinancial private sector to GDP, INV = Ratio of 
+average annual investment to GDP, 1960-1989. 
+Observations: Approximately twenty in each of the four categories. 
+
+--- Page 10 ---
+725 FINANCE AND GROWTH 
+TABLE IV 
+THEAVERAGELEVELOF FINANCIAL AND CONTEMPORANEOUSDEVELOPMENT 
+EFFICIENCY:1960-1989 
+Correlation 
+very Very with 
+high High Low low efficiency (P-value) 
+LLY 0.55 0.40 0.31 0.22 0.46 (0.001) 
+BANK 0.77 0.74 0.73 0.60 0.36 (0.001) 
+PRIVATE 0.67 0.57 0.64 0.51 0.30 (0.007) 
+PRIVY 0.35 0.26 0.22 0.14 0.42 (0.001) 
+EFF 0.040 0.025 0.016 0.001 
+Very high: EFF > 0.0294, High: EFF > 0.0204and < 0.0294, Low: EFF > 0.0079 and < 0.0204, Very low: 
+EFF < 0.0079. 
+LLY = Ratio of liquid liabilities to GDP, BANK = Deposit money bank domestic credit divided by deposit 
+money bank plus central bank domestic credit, PRIVATE = Ratio of claims on the nonfinancial private sector to 
+total domestic credit, PRIVY = Ratio of claims on the nonfinancial private sector to GDP, GK = Average growth 
+rate of the real per capita capital stock, EFF = Average annual efficiency, 1960-1989: GYP - (0.3) *GK. 
+Observations: Approximately twenty in each of the four categories. 
+capital allocation (Table IV) tend to have more developed financial 
+systems. 
+Tables V and VI show that the financial indicators are also 
+highly and significantly correlated with each other; the Pearson 
+correlation coefficient ranges between 0.44 and 0.83 for contempo- 
+raneous correlations over the 1960-1989 period and between 0.42 
+and 0.82 for contemporaneous correlations using decade averages. 
+TABLE V 
+CONTEMPORANEOUS AMONGFINANCIAL INDICATORS:CORRELATIONS DEVELOPMENT 
+1960-1989 
+LLY BANK PRIVATE PRIVY 
+GYP 0.55 0.44 0.37 
+[0.0011 [0.0011 [0.0011 
+LLY 
+BANK 
+PRIVY 
+[P-values in brackets] 
+GYP = Real per capita GDP growth rate, LLY = Ratio of liquid liabilities to GDP, BANK = Deposit money 
+bank domestic credit divided by deposit money bank plus central bank domestic credit, PRIVATE = Ratio of 
+claims on nonfinancial private sector to domestic credit, PRIVY = Ratio of claims on the nonfinancial private 
+sector to GDP. 
+
+--- Page 11 ---
+726 QUARTERLY JOURNAL OF ECONOMICS 
+TABLE VI 
+CONTEMPORANEOUS CORRELATIONS DEVELOPMENTAND 	LAGGED AMONGFINANCIAL 
+INDICATORS: DECADEAVERAGES 
+Lag Lag Lag Lag 
+LLY LLY BANK BANK PRIVATE PRIVATE PRIVY PRIVY 
+GYP 0.25 0.26 0.29 0.09 
+[0.0011 [0.0011 [0.0011 r0.2691 
+LLY 0.88 0.53 0.52 
+[0.0011 [0.0011 [0.0011 
+Lag 
+LLY 
+BANK 
+Lag 
+BANK 
+PRIVATE 
+Lag 
+PRIVATE 
+PRIVY 
+GYP = Real per capita GDP growth rate, LLY = Ratio of liquid liabilities to GDP, BANK = Deposit money 
+bank domestic credit divided by deposit money bank plus central bank domestic credit, PRIVATE = Ratio of 
+claims on nonfinancial private sector to total domestic credit, PRIVY = Ratio of claims on the nonfinancial 
+private sector to GDP, Lag = Signifies the value in the previous decade. 
+Table VI shows that high levels of financial development in one 
+decade are positively and significantly correlated with high levels of 
+financial development in the next decade. Financial depth LLY has 
+a Pearson correlation coefficient of 0.88 with LLY in the previous 
+decade, while the corresponding correlation for BANK is 0.59. 
+D. Contemporaneous Regressions: 1960-1 989 
+We use cross-country regressions to gauge the strength of the 
+partial correlation between financial development and the growth 
+indicators. In light of recent cross-country empirical studies of 
+growth, we regress GYP on the logarithm of initial income (LYO), 
+the logarithm of the initial secondary school enrollment rate 
+(LSEC), and each financial indicator. In addition to this "base" 
+regression, we also include the ratio of trade (exports plus imports) 
+
+--- Page 12 ---
+FINANCE AND GROWTH 727 
+TABLE VII 
+GROWTHAND CONTEMPORANEOUS INDICATORSFINANCIAL CROSS-COUNTRY: 
+1960-1989 
+Dependent 
+Variable LLY BANK PRIVATE PRIVY 
+GYP 0,024*** 0,032*** 0.034*** 0.032*** 
+(0.009) (0.010) (0.010) (0.010) 
+[0.0071 [0.0051 [0.0021 [0.0021 
+R2: 0.50 0.50 0.52 0.52 
+EFF 0.018** 0.026** 0.027*** 0.025*** 
+(0.008) (0.010) (0.009) (0.009) 
+[0.0261 [O.OlOl [0.0031 [0.0061 
+R2: 0.42 0.43 0.45 0.44 
+(standard errors in parentheses) [P-values in brackets] Observations = 77 
+* significant at the 0.10 level, ** significant at the 0.05 level, *** significant at the 0.01 level. 
+GYP = Real per capita GDP growth rate, GK = Average growth rate of the real per capita capital stock, 
+1960-1989, IhW = Ratio of average annual investment to GDP, 1960-1989, EFF = GYP - (0.3IeGK, LLY = 
+Ratio of liquid liabilities to GDP, BANK = Deposit bank domestic credit divided by deposit money bank plus 
+central bank domestic credit, PRIVATE = Ratio of claims on nonfinancial private sector to domestic credit, 
+PRIVY = Ratio of claims on the nonfinancial private sector to GDP. 
+Other explanatory uariables: log of initial income, log of initial secondary school enrollment rate, ratio of 
+government expenditures to GDP, inflation rate, ratio of exports plus imports to GDP. 
+to GDP (TRD), the ratio of government spending to GDP (GOV), 
+and the average inflation rate (PI)to control for other economic 
+phenomena. Table VII summarizes the results for the coefficients 
+on the four financial indicators including GOV, PI, and TRDeg 
+Consistent with the results in Barro [19911, Barro and Sala-i- 
+Martin [1992], and Levine and Renelt [19921, we typically find that 
+(1)initially rich countries tend to grow more slowly than initially 
+poor countries after controlling for the initial level of investment in 
+human capital (i.e., the parameter on LYO is significantly nega- 
+9. The working paper version of this paper [King and Levine, 1993~1 presents 
+complete regression results. 
+
+--- Page 13 ---
+728 QUARTERLY JOURNAL OF ECONOMICS 
+tive); and (2) higher initial secondary school enrollment rates are 
+associated with faster subsequent growth (i.e., the parameter on 
+LSEC is positive and significant). 
+Table VII indicates that the four financial development indica- 
+tors enter with positive and significant coefficients when the 
+dependent variable is one of the growth indicators at the 0.05 level. 
+Thus, financial depth, the relative importance of banks vis-a-vis 
+central banks, the percentage of credit allocated to nonfinancial 
+private firms, and credit to the private sector divided by GDP are 
+strongly associated with growth, the growth rate of physical 
+capital, the investment share, and efficiency after controlling for 
+initial conditions and common economic indicators. 
+Not only are the coefficients significant, but also the sizes of 
+the coefficients imply that the links between financial development 
+and growth may be economically important. Neglecting causality 
+for the moment, the coefficient of 0.024 on LLY suggests that a 
+country that increased LLY from the mean of the slowest growing 
+(0.2) to the mean of the fastest growing quartile of countries (0.6) 
+as depicted in Table I would have increased its growth rate by 
+almost 1percent per annum. Since the difference between the very 
+fast and the very slow growers is about 5 percent (see Table I), the 
+rise in LLY alone would eliminate 20 percent of this difference. 
+This seems considerable, though only illustrative. These types of 
+examples address neither causality nor how to achieve these 
+changes in financial depth. 
+E. Sensitivity Analyses 
+The links between financial development and both growth and 
+the sources of growth are robust to a number of sensitivity checks. 
+These checks include altering the conditioning set of information, 
+using subsamples of countries and time periods, and examining the 
+statistical properties of the error terms. 
+Using pooled cross-country, time-series data with data aver- 
+aged over each decade, we get similar coefficient values with similar 
+P-values to the results reported in Table V. Including variables 
+such as population growth, changes in the terms of trade, the 
+number of revolutions and coups, the number of assassinations, or 
+an index of civil liberties also does not alter the conclusions. The 
+results tend to hold on subsamples of countries. Omitting OECD 
+countries does not alter the conclusions. Omitting sub-Saharan 
+African countries (in the pooled decade analysis) weakens the 
+significance of the partial correlation between LLY and GYP (the 
+
+--- Page 14 ---
+729 FINANCE AND GROWTH 
+P-value falls to 0.09 because the standard error grows), but does 
+not alter the results on the other three financial indicators. 
+Similarly, including a dummy variable for countries in sub-
+Saharan Africa and a dummy variable for countries in Latin 
+America weakens the LLY results while not affecting the other 
+financial indicator results. We also weighted countries differently. 
+Using White's heteroskedastic consistent coefficient standard er- 
+rors does not alter the conclusions, and omitting countries with 
+variables that might be considered extremely high or low also does 
+not alter the results.1° 
+Based on Levine and Renelt [19921, we also conduct extreme 
+bounds analyses (EBA) of the results in Table V. The EBA involves 
+altering the right-hand-side variables and observing whether the 
+results on the variables of primary interest-the four financial 
+indicators-are robust or fragile to these alterations. Using the 
+"base" regression that always includes LYO and LSEC, we allow 
+the EBA procedure to choose various combinations of up to three 
+right-hand-side variables from the list of "other" variables used in 
+Levine and Renelt, and we then examine whether the coefficient 
+and significance of the coefficient on the financial development 
+indicators remain stable while altering the conditioning informa- 
+tion set. (The "other" variables are the number of revolutions and 
+coups (REVC), GOV, PI, TRD, the standard deviation of inflation 
+(STPI), the growth rate of domestic credit (GDC), and the 
+standard deviation of the growth rate of domestic credit (STDC).) 
+The results in Table V are robust; small alterations in the 
+conditioning information set do not alter the inferences on the 
+financial indicator.ll These robust results on financial development 
+indicators contrast strongly with the Levine and Renelt findings 
+that most other economic indicators have only very fragile associa- 
+tions with long-run growth. 
+10. For example, LLY is greater than one in Japan, Malta, and Switzerland; 
+while TRD is greater than 1.5 in Hong Kong, Luxembourg, and Malta. 
+11. King and Levine [1993cl present these results. Levine and Renelt [I9921 
+run two sets of regressions for every variable of interest. When GYP is the 
+dependent variable, the re ession always includes a constant, initial income (YO), 
+the initial secondary schooEnrollment rate (SEC), population growth (GPO), IiW, 
+and the variable of interest. By including IW as a regressor, this is an alternative 
+way of defining economic efficiency. Also, Levine and Renelt use INV as the 
+dependent variable. In these regressions only a constant and the variable of interest 
+are always included. When we use this exact procedure for the four financial 
+indicators, all four are robustly correlated with ZNV, but only LLY is robustly 
+correlated with GYP. This implies that while measures of financial development are 
+robustly linked to growth through investment, the relationship between financial 
+development and efficiency may be sensitive to the empirical definition of efficiency. 
+
+--- Page 15 ---
+QUARTERLY JOURNAL OF ECONOMICS 
+Cross-country studies of long-run growth typically evaluate 
+the strength of partial correlations between growth and economic 
+indicators that are almost certainly determined jointly with growth. 
+With respect to financial services, the finding that financial develop- 
+ment is strongly associated with contemporaneous economic growth 
+may be interpreted in a number of ways. Joan Robinson, for 
+example, argued that, "By and large, it seems to be the case that 
+where enterprise leads finance follows" [1952, p. 861. Other 
+observers may believe that the strong link between financial 
+development and economic growth merely reflects a positive corre- 
+lation arising from contemporaneous effects of various shocks on 
+financial and economic development. Here, we investigate whether 
+the predetermined component of financial sector development is 
+strongly linked with subsequent growth and the sources of growth. 
+Although we will note some qualifications, the evidence suggests 
+that the predetermined component of financial development is a 
+good predictor of long-run growth and that financial development 
+predicts both the rate of physical capital accumulation and the rate 
+of improvement in the efficiency with which economies allocate 
+physical capital. These results have a number of implications. The 
+link between growth and financial development is not just a 
+contemporaneous association. Finance does not only follow growth; 
+finance seems importantly to lead economic growth. Furthermore, 
+a positive association between contemporaneous shocks to finan- 
+cial development and economic growth does not fully account for 
+the finance-growth link. When countries have relatively high levels 
+of financial development, economic growth tends to be relatively 
+fast over the next 10 to 30 years. 
+A. Initial Values 
+We examine the relationship between the initial values of the 
+financial development indicators at the beginning of the period and 
+subsequent economic growth using ordinary least squares regres- 
+sions. Due to data availability, we focus almost exclusively on the 
+pooled, cross-section, time-series results, where the data are pooled 
+over decades. Nonetheless, it is useful to begin by simply replacing 
+the values of the financial indicators averaged over the period 
+
+--- Page 21 ---
+736 QUARTERLY JOURNAL OF ECONOMICS 
+Barro, Robert J., "Economic Growth in a Cross Section of Countries," Quarterly 
+Journal of Economics, CVI (19911,407-43. 
+Barro, Robert J., and Xavier Sala-i-Martin, "Convergence," Journal of Political 
+Economy, C (19921,223-51. 
+Bencivenga, Valerie R., and Bruce D. Smith, "Financial Intermediation and 
+Endogenous Growth," Review ofEconomic Studies, LVIII (19911,195-209. 
+Benhabib, Jess, and Mark M. Spiegel, "Growth Accounting with Physical and 
+Human Capital Accumulation," New York University, C. V. Starr Center 
+Working Paper No. 91-66,1992. 
+Charnley, Christophe, and Patrick Honohan, "Taxation of Financial Intermediation," 
+World Bank Working Paper No. 421, 1990. 
+DeGregorio, Jose, and Pablo E. Guidotti, "Financial Development and Economic 
+Growth,'''' International Monetary Fund, mimeo, 1992;, 
+Gelb, Alan, Financial Policies, Growth, and Efficiency, World Bank, Working -Paper No. 814, 1991. 
+Gertler. Mark. and Andrew Rose. "Finance. Growth. and Public Policv." World ",
+~ank working paper No. 814,'1991. 
+Giovannini, Alberto, and Martha de Melo, "Government Revenue from Financial 
+Repression," World Bank Working Paper No. 533, 1990. 
+Goldsmith, Raymond W., Financial Structure and Development (New Haven, CT: 
+Yale University Press, 1969). 
+Greenwood, Jeremy, and Boyan Jovanovic, "Financial Development, Growth, and 
+the Distribution of Income," Journal of Political Economy, XCVIII (19901, 
+1076-1107. 
+Grossman, Gene, and Elhanan Helpman, "Quality Ladders in the Theory of 
+Economic Growth," Review of Economic Studies, LVIII (1991),43-61. 
+King, Robert G., and Ross Levine, "Financial Indicators and Growth in a Cross 
+Section of Countries," World Bank Working Paper No. 819, 1992a. 
+King, Robert G., and Ross Levine, "Financial Intermediation and Economic 
+Development," in Capital Markets and Financial Intermediation, Colin Mayer 
+and Xavier Vives, eds. (London: Cytre for Economic Policy Research, 1993a). 
+King, Robert G., and Ross Levine, Finance, Entrepreneurship and Growth: 
+Theory and Evidence," World Bank, mimeo, 1993b. 
+King, Robert G., and Ross Levine, "Finance and Growth: Schumpeter Might Be 
+Right," World Bank Working Paper No. 1083,1993~. 
+Kormendi, Roger, and Philip Meguire, "Macroeconomic Determinants of Growth: 
+Cross-Country Evidence," Journal of Monetary Economics, XVI (19851, 141- 
+63. 
+Levine, Ross, "Stock Markets, Growth, and Tax Policy," Journal ofFinance, XLVI 
+(19911, 1445-65. 
+, "Financial Intermediary Services and Growth," Journal of Japanese and 
+International Economics, VI (19921,383-405. 
+Levine, Ross, and David Renelt, "A Sensitivity Analysis of Cross-Country Growth 
+Remessions." American Economic Review. LXXXII 11992). 942-63. 
+Lucas, kobert E:, Jr., "On the Mechanics of ~conomic Development," Journal of 
+Monetary Economics, XXII (1988),3-42. 
+Mankiw, N. Gregory, David Romer, and David Weil, "A 	Contribution to the 
+Empirics of Economic Growth," Quarterly Journal of Economics, CVII (19921, 
+An 7-2-..7A", 
+McKinnon, Ronald I., Money and Capital in Economic Development (Washington, 
+DC: Brookings Institution, 1973). 
+Robinson, Joan, "The Generalization of the General Theory," in The Rate of 
+Interest and Other Essays (London: Macmillan, 1952). 
+Romer, Paul M., "Endogenous Technological Change," Journal of Political Econ- 
+omy, XCVIII (19901, S7.1-S102. 
+Roubini, Nouriel, and Xavier Sala-i-Martin, "Financial Development, the Trade 
+Regime, and Economic Growth," NBER Working Paper No. 876,1991. 
+Roubini, Nouriel, and Xavier Sala-i-Martin, "A Growth Model of Inflation, Tax 
+Evasion, and Financial Repression," NBER Working Paper No. 4062, 1992. 
+Saint-Paul, Gilles, "Technological Choice, Financial Markets and Economic Growth," 
+European Economic Review, XXXVI (19921, 763-81. 
+Schiantarelli, Fabio, Itzak Atiyas, Gerard Caprio, Jr., J. Harris, and Andrew Weiss, 
+"Credit Where it is Due? A Review of the Macro and Micro Evidence on the Real 
+
+--- Page 22 ---
+737 FINANCE AND GROWTH 
+Effects of Financial Reform," in Financial Reform: Theory and Experience, 
+Gerard Caprio, Jr., and Associates, eds., World Bank, mimeo, 1992. 
+Schumpeter, Joseph A., The Theory of Economic Development (Cambridge, MA: 
+Harvard Uniyyrsity Press, 1911). 
+Shleifer, Andrei, Implementation Cycles," Journal of Political Economy, XCIV 
+(19861, 1163-90. 
+World Bank, World Bank Development Report (Washington, DC: World Bank, 
+1989). 
+
+--- Page 23 ---
+You have printed the following article:
+Finance and Growth: Schumpeter Might be Right
+Robert G. King; Ross Levine
+The Quarterly Journal of Economics, Vol. 108, No. 3. (Aug., 1993), pp. 717-737.
+Stable URL:
+http://links.jstor.org/sici?sici=0033-5533%28199308%29108%3A3%3C717%3AFAGSMB%3E2.0.CO%3B2-4
+This article references the following linked citations. If you are trying to access articles from an
+off-campus location, you may be required to first logon via your library web site to access JSTOR. Please
+visit your library's website or contact a librarian to learn about options for remote access to JSTOR.
+[Footnotes]
+1 Financial Development, Growth, and the Distribution of Income
+Jeremy Greenwood; Boyan Jovanovic
+The Journal of Political Economy, Vol. 98, No. 5, Part 1. (Oct., 1990), pp. 1076-1107.
+Stable URL:
+http://links.jstor.org/sici?sici=0022-3808%28199010%2998%3A5%3C1076%3AFDGATD%3E2.0.CO%3B2-D
+1 Financial Intermediation and Endogenous Growth
+Valerie R. Bencivenga; Bruce D. Smith
+The Review of Economic Studies, Vol. 58, No. 2. (Apr., 1991), pp. 195-209.
+Stable URL:
+http://links.jstor.org/sici?sici=0034-6527%28199104%2958%3A2%3C195%3AFIAEG%3E2.0.CO%3B2-3
+1 Stock Markets, Growth, and Tax Policy
+Ross Levine
+The Journal of Finance, Vol. 46, No. 4. (Sep., 1991), pp. 1445-1465.
+Stable URL:
+http://links.jstor.org/sici?sici=0022-1082%28199109%2946%3A4%3C1445%3ASMGATP%3E2.0.CO%3B2-N
+11 A Sensitivity Analysis of Cross-Country Growth Regressions
+Ross Levine; David Renelt
+The American Economic Review, Vol. 82, No. 4. (Sep., 1992), pp. 942-963.
+Stable URL:
+http://links.jstor.org/sici?sici=0002-8282%28199209%2982%3A4%3C942%3AASAOCG%3E2.0.CO%3B2-J
+http://www.jstor.org
+LINKED CITATIONS
+- Page 1 of 3 -
+NOTE: The reference numbering from the original has been maintained in this citation list.
+
+--- Page 24 ---
+References
+A Model of Growth Through Creative Destruction
+Philippe Aghion; Peter Howitt
+Econometrica, Vol. 60, No. 2. (Mar., 1992), pp. 323-351.
+Stable URL:
+http://links.jstor.org/sici?sici=0012-9682%28199203%2960%3A2%3C323%3AAMOGTC%3E2.0.CO%3B2-%23
+Economic Growth in a Cross Section of Countries
+Robert J. Barro
+The Quarterly Journal of Economics, Vol. 106, No. 2. (May, 1991), pp. 407-443.
+Stable URL:
+http://links.jstor.org/sici?sici=0033-5533%28199105%29106%3A2%3C407%3AEGIACS%3E2.0.CO%3B2-C
+Convergence
+Robert J. Barro; Xavier Sala-i-Martin
+The Journal of Political Economy, Vol. 100, No. 2. (Apr., 1992), pp. 223-251.
+Stable URL:
+http://links.jstor.org/sici?sici=0022-3808%28199204%29100%3A2%3C223%3AC%3E2.0.CO%3B2-L
+Financial Intermediation and Endogenous Growth
+Valerie R. Bencivenga; Bruce D. Smith
+The Review of Economic Studies, Vol. 58, No. 2. (Apr., 1991), pp. 195-209.
+Stable URL:
+http://links.jstor.org/sici?sici=0034-6527%28199104%2958%3A2%3C195%3AFIAEG%3E2.0.CO%3B2-3
+Financial Development, Growth, and the Distribution of Income
+Jeremy Greenwood; Boyan Jovanovic
+The Journal of Political Economy, Vol. 98, No. 5, Part 1. (Oct., 1990), pp. 1076-1107.
+Stable URL:
+http://links.jstor.org/sici?sici=0022-3808%28199010%2998%3A5%3C1076%3AFDGATD%3E2.0.CO%3B2-D
+http://www.jstor.org
+LINKED CITATIONS
+- Page 2 of 3 -
+NOTE: The reference numbering from the original has been maintained in this citation list.
+
+--- Page 25 ---
+Quality Ladders in the Theory of Growth
+Gene M. Grossman; Elhanan Helpman
+The Review of Economic Studies, Vol. 58, No. 1. (Jan., 1991), pp. 43-61.
+Stable URL:
+http://links.jstor.org/sici?sici=0034-6527%28199101%2958%3A1%3C43%3AQLITTO%3E2.0.CO%3B2-V
+Stock Markets, Growth, and Tax Policy
+Ross Levine
+The Journal of Finance, Vol. 46, No. 4. (Sep., 1991), pp. 1445-1465.
+Stable URL:
+http://links.jstor.org/sici?sici=0022-1082%28199109%2946%3A4%3C1445%3ASMGATP%3E2.0.CO%3B2-N
+A Sensitivity Analysis of Cross-Country Growth Regressions
+Ross Levine; David Renelt
+The American Economic Review, Vol. 82, No. 4. (Sep., 1992), pp. 942-963.
+Stable URL:
+http://links.jstor.org/sici?sici=0002-8282%28199209%2982%3A4%3C942%3AASAOCG%3E2.0.CO%3B2-J
+A Contribution to the Empirics of Economic Growth
+N. Gregory Mankiw; David Romer; David N. Weil
+The Quarterly Journal of Economics, Vol. 107, No. 2. (May, 1992), pp. 407-437.
+Stable URL:
+http://links.jstor.org/sici?sici=0033-5533%28199205%29107%3A2%3C407%3AACTTEO%3E2.0.CO%3B2-5
+Endogenous Technological Change
+Paul M. Romer
+The Journal of Political Economy, Vol. 98, No. 5, Part 2: The Problem of Development: A
+Conference of the Institute for the Study of Free Enterprise Systems. (Oct., 1990), pp. S71-S102.
+Stable URL:
+http://links.jstor.org/sici?sici=0022-3808%28199010%2998%3A5%3CS71%3AETC%3E2.0.CO%3B2-8
+Implementation Cycles
+Andrei Shleifer
+The Journal of Political Economy, Vol. 94, No. 6. (Dec., 1986), pp. 1163-1190.
+Stable URL:
+http://links.jstor.org/sici?sici=0022-3808%28198612%2994%3A6%3C1163%3AIC%3E2.0.CO%3B2-P
+http://www.jstor.org
+LINKED CITATIONS
+- Page 3 of 3 -
+NOTE: The reference numbering from the original has been maintained in this citation list.

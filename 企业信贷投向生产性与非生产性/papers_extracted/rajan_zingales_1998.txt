@@ -1,0 +1,675 @@
+
+--- Page 1 ---
+NBER WO~G PAPER SERIES
+FINANCIAL DEPENDENCE AND GROWTH
+Raghuram G. Rajan
+Luigi Zingales
+Working Paper 5758
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+September 1996
+We thank Gene Fama, Peter Klenow, Krishna Kumar, Canice Prendergast, Andres Rodriguez-Clare,
+David Scharfstein, Robert Vishny, and participants in the Junior Faculty lunch group at the
+University of Chicago, the Finance seminar at UCLA, and the NBER Summer Institute for usefi.d
+comments. Jayanta Sen and Alfi-ed Shang provided excellent research assistance. A preliminary
+study was supported by the World Bank. We gratefully acknowledge financial support from NSF
+grant #SBR-9423645. This paper is part of NBER’s research programs in Corporate Finance and
+Economic Fluctuations and Growth. Any opinions expressed are those of the authors and not those
+of the National Bureau of Economic Research.
+O 1996 by Raghuram G. Rajan and Luigi Zingales. All rights reserved. Short sections of text, not
+to exceed two paragraphs, may be quoted without explicit permission provided that full credit,
+including 0 notice, is given to the source.
+
+--- Page 2 ---
+NBER Working Paper 5758
+September 1996
+FINANCIAL DEPENDENCE AND GROWTH
+ABSTRACT
+Does finance affect economic growth? A number of studies have identified a positive
+correlation between the level of development of a country’s financial sector and the rate of growth
+of its per capita income. As has been noted elsewhere, the observed correlation does not necessarily
+imply a causal relationship. This paper examines whether financial development facilitates
+economic growth by scrutinizing one rationale for such a relationship; that financial development
+reduces the costs of external finance to firms. Specifically, we ask whether industrial sectors that
+are relatively more in need of external finance develop disproportionately faster in countries with
+more developed financial markets. We find this to be true in a large sample of countries over the
+1980s. We show this result is unlikely to be driven by omitted variables, outliers, or reverse
+causality,
+Raghuram G. Rajan
+Kellogg Graduate School of Management
+Northwestern University
+2001 Sheridan Road
+Evanston, IL 60208
+and NBER
+fac_rajan@gsbvax .uchicago.edu
+Luigi Zingales
+Graduate School of Business
+University of Chicago
+1101 East 58th Street
+Chicago, IL 60657
+and NBER
+luigi@gsblgz.uchicago .edu
+
+--- Page 3 ---
+There is a large literature - dating at le=t ss far back = Schumpeter (1911) - that empha-
+sizes the links between the state of development of a country’s financial sector and the level and
+the rate of growth of its per capita income. The argument essentially is that the services the
+financial sector provides – of reallocating capital to the highest value use without substantial
+risk of loss through moral hazard, adverse selection, or transactions costs – are an essential
+catalyst of economic growth. The existence of a correlation between financial development and
+economic growth has been documented in a number of empirical studies starting with Cameron
+(1967), Goldsmith (1969) and McKinnon (1973). Economic historians have identified spurts of
+growth in certain countries with the development of specific financial institutions. For example,
+Cameron (1961) and Gerschenkron (1962) have associated the economic growth of France in the
+middle of the nineteenth century with the est abolishment of the Credit Mobilier. 1 Nevertheless,
+some economists have questioned the interpretation of these studies, arguing that correlation
+does not imply causality. Paraphrasing North, financial development does not cause economic
+growth, it is economic growth.2
+In an important recent paper, Levine and King (1993a) investigate the causality problem
+following a post hoc, ergo pTopteT hoc approach. They show that the predetermined component
+of financial development is a good predictor of growth over the next 10 to 30 years. While
+their paper does suggest that the observed correlation is not spurious, it does not lay to rest all
+doubts about causality. The sceptic could still offer a number of arguments.
+First, both financial development and growth could be driven by a common omitted variable
+such as the propensity of households in the economy to save. Since endogenous savings (in
+certain macroeconomic models) affects the long run growth rate of the economy, it may not be
+surprising that growth and initial financial development are correlated. This argument is also
+hard to refute with simple cross-country regressions. In the absence of a well accepted theory
+1Adopting a diflerent tack, I{indleberger (1993) discusses the importance of finance to the outcome of wars
+(for instance, Britain’s ability to mobilize financial resources after the Glorious Revolution of 1688 may explain
+why, with one-third France’s manpower, it could defeat the French) and asks “Can Finance be relewnt to military
+outcomes, as widely insisted on, but not to the course of economic development?”
+‘The early studies have typically been cautious about their findings. For instance, Goldsmith (1969, p48)
+writes “In most countries, a rough parallelism can be observed between economic and financial development if
+periods of several decades are considered. There is no possibility, however, of establishing with confidence the
+direction of the causal mechanism, i.e., of deciding whether financial factors were responsible for the acceleration
+of economic development or whether financial development reflected economic growth whose mainsprings must
+be sought elsewhere. ”
+1
+
+--- Page 4 ---
+of growth, the list of potential omitted variables that financial sector development might be a
+proxy for is large, and the explanatory variables to include a matter of conjecture (on this see
+Paxson, 1996).
+Second, there is a potential problem of anticipation. Financial development - typically
+messured by the level of credit and the size of the stock m~ket (but see King and Levine (1993a)
+for other proxies) – may predict economic growth simply because financial markets anticipate
+future growth; the stock market capitalizes the present value of growth opportunities, while
+financial institutions lend more if they think sectors will grow. Thus financial development may
+simply be a leading indicator rather than a causal factor.
+To interpret these correlations in a more causal sense it is necessary to identify the mechanism
+through which financial development affects economic growth and to document its working. Our
+paper is an attempt to do this.
+The fundamental role played by the financial sector is to facilitate the reallocation of funds
+from agents (individuals) with an excess of capital given their investment opportunities towards
+agents (firms) with a shortage of funds vis h vis their investment opportunities. This implies
+that financial development has two effects. First, by reducing the transactions costs of saving
+and investing, it lowers the overall cost of capital in the economy in general. Second, to the
+extent that finmcial markets and institutions help firms overcome problems of moral hazard
+and adverse selection, it should reduce the costs of external finance vis ~ vis the cost of internal
+funds such as cash flows.
+Financial development, thus, should reduce both the cost of capital and the differential
+cost of eztemal finance. Our paper focuses on the second effect. If the financial sector works
+through the cost of external finance, firms that are typically short of funds given investment
+opportunities should do better in economies with well developed financial sectors. The test then
+is whether firms (or industries) dependent on external finance for their growth are relatively
+“better off in economies with well developed financial markets. A finding that they are could
+be the ‘smoking gun’ in the debate about causality. There are two virtues to this simple test.
+First, it focuses on the details of a mechanism by which finance affects growth, thus providing a
+stronger test of causality. Second, it can correct for fixed country (and industry) effects. Though
+its value depends on how reasonable our micro-economic assumptions are, it is less dependent
+2
+
+--- Page 5 ---
+on a specific macroeconomic model of growth.
+Specifically, we propose the following test. We identify an industry’s need for external finance
+(the difference between investments and internal c=h generated from operations) from data on
+U.S. firms. Under the assumption that capital markets in the United States, especially for
+the large listed firms we analyze, are relatively frictionless, this method allows us to identify an
+industry’s technological demand for external financing. We then examine whether the industries
+that are more dependent on external financing grow relatively fsster in countries that initially
+have better developed financial markets and institutions.
+We find evidence consistent with this. In a country which is one standard deviation above
+the mean of financial development, the difference in growth rates between an industry whose
+financial dependence is one standard deviation above the mean and the average industry, is
+1% more (annually, and in real terms) than in the average country. Moreover, we find that
+industries that generate substantial cash flow from operations grow relatively faster in countries
+with underdeveloped financial systems. The intensity of investment in industries dependent on
+external finance is disproportionately higher in countries with more developed financial markets.
+Finally, firms in financially dependent industries are disproportionately larger in countries with
+more developed financial markets. Our results are robust to the introduction of various proxies
+for a country’s level of development and human capital, making it unlikely that they are driven
+by an omitted variable.
+Let us be careful about what we find, and about what we have little to say. Our findings
+suggest that the ex ante development of financial markets facilitates the ex post growth of sectors
+dependent on external finance. This implies that the link between financial development and
+growth identified elsewhere may stem, at le=t in part, from a channel identified by the theory:
+financial markets and institutions reduce the cost of external finance for firms. Of course, our
+analysis suggests only that financial development liberates firms from the drudgery of generating
+funds internally. It is ultimately the availability of profitable investment opportunities that
+drives growth, and we have little to say about where these come from.
+Clearly, the plausibility of our work depends on how acceptable its underlying assumptions
+are. One of our assumptions is that there is a technological reuon why some industries
+penal more on external finance than others. To the extent that the initial project scale,
+de-
+the
+3
+
+--- Page 6 ---
+gestation period, the c=h harvest period, and the requirement for continuing investment differ
+substantially between industries, this is indeed plausible. More debatable is our assumption that
+these technological differences persist across countries despite v=t differences in local conditions.
+However,
+require a
+than the
+gestation
+all we really need is that statements of the following sort hold: If pharmaceuticals
+larger initial scale ad have a higher gestation period before cashflows are harvested
+textile industry in the U-S., it also requires a larger initial scale and h= a higher
+period in Korea.
+Furthermore, for a country’s financial development to have any effect on industry growth in
+that country we have to assume that firms finance themselves largely in their own country. In
+other words, only if world capital markets are not perfectly integrated can domestic financial
+development tiect a country’s growth. There is a wealth of evidence documenting the existence
+of frictions in international capital markets: the extremely high correlation between a country’s
+savings and its investments (Feldstein and Horioka, 1980), the strong home bias in portfolio
+investments (French and Poterba , 1991 ), and cross countries differences in expected returns
+(Bekaert and Harvey, 1995). We have little else to say about these two assumptions other
+than noting that their failure would weaken the power of our tests but not necessarily bias our
+findings.
+Finally, we address concerns about the interpretation of our findings. As argued earlier, the
+size of financial markets might reflect the extent to which growth is capitalized. But this would
+not explain why there is a differential effect of financial development on the growth of industries
+dependent on external finance, nor why financial development continues to matter even when
+we use other proxies for it such as a country’s accounting standards. A second possibility is that
+financial markets might develop in anticipation of the financing needs of industry. We regard
+this as unlikely for a number of reasons. It is not clear that the state of development of markets
+is the outcome of a rational plan. In many fomer colonies, it is determined by the identity of
+the colonial power and the legal and political systems they imposed (see La Porta, Lopez de
+Silmes, Shleifer and Vishny (1996) ).3 At best, markets appear to develop in response to the
+3For instance, India which has a common-law system introduced by the British has had a vibrant stock
+exchange since the l=t century (La Porta et al. argue that common law systems are more conducive to the
+development of equity markets). The stock exchange survived, albeit in a low energy state, even when many of
+the activities requiring external finance such as infrastructure development were taken over by the government
+4
+
+--- Page 7 ---
+current (and past ) needs of industry (see Chandler ( 1977)’s discussion of the development of
+public corporate debt markets in the United States in response to the financing needs of the
+railroads) rather than anticipated needs.
+But this suggests another explanation of our results, Perhaps, some factor may have been
+responsible for the past growth of financially dependent sectors. This, in turn, would explain
+the current development of financial markets, and the persistence of the factor would explain
+the growth of financially dependent sectors. Thus the current development of financial markets
+would be correlated with the growth of financially dependent sectors, even absent any of the
+channels we have discussed. Indeed we find that a country’s financial development is strongly
+correlated with the ex ante proportion of financially dependent industries in that economy.
+Nevertheless, we still find that the relative growth rate of financially dependent industries is
+higher in more financially developed countries even when we restrict our analysis to sectors
+that are small at the beginning of the period, and hence unlikely to be responsible for the
+state of development of the financial markets .4 Furthermore, the bmic correlation persists when
+we instrument with more exogenous measures of the state of development of capital markets
+such as a country’s accounting standards, and when we include the interaction between an
+industry’s financial dependence and the ex ante proportion of financially dependent industries
+in the economy (which is a proxy for the omitted factor).
+While our interest is primarily in the macro-economic link between financial development
+and growth, there are at least two re~ons why our work may also be of interest in the current
+macroeconomic debate on whether firms are “credit rationed”. First, much of the empirical
+literature on this issue has focused on large, publicly traded, U.S. (or Japanese) companies.
+The difference in liquidity constraints between such firms is likely to be small relative to the
+differences between industries across different financial markets which is our focus. Second,
+following the influential work by Fazzari, Hubbard and Petersen (1988), the papers in this
+literature have typically sorted firms on some ex ante proxy (such as the payment of dividends
+after India got independence. With the gradual withdrawal of the government from industry in the 1980s, the
+stock muket h= resumed its role as an important source of finance for young firms.
+‘This is consistent with Chandler’s account of the financing of U.S. industries. Their growth was partly driven
+by the atilability of finance in a system that had largely been developed to fund infr=tructure such as railroads
+and CalldS.
+5
+
+--- Page 8 ---
+or the existence of bank relationships) for financial constraints. They then argue that the
+higher sensitivity of investments to cashflows for firms that the ex ante proxy suggests are
+more susceptible to being constrained is evidence of a differential wedge between the cost of
+internal and external funds among these firms. A number of questions have been raised by
+this methodology. First, is the proxy really exogenous? Second, could cashflows proxy for
+investment opportunities, thus driving the correlation? Final] y, as Kaplan and Zingales (1996)
+point out, the validity of such an approach depends on the monotonicity of the investment-c=h
+flow sensitivity to the proxy for financial constraints, which – they show – does not necessarily
+hold. By contr=t, they argue that a more appropriate test of the effects of financial constraints
+consists in analyzing the differential level of investments (and, thus, growth) across firms facing
+a differential wedge between the cost of internal and external funds.
+The approach taken by our paper may deal with this criticism and suggest a new way of
+investigating these issues. For instance, financial development may be thought of as more ex-
+ogenous to a particular industry than its dividend policy or its banking relationships (we do
+not imply that none of the proxies in the literature are exogenous). Furthermore, even if cash-
+flows proxy for investment opportunities, it is the interaction with financial development that is
+evidence of financial constraints. Finally, our paper addresses the Kaplan-Zingales critique by
+testing for differences in industry growth across countries with differentially developed financial
+markets and, thus, with a differential wedge between cost of external and internal funds. So
+our evidence could be thought of M reaffirming that financial constraints do fiect investment,
+while finessing the debate surrounding the previous work.
+Finally, Demirguc-Kunt and Maksimovic (1996) also use micro data to develop a test of
+the influence of financial development on growth. Using firm-level data, they estimate the
+proportion of firms whose rate of growth exceeds the growth that could have been supported
+only by internal resources. They then run a cross country regression and find that this proportion
+is positively related to the stock market turnover and to a measure of law enforcement. While
+their paper is similar in spirit to ours, there are two essential differences. First, their estimate
+of the internal growth rate of a firm is dependent on the firm’s characteristics. While it is
+potentially more accurate than our measure of external dependence, it is also more endogenous.
+Another difference is that in the spirit of traditional cross-country regressions, they focus on
+6
+
+--- Page 9 ---
+between-country differences, while our focus is on within-country, between-industry differences.
+The latter is an important innovation in this paper.
+The rest of the paper is = follows. We describe our measure of financial dependency in
+section 1. In section 2, we present our data on financial development, country characteristics,
+and industry growth. In section 3 we set up our main tests, we discuss the results in section 4,
+and explore the robustness of our findings in section 5. Section 6 concludes.
+1 A Measure of External Dependency
+If the presence of a well developed financial market reduces the costs of external finance, it must
+have a greater effect on the growth rate of firms that are more dependent on external funds. To
+investigate this, we have to determine a firm’s demand for external finance over a certain period.
+Our earliest comprehensive measure of financial market development is for the year 1980, and
+our last systematic data on growth is for 1990. This then defines the period of interest to be
+1980-1990.
+We immediately face some problems. First, a problem of data availability; the most dis-
+aggregated comprehensive data we have for countries is at the industry level (data at the firm
+level, if available, is typically limited to large listed firms). Data on the actual use of external
+financing is typically not available. But even if it were, it would not be useable because it would
+reflect the equilibrium between the demand for external funds and its supply. Since the latter
+is precisely what we are attempting to test for, this information is contaminated. A second
+problem is that we are not aware of any systematic study of the external financing needs of
+different industries, either cross-sectionally or over time. Empirical work in corporate finance
+typically focuses on the choice between debt and equity, and not on the use of external versus
+internal funds. 5
+We, therefore, start by studying the external financing needs of U.S. companies over the
+1980s. We use data from Compustat for this. Compustat does not contain a representative
+sample of U.S. firms, because is limited to publicly traded firms, which are relatively large.
+Nevertheless, we regard this = an advantage for two re~ons. First, in a perfect capital market
+‘Mayer (1990) and Demirguc-I{unt and Maksimovic (1996) are exceptions. Mayer uses country level data.
+7
+
+--- Page 10 ---
+the supply of funds to firms is perfectly cl-tic at the proper risk adjusted rate. In such a mmket
+the actual amount of external funds raised by a firm equals its desired amount, In other words,
+in such an idealized setting, the identification problem does not exist. But capital markets in
+the United States are among the most advanced in the world, and large publicly traded firms
+typically face the le=t frictions in accessing finance. Thus the amount of external finance used
+by large firms in the United States is likely to be a relatively pure measure of their demand for
+external finace. Note that we are not assuming that the U.S. financial markets are perfect, but
+only that they are among the least imperfect.
+A second resson for using a database on listed firms is that disclosure requirements imply
+that the data on financing are comprehensive. In the rest of the paper, we will take the amount
+of external finance used by U.S. firms in an industry ss a proxy for the desired amount foreign
+firms in the same industry would have liked to raise had their financial markets been more
+developed.
+Next, we have to define precisely what we mean by external and internal finance. We are
+interested in the amount of desired investment that cannot be financed through internal sources,
+i.e., the cash flow generated by the same business. Therefore, a firm’s dependence on external
+finance is defined as the ratio of capital expenditures (Compustat # 128) minus cash flow from
+operations divided by capital expenditures. Cash flow from operations is broadly defined ss the
+sum of Compustat c~h flow from operations (Compustat # 110) plus decre=es in inventories,
+decre~es in receivables, and increases in payables. 6 Note that this definition includes changes
+in the non-financial components of net working capital = part of funds from operations. In fact,
+in certain businesses these represent major sources (or uses) of funds, that help a firm avoid (or
+force it to tap) external sources of funds.7
+Similarly, the dependence on external equity finance is defined m the ratio of the net amount
+of equity issues (Compustat # 108 minus # 115) to capital expenditures. Finally, the investment
+‘This item is only defined for cash flow statements with format codes 1, 2, or 3. For format code 7 we construct
+it as the sum of items # 123, 125, 126, 106, 213, 217.
+71t could be argued that inter-firm trade credit should be viewed as a component of external financing. It
+iGunclear how much of trade credit is used to reduce transactions costs and how much is used for financing.
+Much trade credit is granted routinely and repaid promptly and typically, net trade credit for a firm (accounts
+receivable less payables) is small (see Petersen and Rajan (1996)). This may be why trade credit is typically
+treated m part of operations in capital budgeting exercises. We adhere to this tradition.
+8
+
+--- Page 11 ---
+intensity is the ratio of capital expenditure to net property plant and equipment (Compustat
+# 8).
+To make these measures comparable with the industry level data we have for other countries,
+we have to choose how to aggregate these ratios across compmies and over time. For each firm,
+we sum the numerator and denominator over time before dividing. For instance, we sum the
+firm’s use of external finance over the 1980s and then divide by the sum of capital expenditure
+over the 1980s to get the firm’s dependence on external finance in the 1980s. This smooths
+temporal fluctuations and reduces the effects of outliers. To summarize ratios across firms,
+however, we use the industry median. We do this to prevent large firms from swamping the
+information from small firms; for instance, we know that IBM’s free cash flow does not alleviate
+possible cash flow shortages of small computer firms.
+Finally, we are concerned about the existence of a life cycle of financing – firms are more
+dependent on external financing early in their life than later – which is “common wisdom” in
+the corporate finance literature (though we were hard-pressed to find formal empirical studies
+of this phenomenon).
+Figure 1 shows such common wisdom to be true. It plots the median financing and invest-
+ment needs across U.S. firms = a function of the number of years since the initial public offering
+(IPO). Not surprisingly, in the year of the IPO, firms raise a substantial amount of external
+funds (especially equity). More interestingly, this continues – albeit on a smaller scale – up to
+approximately the 10th year. After that period, net equity issues go to zero and the usage of
+external finance fluctuates around zero. Although this pattern appears to be fairly standard
+across different industries, the level of external financing, both at an early stage and at a later
+stage is quite different across industries. For example, in figure 2, we report the pattern of
+investment and financing in two different industries. Companies in the computer industry show
+an intensive use of external funds in the first decade of their existence, with occasional spurts of
+external and equity financing later on. By contr=t, external finance goes to zero very shortly
+after the IPO in the steel industry, but further substantial needs of external (and equity finance)
+might arise later in life of a company.
+In Table 1, we look at these differences more systematically. We tabulate by International
+Standard Classification Code (ISIC) the median fraction of investments U.S. firms financed
+9
+
+--- Page 12 ---
+externally (column I) and financed with equity (column II) during the 1980s. To highlight the
+need for investments, in column 111we also report the level of capital expenditures divided by net
+property plant and equipment. We restrict our attention to those manufacturing industries for
+which we have value-added data from the United Nations Statistics. We report these figures for
+all firms, mature firms (firms that did an IPO at least 10 years ago), and young firms (firms that
+went public in the I=t 9 years). Not surprisingly, among mature firms, radio and computers
+emerge = the two industries with the largest need for external finance, while tobacco is the
+industry with the largest excess amount of internal funds relative to capital expenditures. This
+is also reflected in its large equity repurchases. The clustering of external financing in a few
+sectors is even more pronounced among young firms.
+Given that the life-cycle pattern of external financing differs by industry, the most appro-
+priate me=ure of external financing needs in other countries is debatable. The financing needs
+of mature companies represent a better proxy for the financing needs of existing firms in other
+countries. However, young firms may make up a larger fraction of the industry, especially in
+developing countries, than they do in the United States. In the absence of more data on indus-
+try composition, we will use the median across all firms in the industry in the U.S. to me=ure
+dependence. However, we will examine if the result is sensitive to using just young or old firms.
+1.1 Is the Financial Dependence of U.S. Firms a Good Proxy?
+Much of our analysis rests on financial dependence of U.S. firms being a good proxy for the
+demand for external funds in other countries. We think this is reasonable for four re=ons.
+First, in a steady state equilibrium there will not be much need for external funds, as Fig-
+ure 1 shows. Therefore, much of the demand for external funds is likely to arise as a result
+of technological shocks that raise an industry’s investment opportunities beyond what inter-
+nal funds can support. To the extent these shocks are worldwide, U.S. firms’ need for funds
+represents a good proxy.8
+Second, even if the new investment opportunities generated by these worldwide shocks differ
+‘This amounts to saying that if the invention of persona] computers incre=ed the demand for external funds in
+the U.S. computer industry, it is likely to incre=e the need for funds in the computer iudustry in other countries
+as well.
+10
+
+--- Page 13 ---
+across countries, the amount of cash flow produced by existing firms in a certain industry is
+likely to be similar across countries. In fact, most of the determinants of ratio of cash flow to
+capital are likely to be similar worldwide: the level of demand for a certain product, its stage in
+the life cycle, and its cash harvest period, For this reason, we make sure that our results hold
+even when we use the amount of internally generated cash, rather than the difference between
+investments and internally generated funds.
+Third, one might argue that the stage of a product life cycle that U.S. firms are in is likely
+to be different from that of foreign firms. Given that our sample is biased toward developing
+countries one might think that the U.S. industry in the 1970s might be a better proxy for
+developing countries’ position in a product life cycle. For this remon, we also explore the
+robustness of our results to me=uring the financial dependence of U .S. firms in the 1970s rather
+than in the 1980s.
+L=t but not least, that we only have a noisy measure of the need for funds creates a bias
+against finding any effect of financial development on growth.
+2 Data.
+2.1 Data on financial development.
+We start by describing our data on financial development contained in Table 2. Ideally, we would
+like a measure of a firm’s ability to raise money. This depends on the variety of intermediaries
+available, and the efficiency with which they perform the evaluation, monitoring, certification,
+communication and distribution functions. Since there is little agreement on how these are
+appropriately measured, and even less data available, we will have to make do with crude
+proxies even though they may miss many of the aspects we think vital to a modern financial
+system.
+Turning first to equity markets, one memure of stock market development may be the
+amount of money raised through initial public offerings and secondary offerings. Unfortunately,
+this meuure is not available on a systematic buis for many countries. Moreover, it is well
+documented in the U.S. (see earlier) that mature firms are
+they have the potential to do so. It could then be argued
+11
+reluctant to issue stock, even though
+that stock market capitalization is a
+
+--- Page 14 ---
+better measure of the availability of finance. Another virtue of this measure is that it is consistent
+with the traditional literature (see Goldsmith (1969) for example) which h= typically used the
+ratio of the size of the financial sector to output as a measure of financial sector development,
+So the ratio of stock market capitalization to Gross Domestic Product in 1980 is the measure of
+stock market development that we use. We obtain stock market capitalization for all countries
+listed in the EmeTging Stock Mar-kets Factbook (which, interestingly, contains data on developed
+countries also) published by the International Finance Corporation.g
+A comparable measure for the state of development of credit markets is the ratio of domestic
+credit to Gross Domestic Product, a measure also used by King and Levine (1993a). This
+is obtained from the International Financial Statistics (IFS) published by the International
+Monet~ Fund. Specifically, this measure is the ratio of IFS lines 32a through 32f and excluding
+32e. Finally, we also compute the fraction of credit allocated to the private sector, which is the
+ratio of claims on the non-financial private sector (IFS line 32d) to total domestic credit.
+There are, of course, elements we do not capture. For instance, we do not have data on
+corporate bond markets for more than a handful of countries. Except for the United States
+which is not included in our tests, and Japan, corporate bond markets were typically small in
+the early 1980s (see Rajan and Zingales, 1995). A potentially more damaging omission is private
+equity and private placement of debt (not held by institutions). While they may be correlated
+with me=ures of financial market development, there are certain countries where they clearly
+are not. For instance, in Italy, most medium sized companies are privately held (see Pagano,
+Panetta, and Zingales, 1995) while the stock market is relatively small. The lack of this data
+may not be a serious problem because, after all, we are interested in how the availability of
+external funds affects firms; the amount of private equity outstanding is generally a reflection of
+the amount of internal finance privately held companies have secured in the past, and therefore
+is not a measure of how developed the financial markets are.
+gStock market capitalization is me=ured at the end of the year, while Gross Domestic Product may =Iue
+flows through the year. This may be a problem in high inflation countries. We therefore measure GDP as the
+GDP in constant prices multiplied by the producer price index where the base year for both series is five.years
+before the year of interest.
+12
+
+--- Page 15 ---
+2.2 -Data on countries.
+The Gross Domestic Product, the Producer Price Index, the exchange rate, and the Index
+of Industrial Production are all obtained from International Financial Statistics. Whenever a
+pmticular series is not available, we use close substitutes – for instance, the wholesale price index
+if the producer price index is not available. Data on a country’s human capital (average years
+of schooling in population over 25) and the share of investment in GDP in 1980 are obtained
+from the Barre-Lee files downloaded from the NBER web site (see Barro and Lee (1994)).
+2.3 Data on industries.
+Data on value added and gross fixed capital formation for each industry in each country are
+obtained from the General Industrial Statistics (VOI 1) database put together by the United
+Nations Statistics Division. We checked the data for inconsistencies, changes in classification of
+sectors, and changes in units. The U.N. data is classified by International SIC code. In order to
+obtain the amount of external finance used by the industry in the U. S., we matched ISIC codes
+with SIC codes. Typically, the three digit ISIC codes correspond to two digit SIC codes, while
+the four digit ISIC code corresponds to three digit SIC codes. In order to reduce the dependence
+on country specific factors like natural resources we confine our analysis to manufacturing firms
+(U.S. SIC 2000-3999). Table 3 presents summary statistics for all these variables.
+We would like data on ~ many countries as possible. The binding constraint is the avail-
+ability of comparable data on a country’s equity markets. We started with 55 countries from
+the Emerging Stock Markets Factbook. We dropped countries like Kuwait that did not report
+a stock market capitalization till the latter half of the 1980s, We could not use Hong Kong and
+Taiwan because data on these countries are not present in the International Financial Statistics
+volumes. We also dropped countries for which we did not have data from the G ,1.S. database
+that is separated by at Ie=t five years (notably, Switzerland). Finally, Thailand is dropped
+because the U.N. notes that data from year to year are not comparable. The United States is
+excluded from the analysis because it is our benchmark. This leaves us with the 43 countries in
+Table 2.
+13
+
+--- Page 44 ---
+Table 6:
+Robustness.
+The dependent variable is the annual compounded growth rate in real value added estimated for the
+period 1980-1990 for each ISIC industry in ea~ country. The industry’s share of total value added is
+computed dividing the 1980 value added of the industry by the total value added in manufacturing that
+year (bet h these data come from the United Nations statistics). External dependence is the fraction of
+capital expenditures not financed with internal funds by U.S. firms in the same industry during the 1980s.
+In column I this ratio is computed only for companies that have been public for at le=t 10 years, in
+column II the ratio is computed for companies that have gone public in the l=t 9 years, in column 111 is
+computed for U.S. firms during the 1970s. In columns IV and V external dependence is computed for all
+companies (as in the bmic specification), but in columns IV external dependence is interacted with the
+level of accounting standard of each country (divided by 100) and in column V the regression is restricted
+to industries that had a share of total value added in manufacturing above the median. All regressions
+contain fixed country and industry effects
+standard errors are reported in brackets.
+(coefficient estimates not reported). Heteroscedasticity robust
+Variable I II III IV v
+Industry’s share of total value -0.906 -().924 -0.871 -0.658 -0.602
+added in manufacturing in 1980 ( 0.252) ( 0.277) ( 0.238) ( 0.200) ( 0.199)
+Interaction (external dependence 0.050 0.042 0.100 0.158 0.062
+financial development) ( 0.019) ( 0.021 ) ( 0.049) ( 0.036) ( 0.023)
+R-squared 0.273 0.277 0.279 0.346 0.499
+Number of observations 1118 1085 1179 1032 591
+42
+
+--- Page 45 ---
+Table 7:
+Is financial dependence a proxy for other variables?
+The dependent -iable is the annual compounded growth rate in real value added estimated for the period
+1980-1990 for each ISIC industry in each country. The industry’s share of total tiue added is computed dividing
+the 1980 value added of the industry by the total due added in manufacturing that year (both these data come
+from the United Nations statistics). External dependence is the fraction of capital expenditures not financed with
+internal funds by U.S. firms in the same industry during the 1980s. Column I adds to the b=ic specification the
+interaction between external dependence and a country’s human capital. Column II adds to the basic specification
+the interaction between external dependence and a country’s level of economic development (log per capita
+income). Column 111 adds to the basic specification a wriable multiplying our fundamental interaction ~=iable
+and a dummy equal to one if an industry is above median size in a country with above median weighted average
+financial dependence. Column IV adds to the basic specification the interaction between external dependence and
+a country’s weighted average external dependence. The weighted average external dependence is the sum over
+all industries in a country of each industry’s share of value added in 1980 weighted by the external dependence.
+Column V estimates the basic specification for industries that in 1980 were less than the median size in their
+respective countries. Column VI estimates the basic specification using instrumental wriables. The instruments
+are the origin of a country legal system and the efficiency level of a country’s judicial system. All regressions
+contain fixed country and industry effects (not reported). Heteroscedasticity robust standard errors are reported
+in brackets.
+Variable I II III Iv v VI
+Industry’s share of total value
+added in manufacturing in 1980
+Interaction 1 (external dependence
+X financial development)
+Interaction 2 (external dependence
+X average years of schooling)
+Interaction 3 (external dependence
+X log of per capita income in 1980)
+Interaction 1 X dummy if industry
+above median in country with
+above median fin. dependence
+Interaction 4 (external dependence
+X weighted ave. external dependence)
+R-squared
+-0.948 -0.944 -0.903 -0.892 -5.890 -0.552
+( 0.249) ( 0.237
+0.063 0.049
+( 0.022) ( 0.022
+0.004
+( 0.003)
+0.013
+( 0.241 ) ( 0.240 ) ( 1.608
+0.072 0.075 0.074
+( 0.027) ( 0.037) ( 0.033
+(0.140)
+0.041
+(0.020)
+( 0.008)
+-0.004
+(0.013)
+-0.101
+( 0.324)
+0.286 0.295 0.290 0.290 0.359 0.113
+Number of observations 1171 1217 1217 1171 626 1149
+43
+
+--- Page 46 ---
+Cash Flow
+Table 8:
+and Investments
+The dependent variable is the annual compounded growth rate in real value added estimated for the
+period 1980-1990 for each ISIC industry in each country. The industry’s share of total value added is
+computed dividing the 1980 value added of the industry by the total value added in manufacturing that
+year (both these data come from the United Nations). Internal cash flow is the ratio of c=h flow from
+operations broadly defined (see text) to net property plant and equipment for U.S. firms in the same
+industry. Investment intensity is the ratio of capital expenditures to property plant and equipment for
+U.S. firms in the same industry. All regressions contain fixed country and industry effects (coefficient
+estimates not reported). Heteroscedasticity robust standard errors are reported in brackets.
+Variable I 11
+Industry’s share of total value -0.873 -0.893
+added in manufacturing in 1980 ( 0.236) ( 0.238)
+Interaction (internal cash flow -0.229 -0.187
+X financial development) ( 0.085 ) ( 0.090)
+Interaction 2 (investment intensiveness 0,093
+X financial development) ( 0.096)
+R-squared 0.288 0.289
+Number of observations 1217 1217
+44
+
+--- Page 47 ---
+Figure 1:
+Life Cycle of External Financing and Investments
+The graph plots the median level of external financing, equity financing, and investments in the
+U.S. across 3-digit SIC industries as a function of the number of years since the IPO. External
+finance is the amount of investments (CAPEX) not financed with cash flow from operations,
+reduction in inventories, or decreases in trade credit. Equity finance is the net amount of funds
+raised through equity issues divided by the amount of investments. Investment is the ratio of
+CAPEX to net property, plant and equipment. The IPO year is defined as the first year in
+which a company stats to be traded on the NYSE, AMEX, or NASDAQ. All the information
+is obtained from the flow of funds data in Compustat, except for the SIC code which is from
+CRSP.
+Median Across Industries
+1.5
+1 ‘,
+0.5
+0 ●
+-.
+-0.5
+-1 I
+o 4 8 12 16 20 24 28
+# ears since the IPO
+b= Equity Financing - External Finance = Investments
+45
+
+--- Page 48 ---
+Figure 2:
+Life Cycle of External Financing and Investments in
+Two Different Industries
+The two graphs plot the average level of external financing, equity financing, and investments in
+the U.S. for two 3-digit industries. External finmce is the amount of investments (CAPEX) not
+financed with c~h flow from operations, reduction in inventories, or decreases in trade credit.
+Equity finance is the net amount of funds raised through equity issues divided by the amount of
+investments. Investment is the ratio of CAPEX to net property, plant and equipment. The IPO
+year is defined = the first year in which a company starts to be traded on the NYSE, AMEX,
+or NASDAQ. All the information is obtained from the flow of funds data in Compustat, except
+for the SIC code which is from CRSP. Computer is SIC code 357, Steel is SIC code 331.
+2
+1.5
+1
+0.5
+0
+-0.5
+-1
+2
+1.5
+1
+0.5
+0
+-0.5
+-1
+Computer Industry (SIC Code = 357)
+..s. .
+%
+,,;,~.
+./ . . . . .
+~-.,.,,,,,, ., . . . . . . . . .
+an ,,,:,.,,,:,:..:
+v 1
+1
+0 4 8 12 16 20 24 20
+d= Equity Financing -
+years since IPO
+External Finance = Investments
+Steel Industry (SIC code = 331)
+#
+w m
+s ● s,
+a# ●a .,’’ -.*; V’; :Y:Tm
+1
+,8 1m, In s # s,9 m mm # 0:
+w i
+m 1 s ● m
+a~:m •~
+n~ •~
+m 9 ~ s’ m~
+o 4 8
+= Equity Financing
+# ~~ s~c~ the lP~ 24 20
+ternal Finance B Investments
