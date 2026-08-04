@@ -1,0 +1,2845 @@
+
+===== PAGE 1 =====
+ 
+ 
+  
+The Optimal Supply of 
+Central Bank Reserves Under 
+Uncertainty  
+Gara Afonso  | Gabriele La Spada  | Thomas M. Mertens  |  
+John C. Williams  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N O .  1077  
+N O V E M B E R  2 0 2 3 
+ 
+R E V I S E D 
+D E C E M B E R  2 0 25 
+ 
+===== PAGE 2 =====
+The Optimal Supply of Central Bank Reserves Under Uncertainty 
+Gara Afonso, Gabriele La Spada, Thomas M. Mertens, and John C. Williams 
+Federal Reserve Bank of New York Staff Reports, no. 1077 
+November 2023; revised December 2025 
+https://doi.org/10.59576/sr.1077 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstract 
+We provide an analytically tractable theoretical model for the optimal supply of reserves and the design of 
+standing liquidity facilities under uncertainty about banks’ demand for reserves. Absent a lending facility, 
+uncertainty creates a precautionary motive to supply additional reserves. Introducing a lending facility 
+generates a tradeoff between rate control and market disintermediation. If the facility rate is set optimally, 
+the presence of the facility reduces the optimal supply of reserves. If the central bank cannot set the 
+lending rate optimally, the optimal supply of reserves can be higher or lower than absent a facility.  
+ 
+JEL classification: E52, E58, E41, E42 
+Keywords: monetary policy implementation, rate control, federal funds rate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_________________ 
+ 
+Afonso, Spada, Williams: Federal Reserve Bank of New York (emails: gara.afonso@ny.frb.org, 
+gabriele.laspada@ny.frb.org, john.c.williams@ny.frb.org). Mertens: Federal Reserve Bank of San 
+Francisco (email: thomas.mertens@sf.frb.org). The authors thank Lorenzo Burlon, Matthieu Bussière, 
+Darrell Duffie, Antoine Martin, Ricardo Reis, Hyun Shin, David Skeie, Petra Tschudin, and participants 
+at presentations at the Federal Reserve Bank of New York, the Federal Reserve Bank of San Francisco, 
+the SNB-FRB-BIS GRUV conference, the First Banca d’Italia Monetary Policy Conference, the BIS 
+Research Conference, and the SNB Research Conference on Monetary Policy for helpful discussions. 
+ 
+This paper presents preliminary findings and is being distributed to economists and other interested 
+readers solely to stimulate discussion and elicit comments. The views expressed in this paper are those of 
+the author(s) and do not necessarily reflect the position of the Federal Reserve Banks of New York and 
+San Francisco, the Federal Open Market Committee, or the Federal Reserve System. Any errors or 
+omissions are the responsibility of the author(s). 
+To view the authors’ disclosure statements, visit 
+https://www.newyorkfed.org/research/staff_reports/sr1077.html. 
+===== PAGE 3 =====
+1 Introduction
+The ways in which central banks supply reserves and control interest rates in alignment
+with their monetary policy goals have evolved over the past two decades. Prior to the
+global financial crisis (GFC), many central banks opted for implementation frameworks
+whereby the quantity of reserves in excess of regulatory requirements is small, reserve
+supply intersects banks’ demand in the steeply-sloped region of the demand curve, and
+controlovershort-terminterestratesisexercisedthroughregularopenmarketoperations.
+InresponsetotheGFCandagainfollowingtheCOVID-19pandemic,manycentralbanks
+expanded their balance sheets through quantitative easing programs funded in part by
+large-scale increases of central bank reserves. These developments necessitated funda-
+mentalchangesinhowcentralbanksapproachtheprovisionofreserveswhilemaintaining
+control of short-term rates.
+As a result of their experiences in managing large balance sheets, several central
+banks—including the Federal Reserve, the European Central Bank, and the Bank of
+England—have significantly modified their strategies for supplying reserves and con-
+trolling interest rates. Although the approaches differ in important ways, a common
+feature of these approaches is that they combine the provision of a quantity of interest-
+bearing reserves with a standing lending facility designed to limit upward movements in
+short-term rates.
+This paper analyzes the optimal supply of reserves using an analytically tractable
+modelofthesupplyanddemandofreservesthathasapplicabilitytoarangeofinstitutional
+structures and policy objectives. The key building block of this analysis is a nonlinear
+demand curve for central bank reserves that is subject to uncertainty, consistent with the
+theoretical and empirical evidence (Poole, 1968; Afonso and Lagos, 2015; Bianchi and
+Bigio, 2022; d’Avernas et al., 2023; Lagos and Navarro, 2023; Afonso et al., 2025; and
+2
+===== PAGE 4 =====
+Copeland et al., 2025). The analytical model is simple and flexible, making it a useful
+framework to examine the effects of the variety of circumstances that underlie central
+banks’ decision-making regarding the supply of reserves and the design of liquidity
+facilities.
+The reserve demand curve represents the downward relationship between the price
+of reserves—measured as the spread between the short-term interest rate in the market
+for reserves and the interest rate paid on reserve balances held at the central bank—and
+the aggregate quantity of reserves. This demand is the result of a tradeoff: banks receive
+benefits from holding reserves but also incur costs. Since the net benefits decline with
+the quantity of reserves, the curve is nonlinear and has a lower asymptote. If a lending
+facilityispresent,thecurvehasalsoanupperasymptotebecausethefacilitysetsaceiling
+on market rates.
+The central bank controls two policy instruments: it sets the ex-ante aggregate level
+of reserves available to the banking system and the rate at which banks can borrow from
+the standing lending facility (for any given level of the interest rate on reserve balances).
+In our model, these decisions are made in advance of the realization of uncertainty about
+the demand for reserves. The analysis is static in nature and abstracts from learning,
+transition dynamics, and decisions regarding the assets held by the central bank.
+The central bank sets its two policy instruments to minimize a linear combination
+of the expected losses associated with three different aspects of supplying reserves to
+the banking system. First, the central bank aims to minimize deviations of the policy
+rate (i.e., the interest rate in the market for reserves) from its target level. Second, the
+central bank may have a target for the quantity of reserves that reflects goals that are
+unrelated to the control of short-term rates, such as the functioning of financial markets
+and financial stability. Third, usage of the standing lending facility may be associated
+with non-pecuniary costs for the central bank, such as disintermediation of the interbank
+3
+===== PAGE 5 =====
+market, which hinders the informativeness of prices and market efficiency.
+Thisanalysisyieldsfournovelinsightsregardingtheoptimalex-antesupplyofreserves
+and the design of standing liquidity facilities. First, we fully characterize the optimal
+supply of central bank reserves and the optimal lending facility spread (with respect to
+theinterestrateonreservebalances),alongwiththeassociatedmarketequilibrium,inthe
+presence of uncertainty about the demand for reserves. Second, we show that, absent a
+lending facility, the optimal ex-ante supply of reserves under uncertainty is greater than
+it would be absent uncertainty, while the average interbank market spread may be higher
+or lower than in the deterministic setting. Third, in the presence of a lending facility, the
+optimal facility spread increases with the penalty on facility usage in the central bank’s
+objective function; in the limiting case of no penalty, the optimal lending facility spread
+equals the target market spread. Fourth, given an optimal choice of the lending facility
+spread,theoptimalex-antesupplyofreservesissmallerthanitwouldbeabsentalending
+facility; if, on the other hand, the lending facility rate is not set optimally, the optimal
+ex-ante level of reserves may be lower or higher than it would be without the facility.
+Taken together, these results show that the optimal choices for the supply of reserves and
+the design of liquidity facilities depend critically on institutional factors, such as market
+frictions or constraints related to liquidity facilities, as well as central bank preferences
+over the various goals related to the supply of reserves.
+This paper makes two main contributions to the literature and policy debate. First,
+by deriving the optimal supply of central bank reserves under uncertainty, it adds to
+the academic literature on the optimal supply of money going back to Friedman (1969).
+Relevant related research includes Afonso et al. (2021), Yang (2022), d’Avernas et al.
+(2023), Lagos and Navarro (2023), Afonso et al. (2025), and Copeland et al. (2025), who
+empirically study how reserve scarcity led to severe dislocations of U.S. money market
+rates in September 2019. Other recent research related to this paper includes Martin
+4
+===== PAGE 6 =====
+et al. (2019),Bigio and Sannikov (2021), and Bianchi and Bigio (2022), who study the
+problem of optimal monetary policy implementation from the perspective of monetary
+policy transmission to the real economy. Second, this paper contributes to recent policy
+debates about the optimal framework for monetary policy implementation by providing
+a general, analytically tractable, theoretical model of monetary policy implementation
+thatincludesthefundamentaltoolsused bycentralbankstocontrolmoney-marketrates,
+encompassingthedifferentsystemsadoptedacrossjurisdictions. Thismodelcantherefore
+beusedtoformallyanalyzethetrade-offsthataffectthedesignofcentralbanks’operational
+frameworks.
+Thepaperisorganizedasfollows. Section2describestheinstitutionalbackground,the
+theoreticalmodelofthereservedemandcurve,howastandinglendingfacilityaffectsthe
+curve, and the central bank optimization problem. Section 3 derives the optimal ex-ante
+supply of reserves without a lending facility. Section 4 derives the optimal design of the
+lending facility and the implications for the optimal ex-ante supply of reserves. Section 5
+discusses rate control in different implementation frameworks and the trade-offs central
+banks face in the design of their frameworks. Section 6 concludes.
+2 Monetary Policy Implementation and Reserves Demand
+Central banks rely on two main sets of tools to implement monetary policy: instruments
+thatguidethepolicyratebyadjustingthequantityofreservesinthebankingsystemand
+instrumentsthatsteerthepolicyratebychangingtheratescontrolledbythecentralbank.
+Thechoiceoftoolkitdependsonthesensitivityofthepolicyratetochangesinthesupply
+and demand for reserves, which itself varies with the quantity of reserves in the system.
+5
+===== PAGE 7 =====
+2.1 Institutional Background
+The Federal Reserve has implemented monetary policy with different frameworks over
+time. Before the GFC of 2007–09, reserves were scarce, fluctuating within the steeply
+sloped region of the reserve demand curve. In this regime, control of the policy rate—
+the federal funds rate—was maintained through daily changes in the supply of reserves.
+Every day, the Federal Reserve would forecast banks’ demand for reserves and those
+factorsthataffectthesupplyoutsideitscontrol; giventheseforecasts, itwouldtheninject
+or drain reserves through daily repurchase agreement (repo) operations with primary
+dealers to ensure that the policy rate remained close to its target. Currently, several
+jurisdictions—including the central banks of Korea, Turkey, and Sweden—continue to
+carry out monetary policy in this way.
+WiththeonsetoftheGFC,theFederalReserveundertookseveralroundsofquantitative
+easing,purchasinglonger-termfinancialassetstoimproveconditionsinfinancialmarkets
+and stimulate the economy (Bernanke, 2020). As a result of these purchases, reserves
+in the banking system increased substantially, moving into the lower asymptote of the
+reserve demand curve, and the policy rate became insensitive to small adjustments in
+the supply.1 For this reason, the Federal Reserve transitioned to implementing monetary
+policy primarily through administered rates. In this new regime, rather than adding or
+subtracting reserves daily, the Federal Reserve adjusts the interest rates of its deposit and
+lendingfacilitiestomaintainthepolicyratewithinthetargetrange. TheEuropeanCentral
+Bank (ECB), Bank of England, and Bank of Canada had similar experiences.
+Since then, several central banks have reviewed and modified their frameworks. In
+January2019,theFederalReservecompleteditsreviewandannouncedthatitwillcontinue
+to implement monetary policy in a regime with an ample supply of reserves where rate
+1Reservesincreasedfrom0.6%ofbankassetsduring2000:Q1–2008:Q2to12.5%during2008:Q3–2020:Q1.
+As a result of the quantitative easing implemented by the Federal Reserve in response to the COVID-19
+pandemic, this ratio increased further to 15.1% during 2020:Q2–2025:Q2.
+6
+===== PAGE 8 =====
+control is exercised primarily through the setting of its administered rates. To strengthen
+rate control, the Federal Reserve established a standing repo facility (SRF) in 2021 to set a
+ceiling on short-term rates and thus limit occasional upward pressure.2
+In 2024, the ECB concluded the review of its framework and also decided to continue
+to implement monetary policy through administered rates. Among other changes, the
+ECBnarrowedthespreadbetweentherateatthelendingfacilityforthemainrefinancing
+operationsandtherateatthedepositfacility(EuropeanCentralBankGoverningCouncil
+(2024)). Similarly, the 2022–24 Bank of England’s review also resulted in a decision to
+control the policy rate through administered rates and reliance on a standing lending
+facility, the short-term repo facility, to provide unlimited amounts of reserves to the
+bankingsystem(BankofEngland(2022)). ThenoveltyoftheBankofEnglandapproachis
+thatitsetsthespreadbetweentheupperandlowerboundsofthepolicyratetozero,aiming
+tomakethepolicyrateconstantandindependentofaggregatereservesandtoincentivize
+banks to borrow from the central bank as much as they need (Bank of England (2024)).
+Other central banks have also reviewed and modified their implementation frameworks
+recently, including the Bank of Canada (Bank of Canada (2025)) and the Reserve Bank of
+Australia (Kent (2025)).
+2.2 A Model of Reserve Demand
+The reserve demand curve represents the relationship between the interest rate at which
+banks are willing to trade reserve balances with each other and the aggregate reserves in
+the banking system. Economic theory predicts that this curve is nonlinear (Poole (1968)):
+it decreases with reserves and levels out with higher reserve balances. The intuition
+is simple: banks hold reserves to meet their liquidity needs (e.g., payments, regulatory
+2The Federal Reserve also established a repo facility for foreign and international monetary authorities
+(FIMA repo facility) to address pressures in global dollar funding markets.
+7
+===== PAGE 9 =====
+requirements). As the quantity of reserves increases, the net benefit of an additional unit
+of reserves declines, and the relation between price and quantity becomes flatter. For
+low levels of reserves, the slope of the curve is steep, and a small change in the quantity
+of reserves results in a significant change in the market rate; this region of the demand
+curve is called the “scarce reserves” region. At higher levels of reserves, the slope is still
+negativebutsmallerinmagnitude;thisisoftenreferredtoasthe“amplereserves”region.
+At sufficiently high levels of reserves, the curve is flat, i.e., bank demand is satiated; this
+is called the “abundant reserves” region.3
+In practice, it is convenient to write the demand curve in terms of the spread between
+therateatwhichbankstradereservesandtherateatwhichthecentralbankremunerates
+reserve balances. In this way, the demand curve is unaffected by changes in banks’
+opportunitycostoflendingreservesdrivenbythestanceofmonetarypolicy. 4 Westartby
+analyzingasimplifiedversionofthemodelinwhichthereareonlytworegionsofdemand
+for reserves: ample and abundant reserves; in Section 3.4, we present an extension of the
+model with a third region with scarce reserves.
+Wemodelthespreadbetweentheinterbankmarketrateandtheinterestrateonreserve
+balances, 𝑆, as a piecewise-linear function of aggregate reserves,𝑋:
+𝑆 =
+ 
+
+¯𝑆 + 𝜈 − 𝛼(𝑋 − ¯𝑋 − 𝜖) if 𝑋 < ¯𝑋 + 𝜖,
+¯𝑆 + 𝜈 else,
+(1)
+where ¯𝑋 + 𝜖 denotes the level of reserves above which the demand for reserves becomes
+flat (abundant reserves),𝛼 > 0 is the steepness of the demand curve if𝑋 < ¯𝑋 + 𝜖 (ample
+reserves), and ¯𝑆 + 𝜈 is the spread if reserves are abundant (floor of the demand curve).
+3SeeEnnisandKeister(2008),AfonsoandLagos(2015),ArmenterandLester(2017),Afonsoetal.(2019),
+Kim et al. (2020), Bigio and Sannikov (2021), Bianchi and Bigio (2022), and Lagos and Navarro (2023).
+4This representation of the demand curve has been broadly adopted by recent theoretical and empirical
+papers. SeeBigioandSannikov(2021);BianchiandBigio(2022);Lopez-SalidoandVissing-Jorgensen(2022);
+Lagos and Navarro (2023); Acharya et al. (2023); Afonso et al. (2025).
+8
+===== PAGE 10 =====
+Consistentwiththetheory,theslopeofthedemandcurveintheabundantreservesregion
+is zero.5 We assume that ¯𝑋, 𝛼, and ¯𝑆 are known to the central bank, whereas𝜖 and 𝜈
+are uncertain. In Section 3.4, we present an extension of the model that also includes
+uncertainty about the slope of the demand curve.
+Absent uncertainty, the demand curve is𝑆 = max( ¯𝑆, ¯𝑆 − 𝛼(𝑋 − ¯𝑋)), which is shown
+by the solid black lines in Figure 1. In the flat region of the reserve demand curve, where
+reservesareabundant,theinterbankmarketrateisanchoredtotheinterestrateonreserve
+balances. In the absence of frictions, the spread between these rates,¯𝑆, is zero. In the
+presence of frictions such as balance-sheet costs or market segmentation, however, the
+spread can be negative (Afonso et al., 2019; Kim et al., 2020).
+Figure 1 also shows how the two elements of uncertainty in our model affect the
+demand for reserves. Each type of uncertainty is represented by a mean-zero shock
+with finite variance that is uncorrelated with the other shock. The shock𝜖 represents
+uncertainty about the location of the kink in the demand curve; it is assumed to have
+a continuous probability density function𝑔(·), a cumulative distribution function𝐺(·),
+and variance 𝜎2
+𝜖. This horizontal shock can be interpreted as an unobserved horizontal
+shift to the demand curve due to changes in banks’ demand for liquidity; it can also be
+interpreted as a shock to the supply of reserves caused by factors outside the control of
+the central bank.6 The shock 𝜈, with variance𝜎2
+𝜈, reflects uncertainty about the level of
+the floor of the demand curve and affects the spread equally along the curve. This shock
+can be interpreted as an unobserved vertical shift to the demand curve due to changes in
+the frictions that determine¯𝑆.
+Both of our key modeling assumptions—a nonlinear reserve demand curve with a
+5Our analysis and key results carry over if the slope in the abundant reserves region is negative, as long
+as it is smaller in magnitude than the average slope in the ample reserves region.
+6Inmanyjurisdictions,currencyincirculation(banknotesandcoins)andthegovernmentaccountatthe
+centralbank(e.g.,theTreasuryGeneralAccountintheU.S.)constituteimportantfactorsoutsidethecontrol
+of the central bank that affect the level of reserves in the banking system.
+9
+===== PAGE 11 =====
+lower flat region and the presence of horizontal and vertical shifts—are consistent with
+the empirical evidence about banks’ demand for reserves in the United States (Afonso et
+al. (2025)); see Appendix C for more details.
+Figure 1:A Graphical Representation of Uncertainty about the Demand for Reserves.
+These figures show the effects of the two types of uncertainty on the demand for reserves
+in equation (1). Panel (a) shows the effect of uncertainty about the horizontal location of
+the kink ¯𝑋 (𝜖 shock); panel (b) shows the effect of uncertainty about vertical location (the
+floor) of the demand curve¯𝑆 (𝜈 shock).
+(a)Uncertaintyaboutlocationofthekink( 𝜖 shock)
+ (b)Uncertaintyaboutthelevelofthefloor( 𝜈shock)
+2.3 Standing Lending Facilities
+Central bank standing lending facilities enhance rate control by establishing a ceiling on
+theratesatwhichbanksarewillingtoborrowfromeachother: absentfrictions,ifalending
+facilityisavailable,banksshouldnotborrowinthemarketatratesabovethefacilityrate. 7
+Central banks design their lending facilities weighting the benefits and costs of public
+liquidity provision: they aim to balance the advantages for rate control with concerns
+about market disintermediation, which could hinder monitoring and price discovery.8
+7Frictionssuchasstigmaandbalance-sheetcostsmaypushtheupperboundhigherthanthefacilityrate.
+8SeeFederalReserve(2021)forconsiderationsontheestablishmentofstandingrepofacilitiesintheU.S.
+10
+===== PAGE 12 =====
+Inourmodel,weassumetheimplementationframeworkincludesafixed-ratelending
+facility. We denote the spread between the lending facility rate and the interest rate on
+reserve balances by ¯𝑆𝐿. We begin our analysis by assuming that the facility spread is
+exogenous, that is, the central bank chooses the ex-ante reserve supply taking the facility
+spreadasgiven; thiscouldbethecaseiflegalorotherinstitutionalconstraintsrestrictthe
+setting of the lending rate. We then relax this assumption and allow the central bank to
+jointly choose the ex-ante supply of reserves and the lending rate spread.
+We abstract from stigma and other frictions and assume that the facility spread,¯𝑆𝐿,
+sets a ceiling on the market spread, as shown in Figure 2. We also assume that banks can
+borrow from the facility after uncertainty is realized. When banks’ demand for reserves
+intersects the total ex-ante supply (𝑋 + 𝜖) at a spread above¯𝑆𝐿, banks borrow from the
+facilitytheamountofreserves 𝐿thatmakesthetotalsupply(ex-antesupplyplusborrowed
+reserves) equal to the level of reserves corresponding to¯𝑆𝐿 on the demand curve. This
+quantity is a random variable, described by:
+𝐿 =
+ 
+
+− 1
+𝛼
+  ¯𝑆𝐿 − ¯𝑆 − 𝜈 − (𝑋 − ¯𝑋 − 𝜖) if ¯𝑆 + 𝜈 − 𝛼(𝑋 − ¯𝑋 − 𝜖) > ¯𝑆𝐿,
+0 else,
+where ¯𝜖𝐿 = 𝑋 − ¯𝑋 +
+¯𝑆𝐿 − ¯𝑆
+𝛼 is the cutoff value for the demand shock at which the facility
+is first utilized; then, the probability of using the lending facility is1 − 𝐺( ¯𝜖𝐿), and the
+demand for reserves is given by
+𝑆 =
+ 
+
+¯𝑆𝐿 if 𝑋 < ¯𝑋 + 𝜖 − 1
+𝛼
+  ¯𝑆𝐿 − ¯𝑆 − 𝜈 ,
+¯𝑆 + 𝜈 − 𝛼(𝑋 − ¯𝑋 − 𝜖) if ¯𝑋 + 𝜖 − 1
+𝛼
+  ¯𝑆𝐿 − ¯𝑆 − 𝜈 < 𝑋 < ¯𝑋 + 𝜖,
+¯𝑆 + 𝜈 else.
+(2)
+11
+===== PAGE 13 =====
+Figure 2:Reserve Demand Curve with a Standing Lending Facility.This figure shows
+the effect of a fix-rate lending facility on the demand for reserves.
+2.4 The Central Bank Optimization Problem
+The central bank has two main tools to steer the policy rate towards its target. First, it can
+alter the ex-ante supply of reserves𝑋, through outright asset purchases (or sales) or repo
+operations. Second, if alendingfacilityhasbeen established, the centralbankcanchange
+the spread between the facility rate and the interest rate on reserve balances¯𝑆𝐿, to adjust
+the ceiling on market rates.
+Given the demand curve in equation (2), the central bank uses these two implementa-
+tion tools to minimize the following quadratic objective function
+ℒ = min
+𝑋 , ¯𝑆𝐿
+
+E
+ 1
+2
+
+(𝑆 − ˆ𝑆)2 + 𝜆(𝑋 − ˆ𝑋)2
+
++ 𝜇𝐿
+
+= min
+𝑋 , ¯𝑆𝐿
+ 1
+2
+
+(E𝑆 − ˆ𝑆)2 +Var[𝑆] + 𝜆(𝑋 − ˆ𝑋)2
+
++ 𝜇𝐿
+
+,
+(3)
+where ˆ𝑆 and ˆ𝑋 are the target spread and the target level of reserves that the central bank
+aims to achieve;𝐿 is the amount that banks borrow from the lending facility;𝜆 ≥ 0 is the
+relative weight given to deviations from the reserves targetˆ𝑋; and 𝜇 ≥ 0 is the penalty
+related to facility usage.
+12
+===== PAGE 14 =====
+Notethatinthecentralbanklossfunction(3),wetreattheex-antesupplyofreserves, 𝑋,
+differentlyfromthereservesborrowedfromthefacility, 𝐿. Thisspecificationisconsistent
+with the theoretical arguments in Section 5, which suggest that the ex-ante supply of
+reserves and reserves borrowed from a lending facility have different costs and benefits
+for the central bank. Also note that the central bank optimization problem is static; that
+is, we assume that the degree of uncertainty is fixed and there is no ability to learn.
+The target spread,ˆ𝑆, reflects efficiency and welfare considerations that are related to
+the levelof money-market spreadsin the economy. Anatural benchmark is theFriedman
+rule: absent frictions, to maximize economic efficiency, it would be optimal not to set a
+spreadbetweentherateinthemarketforreservesandtheinterestrateonreservebalances
+( ˆ𝑆 = ¯𝑆 = 0). However, in the presence of frictions, such as bank balance-sheet costs or
+householdcreditconstraints,itcanbeoptimalforthecentralbanktotargetaspreadabove
+the lower asymptote of the reserve demand curve,ˆ𝑆 > ¯𝑆 (Bigio and Sannikov, 2021).
+Thecentralbankmayalsohaveaseparatetargetforthelevelofreserves, ˆ𝑋. Thistarget
+reflects considerations about the quantity of reserves in the system that are not directly
+related to the level of money-market spreads in the economy; typical examples are the
+political economy concerns about a large central bank balance-sheet (Bindseil, 2016) and
+the concerns about the possible disintermediation of the banking system and its impact
+on market discipline and price discovery (Borio, 2023). In Section 5.2, we discuss these
+considerationsinmoredetail. Iftheseconcernsaresufficientlylarge,thecentralbankmay
+target a level of reserves below the region of abundant reserves (ˆ𝑋 < ¯𝑋).
+3 Optimal Policy Without a Lending Facility
+In this section, we analytically derive the optimal supply of reserves by the central bank
+given the demand curve in equation (1), i.e., in the absence of a lending facility. In this
+13
+===== PAGE 15 =====
+setting, the central bank has only one instrument: the ex-ante supply of reserves𝑋.
+3.1 Optimal Supply of Reserves Absent Uncertainty
+We first analyze the optimal supply of reserves in the deterministic version of the model
+that excludes the two shocks𝜖 and 𝜈 in equation (1). The proofs for the results in this
+section are in Appendix A.1.
+We begin by assuming that both central bank targets are in the ample region (ˆ𝑋 > ¯𝑋
+and ˆ𝑆 > ¯𝑆). Taking the first-order condition for problem (3) and substituting the demand
+for reserves in the ample reserves region into the first-order condition yields the optimal
+level of reserves absent uncertainty,𝑋∗:
+𝑋∗ = ¯𝑋 − 1
+𝛼2 + 𝜆
+
+𝛼( ˆ𝑆 − ¯𝑆) + 𝜆( ¯𝑋 − ˆ𝑋)
+
+< ¯𝑋.
+The optimal level of reserves absent uncertainty increases less than one-for-one with the
+targetlevelofreserves ˆ𝑋 anddecreaseswiththetargetspread ˆ𝑆.9 Theequilibriumspread
+implied by the optimal level of reserves absent uncertainty,𝑆∗, is given by:
+𝑆∗ = 𝛼2
+𝛼2 + 𝜆
+ˆ𝑆 + 𝜆
+𝛼2 + 𝜆 𝑆( ˆ𝑋),
+where 𝑆( ˆ𝑋)is the point on the demand curve atˆ𝑋.
+The spread under the optimal supply of reserves absent uncertainty equals the target
+spreadif 𝜆 = 0andincreaseslessthanone-for-onewiththetargetspreadif 𝜆 > 0. Without
+uncertainty, the optimal spread lies between the target spread and the spread implied by
+the target level of reserves.
+We now consider the other cases for the central bank targets. If the target for the
+9The associated second-order condition for a minimum is𝛼2 + 𝜆 > 0, which holds by assumption.
+14
+===== PAGE 16 =====
+ex-ante supply of reserves is in the ample region (ˆ𝑋 < ¯𝑋), and the target spread is equal
+tothelowerasymptoteofthereservedemandcurve( ˆ𝑆 = ¯𝑆;e.g.,theFriedmanruleabsent
+frictions), the optimal supply of reserves and the optimal spread are the same as above.
+If the target level of reserves is in the abundant region (ˆ𝑋 > ¯𝑋), and the target spread is
+in the ample region (ˆ𝑆 > ¯𝑆), the optimal supply of reserves is the same as above if and
+only if the penalty for deviating from the target for reserves,𝜆, is sufficiently small; if𝜆
+is sufficiently large, the optimal supply of reserves is equal to the target levelˆ𝑋, and the
+optimal spread is¯𝑆.10 Obviously, if both targets are in the abundant region (ˆ𝑋 > ¯𝑋 and
+ˆ𝑆 = ¯𝑆), the central bank hits these targets exactly (𝑋∗ = ˆ𝑋 and 𝑆∗ = ˆ𝑆).
+In the following analyses, we focus on the more interesting cases whereˆ𝑋 < ¯𝑋,
+whichcanbeinterpretedasreflectingtheconcernsaboutanexcessivelylargecentralbank
+balance sheet described in Section 2.4.
+3.2 Expected Spread and Its Variance Under Uncertainty
+We start by deriving the expected spread and its variance under uncertainty.11 The
+derivations of all the results in this section are in Appendix A.2.
+Foragivenlevelofreservesintheampleregion, 𝑋,thecutoffvalueoftheshock 𝜖such
+that reserves become abundant, denoted by¯𝜖(𝑋), is given by:
+¯𝜖(𝑋) = 𝑋 − ¯𝑋.
+For a given𝑋, the probability of being in the abundant reserves region is thenProb
+
+𝜖 <
+¯𝜖(𝑋)
+
+= 𝐺
+
+¯𝜖(𝑋)
+
+. Tosimplifynotation,fortheremainderofthepaper,weuse ¯𝜖toindicate
+10The threshold is˜𝜆 = 𝛼
+ˆ𝑆 − ¯𝑆
+ˆ𝑋 − ¯𝑋
+
+2 + 𝛼
+ˆ𝑋 − ¯𝑋
+ˆ𝑆 − ¯𝑆
+ −1
+.
+11The proofs underlying the results reported here build on methods developed for piecewise linear
+stochastic models developed in Mertens and Williams (2021) and Bok et al. (2025).
+15
+===== PAGE 17 =====
+¯𝜖(𝑋).
+The mean spread under uncertainty is
+E[𝑆] = ¯𝑆 + 𝛼
+
+𝒢( ¯𝜖) − ¯𝜖
+
+≥ max
+ ¯𝑆 − 𝛼(𝑋 − ¯𝑋), ¯𝑆
+
+, (4)
+where 𝒢(𝑥) =
+∫ 𝑥
+−∞ 𝐺(𝑢)d𝑢 denotes the super-cumulative distribution function of𝜖, and
+the term on the right-hand side of the inequality is the spread in the deterministic case.
+The mean spread is greater than the deterministic one for all levels of reserves because
+there is an inherent asymmetry with regards to horizontal uncertainty:𝜖 has no effect
+on the spread at high levels of reserves because its distribution is truncated along the
+horizontalportionofthereservedemandcurve,butitdoesaffectthespreadinthesloped
+region of the curve. This asymmetry smooths the convex relationship between the mean
+spread and the level of reserves around the kink implied by the underlying piecewise-
+linear model and, as a result, the mean spread is higher for every reserve level. Figure 3
+illustrates this result. In contrast, uncertainty about the vertical location of the demand
+curve (𝜈) has no effect on the mean spread, at any level of reserves. It is straightforward
+to show that the mean spread decreases with the ex-ante supply of reserves. In contrast
+to the deterministic case, however, the rate of decrease declines as reserves increase.
+The variance of the spread is given by:
+Var[𝑆] = 𝜎2
+𝜈 − 𝛼2
+
+𝒢( ¯𝜖) − ¯𝜖
+ 2
++ 𝛼2
+
+¯𝜖2 + 𝜎2
+𝜖 − 2G( ¯𝜖)
+
+∈ [ 𝜎2
+𝜈, 𝜎2
+𝜈 + 𝛼2𝜎2
+𝜖], (5)
+where G(𝑥) =
+∫ 𝑥
+−∞ 𝒢(𝑢)d𝑢 denotes the super-super cumulative distribution function of𝜖.
+Theeffectsofuncertaintyaboutthehorizontallocationofthecurveonthevarianceofthe
+spreaddependonthesupplyofreserves,asshownbythedependenceonthecutoff ¯𝜖. The
+effect of uncertainty about the vertical location, in contrast, is constant because vertical
+shifts move the spread by the same amount at every level of reserves. In the case without
+16
+===== PAGE 18 =====
+horizontal shocks, the variance arises purely from vertical shocks, and Var[𝑆] = 𝜎2
+𝜈.
+Importantly, the variance of the spread decreases with the ex-ante supply of reserves.
+This result again arises from the floor of the demand curve: as the central bank supplies
+more reserves, the spread is more likely to be in the flat part of the demand curve, where
+it is insensitive to horizontal shocks. In particular, as reserves go to infinity, the variance
+of the spread converges to the variance of vertical shifts𝜎2
+𝜈. In contrast, as reserves go to
+negative infinity, the variance converges to𝜎2
+𝜈 + 𝛼2𝜎2
+𝜖, which is the variance of the spread
+in the absence of a floor in the reserve demand curve. In practice, this limit corresponds
+to the case of a central bank operating far from the floor and deep into the sloped region
+of the reserve demand curve—such as in the monetary policy frameworks implemented
+by the central banks of most advanced economies before the GFC.
+Theseresultsshowthatthecentralbankcaninfluencethevariabilityoftheinterestrate
+spread, even without a lending facility, through its provision of reserves. As we discuss
+in the next section, these features of the mean and variance of the spread have important
+implications for the optimal supply of reserves.
+3.3 Optimal Supply of Reserves under Uncertainty
+We now turn to the derivation of the optimal supply of reserves under uncertainty, in
+the absence of a lending facility. After substituting the reserve demand curve (1) into the
+optimization problem, the central bank’s objective function is given by:
+min
+𝑋
+1
+2
+( 
+( ¯𝑆 − ˆ𝑆)2 + 𝜎2
+𝜈
+
+𝐺( ¯𝜖) + E
+
+¯𝑆 + 𝜈 − 𝛼(𝑋 − ¯𝑋 − 𝜖) − ˆ𝑆
+ 2 𝜖 > ¯𝜖
+
++ 𝜆(𝑋 − ˆ𝑋)2
+)
+.
+Note that, as we explain in greater detail below, certainty equivalence doesnot hold due
+to the truncation of the effect of horizontal shocks,𝜖, on the spread𝑆
+Unlike the case of no uncertainty, the first-order condition is an implicit function
+17
+===== PAGE 19 =====
+of the optimal reserves supply 𝑋∗∗ that may have multiple solutions, some of which
+represent local minima and others local maxima depending on the sign of the second-
+order condition. That said, since the loss function is continuous and monotonically
+increases as reserves go to plus or minus infinity, there exists a global minimum. In our
+analysis, we rely on the second-order condition holding at the global minimum, while
+recognizing that there may be other local minima.
+The key results regarding the effects of uncertainty on the optimal supply of reserves
+are summarized in the following proposition.
+Proposition 1 (Uncertainty Increases Optimal Supply of Reserves)
+With joint uncertainty about𝜖 and 𝜈, the optimal level of reserves,𝑋∗∗, is characterized as follows
+𝑋∗∗ = 𝑋∗ + 𝛼2
+𝛼2 + 𝜆𝒢( ¯𝜖) + 𝛼
+𝛼2 + 𝜆 ( ˆ𝑆 − ¯𝑆)𝐺( ¯𝜖) ≥ 𝑋∗, (6)
+whichincreaseswith ˆ𝑋 anddecreaseswith ˆ𝑆. Theassociatedmeanspreadunderuncertainty, E𝑆∗∗,
+is given by:
+E𝑆∗∗ = 𝑆∗ + 𝛼(𝒢( ¯𝜖) + 𝑋∗ − 𝑋∗∗) ≶ 𝑆∗.
+Proof: See Appendix A.3 for details on the derivations. □
+Uncertainty about horizontal shifts in the reserve demand curve creates a precaution-
+ary motive to supply additional reserves. Uncertainty about horizontal shifts increases
+the optimal supply of reserves because the kink in the demand curve truncates the effect
+of reserves on the spread along the horizontal part of the curve. As a result, horizontal
+shifts have an asymmetric effect on the spread: on average, shifts to the right (i.e., higher
+demand) increase the spread more than shifts to the left (i.e., lower demand) decrease it.
+Alargersupplyofreserveshastwoeffects: itreducesthedeviationfromthetargetspread
+caused by the increase of the mean spread due to uncertainty (see equation (4)), and it
+18
+===== PAGE 20 =====
+reduces the overall variability of the spread (see equation (5)).
+Uncertaintyabouthorizontalshiftsmayincreaseordecreasetheoptimalmeanspread
+due to two opposing effects: the direct effect of higher uncertainty, which increases the
+mean spread for any given value of reserves, and the indirect effect of a higher optimal
+level of reserves, which decreases the spread at the optimum. This result is important
+because it implies that it is not possible to judge the optimality of a central bank’s reserve
+supply in response to changing market conditions based on the level of the spread.
+Figure 3 illustrates the optimal choice of reserves and the corresponding mean policy
+rate spread under different uncertainty configurations. The black square denotes the
+optimalchoicesabsentuncertainty. Theredsquaresshowtheoptimalchoiceswhenthere
+is uncertainty about the kink (𝜖 shocks).
+Finally, note that uncertainty about the floor of the demand curve (𝜈 shocks) does not
+affect the mean spread or the optimal reserve supply. The reason is that vertical shocks
+simply add a constant term to the variance of the spread without affecting its mean (see
+equations (4) and (5)) and do not change how the supply of reserves affects the spread.
+A direct implication of equation (6) is that an equally-sized joint increase in¯𝑋 and ˆ𝑋
+yieldsaone-for-oneincreaseintheoptimalsupplyofreserves. Similarly,anequally-sized
+joint increase in ¯𝑆 and ˆ𝑆 has no effect on the optimal supply of reserves. The reason
+is that, for rate control, only the difference between the target spread and the spread’s
+lower asymptote matters.12 As in the deterministic case, the optimal level of reserves is
+increasing in the target level of reserves (if𝜆 > 0) and decreasing in the target spread.
+Although we assume that the central bank targets a level of reserves in the ample
+reserves region (ˆ𝑋 < ¯𝑋), under certain conditions it can be optimal to set the level of
+reservesintheabundantregion. Absentuncertaintyabouthorizontalshiftsinthereserve
+demand curve, if the central bank targets an ample reserve level, it is never optimal
+12From equation (6), it is straightforward to show that𝑑𝑋 ∗∗
+𝑑 ˆ𝑆
+= − 𝑑𝑋 ∗∗
+𝑑 ¯𝑆
+; see Appendix A.3.
+19
+===== PAGE 21 =====
+Figure 3: Expected Interest Rate Spread and Optimal Reserves.This figure shows the
+expected spread between the market-implied policy rate and the interest rate on reserve
+balances, both absent uncertainty and in the presence of different types of uncertainty
+about the reserve demand curve. The dashed black line represents the deterministic case
+withoutuncertaintyaboutthelocationofthekinkbetweenampleandabundantreserves
+(𝜖shocks). Theredlinerepresentsthecasewithuncertaintyaboutthelocationofthekink.
+The squares represent the expected spreads at the optimal reserve levels in the different
+specifications: blackforthedeterministiccaseandredforthecasewithuncertaintyabout
+the location of the kink. In these figures, the zero-mean independent shocks𝜖 and 𝜈 are
+assumed to be normally distributed. Note that the expected spread and optimal reserves
+when there is only uncertainty about the floor of the demand curve (𝜈 shocks) are the
+same as in the deterministic case.
+to supply abundant reserves. However, in the presence of this type of uncertainty, it
+is optimal to supply an abundant amount of reserves if the degree of uncertainty is
+sufficiently large; in particular if and only if the following condition is met:
+−𝛼
+
+1 − 𝐺( ¯𝜖)
+
+( ˆ𝑆 − ¯𝑆) + (𝛼2 + 𝜎2
+𝜂)𝒢( ¯𝜖) − 𝜆( ¯𝑋 − ˆ𝑋) > 0.
+See Appendix A.3 for a derivation. Importantly, whether providing abundant reserves is
+optimal depends on the weight that the central bank puts on deviations from the target
+level of reserves, 𝜆. A higher value of 𝜆 raises the hurdle to meet the condition for
+abundant reserves to be optimal.
+20
+===== PAGE 22 =====
+3.4 Extensions
+The basic model can be extended in a number of directions without loss of analytical
+tractability. We briefly consider two such extensions here and leave the details to the
+appendix. Thefirstincorporatesuncertaintyabouttheslopeofthereservedemandcurve.
+The second adds a steeper part of the demand curve for low, or scarce, levels of reserves.
+Uncertainty about the slope of the demand curve provides an additional reason to
+increase the supply of central bank reserves. It is optimal to guard against shocks to
+the slope by supplying an additional buffer of reserves, analogous to the literature on
+conservatism in the presence of multiplicative uncertainty started by Brainard (1967).
+Appendix A.4.1 shows this extension.
+The addition of a region with a steeper slope also reinforces the precautionary motive
+to supply more reserves because shocks that push the level of reserves into the steeply-
+slopedpartofthecurvegeneratehigherratevariability. Asaresult,theoptimalsupplyof
+reserves is larger than in the otherwise equivalent two-region model under uncertainty.
+Moreover,theconditionunderwhichthecentralbankfindsitoptimaltosupplyabundant
+reserves is relaxed. Appendix A.4.2 shows this extension.
+4 Optimal Policy With a Lending Facility
+In this section, we show how the presence of fixed-rate lending facilities can alleviate
+the effect of uncertainty on the optimal supply of reserves by reducing the central bank’s
+precautionary motive to supply more reserves. A lending facility prevents the interest
+rate spread from rising beyond a certain level, introducing a ceiling in the distribution of
+realized spreads. We derive both the conditions under which the optimal reserve supply
+is higher or lower than in implementation frameworks without a lending facility and the
+21
+===== PAGE 23 =====
+optimalspreadbetweenthelendingfacilityrateandtheinterestrateonreserves. 13 Aswe
+explain below, the tradeoff between rate control and market disintermediation caused by
+facility usage makes the central bank problem non-trivial.
+4.1 Expected Spread and Variance of the Spread
+In the presence of a lending facility, the expected spread is given by:
+E[𝑆] = ¯𝑆𝐿 − 𝛼 [𝒢( ¯𝜖𝐿) − 𝒢( ¯𝜖)] ∈ [ ¯𝑆, ¯𝑆𝐿], (7)
+where ¯𝜖𝐿 = ¯𝜖 +
+¯𝑆𝐿− ¯𝑆
+𝛼 . The derivation of equation (7) is given in Appendix B.1. It is
+straightforwardtoshowthattheexpectedspreadincreaseswiththelendingfacilityspread
+( ¯𝑆𝐿)anddecreaseswiththeex-antesupplyofreserves. Itconvergestothelendingfacility
+spread from below as reserves go to minus infinity and to the lower asymptote of the
+reserve demand curve (¯𝑆) from above as reserves go to infinity. Moreover, there exists
+only one critical level of the ex-ante supply of reserves at which the expected spread is
+equaltothedeterministicspread,withtheexpectedspreadbeingbelowthedeterministic
+one for lower reserve levels and above it for higher reserve levels. If the distribution
+of horizontal uncertainty 𝑔(𝜖) is symmetric around zero, the intersection between the
+expected and deterministic spreads occurs at the midpoint between the two kinks in the
+reserve demand curve (¯𝑋 −
+¯𝑆𝐿 − ¯𝑆
+2𝛼 ). The proofs of these results are in Appendix B.1.
+The variance of the spread in the presence of a lending facility is given by:
+Var[𝑆] = 𝜎2
+𝜈 +   ¯𝑆𝐿 − ¯𝑆 2 − 2𝛼   ¯𝑆𝐿 − ¯𝑆 𝒢( ¯𝜖𝐿) − 𝛼2 {[𝒢( ¯𝜖𝐿) − ¯𝜖𝐿] − [𝒢( ¯𝜖) − ¯𝜖]}2
++ 2𝛼2 [G( ¯𝜖𝐿) − G( ¯𝜖)] . (8)
+13Forthepurposeofouranalysis,theinstitutionaldetailsofthefacilityset-up,suchascollateraleligibility
+and loan term, are not material.
+22
+===== PAGE 24 =====
+SeeAppendixB.1foraderivation. Thevarianceinequation(8)increaseswiththelending
+facilityspreadandconvergestothevarianceofverticaluncertainty 𝜎2
+𝜈fromaboveastheex-
+ante supply of reserves go to minus or plus infinity.14 Moreover, if horizontal uncertainty
+is symmetric around zero, the variance is symmetric around the midpoint between the
+kinks in the reserve demand curve. Additionally, if the probability density function
+of horizontal uncertainty is also log-concave, the variance has a local maximum at the
+midpointbetweenthekinks. Althoughwecannotproveitformally,inalloursimulations
+withsymmetricsingle-peakeddistributionsofhorizontaluncertainty,thislocalmaximum
+isalsotheuniquemaximum. 15 Inotherwords,ifthedistributionofhorizontaluncertainty
+is sufficiently well-behaved, the variance of the spread monotonically increases as the ex
+ante supply of reserves goes from minus infinity to the midpoint between the kinks in
+the reserve demand curve and monotonically decreases above that point.16 The proofs of
+these results are in Appendix B.1.
+4.2 Optimal Policy with a Lending Facility
+To fix ideas, we start by analyzing optimal reserves provision with an exogenous lending
+facility rate. This case may be relevant if there are constraints on the central bank that
+prevent an optimal adjustment of the lending rate. In that case, the single choice facing
+the central bank is the amount of ex-ante reserves provided to the financial sector. We
+return to the joint decision of the lending rate and reserves below.
+14Obviously, if the lending facility rate is equal to the interest rate on reserves, the variance is equal to𝜎2
+𝜈
+for all reserve levels. This is because, in this case, the reserve demand curve is a horizontal line at¯𝑆𝐿 = ¯𝑆.
+15Inoursimulations,weusesymmetricsingle-peakeddensityfunctionssuchastheGaussianandLogistic
+distributions, which are log-concave and decay exponentially in the tails, and the Student’s𝑡-distribution,
+which is not log-concave and decays as a power law.
+16If the distribution of horizontal uncertainty𝑔(𝜖) is single-peaked but not symmetric, the maximum of
+the variance is between the kinks but not necessarily at the midpoint.
+23
+===== PAGE 25 =====
+The first-order condition for the optimal level of reserves is given by:
+(𝛼2 + 𝜆)(𝑋 − ¯𝑋) + 𝜆( ¯𝑋 − ˆ𝑋) + 𝛼(1 − 𝐺( ¯𝜖))( ˆ𝑆 − ¯𝑆) − 𝛼2𝒢( ¯𝜖)
+= −𝛼(1 − 𝐺( ¯𝜖𝐿))( ¯𝑆𝐿 − ˆ𝑆) − 𝛼2(𝒢( ¯𝜖𝐿) − ¯𝜖𝐿) + 𝜇 (1 − 𝐺( ¯𝜖𝐿)) = 0,
+(9)
+where the left-hand side of this equation coincides with the first-order condition absent a
+lending facility. See Appendix B.2 for a derivation.
+The right-hand side consists of two negative terms and a positive one. The negative
+terms, that call for lower ex-ante reserves provision, arise from the fact that the lending
+facilityguardsagainstlargeincreasesinthemarketspread. Sinceoptimalreservessupply
+washigherunderuncertaintybecausespreadscouldrisearbitrarilybutcannotfallbelow
+the reserve demand floor, this channel is now mitigated through the lending facility.
+The positive term arises from the penalty placed on lending facility usage: a higher ex-
+ante reserves supply lowers the probability that the lending facility will be used. Taken
+together, equation (9) yields the following result.
+Proposition 2 (Optimal Reserves Supply with Exogenous Lending Facility Rate)
+For a given exogenous lending facility spread, under uncertainty about horizontal shifts in the
+demand for reserves, the optimal supply of reserves may be higher or lower than absent the facility.
+If the penalty associated with lending facility usage is sufficiently small, ex-ante optimal reserves
+supply is lower with an exogenous lending facility.
+The existence of the lending facility reduces the precautionary motive to supply reserves
+to control rates because the facility introduces a cap on the market spread. However, if
+𝜇 > 0,thefacilityalsointroducesaprecautionarymotivetoincreasethesupplyofreserves
+to limit facility usage because the latter is costly for the central bank. If𝜇 is sufficiently
+small, the first effect dominates, and the sum of the terms in the second line of first-order
+condition (9) is positive, implying that the optimal ex-ante supply of reserves is smaller
+24
+===== PAGE 26 =====
+with a lending facility than without. If, however,𝜇 is sufficiently large, the second effect
+dominates, and the optimal supply of reserves exceeds that absent a lending facility. The
+proofs of these results are in Appendix B.2.
+Wenowanalyzetheoptimalchoiceforthelendingfacilityspread. Thefulloptimization
+problem is described in equation (3), where the central bank jointly chooses the ex-ante
+supplyofreserves, 𝑋, andthelendingratespread, ¯𝑆𝐿. Bothdecisionvariablesarechosen
+before the realization of the shock.
+The resulting first-order condition for the optimal choice of𝑋 remains the same as in
+(9). In addition,the central bank also optimizes over the lending spread. Together, the
+first- and second-order optimality conditions for𝑋 and ¯𝑆𝐿 yield the following result.
+Proposition 3 (Optimal Choices with Endogenous Lending Facility Rate)
+With joint uncertainty about𝜖 and 𝜈, the central bank makes the following choices:
+1. The optimal choice of the lending rate spread,¯𝑆∗
+𝐿 is given by:
+¯𝑆∗
+𝐿 = ˆ𝑆 + 𝜇
+𝛼 ≥ ˆ𝑆,
+which strictly increases withˆ𝑆 and 𝜇, and is independent ofˆ𝑋.
+2. The optimal ex-ante supply of reserves is characterized by the implicit function:
+(𝛼2 + 𝜆)(𝑋 − ¯𝑋) + 𝜆( ¯𝑋 − ˆ𝑋) + 𝛼(1 − 𝐺( ¯𝜖))( ˆ𝑆 − ¯𝑆) − 𝛼2𝒢( ¯𝜖) + 𝛼2(𝒢( ¯𝜖𝐿) − ¯𝜖𝐿) = 0;
+as a result, the optimal ex ante supply of reserves is lower than the optimal supply absent
+a lending facility. Moreover, the optimal supply of reserves decreases withˆ𝑆 and increases
+with ˆ𝑋 and with𝜇.
+Proof: See Appendix B.2 for details of the derivations. □
+25
+===== PAGE 27 =====
+Theoptimallendingspreadisgreaterthanorequaltothetargetspread,withequality
+in the limiting case of𝜇 = 0. If the central bank is indifferent to facility usage, it can
+maximizeratecontrolbysettingthefacilityspreadequaltothetargetspread. Thischoice
+caps the market spread exactly at the target and eliminates upward deviations. If the
+centralbankperceivesacostoffacilityusage,itisoptimaltosetahigherfacilityspreadto
+reducethelikelihoodthatbanksborrowfromthefacility. Forthesamereason,theoptimal
+facilityspreadisincreasinginthesizeofthepenaltyonfacilityusage: centralbanksfacing
+a higher penalty optimally set a higher facility spread to induce lower borrowing levels.
+Whenthecentralbankjointlysetsthefacilityspreadandtheex-antesupplyofreserves,
+the optimal supply is lower than absent the facility. By choosing the lending rate spread
+optimally, the central bank minimizes the market-spread deviations from its target level
+with a lower reserve supply. Note that the optimal ex-ante supply of reserves increases
+with the penalty on facility usage,𝜇. There are two reasons for this result. First, if
+the penalty is higher, the central bank prefers to provide more reserves to reduce the
+likelihood of banks’ borrowing from the facility. Second, a higher penalty increases the
+facility spread, which relaxes rate control; as a result, the central bank finds it optimal to
+offset this indirect effect by increasing the ex-ante supply of reserves.
+5 Rate Control and Monetary Policy Frameworks
+In this section, we compare the variability of the interbank market rate under different
+monetary policy implementation frameworks. We show that frameworks with scarce
+reserves and large spreads between the lending facility rate and the interest rate on
+reserve balances imply larger rate variability than frameworks with ample or abundant
+reserves. To illustrate this result, we use both the results of our model for the variance of
+themarketspreadunder uncertaintyandtheexperienceofthe UnitedStatesoverthelast
+26
+===== PAGE 28 =====
+two decades. We also discuss additional considerations that might influence the central
+bankoptimalpolicybyaffectingtheweights 𝜆and 𝜇inthecentralbankobjectivefunction
+(3).
+5.1 Rate Control: the U.S. Experience
+Before the GFC, central bank reserves in the U.S. were kept scarce, and the spread be-
+tween the lending facility rate and the interest rate on reserve balances—the so-called
+“corridor”—was large.17 In our model, this framework corresponds to a system where
+the target reserve levelˆ𝑋 is in the steep part of the reserve demand curve, and the target
+spread ˆ𝑆 is far from both the lower and the upper asymptotes of the curve. This type
+of framework can therefore be approximated by assuming that the demand for reserves
+is simply given by the negatively-sloped line in equation (2). Since the demand curve is
+linear, the central bank optimization problem in equation (3) is certainty equivalent, and
+the optimal supply of reserves coincides with the optimal supply absent uncertainty. In
+this limiting case, the variance of the optimal spread is18
+Var[𝑆] = 𝜎2
+𝜈 + 𝛼2𝜎2
+𝜖 , (10)
+which exceeds not only the variance when a lending facility with a narrow corridor is
+present (equation (8)), but also the variance when the central bank operates a system of
+ample or abundant reserves, i.e., near or at the lower asymptote of the reserve demand
+curve, without a lending facility (equation (5)). The reason is that, when reserves are
+scarce, the distribution of interest rate spreads is wider and symmetric. As reserves
+increase, the demand curve flattens, truncating low realizations of the market spread.
+17Reserves were not remunerated before the GFC. The Federal Reserve only started paying interest on
+reserve balances on October 9, 2008.
+18This result can be derived by simply taking the limit of the variance of the spread without lending
+facility as reserves go to negative infinity, i.e., far from the curve’s lower asymptote.
+27
+===== PAGE 29 =====
+Furthermore, as equation (10) shows, the variability of the market spread is independent
+of the level of reserves in traditional scarce systems with large corridors, in contrast to its
+variability in systems with narrow corridors or ample reserves (equations (5) and (8)).
+Figure4showsthestandarddeviationofthespreadbetweenthefederalfundsrateand
+ameasureofthetargetrate,aswellasthelevelofreserves,beforeandaftertheGFC. 19 The
+volatility of the spread averaged 0.10 percentage points in 2000–08, when reserves were
+scarce, and the corridor relatively large.20 Consistent with the results from our model,
+as the supply of reserves increased and the Federal Reserve transitioned to a framework
+with ample reserves, volatility decreased substantially in 2009 and has fluctuated around
+0.01 percentage points since then.
+5.2 Other considerations
+Inadditiontoratecontrol(i.e.,keepingthemarketspreadclosetoitstargetlevel ˆ𝑆),other
+factors may influence the central bank choice of the optimal ex-ante supply of reserves.
+In our model, these factors are captured by the target reserve levelˆ𝑋, and their relative
+importance in the central bank optimization problem by the penalty weight assigned to
+deviationsfromthistarget, 𝜆. Financialstabilityconsiderationsareanimportantexample.
+Ontheonehand,alevelofreservesthatsatiatesbanks’demandforreservessupportsthe
+smooth functioning of financial markets by reducing the likelihood of a liquidity crunch
+in wholesale funding markets (Afonso et al., 2021; Copeland et al., 2025), improving the
+resilience of payment systems (Keister et al., 2008; Afonso et al., 2022; Goldstein et al.,
+2023), reducingtheuseofintradayoverdraftsfromthecentralbank(Kroegeretal.,2018),
+19By construction, the variance of the market rate minus its target is equal to Var(𝑆 − ˆ𝑆) = Var(𝑆) in our
+model. Until December 2008, the Federal Open Market Committee set a target level for the federal funds
+rate; since then, it has set a target range. In our calculations, we use the mid-point of the range post 2008.
+20During2000–08,centralbankreserves(includingvaultcash)intheU.S.averaged$58.6billion(or0.68%
+ofbankassets),andthespreadbetweenthelendingfacilityrateandtheinterestonreservebalances(which
+was zero) averaged 3.66 percentage points. From 2009 to June 2025, these averages were $2.4 trillion (or
+13.66% of bank assets) and 0.39 percentage points, respectively.
+28
+===== PAGE 30 =====
+Figure 4:Bank Reserves and Variation in Daily Spread.The solid black line represents
+the standard deviation of the daily interest rate spread. The spread is the difference
+between the daily volume-weighted average federal funds rate and a measure of the
+target rate; consistent with the changes in monetary policy implementation during the
+sampleperiod,thetargetrateismeasuredasthefederalfundstargetratefor01/01/2000–
+12/15/2008 and as the mid-point of the target range for 12/16/2008–06/30/2025. The
+90-business-day windows (roughly a quarter) roll daily. The gray shaded area shows
+centralbankreserves,includingvaultcash. DataarefromJanuary2000toJune2025. The
+daily volume-weighted average federal funds rate is publicly available from the Federal
+Reserve Economic Data, FRED (“EFFR,” 01/01/2000–02/29/2016) and from the Federal
+ReserveBankofNewYork(03/01/2016–06/30/2025). Thedailyfederalfundstargetrate,
+and the upper limit and lower limit of the federal funds target range are available from
+FRED (“DFEDTAR,” “DFEDTARU,” and “DFEDTARL”). Monthly data on reserves are
+available from FRED (“TOTRESNS”).
+and discouraging excessive creation of runnable short-term debt by the private sector
+(Hanson et al., 2015; Greenwood et al., 2016).
+Ontheotherhand,largeinjectionsofreservesinthebankingsystemcanhinderfinan-
+cial stability if banks finance these balance-sheet expansions with liquidity commitments
+that are difficult to unwind during quantitative tightening, becoming more vulnerable to
+liquidityshocksandmoredependentoncentralbankliquidity(AcharyaandRajan,2024;
+Acharya et al., 2023). Moreover, if banks are subject to balance-sheet costs, large reserve
+29
+===== PAGE 31 =====
+injections tighten these constraints and can therefore crowd out bank lending to the real
+economy(Martinetal.,2016;Diamondetal.,2020). Prolongedperiodsofhighreservelev-
+elscanalsocausepoliticaleconomyconcernsduetolargefluctuationsincentralbanknet
+incomeandremittancestothegovernment(Bindseil,2016). Finally,alargeexantesupply
+of reserves discourages unsecured overnight money market activity, possibly hindering
+market discipline and price discovery and limiting the market’s ability to redistribute
+reserves in times of stress (Borio, 2023).
+Note that the same concern about market disintermediation also applies to standing
+lending facilities with a low interest rate spread relative to the interest rate on reserves: if
+the price of contingent central bank liquidity is attractive relative to the price of private
+liquidity, interbank market volume may decline. In our model, central banks more con-
+cerned about this issue would have a larger penalty weight on the usage of the lending
+facility, 𝜇.
+6 Conclusion
+This paper analyzes the optimal supply of central bank reserves under uncertainty from
+the perspective of rate control and monetary policy implementation. Absent a lending
+facility, uncertainty about the level of reserves that satiates banks’ demand for them
+increases the optimal supply of reserves. With a sufficiently high degree of uncertainty,
+it is optimal to supply a level of reserves that exceeds the satiation point even though
+the central bank targets the region below demand satiation; that is, the optimal supply
+of reserves lies in the abundant reserves region even if the central bank targets ample
+reserves.
+Withalendingfacility,theoptimalsupplyofreservesdependscriticallyonthecentral
+bank preferences and constraints on the design of the facility. If the lending facility rate
+30
+===== PAGE 32 =====
+spreadcanbechosenoptimallyandjointlywiththeex-antesupplyofreserves,theoptimal
+ex ante supply is smaller than the one obtained absent a lending facility. In contrast, if
+there are frictions preventing the central bank from optimally setting the lending facility
+jointly with the ex ante supply of reserves, the optimal supply may be larger than absent
+the facility.
+Akeyadvantageofthisanalysisisthatitisanalyticallytractableandcanderiveexplicit
+expressions that convey the intuition. Potential extensions of the model include adding
+intertemporal aspects of the supply and demand for reserves, structural changes, and
+the role of experimentation and learning in the design of optimal policy. In addition,
+this model provides a flexible structure that can be empirically implemented, allowing
+for the estimation of the effects of uncertainty on the supply for reserves across different
+implementation frameworks.
+31
+===== PAGE 33 =====
+References
+Acharya, Viral V. and Raghuram Rajan, “Liquidity, liquidity everywhere, not a drop to
+use–Whyfloodingbankswithcentralbankreservesmaynotexpandliquidity,” Journal
+of Finance, 2024,79, 2943–2991.
+, Rahul Chauhan, Raghuram Rajan, and Sascha Steffen, “Liquidity Dependence and
+the Waxing and Waning of Central Bank Balance Sheets,”NBER Working Paper 31050,
+March 2023.
+Afonso, Gara and Ricardo Lagos, “Trade Dynamics in the Market for Federal Funds,”
+Econometrica, 2015,83, 263–313.
+,DarrellDuffie,LorenzoRigon,andHyunSongShin ,“HowAbundantAreReserves?
+Evidence from the Wholesale Payment System,”Federal Reserve Bank of New York Staff
+Reports No. 1040, 2022.
+, DomenicoGiannone,GabrieleLaSpada, andJohnC.Williams , “Scarce,Abundant,
+or Ample? A Time-Varying Model of the Reserve Demand Curve,”Journal of Finance,
+2025. Forthcoming.
+, Marco Cipriani, Adam Copeland, Anna Kovner, Gabriele La Spada, and Antoine
+Martin, “The Market Events of Mid-September 2019,”Federal Reserve Bank of New York
+Economic Policy Review, 2021,27(2).
+,RocArmenter,andBenjaminLester ,“Amodelofthefederalfundsmarket: Yesterday,
+today, and tomorrow,”Review of Economic Dynamics, 2019,33, 177–204.
+Armenter, Roc and Benjamin Lester, “Excess Reserves and Monetary Policy Implemen-
+tation,”Review of Economic Dynamics, 2017,23, 212–235.
+32
+===== PAGE 34 =====
+Bank of Canada , “Framework for market operations and liq-
+uidity provision,” available at https://www.bankofcanada.
+ca/markets/market-operations-liquidity-provision/
+framework-market-operations-liquidity-provision/, 2025.
+BankofEngland ,“ExplanatoryNote: ManagingtheoperationalimplicationsofAPFun-
+windforassetsales,controlofshort-termmarketinterestratesandtheBankofEngland’s
+balancesheet,”August4,2022,availableathttps://www.bankofengland.co.uk/markets/market-
+notices/2022/august/explanatory-note-on-operational-implications-of-apf-unwind, 2022.
+, “Transitioning to a repo-led operating framework,” December 9, 2024, avail-
+able at https://www.bankofengland.co.uk/paper/2024/dp/transitioning-to-a-repo-led-operating-
+framework, 2024.
+Bernanke, Ben S., “The New Tools of Monetary Policy,”American Economic Review, April
+2020, 110(4), 943–83.
+Bianchi, Javier and Saki Bigio, “Banks, Liquidity Management, and Monetary Policy,”
+Econometrica, 2022,90, 391–454.
+Bigio, Saki and YuliySannikov, “A Model ofCredit, Money, Interest, and Prices,”NBER
+Working Paper 28540, March 2021.
+Bindseil, Ulrich, “Evaluating Monetary Policy Operational Frameworks,” Technical Re-
+port, Economic Policy Symposium at Jackson Hole, Wyoming. 2016.
+Bok,Brandyn,ThomasM.Mertens,andJohnC.Williams ,“MacroeconomicDriversand
+thePricingofUncertainty,Inflation,andBonds,” JournalofFinancialEconomics ,October
+2025, 172.
+Borio, Claudio, “Getting up from the Floor,”SUERF Policy Notes, May 2023.
+33
+===== PAGE 35 =====
+Brainard,WilliamC. ,“UncertaintyandtheEffectivenessofPolicy,”TheAmericanEconomic
+Review, 1967,57, 411–425.
+Copeland, Adam, Darrell Duffie, and Yilin Yang, “Reserves Were Not So Ample After
+All,”Quarterly Journal of Economics, February 2025,140, 239–281.
+Diamond,William,ZhengyangJiang,andYimingMa ,“TheReserveSupplyChannelof
+UnconventionalMonetaryPolicy,”JacobsLevyEquityManagementCenterforQuantitative
+Financial Research Paper, 2020.
+Duffie, Darrell , “Post-Crisis Bank Regulations and Financial Market Liquid-
+ity,”https://www.darrellduffie.com/uploads/policy/DuffieBaffiLecture2018.
+pdf March 2018.
+d’Avernas, Adrien, Baiyang Han, and Quentin Vandeweyer, “Intraday Liquidity and
+Money Market Dislocations,”Working Paper, 2023.
+Ennis,HubertoM.andToddKeister ,“UnderstandingMonetaryPolicyImplementation,”
+Economic Quarterly, 2008,94, 235–263.
+European Central Bank Governing Council, “Statement By the Governing Council:
+Changes to the operational framework for implementing monetary policy,”March
+13, 2024, available athttps://www.ecb.europa.eu/press/pr/date/2024/html/ecb.
+pr240313~807e240020.en.html, 2024.
+Federal Reserve, “Minutes of the Federal Open Market Committee, April 27–28, 2021,”
+https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20210428.
+pdf April 2021.
+Goldstein,Itay,MingYang,andYaoZeng ,“Payments,Reserves,andFinancialFragility,”
+Working Paper, 2023.
+34
+===== PAGE 36 =====
+Greenwood, Robin, Samuel G. Hanson, and Jeremy C. Stein, “The Federal Reserve’s
+BalanceSheetasaFinancial-StabilityTool,” 2016EconomicPolicySymposiumProceedings ,
+2016.
+Hanson,SamuelG.,DavidSScharfstein,andAdiSunderam ,“AnEvaluationofMoney
+Market Fund Reform Proposals,”IMF Economic Review, 2015,63 (4), 984–1023.
+Keister, Todd, Antoine Martin, and James McAndrews, “Divorcing Money from Mone-
+tary Policy,”Federal Reserve Bank of New York Economic Policy Review, 2008,14, 41–56.
+Kent, Christopher, “The RBA’s Monetary Policy Implementation System – Some Impor-
+tant Updates,”Speech at the KangaNews Debt Capital Markets Summit on April 2, 2025,
+2025.
+Kim, Kyungmin, Antoine Martin, and Ed Nosal, “Can the U.S. Interbank Market Be
+Revived?,”Journal of Money, Credit and Banking, June 2020,52, 1645–1689.
+Kroeger, Alexander, John P. McGowan, and Asani Sarkar, “The Pre-Crisis Monetary
+Policy Implementation Framework,”Federal Reserve Bank of New York Economic Policy
+Review, October 2018,24, 28–70.
+Lagos, Ricardo and Gastón Navarro, “Monetary Policy Operations: Theory, Evidence,
+and Tools for Quantitative Analysis,”NBER Working Paper 31370, June 2023.
+Lopez-Salido, David and Annette Vissing-Jorgensen, “Reserve Demand and Balance
+Sheet Run-off,”Federal Reserve Board Working Paper, 2022.
+Martin, Antoine, James McAndrews, Ali Palida, and David Skeie, “Federal Reserve
+Tools for Managing Rates and Reserves,”Federal Reserve Bank of New York Staff Reports
+No. 642, April 2019.
+35
+===== PAGE 37 =====
+, , and David Skeie, “Bank Lending in Times of Large Bank Reserves,”International
+Journal of Central Banking, December 2016,12 (4), 193–222.
+Mertens, Thomas M. and John C Williams, “What to Expect from the Lower Bound on
+Interest Rates: Evidence from Derivatives Prices,”American Economic Review, 2021,111
+(8), 2473–2505.
+Poole,William,“CommercialBankReserveManagementinaStochasticModel: Implica-
+tions for Monetary Policy,”The Journal of Finance, 1968,23 (5), 769–791.
+Yang, David, “What Quantity of Reserves Is Sufficient?,”Working Paper, 2022.
+36
+===== PAGE 38 =====
+Appendix
+A Proofs of Section 3 (without Lending Facility)
+A.1 Optimal supply absent uncertainty
+In this section, we derive the optimal supply of reserves absent uncertainty. We start by
+assumingthatbothcentralbanktargetsareintheampleregion,i.e., ˆ𝑋 < ¯𝑋 and ˆ𝑆 > ¯𝑆. To
+derive the optimal supply in this case, we can simply take the first-order condition of the
+central bank’s objective function in the ample reserves region:
+0 = 𝜕ℒ
+𝜕𝑋 = 1
+2
+
+−2𝛼
+ ¯𝑆 − 𝛼(𝑋∗ − ¯𝑋) − ˆ𝑆
+
++ 2𝜆(𝑋∗ − ˆ𝑋)
+	
+= (𝛼2 + 𝜆)𝑋∗ − 𝛼
+
+¯𝑆 + 𝛼 ¯𝑋 − ˆ𝑆
+
+− 𝜆 ˆ𝑋
+= (𝛼2 + 𝜆)(𝑋∗ − ˆ𝑋) + 𝛼( ˆ𝑆 − ¯𝑆) + 𝜆( ¯𝑋 − ˆ𝑋),
+which gives𝑋∗ = ¯𝑋 − 1
+𝛼2 + 𝜆 [𝛼( ˆ𝑆 − ¯𝑆) + 𝜆( ¯𝑋 − ˆ𝑋)] < ¯𝑋. The second-order condition is
+𝜕2ℒ
+𝜕𝑋2 = 𝛼2 + 𝜆 > 0, which holds by assumption.
+Pluggingtheoptimalsupplyofreservesabsentuncertaintyinthedeterministicversion
+of the reserve demand curve, we obtain the optimal spread absent uncertainty
+𝑆∗ = ˆ𝑆 − 𝜆
+𝛼2 + 𝜆 ( ˆ𝑆 − ¯𝑆 − 𝛼( ¯𝑋 − ˆ𝑋)).
+Since the spread at the level of reservesˆ𝑋 is 𝑆( ˆ𝑋) = ˆ𝑆 − 𝛼(𝑋 − ¯𝑋), we can rewrite𝑆∗ as
+𝑆∗ = ˆ𝑆 − 𝜆
+𝛼2 + 𝜆 ( ˆ𝑆 − ( ¯𝑆 − 𝛼( ˆ𝑋 − ¯𝑋))) = ˆ𝑆 − 𝜆
+𝛼2 + 𝜆 ( ˆ𝑆 − 𝑆( ˆ𝑋)) = 𝛼2
+𝛼2 + 𝜆
+ˆ𝑆 + 𝜆
+𝛼2 + 𝜆 𝑆( ˆ𝑋).
+If ˆ𝑋 < ¯𝑋 and ˆ𝑆 = ¯𝑆, theoptimalsupplyofreservesisthesameasabove. Thereasonis
+37
+===== PAGE 39 =====
+thatthecentralbankhasnoincentivetosupply 𝑋 > ¯𝑋 tomeet ˆ𝑆 = ¯𝑆 becausethedemand
+curve is flat at¯𝑆 for 𝑋 ≥ ¯𝑋; the optimization problem can therefore be solved by taking
+the first-order condition in the ample region.
+If ˆ𝑋 > ¯𝑋 and ˆ𝑆 = ¯𝑆, the problem is trivial: the central bank will supply exactly
+ˆ𝑋 because this choice sets both the squared deviation from the reserve target and the
+squared deviation from the spread target equal to zero.
+If ˆ𝑋 > ¯𝑋 and ˆ𝑆 > ¯𝑆, the optimal solution is bang-bang, depending on the weight𝜆
+assignedbythecentralbanktodeviationsfromthereservetarget. Ifthesolutionisinthe
+abundant region, it must beˆ𝑋: any other level of abundant reserves would increase the
+squared deviations from the reserve target without reducing the squared deviation from
+the spread target (which is equal to( ¯𝑆 − ˆ𝑆)2 for all𝑋 ≥ ¯𝑋). If the solution is in the ample
+region, it must be equal to the solution of the first-order condition above. To identify
+the threshold 𝜆 that determines which solution is the global minimum, we just need to
+compare the values of the objective function at the two local minima:
+ℒ( ˆ𝑋) = 1
+2
+
+ˆ𝑆 − ¯𝑆
+ 2
+,
+ℒ(𝑋∗) = 1
+2
+( h
+¯𝑆 + 𝛼
+𝛼2 + 𝜆
+
+𝛼( ˆ𝑆 − ¯𝑆) + 𝜆( ¯𝑋 − ˆ𝑋)
+
+− ˆ𝑆
+i 2
++ 𝜆
+
+¯𝑋 − 1
+𝛼2 + 𝜆
+
+𝛼( ˆ𝑆 − ¯𝑆) + 𝜆( ¯𝑋 − ˆ𝑋)
+
+− ˆ𝑋
+ 2)
+= 1
+2
+
+ˆ𝑆 − ¯𝑆
+ 2 𝜆
+𝛼2 + 𝜆
+
+1 + 𝛼
+ˆ𝑋 − ¯𝑋
+ˆ𝑆 − ¯𝑆
+ 2
+.
+Supplying reserves exactly equal toˆ𝑋 is optimal if and only if 𝜆
+𝛼2 + 𝜆
+
+1 + 𝛼
+ˆ𝑋 − ¯𝑋
+ˆ𝑆 − ¯𝑆
+ 2
+> 1.
+Since the left-hand side of this inequality is strictly increasing in𝜆, the inequality holds if
+and only if𝜆 > 𝛼
+ˆ𝑆 − ¯𝑆
+ˆ𝑋 − ¯𝑋
+
+2 + 𝛼
+ˆ𝑋 − ¯𝑋
+ˆ𝑆 − ¯𝑆
+ −1
+. If 𝜆 is below this threshold, the optimal supply
+of reserves is in the ample region and is given by the first order condition above.
+38
+===== PAGE 40 =====
+A.2 Mean spread and variance of the spread
+In deriving the properties of the model under uncertainty, it is useful to define two
+functions related to the cumulative distribution function𝐺(·). First, define the super-
+cumulative distribution function
+𝒢(𝑎) =
+∫ 𝑎
+−∞
+𝐺(𝜖)𝑑𝜖 ≥ 0.
+Since 𝜖 has zero mean,𝒢(𝑎) ≥ 𝑎 for all𝑎. Second, define its integral
+G(𝑎) =
+∫ 𝑎
+−∞
+𝒢(𝜖)𝑑𝜖 ≥ 0,
+which we refer to as the super-super cumulative distribution function. Note thatG′(𝑎) =
+𝒢(𝑎) and 𝒢′(𝑎) = 𝐺(𝑎). Figure A.1 depicts the functions𝒢 and G for the standard normal
+distribution.
+Figure A.1: Super-cumulative Distribution Function of𝜖 and its Integral.This figure
+plots the super-cumulative distribution function𝒢 and its integral G for the standard
+normal distribution.
+39
+===== PAGE 41 =====
+Based on this notation, the expected spread is
+E𝑆 =
+∫ ¯𝜖
+−∞
+∫ ∞
+−∞
+( ¯𝑆 + 𝜈) 𝑓 (𝜈)𝑔(𝜖)𝑑𝜈𝑑𝜖 +
+∫ ∞
+¯𝜖
+∫ ∞
+−∞
+( ¯𝑆 + 𝜈 − 𝛼(𝑋 − ¯𝑋 − 𝜖)) 𝑓 (𝜈)𝑔(𝜖)𝑑𝜈𝑑𝜖
+= ¯𝑆 −
+∫ ∞
+¯𝜖
+𝛼(𝑋 − ¯𝑋 − 𝜖))𝑔(𝜖)𝑑𝜖
+= ¯𝑆 − 𝛼
+∫ ∞
+¯𝜖
+(𝑋 − ¯𝑋 − 𝜖)𝑔(𝜖)𝑑𝜖 = ¯𝑆 + 𝛼
+
+𝒢( ¯𝜖) − ¯𝜖
+
+≥ max
+ ¯𝑆 − 𝛼(𝑋 − ¯𝑋), ¯𝑆
+
+,
+where for the last inequality we used𝒢(𝑎) ≥ 0and 𝒢(𝑎) ≥ 𝑎 for all𝑎. Its derivative is
+𝑑E[𝑆]
+𝑑𝑋 = −𝛼 (1 − 𝐺( ¯𝜖)) ≤ 0,
+which shows that the mean spread decreases with reserves.
+To derive the variance of the spread, we first derive the expected value of the squared
+spread as follows
+E 
+𝑆2
+=
+∫ ¯𝜖
+−∞
+∫ ∞
+−∞
+  ¯𝑆 + 𝜈 2 𝑓 (𝜈)𝑔(𝜖)d𝜈d𝜖 +
+∫ ∞
+¯𝜖
+∫ ∞
+−∞
+ ¯𝑆 + 𝜈 − 𝛼  𝑋 − ¯𝑋 − 𝜖 2
+𝑓 (𝜈)𝑔(𝜖)d𝜈d𝜖
+=
+∫ ¯𝜖
+−∞
+∫ ∞
+−∞
+
+¯𝑆2 + 2𝜈 ¯𝑆 + 𝜈2
+
+𝑓 (𝜈)𝑔(𝜖)d𝜈d𝜖+
+∫ ∞
+¯𝜖
+∫ ∞
+−∞
+
+( ¯𝑆 + 𝜈)2 − 2𝛼( ¯𝑆 + 𝜈)( ¯𝜖 − 𝜖) + 𝛼2( ¯𝜖 − 𝜖)2
+𝑓 (𝜈)𝑔(𝜖)d𝜈d𝜖
+= ¯𝑆2𝐺( ¯𝜖) + 2 ¯𝑆
+∫ ¯𝜖
+−∞
+∫ ∞
+−∞
+𝜈 𝑓 (𝜈)d𝜈
+
+𝑔(𝜖)d𝜖 + 𝜎2
+𝜈𝐺( ¯𝜖) + ¯𝑆2 [1 − 𝐺( ¯𝜖)] +
+2 ¯𝑆
+∫ ∞
+¯𝜖
+∫ ∞
+−∞
+𝜈 𝑓 (𝜈)d𝜈
+
+𝑔(𝜖)d𝜖 + 𝜎2
+𝜈 [1 − 𝐺( ¯𝜖)] − 2𝛼 ¯𝑆
+∫ ∞
+¯𝜖
+∫ ∞
+−∞
+𝑓 (𝜈)d𝜈
+
+( ¯𝜖 − 𝜖)𝑔(𝜖)d𝜖−
+2𝛼
+∫ ∞
+¯𝜖
+∫ ∞
+−∞
+𝜈 𝑓 (𝜈)d𝜈
+
+( ¯𝜖 − 𝜖)𝑔(𝜖)d𝜖 + 𝛼2
+∫ ∞
+¯𝜖
+∫ ∞
+−∞
+𝑓 (𝜈)d𝜈
+
+( ¯𝜖 − 𝜖)2 𝑔(𝜖)d𝜖
+=𝜎2
+𝜈 + ¯𝑆2 − 2𝛼 ¯𝑆
+
+¯𝜖 (1 − 𝐺( ¯𝜖)) −
+∫ ∞
+¯𝜖
+𝜖 𝑔(𝜖)d𝜖
+
++
+𝛼2
+
+¯𝜖2 (1 − 𝐺( ¯𝜖)) − 2 ¯𝜖
+∫ ∞
+¯𝜖
+𝜖 𝑔(𝜖)d𝜖 +
+∫ ∞
+¯𝜖
+𝜖2 𝑔(𝜖)d𝜖
+
+40
+===== PAGE 42 =====
+where the first equality holds because𝜖 and 𝜈 are independent, and the fourth equality
+holds because𝜈 has zero mean.
+Since 𝜖 has zero mean and finite variance𝜎2
+𝜖, using integration by parts, we can write
+∫ ∞
+¯𝜖
+𝜖 𝑔(𝜖)d𝜖 = −
+∫ ¯𝜖
+−∞
+𝜖 𝑔(𝜖)d𝜖 = − ¯𝜖𝐺( ¯𝜖) +
+∫ ¯𝜖
+−∞
+𝐺(𝜖)d𝜖 = − ¯𝜖𝐺( ¯𝜖) + 𝒢( ¯𝜖),
+∫ ∞
+¯𝜖
+𝜖2 𝑔(𝜖)d𝜖 = 𝜎2
+𝜖 −
+∫ ¯𝜖
+−∞
+𝜖2 𝑔(𝜖)d𝜖 = 𝜎2
+𝜖 − ¯𝜖2𝐺( ¯𝜖) +
+∫ ¯𝜖
+−∞
+2𝜖𝐺(𝜖)d𝜖
+= 𝜎2
+𝜖 − ¯𝜖2𝐺( ¯𝜖) + 2
+
+¯𝜖𝒢( ¯𝜖) −
+∫ ¯𝜖
+−∞
+𝒢(𝜖)d𝜖
+
+= 𝜎2
+𝜖 − ¯𝜖2𝐺( ¯𝜖) + 2 ¯𝜖𝒢( ¯𝜖) − 2G( ¯𝜖),
+where we usedlim𝑥→−∞ 𝒢(𝑥) = lim𝑥→−∞ G(𝑥) = 0.
+Using these expressions, we can write
+E 
+𝑆2
+=𝜎2
+𝜈 + ¯𝑆2 − 2𝛼 ¯𝑆
+
+¯𝜖 (1 − 𝐺( ¯𝜖)) −
+∫ ∞
+¯𝜖
+𝜖 𝑔(𝜖)d𝜖
+
++
+𝛼2
+
+¯𝜖2 (1 − 𝐺( ¯𝜖)) − 2 ¯𝜖
+∫ ∞
+¯𝜖
+𝜖 𝑔(𝜖)d𝜖 +
+∫ ∞
+¯𝜖
+𝜖2 𝑔(𝜖)d𝜖
+
+=𝜎2
+𝜈 + ¯𝑆2 − 2𝛼 ¯𝑆 [ ¯𝜖 − 𝒢( ¯𝜖)] + 𝛼2 
+¯𝜖2 [1 − 𝐺( ¯𝜖)] − 2 ¯𝜖 [− ¯𝜖𝐺( ¯𝜖) + 𝒢( ¯𝜖)] + 𝜎2
+𝜖 − ¯𝜖2𝐺( ¯𝜖) +
+2 ¯𝜖𝒢( ¯𝜖) − 2G( ¯𝜖)}
+=𝜎2
+𝜈 + ¯𝑆2 + 2𝛼 ¯𝑆 [𝒢( ¯𝜖) − ¯𝜖] + 𝛼2 
+¯𝜖2 + 𝜎2
+𝜖 − 2G( ¯𝜖)
+
+.
+Putting together this expression with the one for the expected spread, we obtain the
+variance of the spread as
+Var[𝑆] =E 
+𝑆2
+− (E[𝑆])2 = 𝜎2
+𝜈 + ¯𝑆2 + 2𝛼 ¯𝑆 [𝒢( ¯𝜖) − ¯𝜖] + 𝛼2 
+¯𝜖2 + 𝜎2
+𝜖 − 2G( ¯𝜖)
+
+−
+ ¯𝑆 + 𝛼 (𝒢( ¯𝜖) − ¯𝜖)
+ 2
+=𝜎2
+𝜈 − 𝛼2 [𝒢(𝜖) − 𝜖]2 + 𝛼2 
+¯𝜖2 + 𝜎2
+𝜖 − 2G( ¯𝜖)
+
+.
+41
+===== PAGE 43 =====
+Taking the derivative of this expression with respect to the level of reserves𝑋, we get
+𝑑Var[𝑆]
+𝑑𝑋 = −2𝛼2(𝒢( ¯𝜖) − ¯𝜖) + 𝛼2(2 ¯𝜖 − 2𝒢( ¯𝜖))
+= −2𝛼2𝐺( ¯𝜖)(𝒢( ¯𝜖) − ¯𝜖) < 0,
+where the inequality follows from𝒢( ¯𝜖) > ¯𝜖 for all reserve values.
+To prove the limiting behavior of Var[𝑆(𝑋)] as 𝑋 goes to plus and minus infinity, we
+use the following equalities, which are derived using integration by parts:
+𝒢(𝑥) =
+∫ 𝑥
+−∞
+𝐺(𝑢)d𝑢 = 𝑥𝐺 (𝑥) −
+∫ 𝑥
+−∞
+𝑢 𝑔(𝑢)d𝑢,
+G(𝑥) =
+∫ 𝑥
+−∞
+𝒢(𝑢)d𝑢 = 𝑥𝒢(𝑥) − 𝑥2
+2 𝐺(𝑥) +
+∫ 𝑥
+−∞
+𝑢2
+2 𝑔(𝑢)d𝑢.
+Plugging these equalities in the expression for the variance above, we obtain:
+lim
+𝑋→∞
+Var[𝑆] =𝜎2
+𝜈 + lim
+𝑋→∞
+n
+−𝛼2 [𝒢( ¯𝜖) − ¯𝜖]2 + 𝛼2 
+¯𝜖2 + 𝜎2
+𝜖 − 2G( ¯𝜖)
+o
+=𝜎2
+𝜈 + 𝛼2𝜎2
+𝜖+
+lim
+𝑋→∞
+(
+−𝛼2
+
+¯𝜖𝐺( ¯𝜖) −
+∫ ¯𝜖
+−∞
+𝑢 𝑔(𝑢)d𝑢 − ¯𝜖
+ 2
++ 𝛼2 ¯𝜖2−
+2𝛼2
+
+¯𝜖
+
+¯𝜖𝐺( ¯𝜖) −
+∫ ¯𝜖
+−∞
+𝑢 𝑔(𝑢)d𝑢
+
+− ¯𝜖2
+2 𝐺( ¯𝜖) +
+∫ ¯𝜖
+−∞
+𝑢2
+2 𝑔(𝑢)d𝑢
+
+=𝜎2
+𝜈 + 𝛼2𝜎2
+𝜖 + lim
+𝑋→∞
+
+𝛼2 ¯𝜖2 − 𝛼2 ¯𝜖2 − 𝛼2𝜎2
+𝜖
+	
+= 𝜎2
+𝜈,
+where we used lim
+𝑥→∞
+𝐺(𝑥) = 1 and the fact that 𝜖 has zero mean and finite variance.
+42
+===== PAGE 44 =====
+Similarly,
+lim
+𝑋→−∞
+Var[𝑆] =𝜎2
+𝜈 + lim
+𝑋→∞
+n
+−𝛼2 [𝒢( ¯𝜖) − ¯𝜖]2 + 𝛼2 
+¯𝜖2 + 𝜎2
+𝜖 − 2G( ¯𝜖)
+o
+𝜎2
+𝜈 + 𝛼2𝜎2
+𝜖 + lim
+𝑋→∞
+
+−𝛼2 ¯𝜖2 + 𝛼2 ¯𝜖2	
+= 𝜎2
+𝜈 + 𝛼2𝜎2
+𝜖 ,
+where we used the fact thatlim
+𝑥→−∞
+𝒢(𝑥) = lim
+𝑥→−∞
+G(𝑥) = 0.
+A.3 Optimal supply of reserves under uncertainty
+The first-order condition of the central bank minimization problem (3) is
+∫ ∞
+−∞
+( ¯𝑆 + 𝜈 − ˆ𝑆)2 𝑓 (𝜈)𝑑𝜈𝑔( ¯𝜖) 𝑑 ¯𝜖
+𝑑𝑋
+−
+∫ ∞
+−∞
+∫ ∞
+−∞
+
+¯𝑆 + 𝜈 − 𝛼(𝑋∗∗ − ¯𝑋 − ¯𝜖) − ˆ𝑆
+ 2
+𝑓 (𝜈)𝑑𝜈𝑔( ¯𝜖) 𝑑 ¯𝜖
+𝑑𝑋
++
+∫ ∞
+¯𝜖
+∫ ∞
+−∞
+−𝛼( ¯𝑆 + 𝜈 − 𝛼(𝑋∗∗ − ¯𝑋 − 𝜖) − ˆ𝑆) 𝑓 (𝜈)𝑔(𝜖)𝑑𝜈𝑑𝜖 + 𝜆(𝑋∗∗ − ˆ𝑋) = 0,
+where the first two terms cancel out when substituting in¯𝜖 = 𝑋∗∗ − ¯𝑋. As a result, the
+first-order condition can be simplified to
+∫ ∞
+¯𝜖
+∫ ∞
+−∞
+−𝛼( ¯𝑆 + 𝜈 − 𝛼(𝑋∗∗ − ¯𝑋 − 𝜖) − ˆ𝑆) 𝑓 (𝜈)𝑔(𝜖)𝑑𝜈𝑑𝜖 + 𝜆(𝑋∗∗ − ˆ𝑋) = 0. (A.1)
+Using the representation of
+∫ ∞
+¯𝜖 𝜖 𝑔(𝜖)d𝜖 introduced in Appendix A.2 and the fact that
+𝜈 has zero mean, we can simplify the first-order condition in equation (A.1) to
+0 =
+∫ ∞
+¯𝜖
+−𝛼( ¯𝑆 − 𝛼(𝑋∗∗ − ¯𝑋 − 𝜖) − ˆ𝑆)𝑔(𝜖)𝑑𝜖 + 𝜆(𝑋∗∗ − ˆ𝑋)
+= (1 − 𝐺( ¯𝜖))
+
+−𝛼( ¯𝑆 − ˆ𝑆) + 𝛼2(𝑋∗∗ − ¯𝑋)
+
+−
+∫ ∞
+¯𝜖
+𝛼2𝜖 𝑔(𝜖)𝑑𝜖 + 𝜆(𝑋∗∗ − ˆ𝑋)
+= (1 − 𝐺( ¯𝜖))
+
+−𝛼( ¯𝑆 − ˆ𝑆) + 𝛼2(𝑋∗∗ − ¯𝑋)
+
++ 𝛼2( ¯𝜖𝐺( ¯𝜖) − 𝒢( ¯𝜖)) + 𝜆(𝑋∗∗ − ˆ𝑋).
+43
+===== PAGE 45 =====
+Using the definition¯𝜖 = 𝑋∗∗ − ¯𝑋, we get
+−𝛼(1 − 𝐺( ¯𝜖))( ¯𝑆 − ˆ𝑆) + (𝛼2 + 𝜆)(𝑋∗∗ − ¯𝑋) − 𝛼2𝒢( ¯𝜖) + 𝜆( ¯𝑋 − ˆ𝑋) = 0,
+which we can rearrange as
+𝑋∗∗ = ¯𝑋 − 𝛼
+𝛼2 + 𝜆 (1 − 𝐺( ¯𝜖))( ˆ𝑆 − ¯𝑆) − 𝜆
+𝛼2 + 𝜆 ( ¯𝑋 − ˆ𝑋) + 𝛼2
+𝛼2 + 𝜆𝒢( ¯𝜖),
+or alternatively as
+𝑋∗∗ = 𝑋∗ + 𝛼
+𝛼2 + 𝜎2
+𝜂 + 𝜆
+𝐺( ¯𝜖)( ˆ𝑆 − ¯𝑆) +
+𝛼2 + 𝜎2
+𝜂
+𝛼2 + 𝜎2
+𝜂 + 𝜆
+𝒢( ¯𝜖). (A.2)
+Finally, differentiating the left-hand side of the first-order condition in equation (A.1)
+yields the following second-order condition
+Γ ≡ 𝑑
+𝑑𝑋
+∫ ∞
+¯𝜖
+∫ ∞
+−∞
+−𝛼( ¯𝑆 + 𝜈 − 𝛼(𝑋 − ¯𝑋 − 𝜖) − ˆ𝑆) 𝑓 (𝜈)𝑔(𝜖)𝑑𝜈𝑑𝜖 + 𝜆(𝑋 − ˆ𝑋)
+=
+∫ ∞
+−∞
+𝛼( ¯𝑆 + 𝜈 − ˆ𝑆) 𝑓 (𝜈)𝑔( ¯𝜖)𝑑𝜈 +
+∫ ∞
+¯𝜖
+∫ ∞
+−∞
+(𝛼 + 𝜂)2 𝑓 (𝜈)𝑔(𝜖)𝑑𝜈𝑑𝜖 + 𝜆
+= − 𝛼( ˆ𝑆 − ¯𝑆)𝑔( ¯𝜖) + (1 − 𝐺( ¯𝜖))𝛼2 + 𝜆 > 0.
+(A.3)
+To derive the comparative statics of the optimal supply of reserves under uncertainty
+𝑋∗∗ with respect to the target level of reserves and the target spread, we apply the im-
+plicit function theorem. Let 𝐹(𝑋∗∗) = 0 be the first-order condition derived above; it is
+straightforward to show that
+𝑑𝑋 ∗∗
+𝑑 ˆ𝑋
+= −
+ 𝜕𝐹/𝜕 ˆ𝑋
+𝜕𝐹/𝜕𝑋
+
+−1
+𝑋=𝑋∗∗
+= 𝜆
+Γ ≥ 0,and
+𝑑𝑋 ∗∗
+𝑑 ˆ𝑆
+= −
+ 𝜕𝐹/𝜕 ˆ𝑆
+𝜕𝐹/𝜕𝑋
+
+−1
+𝑋=𝑋∗∗
+= − 𝛼(1 − 𝐺( ¯𝜖))
+Γ ≤ 0,
+44
+===== PAGE 46 =====
+where Γ > 0 is the second-order condition.
+UsingtheformulafortheexpectedspreadunderuncertaintyderivedinAppendixA.2,
+we can write the expected spread at the optimal reserve level𝑋∗∗ as
+E𝑆∗∗ = ¯𝑆 − 𝛼(𝑋∗∗ − ¯𝑋) + 𝛼𝒢( ¯𝜖)
+= ¯𝑆 − 𝛼(𝑋∗ + Δ𝑋∗∗ − ¯𝑋) + 𝛼𝒢( ¯𝜖)
+= 𝑆∗ + 𝛼(𝒢( ¯𝜖) − Δ𝑋∗∗),
+where Δ𝑋∗∗ = 𝑋∗∗ − 𝑋∗ ≥ 0. Since𝑋∗ ≤ ¯𝑋,wehave Δ𝑋∗∗ ≥ 𝑋∗∗ − ¯𝑋 = ¯𝜖. Since𝒢( ¯𝜖) − ¯𝜖 ≥ 0,
+we cannot sign𝒢( ¯𝜖) − Δ𝑋∗∗. Thus, we getE𝑆∗∗ ≶ 𝑆∗.
+Substituting in for𝑋∗∗ delivers
+E𝑆∗∗ = ¯𝑆 − 𝛼
+𝛼2 + 𝜆
+
+−𝛼(1 − 𝐺( ¯𝜖))( ˆ𝑆 − ¯𝑆) − 𝜆( ¯𝑋 − ˆ𝑋) + 𝛼2𝒢( ¯𝜖)
+
++ 𝛼𝒢( ¯𝜖)
+= ¯𝑆 − 𝛼2
+𝛼2 + 𝜆 (1 − 𝐺( ¯𝜖))( ˆ𝑆 − ¯𝑆) + 𝛼𝜆
+𝛼2 + 𝜆 ( ¯𝑋 − ˆ𝑋) − 𝛼3
+𝛼2 + 𝜆𝒢( ¯𝜖) + 𝛼𝒢( ¯𝜖)
+= ¯𝑆 − 𝛼2
+𝛼2 + 𝜆 (1 − 𝐺( ¯𝜖))( ˆ𝑆 − ¯𝑆) + 𝛼𝜆
+𝛼2 + 𝜆 ( ¯𝑋 − ˆ𝑋) + 𝛼𝜆
+𝛼2 + 𝜆𝒢( ¯𝜖).
+A.4 Extensions
+A.4.1 Uncertainty about the slope
+With uncertainty about the slope of the demand curve, the reserve demand curve takes
+the form
+𝑆 =
+ 
+
+¯𝑆 + 𝜈 − (𝛼 + 𝜂)(𝑋 − ¯𝑋 − 𝜖) if 𝑋 < ¯𝑋 + 𝜖,
+¯𝑆 + 𝜈 else,
+where 𝜂isashocktotheslopethatisindependentfromthehorizontalandverticalshocks.
+The analogous result to Proposition 1 is the following proposition.
+45
+===== PAGE 47 =====
+Proposition 4 (Uncertainty about the Slope Increases the Optimal Supply of Reserves)
+In the case of joint uncertainty about𝜖, 𝜈, and𝜂, the optimal level of reserves,𝑋∗∗, is given by:
+𝑋∗∗ = 𝑋∗ +
+𝛼2 + 𝜎2
+𝜂
+𝛼2 + 𝜎2
+𝜂 + 𝜆
+𝒢( ¯𝜖) + 𝛼
+𝛼2 + 𝜎2
+𝜂 + 𝜆
+( ˆ𝑆 − ¯𝑆)𝐺( ¯𝜖)
++
+𝜎2
+𝜂
+(𝛼2 + 𝜆)(𝛼2 + 𝜎2
+𝜂 + 𝜆)
+
+𝛼( ˆ𝑆 − ¯𝑆) + 𝜆( ¯𝑋 − ˆ𝑋)
+
+≥ 𝑋∗,
+which increases withˆ𝑋 and with𝜎2
+𝜂 and decreases withˆ𝑆.
+The remainder of this section shows the proof of this proposition. The first-order
+condition of the problem with uncertainty about the slope is
+1
+2
+∫ ∞
+−∞
+∫ ∞
+−∞
+( ¯𝑆 + 𝜈 − ˆ𝑆)2 𝑓 (𝜈)ℎ(𝜂)𝑑𝜈𝑑𝜂𝑔( ¯𝜖) 𝑑 ¯𝜖
+𝑑𝑋
+− 1
+2
+∫ ∞
+−∞
+∫ ∞
+−∞
+
+¯𝑆 + 𝜈 − (𝛼 + 𝜂)(𝑋∗∗ − ¯𝑋 − ¯𝜖) − ˆ𝑆
+ 2
+𝑓 (𝜈)ℎ(𝜂)𝑑𝜈𝑑𝜂𝑔( ¯𝜖) 𝑑 ¯𝜖
+𝑑𝑋
++
+∫ ∞
+−∞
+∫ ∞
+¯𝜖
+∫ ∞
+−∞
+−(𝛼 + 𝜂)( ¯𝑆 + 𝜈 − (𝛼 + 𝜂)(𝑋∗∗ − ¯𝑋 − 𝜖) − ˆ𝑆) 𝑓 (𝜈)𝑔(𝜖)ℎ(𝜂)𝑑𝜈𝑑𝜖𝑑𝜂 + 𝜆(𝑋∗∗ − ˆ𝑋) = 0,
+where the first two terms cancel out when substituting in¯𝜖 = 𝑋∗∗ − ¯𝑋. As a result, the
+first-order condition can be simplified to
+∫ ∞
+−∞
+∫ ∞
+¯𝜖
+∫ ∞
+−∞
+−(𝛼 + 𝜂)( ¯𝑆 + 𝜈 − (𝛼 + 𝜂)(𝑋∗∗ − ¯𝑋 − 𝜖) − ˆ𝑆) 𝑓 (𝜈)𝑔(𝜖)ℎ(𝜂)𝑑𝜈𝑑𝜖𝑑𝜂 + 𝜆(𝑋∗∗ − ˆ𝑋) = 0.
+Using the same steps as in Appendix A.3, we simplify the first-order condition to
+0 =
+∫ ∞
+−∞
+∫ ∞
+¯𝜖
+−(𝛼 + 𝜂)( ¯𝑆 − (𝛼 + 𝜂)(𝑋∗∗ − ¯𝑋 − 𝜖) − ˆ𝑆)𝑔(𝜖)ℎ(𝜂)𝑑𝜖𝑑𝜂 + 𝜆(𝑋∗∗ − ˆ𝑋)
+= (1 − 𝐺( ¯𝜖))
+
+−𝛼( ¯𝑆 − ˆ𝑆) + (𝛼2 + 𝜎2
+𝜂)(𝑋∗∗ − ¯𝑋)
+
+−
+∫ ∞
+−∞
+∫ ∞
+¯𝜖
+(𝛼 + 𝜂)2𝜖 𝑔(𝜖)ℎ(𝜂)𝑑𝜖𝑑𝜂 + 𝜆(𝑋∗∗ − ˆ𝑋)
+= (1 − 𝐺( ¯𝜖))
+
+−𝛼( ¯𝑆 − ˆ𝑆) + (𝛼2 + 𝜎2
+𝜂)(𝑋∗∗ − ¯𝑋)
+
++ (𝛼2 + 𝜎2
+𝜂)( ¯𝜖𝐺( ¯𝜖) − 𝒢( ¯𝜖)) + 𝜆(𝑋∗∗ − ˆ𝑋),
+46
+===== PAGE 48 =====
+where we used the fact that𝜖, 𝜈, and𝜂 have zero mean. Using the definition¯𝜖 = 𝑋∗∗ − ¯𝑋,
+we get
+−𝛼(1 − 𝐺( ¯𝜖))( ¯𝑆 − ˆ𝑆) + (𝛼2 + 𝜎2
+𝜂 + 𝜆)(𝑋∗∗ − ¯𝑋) − (𝛼2 + 𝜎2
+𝜂)𝒢( ¯𝜖) + 𝜆( ¯𝑋 − ˆ𝑋) = 0,
+which we can rearrange as
+𝑋∗∗ = ¯𝑋 − 𝛼
+𝛼2 + 𝜎2
+𝜂 + 𝜆
+(1 − 𝐺( ¯𝜖))( ˆ𝑆 − ¯𝑆) − 𝜆
+𝛼2 + 𝜎2
+𝜂 + 𝜆
+( ¯𝑋 − ˆ𝑋) +
+𝛼2 + 𝜎2
+𝜂
+𝛼2 + 𝜎2
+𝜂 + 𝜆
+𝒢( ¯𝜖).
+Fromthisequation,usingtheimplicitfunctiontheorem,weobtain 𝑑𝑋 ∗∗
+𝑑 ˆ𝑋
+= 𝜆
+Γ
+
+𝛼2 + 𝜎2
+𝜂 + 𝜆
+ ≥
+0, 𝑑𝑋 ∗∗
+𝑑 ˆ𝑆
+= − 𝛼(1 − 𝐺( ¯𝜖))
+Γ
+
+𝛼2 + 𝜎2
+𝜂 + 𝜆
+ ≤ 0, and 𝑑𝑋 ∗∗
+𝑑𝜎2
+𝜂
+= 𝛼(1 − 𝐺( ¯𝜖))( ˆ𝑆 − ¯𝑆) + 𝜆( ¯𝑋 − ˆ𝑋) + 𝜆𝒢( ¯𝜖)
+Γ(𝛼2 + 𝜎2
+𝜂 + 𝜆)2 ≥ 0,
+where Γ > 0is the second-order condition for the optimal supply to be a minimum of the
+objective function.
+Using 𝑋∗ = ¯𝑋 − 1
+𝛼2 + 𝜆
+h
+𝛼
+
+ˆ𝑆 − ¯𝑆
+
++ 𝜆
+
+¯𝑋 − ˆ𝑋
+i
+, we can write the optimal supply as
+𝑋∗∗ =𝑋∗ +
+𝛼
+
+ˆ𝑆 − ¯𝑆
+
+𝛼2 + 𝜆 −
+𝛼 (1 − 𝐺( ¯𝜖))
+
+ˆ𝑆 − ¯𝑆
+
+𝛼2 + 𝜎2
+𝜂 + 𝜆
++
+𝜆
+
+¯𝑋 − ˆ𝑋
+
+𝛼2 + 𝜆 −
+𝜆
+
+¯𝑋 − ˆ𝑋
+
+𝛼2 + 𝜎2
+𝜂 + 𝜆
++
+𝛼2 + 𝜎2
+𝜂
+𝛼2 + 𝜎2
+𝜂 + 𝜆
+𝒢( ¯𝜖)
+=𝑋∗ +
+𝛼
+
+ˆ𝑆 − ¯𝑆
+
+(𝛼2 + 𝜆)(𝛼2 + 𝜎2
+𝜂 + 𝜆)
+h
+𝛼2 + 𝜎2
+𝜂 + 𝜆 − (𝛼2 + 𝜆)(1 − 𝐺( ¯𝜖))
+i
++
+𝜆
+
+¯𝑋 − ˆ𝑋
+
+(𝛼2 + 𝜆)(𝛼2 + 𝜎2
+𝜂 + 𝜆)
+h
+𝛼2 + 𝜎2
+𝜂 + 𝜆 − 𝛼2 − 𝜆
+i
++
+𝛼2 + 𝜎2
+𝜂
+𝛼2 + 𝜎2
+𝜂 + 𝜆
+𝒢( ¯𝜖)
+=𝑋∗ +
+𝛼𝐺( ¯𝜖)
+
+ˆ𝑆 − ¯𝑆
+
+𝛼2 + 𝜎2
+𝜂 + 𝜆
++
+𝜎2
+𝜂
+h
+𝛼
+
+ˆ𝑆 − ¯𝑆
+
++ 𝜆
+
+¯𝑋 − ˆ𝑋
+i
+(𝛼2 + 𝜆)(𝛼2 + 𝜎2
+𝜂 + 𝜆)
++
+𝛼2 + 𝜎2
+𝜂
+𝛼2 + 𝜎2
+𝜂 + 𝜆
+𝒢( ¯𝜖) ≥ 𝑋∗.
+47
+===== PAGE 49 =====
+A.4.2 Including a region of scarce reserves
+In this section, we derive the optimal supply of reserves in the presence of a third region,
+in which the slope of the reserve demand curve is steeper than in the ample reserves
+region; we refer to this region as the region of scarce reserves. Specifically, we introduce
+a second kink in the demand curve at¯𝑋2 < ¯𝑋1, where ¯𝑋1 now denotes the cutoff between
+ample and abundant reserves (formerly¯𝑋), and ¯𝑋2 represents the cutoff between scarce
+and ample reserves.
+The resulting reserve demand curve is given by:
+𝑆 =
+ 
+
+¯𝑆 + 𝜈 − 𝛼(𝑋 − ¯𝑋1 − 𝜖) − 𝛽(𝑋 − ¯𝑋2 − 𝜖) if 𝜖 > 𝑋 − ¯𝑋2,
+¯𝑆 + 𝜈 − 𝛼(𝑋 − ¯𝑋1 − 𝜖) if 𝑋 − ¯𝑋2 ≥ 𝜖 > 𝑋 − ¯𝑋1,
+¯𝑆 + 𝜈 if 𝜖 < 𝑋 − ¯𝑋1,
+where 𝛽 ≥ 0 is the increase in the slope in the scarce reserves region relative to that
+in ample reserves region (𝛼). Absent any type of uncertainty, the spread is equal to
+¯𝑆 + 𝛼( ¯𝑋1 − ¯𝑋2) > ¯𝑆 at the kink between scarce and ample reserves,¯𝑋2.
+For simplicity, we assume that the central bank targets the ample region for both the
+spread and reserves (i.e.,¯𝑆 < ˆ𝑆 < ¯𝑆 + 𝛼( ¯𝑋1 − ¯𝑋2) and ¯𝑋1 < ˆ𝑋 < ¯𝑋2), so that the optimal
+supplyofreservesabsentuncertaintyliesintheamplereservesregion. Specifically,inthe
+absenceofuncertainty,theequationfortheoptimalsupplyofreservesisidenticaltothatin
+thetwo-regionmodel(with ¯𝑋1replacing ¯𝑋). Inthepresenceofuncertainty,thefirst-order
+condition for the optimal supply of reserves,𝑋∗∗∗, yields the following proposition.
+48
+===== PAGE 50 =====
+Proposition 5 (Higher Optimal Supply of Reserves with a Scarce Reserves Region)
+Theexistenceofthescarcereservesregionincreasestheoptimalsupplyofreservesunderuncertainty:
+𝑋∗∗∗ = 𝑋∗∗ + 𝛽(1 − 𝐺( ¯𝜖2))
+𝛼2 + 𝜆
+
+¯𝑆 + 𝛼( ¯𝑋1 − ¯𝑋2) − ˆ𝑆
+
+≥ 𝑋∗∗,
+where ¯𝜖2 = ¯𝜖( ¯𝑋2).
+To prove the results above, we proceed as follows. When the demand curve includes
+a region of scarce reserves, the central bank’s optimization problem is given by
+min
+𝑋
+∫ ¯𝜖1
+−∞
+∫ ∞
+−∞
+( ¯𝑆 + 𝜈 − ˆ𝑆)2 𝑓 (𝜈)𝑔(𝜖)𝑑𝜈𝑑𝜖 +
+∫ ¯𝜖2
+¯𝜖1
+∫ ∞
+−∞
+( ¯𝑆 + 𝜈 − 𝛼(𝑋 − ¯𝑋1 − 𝜖) − ˆ𝑆)2 𝑓 (𝜈)𝑔(𝜖)𝑑𝜈𝑑𝜖+
++
+∫ ∞
+¯𝜖2
+∫ ∞
+−∞
+∫ ∞
+−∞
+
+¯𝑆 + 𝜈 − 𝛼(𝑋 − ¯𝑋1 − 𝜖) − 𝛽(𝑋 − ¯𝑋2 − 𝜖) − ˆ𝑆
+ 2
+𝑓 (𝜈)𝑔(𝜖)𝑑𝜈𝑑𝜖
++ 𝜆(𝑋 − ˆ𝑋)2.
+Denote the objective function in the two-region model byℒ1, the state vector by
+𝜃 = {𝜖, 𝜈}, the state space byΘ, and the joint density function by𝛾(𝜃). We further
+denote the partition of the state space for𝜖 between ¯𝜖2 and ∞ (with all other variables
+unrestricted) byΘ2. Then, we use that
+∫ ∞
+¯𝜖2
+∫ ∞
+−∞
+
+¯𝑆 + 𝜈 − 𝛼(𝑋 − ¯𝑋1 − 𝜖) − 𝛽(𝑋 − ¯𝑋2 − 𝜖) − ˆ𝑆
+ 2
+𝑓 (𝜈)𝑔(𝜖)𝑑𝜈𝑑𝜖
+=
+∫ ∞
+¯𝜖2
+∫ ∞
+−∞
+( ¯𝑆 + 𝜈 − 𝛼(𝑋 − ¯𝑋1 − 𝜖) − ˆ𝑆)2 𝑓 (𝜈)𝑔(𝜖)𝑑𝜈𝑑𝜖+
++
+∫
+𝜃∈Θ2
+
+−2( ¯𝑆 + 𝜈 − 𝛼(𝑋 − ¯𝑋1 − 𝜖) − ˆ𝑆)𝛽(𝑋 − ¯𝑋2 − 𝜖) + 𝛽2(𝑋 − ¯𝑋2 − 𝜖)2
+
+𝛾(𝜃)𝑑𝜃.
+49
+===== PAGE 51 =====
+Rearranging the terms, we obtain the objective function
+ℒ1 +
+∫
+𝜃∈Θ2
+
+−2( ¯𝑆 + 𝜈 − ˆ𝑆)𝛽(𝑋 − ¯𝑋2 − 𝜖) + 2𝛼𝛽(𝑋 − ¯𝑋1 − 𝜖)(𝑋 − ¯𝑋2 − 𝜖) + 𝛽2(𝑋 − ¯𝑋2 − 𝜖)2
+
+𝛾(𝜃)𝑑𝜃
+= ℒ1 +
+∫
+𝜃∈Θ2
+
+2( ˆ𝑆 − ¯𝑆)𝛽(𝑋 − ¯𝑋2 − 𝜖) + 2𝛼𝛽(𝑋 − ¯𝑋1 − 𝜖)(𝑋 − ¯𝑋2 − 𝜖) + 𝛽2(𝑋 − ¯𝑋2 − 𝜖)2
+
+𝛾(𝜃)𝑑𝜃.
+The first-order condition (as before, multiplied by1/2) is given by:
+0 = 𝑑ℒ1
+𝑑𝑋 +
+∫
+𝜃∈Θ2
+(𝛽( ˆ𝑆 − ¯𝑆) + 2𝛼𝛽𝑋∗∗∗ − 𝛼𝛽( ¯𝑋1 + ¯𝑋2) − 2𝛼𝛽𝜖 + 𝛽2(𝑋∗∗∗ − ¯𝑋2 − 𝜖))𝛾(𝜃)𝑑𝜃
+= 𝑑ℒ1
+𝑑𝑋 +
+∫
+𝜃∈Θ2
+
+(2𝛼𝛽 + 𝛽2)𝑋∗∗∗ + 𝛽( ˆ𝑆 − ¯𝑆) − 𝛼𝛽( ¯𝑋1 + ¯𝑋2) − (2𝛼𝛽 + 𝛽2)𝜖 − 𝛽2 ¯𝑋2
+
+𝛾(𝜃)𝑑𝜃
+= 𝑑ℒ1
+𝑑𝑋 + (2𝛼𝛽 + 𝛽2)(1 − 𝐺( ¯𝜖2))𝑋∗∗∗
++
+
+𝛽( ˆ𝑆 − ¯𝑆) − 𝛼𝛽( ¯𝑋1 + ¯𝑋2) − 𝛽2 ¯𝑋2
+
+(1 − 𝐺( ¯𝜖2)) − (2𝛼𝛽 + 𝛽2)
+∫ ∞
+¯𝜖2
+𝜖 𝑔(𝜖)𝑑𝜖,
+where 𝑑ℒ1
+𝑑𝑋 is calculated at the optimum,𝑋∗∗∗. Using that
+∫ ∞
+¯𝜖2
+𝜖 𝑔(𝜖)𝑑𝜖 = 𝒢( ¯𝜖2) − ¯𝜖2𝐺( ¯𝜖2)
+and ¯𝜖2 = 𝑋∗∗∗ − ¯𝑋2, we get
+(2𝛼𝛽 + 𝛽2)(1 − 𝐺( ¯𝜖2))𝑋∗∗∗ +
+
+𝛽( ˆ𝑆 − ¯𝑆) − 𝛼𝛽( ¯𝑋1 + ¯𝑋2) − 𝛽2 ¯𝑋2
+
+(1 − 𝐺( ¯𝜖2)) + (2𝛼𝛽 + 𝛽2) ( ¯𝜖2𝐺( ¯𝜖2) − 𝒢( ¯𝜖2))
+= (2𝛼𝛽 + 𝛽2)(𝑋∗∗∗ − ¯𝑋2) +
+
+𝛽( ˆ𝑆 − ¯𝑆) − 𝛼𝛽( ¯𝑋1 − ¯𝑋2)
+
+(1 − 𝐺( ¯𝜖2)) − (2𝛼𝛽 + 𝛽2)𝒢( ¯𝜖2).
+Taken together, we get the combined first-order condition
+(𝛼2 + 𝜆)(𝑋∗∗∗ − ¯𝑋1) + 𝛼(1 − 𝐺( ¯𝜖1))( ˆ𝑆 − ¯𝑆) + 𝜆( ¯𝑋1 − ˆ𝑋) − 𝛼2𝒢( ¯𝜖1)+
++ (2𝛼𝛽 + 𝛽2)(𝑋∗∗∗ − ¯𝑋2) + 𝛽(1 − 𝐺( ¯𝜖2))( ˆ𝑆 − ¯𝑆) − 𝛼𝛽(1 − 𝐺( ¯𝜖2))( ¯𝑋1 − ¯𝑋2) − (2𝛼𝛽 + 𝛽2)𝒢( ¯𝜖2) = 0,
+which simplifies to
+𝑋∗∗∗ = 𝛼2 + 𝜆
+(𝛼 + 𝛽)2) + 𝜆 𝑋∗∗+
++ 𝛽(1 − 𝐺( ¯𝜖2))
+((𝛼 + 𝛽)2) + 𝜆 ( ¯𝑆 + 𝛼( ¯𝑋1 − ¯𝑋2) − ˆ𝑆) + 2𝛼𝛽 + 𝛽2
+((𝛼 + 𝛽)2) + 𝜆 ( ¯𝑋2 + 𝒢( ¯𝜖2)),
+50
+===== PAGE 52 =====
+where ¯𝑆 + 𝛼( ¯𝑋1 − ¯𝑋2) > ˆ𝑆 is the spread at𝑋 = ¯𝑋2 with 𝜖 = 0 and 𝜈 = 0. To show that
+𝑋∗∗∗ > 𝑋∗∗, we use that𝒢( ¯𝜖2) ≥ ¯𝜖2 = 𝑋∗∗∗ − ¯𝑋2. Consequently,𝒢( ¯𝜖2) + ¯𝑋2 ≥ 𝑋∗∗∗, and thus
+the last term on the right-hand side can be bounded from below:
+𝑋∗∗∗ ≥ 𝛼2 + 𝜆
+(𝛼 + 𝛽)2) + 𝜆 𝑋∗∗+
++ 𝛽(1 − 𝐺( ¯𝜖2))
+(𝛼 + 𝛽)2 + 𝜆 ( ¯𝑆 + 𝛼( ¯𝑋1 − ¯𝑋2) − ˆ𝑆) + 2𝛼𝛽 + 𝛽2
+(𝛼 + 𝛽)2 + 𝜆 𝑋∗∗∗.
+Solving for𝑋∗∗∗ results in
+𝑋∗∗∗ ≥ 𝑋∗∗ + 𝛽(1 − 𝐺( ¯𝜖2))
+𝛼2 + 𝜆 ( ¯𝑆 + 𝛼( ¯𝑋1 − ¯𝑋2) − ˆ𝑆).
+B Proofs of Section 4 (with Lending Facility)
+Inthisappendix,wereporttheproofsoftheoptimalsupplyofreservesunderuncertainty
+when a central bank lending facility is present.
+51
+===== PAGE 53 =====
+B.1 Mean spread and variance of the spread with a lending facility
+TheexpectedspreadinthepresenceofthelendingfacilitydescribedinSection2.2canbe
+written as follows
+E [𝑆] =
+∫ ¯𝜖
+−∞
+∫ ∞
+−∞
+  ¯𝑆 + 𝜈 𝑓 (𝜈)𝑔(𝜖)d𝜈d𝜖+
+∫ ¯𝜖𝐿
+¯𝜖
+∫ ∞
+−∞
+ ¯𝑆 + 𝜈 − 𝛼  𝑋 − ¯𝑋 − 𝜖
+𝑓 (𝜈)𝑔(𝜖)d𝜈d𝜖+
+∫ ∞
+¯𝜖𝐿
+∫ ∞
+−∞
+  ¯𝑆𝐿 + 𝜈 𝑓 (𝜈)𝑔(𝜖)d𝜈d𝜖
+= ¯𝑆𝐺( ¯𝜖) + ¯𝑆 [𝐺( ¯𝜖𝐿) − 𝐺( ¯𝜖)] + ¯𝑆𝐿 [1 − 𝐺( ¯𝜖𝐿)] − 𝛼
+∫ ¯𝜖𝐿
+¯𝜖
+(𝑋 − ¯𝑋 − 𝜖)𝑔(𝜖)d𝜖
+= ¯𝑆 +   ¯𝑆𝐿 − ¯𝑆
+[1 − 𝐺( ¯𝜖𝐿)] − 𝛼
+
+¯𝜖 [𝐺( ¯𝜖𝐿) − 𝐺( ¯𝜖)] −
+∫ ¯𝜖𝐿
+¯𝜖
+𝜖𝑔(𝜖)d𝜖
+
+,
+wherethefirstequalityholdsbecause 𝜖 and 𝜈 areindependent,thesecondequalityholds
+because 𝜈 has zero mean, and the third equality uses¯𝜖 = 𝑋 − ¯𝑋 by definition. Using
+integration by parts, we can write
+∫ ¯𝜖𝐿
+¯𝜖
+𝜖 𝑔(𝜖)d𝜖 = ¯𝜖𝐿𝐺( ¯𝜖𝐿)− ¯𝜖𝐺( ¯𝜖)−
+∫ ¯𝜖𝐿
+−∞
+𝐺(𝜖)d𝜖+
+∫ ¯𝜖
+−∞
+𝐺(𝜖)d𝜖 = ¯𝜖𝐿𝐺( ¯𝜖𝐿)− ¯𝜖𝐺( ¯𝜖)−[𝒢( ¯𝜖𝐿) − 𝒢( ¯𝜖)]
+Substituting this expression in the last term of the previous formula, we can write the
+expected spread as
+E [𝑆] = ¯𝑆 +   ¯𝑆𝐿 − ¯𝑆
+[1 − 𝐺( ¯𝜖𝐿)] − 𝛼 { ¯𝜖𝐺( ¯𝜖𝐿) − ¯𝜖𝐺( ¯𝜖) − ¯𝜖𝐿𝐺( ¯𝜖𝐿) + ¯𝜖𝐺( ¯𝜖) + [𝒢( ¯𝜖𝐿) − 𝒢( ¯𝜖)]}
+= ¯𝑆 +   ¯𝑆𝐿 − ¯𝑆
+[1 − 𝐺( ¯𝜖𝐿)] − 𝛼
+
+−
+¯𝑆𝐿 − ¯𝑆
+𝛼 𝐺( ¯𝜖𝐿) + 𝒢( ¯𝜖𝐿) − 𝒢( ¯𝜖)
+
+= ¯𝑆𝐿 − 𝛼 [𝒢( ¯𝜖𝐿) − 𝒢( ¯𝜖)] ,
+where the second equality follows from¯𝜖𝐿 = ¯𝜖 +
+¯𝑆𝐿 − ¯𝑆
+𝛼 .
+52
+===== PAGE 54 =====
+From the equation above, it follows that:(𝑖) E [𝑆] ≤ ¯𝑆𝐿 for all 𝑋 because 𝒢(𝑥) is
+increasing everywhere, which implies that𝒢( ¯𝜖𝐿) − 𝒢( ¯𝜖) ≥ 0 for all 𝑋; (𝑖𝑖 ) E [𝑆] ≥ ¯𝑆
+for all 𝑋 because the function 𝒢(𝑥) − 𝑥 is decreasing everywhere, which implies that
+𝒢( ¯𝜖𝐿) − 𝒢( ¯𝜖) ≤ ¯𝜖𝐿 − ¯𝜖; (𝑖𝑖𝑖 ) dE [𝑆]
+d ¯𝑆𝐿
+= 1 − 𝐺( ¯𝜖𝐿) ≥ 0 for all ¯𝑆𝐿 and 𝑋, which means that
+E[𝑆] is increasing with ¯𝑆𝐿; (𝑖𝑣 ) dE [𝑆]
+d𝑋 = −𝛼 [𝐺( ¯𝜖𝐿) − 𝐺( ¯𝜖)] ≤ 0 for all ¯𝑆𝐿 and 𝑋, which
+means that E[𝑆] is decreasing with 𝑋; (𝑣 ) lim
+𝑋→−∞
+E[𝑆] = ¯𝑆𝐿 because both 𝒢 functions
+go to zero as𝑋 goes to minus infinity; and(𝑣𝑖 ) lim
+𝑋→∞
+E[𝑆] = ¯𝑆 because lim
+𝑥→∞
+(𝒢(𝑥 + 𝑑) −
+𝒢(𝑥)) = lim𝑥→∞
+n
+(𝑥 + 𝑑)𝐺(𝑥 + 𝑑) − 𝑥𝐺 (𝑥) −
+∫ 𝑥+𝑑
+−∞ 𝑢 𝑔(𝑢)d𝑢 +
+∫ 𝑥
+−∞ 𝑢 𝑔(𝑢)d𝑢
+o
+= 𝑑 for all 𝑥
+and 𝑑, where we used integration by parts and the fact that𝜖 has zero mean (so that the
+last two integrals go to zero in the limit) and finite variance (so that𝑥[𝐺(𝑥 + 𝑑) − 𝐺(𝑥)]
+goes to zero in the limit). Moreover, sinceE[𝑆] is a decreasing function of𝑋, the limit for
+𝑋 → −∞ is approached from below and the limit for𝑋 → ∞ is approached from above.
+Since dE [𝑆]
+d𝑋 = −𝛼 [𝐺( ¯𝜖𝐿) − 𝐺( ¯𝜖)] ≥ − 𝛼 for all ¯𝑆𝐿 and 𝑋, and since the deterministic
+spread is
+𝑆𝑑𝑒𝑡 =
+ 
+
+¯𝑆𝐿 if 𝑋 ≤ ¯𝑋 −
+¯𝑆𝐿 − ¯𝑆
+𝛼 ,
+¯𝑆 − 𝛼(𝑋 − ¯𝑋) if ¯𝑋 −
+¯𝑆𝐿 − ¯𝑆
+𝛼 < 𝑋 < ¯𝑋 ,
+¯𝑆 if 𝑋 ≥ ¯𝑋 ,
+there exists a unique level of the ex-ante supply of reservese𝑋 ∈
+
+¯𝑋 −
+¯𝑆𝐿 − ¯𝑆
+𝛼 , ¯𝑋
+
+such
+that the expected spread is equal to the deterministic one, withE [𝑆] ≤ 𝑆𝑑𝑒𝑡 for all𝑋 < e𝑋
+and E [𝑆] ≥ 𝑆𝑑𝑒𝑡 for all 𝑋 > e𝑋. If the distribution of horizontal shocks𝑔(𝜖) has infinite
+support, the inequalities hold in the strict sense; obviously, if𝑔(𝜖) has finite support,
+the expected spread is exactly equal to the deterministic one for sufficiently low and for
+sufficiently large values of𝑋. Finally, if𝑔(𝜖) is symmetric around zero,𝐺(𝑢) + 𝐺(−𝑢) = 1
+53
+===== PAGE 55 =====
+for all 𝑢 and therefore d
+d𝑢 [𝒢(𝑢) − 𝒢(−𝑢)] = 𝐺(𝑢) + 𝐺(−𝑢) = 1 for all 𝑢; this implies
+[𝒢(𝑢) − 𝒢(−𝑢)] = 𝑢 because 𝒢(0) − 𝒢(−0) = 0. As a result, E
+
+𝑆
+
+𝑋 = ¯𝑋 −
+¯𝑆𝐿 − ¯𝑆
+2𝛼
+
+=
+¯𝑆𝐿 − 𝛼
+
+¯𝑋 −
+¯𝑆𝐿 − ¯𝑆
+2𝛼 − ¯𝑋 +
+¯𝑆𝐿 − ¯𝑆
+𝛼
+
+=
+¯𝑆𝐿 + ¯𝑆
+2 = 𝑆𝑑𝑒𝑡
+
+𝑋 = ¯𝑋 −
+¯𝑆𝐿 − ¯𝑆
+2𝛼
+
+,whichprovesthatif
+𝑔(𝜖)issymmetricaroundzero,theexpectedspreadintersectsthedeterministiconeatthe
+midpoint between the kinks in the reserve demand curve, i.e.,¯𝑋 −
+¯𝑆𝐿 − ¯𝑆
+2𝛼 .
+To derive the variance of the spread in the presence of the lending facility, we first
+derive the expected value of the squared spread as follows
+E 
+𝑆2
+=
+∫ ¯𝜖
+−∞
+∫ ∞
+−∞
+  ¯𝑆 + 𝜈 2 𝑓 (𝜈)𝑔(𝜖)d𝜈d𝜖 +
+∫ ¯𝜖𝐿
+¯𝜖
+∫ ∞
+−∞
+ ¯𝑆 + 𝜈 − 𝛼  𝑋 − ¯𝑋 − 𝜖 2
+𝑓 (𝜈)𝑔(𝜖)d𝜈d𝜖+
+∫ ∞
+¯𝜖𝐿
+∫ ∞
+−∞
+  ¯𝑆𝐿 + 𝜈 2 𝑓 (𝜈)𝑔(𝜖)d𝜈d𝜖
+=
+∫ ¯𝜖
+−∞
+∫ ∞
+−∞
+
+¯𝑆2 + 2𝜈 ¯𝑆 + 𝜈2
+
+𝑓 (𝜈)𝑔(𝜖)d𝜈d𝜖+
+∫ ¯𝜖𝐿
+¯𝜖
+∫ ∞
+−∞
+
+( ¯𝑆 + 𝜈)2 − 2𝛼( ¯𝑆 + 𝜈)( ¯𝜖 − 𝜖) + 𝛼2( ¯𝜖 − 𝜖)2
+𝑓 (𝜈)𝑔(𝜖)d𝜈d𝜖+
+∫ ∞
+¯𝜖𝐿
+∫ ∞
+−∞
+
+¯𝑆2
+𝐿 + 2𝜈 ¯𝑆𝐿 + 𝜈2
+
+𝑓 (𝜈)𝑔(𝜖)d𝜈d𝜖
+= ¯𝑆2𝐺( ¯𝜖) + 2 ¯𝑆
+∫ ¯𝜖
+−∞
+∫ ∞
+−∞
+𝜈 𝑓 (𝜈)d𝜈
+
+𝑔(𝜖)d𝜖 + 𝜎2
+𝜈𝐺( ¯𝜖) + ¯𝑆2
+𝐿 [1 − 𝐺( ¯𝜖𝐿)] +
+2 ¯𝑆𝐿
+∫ ¯𝜖
+−∞
+∫ ∞
+−∞
+𝜈 𝑓 (𝜈)d𝜈
+
+𝑔(𝜖)d𝜖 + 𝜎2
+𝜈 [1 − 𝐺( ¯𝜖𝐿)] + ¯𝑆2 [𝐺( ¯𝜖𝐿) − 𝐺( ¯𝜖)] +
+2 ¯𝑆
+∫ ¯𝜖
+−∞
+∫ ∞
+−∞
+𝜈 𝑓 (𝜈)d𝜈
+
+𝑔(𝜖)d𝜖 + 𝜎2
+𝜈 [𝐺( ¯𝜖𝐿) − 𝐺( ¯𝜖)] − 2𝛼 ¯𝑆
+∫ ¯𝜖
+−∞
+∫ ∞
+−∞
+𝑓 (𝜈)d𝜈
+
+( ¯𝜖 − 𝜖)𝑔(𝜖)d𝜖−
+2𝛼
+∫ ¯𝜖
+−∞
+∫ ∞
+−∞
+𝜈 𝑓 (𝜈)d𝜈
+
+( ¯𝜖 − 𝜖)𝑔(𝜖)d𝜖 + 𝛼2
+∫ ¯𝜖
+−∞
+∫ ∞
+−∞
+𝑓 (𝜈)d𝜈
+
+( ¯𝜖 − 𝜖)2 𝑔(𝜖)d𝜖
+=𝜎2
+𝜈 + ¯𝑆2
+𝐿 [1 − 𝐺( ¯𝜖𝐿)] + ¯𝑆2𝐺( ¯𝜖𝐿) − 2𝛼 ¯𝑆
+
+¯𝜖 [𝐺( ¯𝜖𝐿) − 𝐺( ¯𝜖)] −
+∫ ¯𝜖𝐿
+¯𝜖
+𝜖 𝑔(𝜖)d𝜖
+
++
+𝛼2
+
+¯𝜖2 [𝐺( ¯𝜖𝐿) − 𝐺( ¯𝜖)] − 2 ¯𝜖
+∫ ¯𝜖𝐿
+¯𝜖
+𝜖 𝑔(𝜖)d𝜖 +
+∫ ¯𝜖𝐿
+¯𝜖
+𝜖2 𝑔(𝜖)d𝜖
+
+,
+where the first equality holds because𝜖 and 𝜈 are independent, and the fourth equality
+54
+===== PAGE 56 =====
+holds because𝜈 has zero mean.
+Using integration by parts, the last integral in the equation above can be written as
+∫ ¯𝜖𝐿
+¯𝜖
+𝜖2 𝑔(𝜖)d𝜖 =
+∫ ¯𝜖𝐿
+−∞
+𝜖2 𝑔(𝜖)d𝜖 −
+∫ ¯𝜖
+−∞
+𝜖2 𝑔(𝜖)d𝜖
+=( ¯𝜖𝐿)2𝐺( ¯𝜖𝐿) − 2 ¯𝜖𝐿𝒢( ¯𝜖𝐿) + 2G( ¯𝜖𝐿) − ¯𝜖2𝐺( ¯𝜖𝐿) + 2 ¯𝜖𝒢( ¯𝜖𝐿) − 2G( ¯𝜖𝐿),
+where G(𝑥) =
+∫ 𝑥
+−∞ 𝒢(𝑢)d𝑢 isthesuper-supercumulativedistributionfunction. Usingthis
+expression and the expression for
+∫ ¯𝜖𝐿
+¯𝜖 𝜖𝑔(𝜖)d𝜖 derived above, we can write
+E 
+𝑆2
+=𝜎2
+𝜈 + ¯𝑆2
+𝐿 [1 − 𝐺( ¯𝜖𝐿)] + ¯𝑆2𝐺( ¯𝜖𝐿)−
+2𝛼 ¯𝑆 { ¯𝜖 [𝐺( ¯𝜖𝐿) − 𝐺( ¯𝜖)] − ¯𝜖𝐿𝐺( ¯𝜖𝐿) + ¯𝜖𝐺( ¯𝜖) + 𝒢( ¯𝜖𝐿) − 𝒢( ¯𝜖)} +
+𝛼2 
+¯𝜖2 [𝐺( ¯𝜖𝐿) − 𝐺( ¯𝜖)] − 2 ¯𝜖 [ ¯𝜖𝐿𝐺( ¯𝜖𝐿) − ¯𝜖𝐺( ¯𝜖) − 𝒢( ¯𝜖𝐿) + 𝒢( ¯𝜖)] +
+( ¯𝜖𝐿)2𝐺( ¯𝜖𝐿) − ¯𝜖2𝐺( ¯𝜖) − 2 ¯𝜖𝐿𝒢( ¯𝜖𝐿) + 2 ¯𝜖𝒢( ¯𝜖) + 2G( ¯𝜖𝐿) − 2G( ¯𝜖)
+	
+=𝜎2
+𝜈 + ¯𝑆2
+𝐿 [1 − 𝐺( ¯𝜖𝐿)] + ¯𝑆2𝐺( ¯𝜖𝐿) + 2𝛼 ¯𝑆 {( ¯𝜖𝐿 − ¯𝜖) 𝐺( ¯𝜖𝐿) − 𝒢( ¯𝜖𝐿) + 𝒢( ¯𝜖)} +
+𝛼2 
+( ¯𝜖𝐿 − ¯𝜖)2 𝐺( ¯𝜖𝐿) − 2( ¯𝜖𝐿 − ¯𝜖)𝒢( ¯𝜖) + 2 [G( ¯𝜖𝐿) − G( ¯𝜖)]
+	
+=𝜎2
+𝜈 + ¯𝑆2
+𝐿 [1 − 𝐺( ¯𝜖𝐿)] + ¯𝑆2𝐺( ¯𝜖𝐿) + 2 ¯𝑆   ¯𝑆𝐿 − ¯𝑆 𝐺( ¯𝜖𝐿) − 2𝛼 ¯𝑆 [𝒢( ¯𝜖𝐿) − 𝒢( ¯𝜖)] +
+  ¯𝑆𝐿 − ¯𝑆 2 𝐺( ¯𝜖𝐿) − 2𝛼( ¯𝑆𝐿 − ¯𝑆)𝒢( ¯𝜖) + 2𝛼2 [G( ¯𝜖𝐿) − G( ¯𝜖)]
+=𝜎2
+𝜈 + ¯𝑆2
+𝐿 − 2𝛼
+ ¯𝑆𝐿𝒢( ¯𝜖𝐿) − ¯𝑆𝒢( ¯𝜖)
+
++ 2𝛼2 [G( ¯𝜖𝐿) − G( ¯𝜖)] ,
+where the third equality uses¯𝜖𝐿 = ¯𝜖 +
+¯𝑆𝐿 − ¯𝑆
+𝛼 . Putting together this expression with the
+one for the expected spread, we obtain the variance of the spread as
+Var[𝑆] =E 
+𝑆2
+− (E [𝑆])2 = 𝜎2
+𝜈 + ¯𝑆2
+𝐿 − 2𝛼
+ ¯𝑆𝐿𝒢( ¯𝜖𝐿) − ¯𝑆𝒢( ¯𝜖)
+
++ 2𝛼2 [G( ¯𝜖𝐿) − G( ¯𝜖)] −
+¯𝑆2
+𝐿 + 2𝛼 ¯𝑆𝐿 [𝒢( ¯𝜖𝐿) − 𝒢( ¯𝜖)] − 𝛼2 [𝒢( ¯𝜖𝐿) − 𝒢( ¯𝜖)]2
+=𝜎2
+𝜈 +   ¯𝑆𝐿 − ¯𝑆 2 − 2𝛼   ¯𝑆𝐿 − ¯𝑆 𝒢( ¯𝜖𝐿) − 𝛼2 {[𝒢( ¯𝜖𝐿) − ¯𝜖𝐿] − [𝒢( ¯𝜖) − ¯𝜖]}2 + 2𝛼2 [G( ¯𝜖𝐿) − G( ¯𝜖)] .
+55
+===== PAGE 57 =====
+To prove the limiting behavior of Var[𝑆(𝑋)] as 𝑋 goes to plus and minus infinity, we
+use the following equalities, which are derived using integration by parts:
+𝒢(𝑥) =
+∫ 𝑥
+−∞
+𝐺(𝑢)d𝑢 = 𝑥𝐺(𝑥) −
+∫ 𝑥
+−∞
+𝑢 𝑔(𝑢)d𝑢,
+G(𝑥) =
+∫ 𝑥
+−∞
+𝒢(𝑢)d𝑢 = 𝑥𝒢(𝑥) − 𝑥2
+2 𝐺(𝑥) +
+∫ 𝑥
+−∞
+𝑢2
+2 𝑔(𝑢)d𝑢.
+Plugging these equalities in the expression for the variance above, we obtain:
+lim
+𝑋→∞
+Var[𝑆] =𝜎2
+𝜈 +   ¯𝑆𝐿 − ¯𝑆 2 +
+lim
+𝑋→∞
+n
+−2𝛼   ¯𝑆𝐿 − ¯𝑆 𝒢( ¯𝜖𝐿) − 𝛼2 {[𝒢( ¯𝜖𝐿) − ¯𝜖𝐿] − [𝒢( ¯𝜖) − ¯𝜖]}2 + 2𝛼2 [G( ¯𝜖𝐿) − G( ¯𝜖)]
+o
+=𝜎2
+𝜈 +   ¯𝑆𝐿 − ¯𝑆 2 +
+lim
+𝑋→∞
+
+−2𝛼   ¯𝑆𝐿 − ¯𝑆 ¯𝜖𝐿𝐺( ¯𝜖𝐿) + 2𝛼2
+
+¯𝜖𝐿𝒢( ¯𝜖𝐿) − ( ¯𝜖𝐿)2
+2 𝐺( ¯𝜖𝐿) − ¯𝜖𝒢( ¯𝜖) + ¯𝜖2
+2 𝐺( ¯𝜖)
+
+=𝜎2
+𝜈 +   ¯𝑆𝐿 − ¯𝑆 2 + lim
+𝑋→∞
+
+−2𝛼   ¯𝑆𝐿 − ¯𝑆 ¯𝜖𝐿𝐺( ¯𝜖𝐿) + 2𝛼2
+ ( ¯𝜖𝐿)2
+2 𝐺( ¯𝜖𝐿) − ¯𝜖2
+2 𝐺( ¯𝜖)
+
+=𝜎2
+𝜈 +   ¯𝑆𝐿 − ¯𝑆 2 + lim
+𝑋→∞
+
+−2𝛼   ¯𝑆𝐿 − ¯𝑆 ¯𝜖𝐿 + 𝛼2 
+( ¯𝜖𝐿)2 − ¯𝜖2	
+=𝜎2
+𝜈 +   ¯𝑆𝐿 − ¯𝑆 2 − 2   ¯𝑆𝐿 − ¯𝑆 2 +   ¯𝑆𝐿 − ¯𝑆 2 = 𝜎2
+𝜈,
+where we usedlim
+𝑥→∞
+𝐺(𝑥) = 1, the fact that𝜖 has zero mean and finite variance, and that
+¯𝜖𝐿 = ¯𝜖 +
+¯𝑆𝐿 − ¯𝑆
+𝛼 . Similarly,
+lim
+𝑋→−∞
+Var[𝑆] =𝜎2
+𝜈 +   ¯𝑆𝐿 − ¯𝑆 2 +
+lim
+𝑋→−∞
+n
+−2𝛼   ¯𝑆𝐿 − ¯𝑆 𝒢( ¯𝜖𝐿) − 𝛼2 {[𝒢( ¯𝜖𝐿) − ¯𝜖𝐿] − [𝒢( ¯𝜖) − ¯𝜖]}2 + 2𝛼2 [G( ¯𝜖𝐿) − G( ¯𝜖)]
+o
+= 𝜎2
+𝜈 +   ¯𝑆𝐿 − ¯𝑆 2 − 𝛼2 lim
+𝑋→−∞
+( ¯𝜖𝐿 − ¯𝜖)2 = 𝜎2
+𝜈,
+whereweusedtheequalitiesderivedaboveandthefactthat lim
+𝑥→−∞
+𝑥𝐺 (𝑥) = lim
+𝑥→−∞
+𝑥2𝐺(𝑥) =
+56
+===== PAGE 58 =====
+lim
+𝑥→−∞
+𝑥𝒢(𝑥) = 0 because 𝜖 has finite variance.
+The derivative of Var[𝑆]with respect to¯𝑆𝐿 is
+dVar[𝑆]
+d ¯𝑆𝐿
+=2   ¯𝑆𝐿 − ¯𝑆 − 2𝛼𝒢( ¯𝜖𝐿) − 2𝛼   ¯𝑆𝐿 − ¯𝑆 𝐺( ¯𝜖𝐿)
+𝛼
+− 2𝛼2 {[𝒢( ¯𝜖𝐿) − ¯𝜖𝐿] − [𝒢( ¯𝜖) − ¯𝜖]} 𝐺( ¯𝜖𝐿) − 1
+𝛼 + 2𝛼2 𝒢( ¯𝜖𝐿)
+𝛼
+=2   ¯𝑆𝐿 − ¯𝑆
+[1 − 𝐺( ¯𝜖𝐿)] + 2𝛼 {[𝒢( ¯𝜖𝐿) − ¯𝜖𝐿] − [𝒢( ¯𝜖) − ¯𝜖]} [1 − 𝐺( ¯𝜖𝐿)]
+=2𝛼 [1 − 𝐺( ¯𝜖𝐿)] [𝒢( ¯𝜖𝐿) − 𝒢( ¯𝜖)] ≥ 0,
+where we used¯𝜖𝐿 = ¯𝜖 +
+¯𝑆𝐿 − ¯𝑆
+𝛼 , and the last inequality follows from the fact that𝒢(𝑥) is
+increasing everywhere. This result proves that the variance of the spread increases with
+the lending facility spread.
+The derivative of Var[𝑆]with respect to𝑋 is
+dVar[𝑆]
+d𝑋 = − 2𝛼   ¯𝑆𝐿 − ¯𝑆 𝐺( ¯𝜖𝐿) − 2𝛼2 {[𝒢( ¯𝜖𝐿) − ¯𝜖𝐿] − [𝒢( ¯𝜖) − ¯𝜖]} [𝐺( ¯𝜖𝐿) − 𝐺( ¯𝜖)]
++ 2𝛼2 [𝒢( ¯𝜖𝐿) − 𝒢( ¯𝜖)]
+= − 2𝛼   ¯𝑆𝐿 − ¯𝑆 𝐺( ¯𝜖) + 2𝛼2 [𝒢( ¯𝜖𝐿) − 𝒢( ¯𝜖)] [1 − 𝐺( ¯𝜖𝐿) + 𝐺( ¯𝜖)]
+=2𝛼2
+
+[𝒢( ¯𝜖𝐿) − 𝒢( ¯𝜖)] [1 − 𝐺( ¯𝜖𝐿) + 𝐺( ¯𝜖)] −
+¯𝑆𝐿 − ¯𝑆
+𝛼 𝐺( ¯𝜖)
+
+≷ 0,
+which shows that the variance of the spread is non-monotonic with𝑋.
+Toprovethatifthe 𝑔issymmetricaroundzero,Var [𝑆]isanevenfunctionof 𝑋 around
+𝑋 = ¯𝑋 −
+¯𝑆𝐿 − ¯𝑆
+2𝛼 (i.e., around ¯𝜖 = −
+¯𝑆𝐿 − ¯𝑆
+2𝛼 ), we first show that its derivative with respect
+to 𝑋 is an odd function. Let𝑑 ≡
+¯𝑆𝐿 − ¯𝑆
+2𝛼 , so that¯𝜖𝐿 = ¯𝜖 + 2𝑑, and𝐻( ¯𝜖) ≡ ( 2𝛼2)−1 dVar[𝑆]
+d𝑋 .
+57
+===== PAGE 59 =====
+Then, for any𝑧 > 0,
+𝐻(−𝑑 + 𝑧) = [𝒢(𝑑 + 𝑧) − 𝒢(−𝑑 + 𝑧)] [1 − 𝐺(𝑑 + 𝑧) + 𝐺(−𝑑 + 𝑧)] − 2𝑑𝐺(−𝑑 + 𝑧), and
+𝐻(−𝑑 − 𝑧) = [𝒢(𝑑 − 𝑧) − 𝒢(−𝑑 − 𝑧)] [1 − 𝐺(𝑑 − 𝑧) + 𝐺(−𝑑 − 𝑧)] − 2𝑑𝐺(−𝑑 − 𝑧).
+Since 𝑔(𝜖)issymmetricaroundzero, 𝐺(−𝑢) = 1 − 𝐺(𝑢)andtherefore d
+d𝑢 [𝒢(𝑢) − 𝒢(−𝑢)] =
+𝐺(𝑢) + 𝐺(−𝑢) = 1, which implies[𝒢(𝑢) − 𝒢(−𝑢)] = 𝑢 because 𝒢(0) − 𝒢(−0) = 0. Using
+these results, we can show
+𝐻(−𝑑 + 𝑧) + 𝐻(−𝑑 − 𝑧) = [𝒢(𝑑 + 𝑧) − 𝒢(−𝑑 + 𝑧)] [1 − 𝐺(𝑑 + 𝑧) + 𝐺(−𝑑 + 𝑧)] − 2𝑑𝐺(−𝑑 + 𝑧)+
+[𝒢(𝑑 − 𝑧) − 𝒢(−𝑑 − 𝑧)] [1 − 𝐺(𝑑 − 𝑧) + 𝐺(−𝑑 − 𝑧)] − 2𝑑𝐺(−𝑑 − 𝑧)
+= [𝒢(𝑑 + 𝑧) − 𝒢(−𝑑 + 𝑧)] [𝐺(−𝑑 − 𝑧) + 𝐺(−𝑑 + 𝑧)] − 2𝑑𝐺(−𝑑 + 𝑧)+
+[𝒢(𝑑 − 𝑧) − 𝒢(−𝑑 − 𝑧)] [𝐺(−𝑑 + 𝑧) + 𝐺(−𝑑 − 𝑧)] − 2𝑑𝐺(−𝑑 − 𝑧)
+= [𝒢(𝑑 + 𝑧) − 𝒢(−𝑑 + 𝑧) + 𝒢(𝑑 − 𝑧) − 𝒢(−𝑑 − 𝑧)] [𝐺(−𝑑 − 𝑧) + 𝐺(−𝑑 + 𝑧)] −
+2𝑑 [𝐺(−𝑑 + 𝑧) + 𝐺(−𝑑 − 𝑧)]
+= [𝑑 + 𝑧 + 𝑑 − 𝑧] [𝐺(−𝑑 − 𝑧) + 𝐺(−𝑑 + 𝑧)] − 2𝑑 [𝐺(−𝑑 + 𝑧) + 𝐺(−𝑑 − 𝑧)] = 0,
+which implies that𝐻( ¯𝜖)is an odd function around¯𝜖 = −𝑑. As a result,dVar[𝑆]
+d𝑋 is an odd
+function around ¯𝜖 = −𝑑, which implies that Var[𝑆]is an even function around¯𝜖 = −𝑑.
+To prove that if𝑔 is also log-concave,¯𝜖 = −𝑑 is a local maximum of the variance, we
+first observe that dVar[𝑆]
+d𝑋
+
+¯𝜖=−𝑑
+= 0 because dVar[𝑆]
+d𝑋 is odd around ¯𝜖 = −𝑑. Then, we
+calculate the second derivative of the variance at¯𝜖 = −𝑑:
+d2Var[𝑆]
+d𝑋2
+
+¯𝜖=−𝑑
+=2𝛼2 {[𝐺(𝑑) − 𝐺(−𝑑)] [1 − 𝐺(𝑑) + 𝐺(−𝑑)] + [𝒢(𝑑) − 𝒢(−𝑑)] [𝑔(𝑑) − 𝑔(−𝑑)] − 2𝑑𝑔(−𝑑)}
+=2𝛼2 {[2𝑑𝑔(𝑧)] [2𝐺(−𝑑)] − 2𝑑𝑔(−𝑑)} = 4𝛼2𝑑𝐺(−𝑑)
+ 𝑔(𝑧)
+1/2 − 𝑔(−𝑑)
+𝐺(−𝑑)
+
+,
+58
+===== PAGE 60 =====
+with 𝑧 ∈ (− 𝑑, 𝑑 );thesecondequalityusesthemeanvaluetheoremon 𝐺(𝑑)− 𝐺(−𝑑)andthe
+fact that 𝑔 is symmetric around zero, which implies1 − 𝐺(𝑑) = 𝐺(−𝑑) and 𝑔(−𝑑) = 𝑔(𝑑).
+Since 𝑔 is symmetric around zero and log-concave,𝑔(𝑧) < 𝑔(0) for all𝑧, 𝐺(0) = 1/2, and
+the reverse hazard rate,𝑔(𝑥)
+𝐺(𝑥), is decreasing. As a result,
+d2Var[𝑆]
+d𝑋2
+
+¯𝜖=−𝑑
+=4𝛼2𝑑𝐺(−𝑑)
+ 𝑔(𝑧)
+1/2 − 𝑔(−𝑑)
+𝐺(−𝑑)
+
+< 4𝛼2𝑑𝐺(−𝑑)
+ 𝑔(0)
+𝐺(0) − 𝑔(−𝑑)
+𝐺(−𝑑)
+
+< 0.
+Combined with dVar[𝑆]
+d𝑋
+
+¯𝜖=−𝑑
+= 0, this inequality proves that¯𝜖 = −𝑑 is a local maximum
+of Var[𝑆].
+B.2 Optimal policy with the lending facility
+B.2.1 Exogenous lending facility spread
+The loss function to minimize is
+ℒ =ℒNo LF+ 1
+2
+∫ ∞
+¯𝜖SRF
+
+¯𝑆𝐿 − ˆ𝑆
+ 2
+𝑔(𝜖)d𝜖 − 1
+2
+∫ ∞
+¯𝜖SRF
+
+¯𝑆 − 𝛼(𝑋 − ¯𝑋 − 𝜖) − ˆ𝑆
+ 2
+𝑔(𝜖)d𝜖+
+𝜆𝐿
+∫ ∞
+¯𝜖SRF
+
+−
+¯𝑆𝐿 − ¯𝑆
+𝛼 −  𝑋 − ¯𝑋 − 𝜖
+𝑔(𝜖)d𝜖,
+where ℒNo LFis the central bank loss function absent the lending facility (see Section 3).
+The first-order condition with respect to𝑋 is
+0 = 𝜕ℒNo LF
+𝜕𝑋 + 𝛼
+
+1 − 𝐺( ¯𝜖SRF)
+
+( ¯𝑆𝐿 − ˆ𝑆) − 𝜆𝐿
+
+1 − 𝐺( ¯𝜖SRF)
+
++ 𝛼2
+
+𝒢( ¯𝜖SRF) − ¯𝜖SRF
+
+,
+which implies
+𝜕ℒNo LF
+𝜕𝑋 = −𝛼
+
+1 − 𝐺( ¯𝜖SRF)
+
+( ¯𝑆𝐿 − ˆ𝑆) − 𝛼2
+
+𝒢( ¯𝜖SRF) − ¯𝜖SRF
+
++ 𝜆𝐿
+
+1 − 𝐺( ¯𝜖SRF)
+
+≷ 0.
+59
+===== PAGE 61 =====
+Thatis,theoptimalsupplyinthepresenceofalendingfacilitywithexogenouslendingrate
+canbeeithergreaterorsmallerthantheoptimalsupplyabsentthefacility(seeProposition
+2 of the paper). Also, from the equation above, it is clear that if𝜆𝐿 is sufficiently small,
+the right-hand side of the equation is negative; since the loss function is convex at the
+optimum (i.e., its first derivative is an increasing function of𝑋), this implies that the
+optimal supply of reserves with the facility is lower than the optimal supply with the
+facility: 𝜕ℒNo LF(𝑋 𝐵∗)
+𝜕𝑋 < 0 = 𝜕ℒNo LF(𝑋∗∗)
+𝜕𝑋 , where 𝑋 𝐵∗ and 𝑋∗∗ are the optima with and
+without facility.
+B.2.2 Endogenous lending facility spread
+The first-order condition with respect to¯𝑆𝐿 is
+0 = ¯𝑆𝐿 − ˆ𝑆 − 𝜆𝐿
+𝛼
+Plugging this equation into the first-order condition for reserves, we obtain
+0 = 𝜕ℒNo LF
+𝜕𝑋 + 𝛼
+
+1 − 𝐺( ¯𝜖SRF)
+
+( ¯𝑆𝐿 − ˆ𝑆) − 𝜆𝐿
+
+1 − 𝐺( ¯𝜖SRF)
+
++ 𝛼2
+
+𝒢( ¯𝜖SRF) − ¯𝜖SRF
+
+= 𝜕ℒNo LF
+𝜕𝑋 + 𝛼2
+
+𝒢( ¯𝜖SRF) − ¯𝜖SRF
+
+;
+this equation implies that if the central bank chooses the lending rate spread of its
+lending facility optimally, optimal reserves are smaller than without the facility; that
+is, 𝜕ℒNo LF(𝑋 𝐿∗)
+𝜕𝑋 < 0 = 𝜕ℒNo LF(𝑋∗∗)
+𝜕𝑋 ,where 𝑋 𝐿∗and 𝑋∗∗aretheoptimawithandwithout
+facility.
+60
+===== PAGE 62 =====
+The second-order derivatives are
+𝜕2ℒ
+𝜕   ¯𝑆𝐿 2 =
+
+1 − 𝐺( ¯𝜖SRF)
+
+− 𝑔( ¯𝜖SRF)
+𝛼
+
+¯𝑆𝐿 − ˆ𝑆 − 𝜆𝐿
+𝛼
+
+,
+𝜕2ℒ
+𝜕   ¯𝑆𝐿 2
+
+𝑥∗, ¯𝑆𝐿∗
+=
+
+1 − 𝐺( ¯𝜖SRF)
+
+> 0;
+𝜕2ℒ
+𝜕𝑋2 = 𝜕2ℒNo LF
+𝜕𝑋2 − 𝑔( ¯𝜖SRF)
+𝛼
+
+¯𝑆𝐿 − ˆ𝑆 − 𝜆𝐿
+𝛼
+
+− 𝛼2
+
+1 − 𝐺( ¯𝜖SRF)
+
+,
+𝜕2ℒ
+𝜕𝑋2
+
+𝑥∗, ¯𝑆𝐿∗
+= 𝜕2ℒNo LF
+𝜕𝑋2
+
+𝑥∗, ¯𝑆𝐿∗
+− 𝛼2
+
+1 − 𝐺( ¯𝜖SRF)
+
+;
+𝜕2ℒ
+𝜕𝑋𝜕 ¯𝑆𝐿 = − 𝑔( ¯𝜖SRF)
+𝛼
+
+¯𝑆𝐿 − ˆ𝑆 − 𝜆𝐿
+𝛼
+
+𝜕2ℒ
+𝜕𝑋𝜕 ¯𝑆𝐿
+
+𝑥∗, ¯𝑆𝐿∗
+= 0.
+The second-order condition is therefore simply
+𝑆𝑂𝐶 (𝑋) := 𝜕2ℒ
+𝜕𝑋2
+
+𝑥∗, ¯𝑆𝐿∗
+≥ 0
+Fromtheseresults,wecanderivethefollowingcomparativestaticswithrespecttothe
+facility-usage penalty𝜆𝐿:
+𝑑 ¯𝑆𝐿
+𝑑𝜆𝐿 = 1
+𝛼 > 0
+𝑑𝑋
+𝑑𝜆𝐿 = 1 − 𝐺( ¯𝜖SRF)
+𝑆𝑂𝐶 (𝑋) ≥ 0
+Thatis,boththeoptimallendingfacilityrateandtheoptimalreservesupplyincreasewith
+61
+===== PAGE 63 =====
+the penalty cost of facility usage. The intuition is simple: if the cost is higher, the central
+bankwanttoincreasethefacilitylendingratetoreduceitsusage; sincethecaponmoney
+marketratesisnowhigher,thecentralbankwantstoprovidemorereservestoreducerate
+volatility.
+C Empirical evidence
+In this appendix, we show empirical evidence that motivates our model of the reserve
+demand curve, using data from the United States. Panel (a) of Figure C.1 provides a
+visualization of the “realized” demand for reserves in the U.S. from 2010 to June 2025.
+Thefigureshowsthespreadbetweenthefederalfundsrateandtheinterestrateonreserve
+balances against the level of aggregate reserves normalized by total assets in the banking
+sector. Note that this figure shows equilibrium realizations over time, not the underlying
+demand schedule. With that caveat in mind, for each of the different sub-periods, the
+figure shows a nonlinear, downward-sloping relationship between prices and quantities
+that flattens at high levels of reserves, consistent with the demand curve in equation (2).
+Importantly, Panel (a) also shows that this relationship has shifted over time, both
+vertically and horizontally. Vertical and horizontal shifts are captured in our model by
+the shocks𝜈 and 𝜖 respectively. Vertical shifts of the demand for reserves are driven, for
+instance, by changes in the costs that banks face when expanding their balance sheets
+through borrowing: if these costs increase, the rate at which banks are willing to borrow
+decreases,pushingthereservedemandcurvedownward(Afonsoetal.,2019). Anexample
+of these balance-sheet costs is the Supplementary Leverage Ratio (SLR), which sets a
+minimum requirement for the ratio of bank equity over assets (Duffie, 2018). Market
+innovations that change banks’ ability to net their lending and borrowing positions, such
+as the Sponsored Repo Service operated by the Fixed Income Clearing Corporation, also
+62
+===== PAGE 64 =====
+affect bank balance-sheet costs by reducing balance-sheet size (Afonso et al., 2021).
+Horizontalshiftscanbeduetoregulatoryandsupervisorymeasuresthataffectbanks’
+demand for reserves for every price level. Examples are the Liquidity Coverage Ratio,
+which requires banks to hold enough high-quality liquid assets (including reserves) to
+withstand a liquidity stress scenario for 30 days, and the liquidity requirements included
+in the Resolution Plans introduced by Regulation QQ. Horizontal shifts can also be due
+to changes in banks’ internal risk-management and stress-testing models.
+Panel (b) of Figure C.1 shows structural time-varying estimates of the slopes of the
+reservedemandcurveintheU.S.over2010–June2025fromAfonsoetal.(2025). Afonsoet
+al.(2025)usetheseestimatestodetecthorizontalshiftsandidentifythedriversofvertical
+shifts;theyfindthat( 𝑖)thecurveisflatforreservesaboveasatiationlevel,aspredictedby
+the theory and consistent with the demand curve in equation (2); (𝑖𝑖) the satiation point
+moved horizontally to the right by one percentage point of bank assets, from $1.5 trillion
+ofreservesin2011to$2.2trillionin2018,consistentwithahorizontalshifttothedemand
+curvecapturedbytheshock 𝜖inourmodel;( 𝑖𝑖𝑖)atemporaryregulatorychangeintheSLR
+calculation shifted the curve upward by roughly 5 basis points in 2020–2021, consistent
+with the evidence in Panel (a) and represented in our model by the vertical shock𝜈.21
+21InApril2020,toeasestrainsintheTreasurymarketresultingfromtheCovidpandemic,U.S.regulators
+announced revisions to temporarily exclude reserves (and Treasuries) from the SLR calculation, reducing
+the regulatory cost of borrowing in the federal funds market. The relief expired on March 31, 2021.
+63
+===== PAGE 65 =====
+FigureC.1: DemandforReserves. Panel(a): ThefigureistakenfromAfonsoetal.(2025)
+and plots the relationship between the federal funds spread and aggregate reserves from
+January2010toJune2025. Thespreadisthedifferencebetweenthedailyvolume-weighted
+average federal funds rate and the interest rate on reserve balances (IORB). Reserves are
+normalized relative to commercial banks’ assets. One-day windows around month-ends
+are excluded to control for the window-dressing of European banks in the federal funds
+market. Panel(b): Thefigureplotsthestructuraltime-varyingdailyestimatesoftheslope
+of the reserve demand curve from Afonso et al. (2025).
+(a) “Realized” Reserve Demand Curve
+(b) Structural Time-varying Estimates of the Slope
+64

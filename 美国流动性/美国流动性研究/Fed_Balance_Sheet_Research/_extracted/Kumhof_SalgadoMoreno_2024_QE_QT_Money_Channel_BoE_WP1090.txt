@@ -1,0 +1,2971 @@
+
+===== PAGE 1 =====
+Staff Working Paper No. 1,090
+August 2024
+Quantitative easing and 
+quantitative tightening:  
+the money channel
+Staff Working Papers describe research in progress by the author(s) and are published to elicit comments 
+and to further debate. Any views expressed are solely those of the author(s) and so cannot be taken to 
+represent those of the Bank of England or to state Bank of England policy. This paper should therefore 
+not be reported as representing the views of the Bank of England or members of the Monetary Policy 
+Committee, Financial Policy Committee or Prudential Regulation Committee.
+Michael Kumhof and Mauricio Salgado-Moreno
+===== PAGE 2 =====
+Staff Working Paper No. 1,090
+Quantitative easing and quantitative tightening:  
+the money channel
+Michael Kumhof(1) and Mauricio Salgado-Moreno(2) 
+Abstract
+We develop a DSGE model in which commercial banks interact with the central bank through 
+the reserves market, with each other through reserves and interbank markets, and with 
+the real economy through retail loan and deposit markets. Because banks disburse loans 
+through deposit creation, they never face financing risks (being unable to fund new loans), 
+only refinancing risks (being unable to settle net deposit withdrawals in reserves). Permanent 
+quantitative tightening, while reducing the equilibrium real interest rate, has significant 
+negative effects on financial and real variables, by increasing the cost at which  
+reserves-scarce parts of the banking sector create money. Temporary net deposit 
+withdrawals, which affect the funding cost and loan extension of one part of the banking 
+sector at the expense of another part, have highly asymmetric financial and real effects. The 
+quantity and distribution of central bank reserves, and the extent of frictions in the interbank 
+and reserves markets, critically affect the size of these effects, and can matter even in a 
+regime of ample aggregate reserves. Countercyclical reserve injections can help to smooth 
+the business cycle. We find that countercyclical reserve quantity rules can make sizeable 
+contributions to welfare that can reach a similar size to the Taylor rule.
+Key words: Quantitative easing, quantitative tightening, monetary policy, central bank 
+reserves, interbank loans, bank deposits, bank loans, money demand, money supply, credit 
+creation.
+JEL classification: E51, E52, E58.  
+(1) Bank of England. Email: michael.kumhof@bankofengland.co.uk
+(2) Bank of England. Email: mauricio.salgadomoreno@bankofengland.co.uk
+Any views expressed are solely those of the authors and should not be taken to represent those of the  
+Bank of England or of its policy committees. We have benefited from comments by Tim Boobier, Robert Czech, 
+Robert Hills, Iryna Kaminska, Kunal Khairnar, Johanna Krenz, Ricardo Nunes, Alba Patozi, Huw Pill, Mo Wazzi, 
+Tim Willems, and participants at University of Surrey and the RCEA conference.
+===== PAGE 3 =====
+The Bank’s working paper series can be found at www.bankofengland.co.uk/working-paper/staff-working-papers 
+Bank of England, Threadneedle Street, London, EC2R 8AH  
+Email: enquiries@bankofengland.co.uk 
+©2024 Bank of England  
+ISSN 1749-9135 (on-line)
+===== PAGE 4 =====
+1. Introduction
+Since the 2008 Global Financial Crisis (GFC) central banks in advanced economies have relied
+more frequently on “unconventional” balance-sheet policies. While these policies appear to have
+been successful, it has remained difficult to disentangle the transmission mechanisms of the new
+policy tools alongside traditional interest rate tools, including their effects on the business cycle
+and equally importantly on financial stability. This has been a prominent topic among central
+banks and international policymakers, 1 as some central banks that have started to reduce their
+balance sheets have been forced to intervene in financial markets during acute liquidity shortages.
+A prominent example is the US repo spike in September 2019. Furthermore, central banks are
+currently considering policy tool combinations that navigate uncharted waters, such as interest
+rates cuts during periods of falling central bank liquidity.
+In the face of these uncertainties about the transmission mechanism, empirical analysis cannot
+yet provide adequate guidance to policymakers, and more theoretical work on the transmission
+mechanism is a necessary complement. This is what we attempt in this paper. We put particular
+emphasis on the liability side of central bank balance sheets, specifically the nature of policy and
+shock transmission through the reserve and interbank markets. We study the policies that have
+become known as Quantitative Easing (QE) and Quantitative Tightening (QT), which transmit
+directly only to the banking system, while their effect on the real economy depends on the response
+of the banking system, specifically its credit and money creation. 2
+We develop a medium-scale New-Keynesian DSGE model with both a fully specified real sector
+and a detailed financial sector. Banks interact with the central bank through the reserves market,
+with each other through reserves and interbank markets, and with the real economy through retail
+loan and deposit markets. Our model reflects the reality that banks do not face financing risks, only
+refinancing risks. Banks always finance new loans by creating new deposits, so that there is never a
+risk of not being able to finance a new loan. But there is a risk of having to refinance lost deposits.
+We emphasize that this notion of refinancing risk is very different to that in loanable funds models
+of banking. Specifically, in loanable funds frameworks it is often argued that the two amount to the
+same, because once a bank makes a new loan and creates the corresponding deposit, it will tend to
+lose that deposit to another bank and will then need to refinance it. This however is a particularly
+clear example of a partial equilibrium fallacy. The reason is that all banks continuously make large
+numbers of new loans, and for a banking system where all banks expand or contract in lockstep,
+a bank will tend to gain as many deposits as it loses in the above-mentioned manner, and only
+the small difference remaining after netting deposit inflows and outflows will need to be refinanced,
+if there is a shortfall, or lent out, if there is a surplus. The average bank will experience neither
+1See, for example, Schnabel (2023), Logan (2023), Borio (2023) and Bailey (2024).
+2See Busetto et al. (2022) for a list of potential QE and QT transmission channels.
+1
+===== PAGE 5 =====
+shortfall nor surplus. 3 Furthermore, this risk is not related to lending per se, but to the preference
+of depositors for deposits in different banks. For banks that expand or contract in lockstep, the
+risk is therefore entirely on the liability side of their balance sheets. This risk can be mitigated if
+there is a higher level of central bank reserves in the system, and the effect of injecting additional
+reserves is greater the scarcer is the initial level and distribution of reserves.
+We calibrate the model to US 2010-2019 data before studying its properties. Our steady
+state calibration matches characteristics of the real economy, a number of interest rate spreads and
+balance sheet ratios, and most importantly for this paper the empirically observed relationships
+between the quantity of reserves and interest rate spreads in reserves and interbank markets.
+We first show the effects of different reserve levels on the steady states of different variables.
+When the central bank reduces the stock of aggregate reserves by selling part of the stock of gov-
+ernment debt back to private bond investors, thereby increasing the risk premium on government
+debt, the equilibrium policy rate nevertheless falls because a growing liquidity discount on reserves
+dominates the increasing risk premium. At the same time, key financial and real variables dete-
+riorate due to an increase in the cost at which especially the reserves-scarce parts of the banking
+sector can create money. When the central bank reduces the stock of aggregate reserves to match
+an equal-sized decrease in the aggregate stock of government bonds, we observe qualitatively similar
+effects for most variables, but with significantly smaller output effects because the risk premium
+on debt does not increase. Finally, we investigate the model’s steady state implications in terms
+of the so-called iso-market rate curve of Vissing-Jorgensen (2023). That is, we calculate the steady
+state (real) policy rate necessary to maintain a constant interbank target rate as a function of the
+supply of reserves. We find that the distribution of central bank reserves, the interbank market
+structure, and the relative importance of demand and supply schedules of interbank loans are key
+determinants of the iso-market rate curve’s shape.
+Next we study net deposit withdrawals , specifically changes in deposit demand that result in
+withdrawals from the reserve-scarce part of the banking sector to to the reserve-abundant part, at
+given levels of loan demand. These shocks capture modern bank runs where institutional investors,
+rather than retail depositors, disproportionately flee to large liquidity-rich banks – for evidence
+see Cipriani, Eisenbach and Kovner (2024). Such shocks have highly nonlinear and asymmetric
+financial and real effects, by mainly affecting the cost of funding and deposit creation of reserve-
+scarce banks. The quantity and distribution of central bank reserves, and the extent of frictions
+in the reserves and interbank markets, critically affect the size of these effects, and can matter
+even in a regime of ample aggregate reserves. Specifically, we find that a deposit withdrawal shock
+that shifts deposits equal to 7.5% of GDP between two groups of banks has strong contractionary
+effects, including a reduction in GDP of 0.7% and a drop in inflation of 45 basis points.
+3Cipriani, Eisenbach and Kovner (2024) show, using confidential interbank daily US data, that the average bank’s
+net payments are centered around zero, as their payments received and sent tend to cancel each other out.
+2
+===== PAGE 6 =====
+Relatedly, asymmetric lending booms, where an aggressive group of banks expands its lending
+much faster than the remaining banks, while the share of their deposits that non-banks wish to hold
+in this group of banks does not change, can have qualitatively similar but quantitatively smaller
+effects on the distribution of reserves. The reason is that the aggressive group of banks, while it
+will not lose all of its newly created deposits, will no longer gain as many deposits as it loses, and
+will thereby lose some reserves. Such shocks are expansionary at the aggregate level, because their
+loss of reserves merely dampens but does not fully offset the increase in the willingness to create
+money of the aggressive banks.
+A temporary QT shock, calibrated to generate a maximum 6 percentage point decline in the
+reserves-to-GDP ratio through central bank bond sales to non-bank bond investors, leads to a GDP
+decline of approximately 0.25%, again by reserve scarcity driving up lending rates and the cost of
+private credit and money creation.
+For all other shocks , including conventional monetary policy shocks, the model behaves like a
+conventional New Keynesian model, because such shocks do not significantly affect the distribution
+of reserves across the banking system.
+For each shock we also study the role of countercyclical reserve rules, whereby the central bank
+injects additional reserves when interbank lending spreads deviate from their desired levels. We
+find that such rules can have very sizeable benefits for economic stability and welfare.
+Our model builds on the financing through money creation (FMC) framework first developed
+in Jakab and Kumhof (2015), where banks interact with the real economy by creating deposits when
+lending to the private sector. 4 We add to this ex-ante heterogeneity among banks. Specifically,
+we allow for two groups of banks that have identical steady state net worth and loans levels,
+but that differ in their deposit holdings and therefore also in their reserve holdings. The first
+banking group, “B1 banks”, has a larger deposit base and also holds larger amounts of central
+bank reserves, while the second banking group, “B2 banks” has both fewer deposits and fewer
+reserves. Furthermore, in steady state B1 banks make interbank loans to B2 banks. We allow these
+bank groups to interact with each other in reserves and interbank markets, which both feature
+financial frictions. In the reserves market, due to a convex cost of liquidity scarcity, banks with
+lower reserve levels relative to deposit levels are willing to pay higher interest rates on wholesale
+deposits, and the interest differential between the two groups increases at an increasing rate in the
+overall and relative scarcity of reserves. In the interbank market, banks with higher reserve levels
+are lenders, but due to a convex cost of large counterparty exposures the interest rate on interbank
+loans increases at an increasing rate in the level of interbank loans, which in turn increase in the
+overall and relative scarcity of reserves.
+4For a detailed literature review on the differences between the intermediation of loanable funds (ILF) model and
+the FMC framework used here, see Jakab and Kumhof (2019). See also Kumhof and Wang (2021).
+3
+===== PAGE 7 =====
+We model unconventional balance sheet policies (QT or QE) via central bank sales or purchases
+of bonds to or from non-bank financial institutions (NBFIs), which is close to how central banks
+have in reality implemented such policies. This is an important and distinctive feature, because
+under an approach that is commonly used in the literature (see below) the central bank provides
+direct credit to the real economy, while in our approach an expansion of the central bank’s balance
+sheet has a direct effect only on NBFIs and banks, and only banks interact with the real economy.
+The rest of the paper is organized as follows. Section 2 reviews the literature. Section 3
+develops the model, and Section 4 presents its calibration. Section 5 performs comparative statics
+across steady states that differ by the quantity of reserves and the quantity of government bonds.
+Section 6 studies the effects on real and financial stability of both conventional and unconventional
+monetary policies by way of impulse responses to selected shocks. Section 7 performs a preliminary
+welfare analysis based on calibrated parameters and shock standard errors. Section 8 concludes.
+2. Literature
+Our paper contributes to a growing literature that analyzes the central bank’s balance sheet
+as a monetary policy tool. Within this literature, several studies have investigated the effects of
+QE policies using modern Dynamic Stochastic General Equilibrium (DSGE) models. Most of these
+studies have focused primarily on the effects related to the portfolio of assets that the central bank
+acquires through QE policies, rather than on the liquidity created on the central bank’s liability side
+and its implications for money markets. For example, Chen et al. (2012), building on the approach
+by Andres, Lopez-Salido and Nelson (2004), introduce bond market segmentation into a standard
+medium-scale New-Keynesian model with transaction cost frictions to investigate the role of large-
+scale asset purchases (LSAPs). Their framework does not feature banks or NBFIs that interact
+with the central bank, monetary policy is limited to a standard interest rate rule, and LSAPs are
+exogenous shocks to the fiscal authority’s supply of long-term bonds. Gertler and Karadi (2012)
+investigate QE in a loanable funds model where private intermediaries face borrowing constraints.
+They show that central bank policies that alleviate intermediaries’ incentive constraints can have
+significant macroeconomic effects by affecting the price of capital. QE in their model is akin to
+a central bank credit policy rather than central bank LSAPs from NBFIs. 5 Sims and Wu (2021)
+develop a framework in which the central bank conducts QE and other unconventional policies. As
+in Gertler and Karadi (2012), they define QE policies as open market operations (OMOs) between
+intermediaries and the central bank, through exchanges of long-term private or public bonds and
+reserves. They posit a QE policy rule that responds to macro variables such as inflation and output
+rather than to financial market variables.
+5Gertler and Karadi (2012) write in footnote 2 of their paper that they believe the term “credit policy” reflects
+the Fed’s policies more accurately than “QE”.
+4
+===== PAGE 8 =====
+In contrast to the main focus of these studies, our main focus is on the liability side of the central
+bank balance sheet. Under QE the central bank buys assets, principally government securities,
+from NBFIs, and the latter deposit the proceeds in banks using payment instruments drawn on
+the central bank. Banks settle these payment instruments with the central bank, and are credited
+in the form of reserves (see below for more details on the empirical evidence on this point). As a
+result, commercial bank balance sheets expand. 6
+Two other studies also examine the role of central bank liquidity provision, however they do so
+using models that do not have a role for commercial banks, and therefore for central bank reserves
+in interbank settlement. Del Negro et al. (2017) introduce Kiyotaki and Moore (2012) borrowing
+and resaleability constraints into a DSGE model, and capture unconventional monetary policies as
+changes in “the composition of liquid and illiquid assets in the hands of the [nonbank] private sector
+[that] affect the allocation of resources.” Cui and Sterk (2021) model QE as affecting household
+liquidity, held for precautionary motives, under incomplete markets in a tractable Heterogeneous
+New-Keynesian (HANK) model. Their model features “narrow” rather than commercial banks,
+as deposits are matched one for one by holdings of central bank reserves. This is equivalent to
+households directly holding central bank accounts (Benes and Kumhof, 2012).
+The growing body of empirical work describing the actual implementation of QE and QT
+policies strongly favors our modelling choice of capturing unconventional balance-sheet policies as
+central bank purchases (sales) of bonds from (to) NBFIs that are settled via commercial bank bal-
+ance sheets. For example, Carpenter et al. (2015) analyze the first rounds of QE in the US between
+2008 and 2012 using Flow of Funds data to identify which investors sell government securities to
+the Fed. They find that a small group of non-banks, including wealthy households/hedge funds,
+broker-dealers and insurance companies, are the largest sellers. Commercial banks are absent from
+this list and, as Cui and Sterk (2021) stress, “the Fed could not even have purchased the QE assets
+exclusively from banks” because of their comparatively small initial holdings. Waller (2024) further
+decomposes the households/hedge funds category for the most recent US QT period and finds that
+the changes in government securities holdings are not being driven by hedge funds but rather by
+actual households and nonprofit organizations.
+Smith and Valcarcel (2023) study the financial market effects of the US QT experience between
+2017 and 2019 using a combination of time-varying and constant parameter VARs. They find an
+asymmetry in both the liquidity effects (stronger during QT than QE) and the announcement
+effects (stronger during QE than QT) such that QT tightens financial conditions under a different
+transmission mechanism than simply “QE in reverse.” Du, Forbes and Luzzetti (2024) provide the
+6We thereby focus on the QE LSAPs that central banks in advanced economies have conducted since the global
+financial crisis, where they have bought and, more recently, sold assets from/to NBFIs. This is in contrast to
+conventional central bank balance sheet policies known as open market operations, where the central bank swaps
+reserves for government bonds directly with commercial banks.
+5
+===== PAGE 9 =====
+first cross-country assessment of post-COVID QT, based on data from seven advanced economies, 7
+as well as the US 2017-2019 QT episode. They find that nonbank investors are by far the most
+important (93%) counterparts of central bank balance sheet policies and that they have become even
+more relevant post-COVID. Because such interventions are settled via commercial bank balance
+sheets, they also find that during QT the liquidity balances of banking sectors have fallen while
+spreads between overnight funding rates and central bank interest rates on reserves have increased.
+Finally, Christensen and Krogstrup (2019) present empirical evidence that is consistent with the
+money channel of our model. They develop a dynamic term structure model and combine it with
+an event study approach that exploits the unique set-up of LSAPs by the Swiss National Bank
+(SNB) in 2011. Because the SNB exclusively bought short term government bonds from NBFIs,
+the authors are able to disentangle the standard (asset) supply-driven portfolio channel from the
+effects of reserve injections on long-term interest rates. In a companion paper, Christensen and
+Krogstrup (2022) develop a simple portfolio model that captures the two necessary frictions for
+a reserve-induced portfolio balance channel that are also present in our model, namely imperfect
+asset substitutability and market segmentation, the latter reflecting the fact that NBFIs cannot
+hold central bank reserves. However, because their framework features homogeneous banks in a
+non-structural, static, and partial equilibrium model, they do not study the effects of QE/QT on
+real allocations and financial stability, and the dynamic responses of the economy to monetary and
+financial shocks, which are at the heart of our paper.
+We also contribute to a literature that investigates the monetary transmission mechanism
+across different operational frameworks. Arce et al. (2020) provide a New Keynesian environment
+characterized by loanable funds banks and a search and matching interbank set-up. They focus on
+the influence of the supply of reserves on the interbank market and on the central bank operational
+framework rather than on the effects of unconventional QE and QT policies. Their central bank
+therefore interacts exclusively with commercial banks (not with NBFIs) via its deposit and lending
+facilities, with policies implemented through conventional OMOs – swaps between bonds held by
+banks and central bank reserves, and driven by bank demand at the posted interest rates. Bianchi
+and Bigio (2022) develop a granular over-the-counter (OTC) interbank market, also using search
+and matching frictions, and investigate how central bank balance sheet policies influence commercial
+banks’ lending profits and liquidity risk.
+Our model of ex-ante heterogeneous banks, which replaces search and matching frictions with
+liquidity and risk frictions, allows us to develop a parsimonious model of the interbank market.
+We are thereby able to study the effects of QT and QE policies on the interbank market, but also
+their general equilibrium propagation to the wider money markets and the real economy. We also
+note that while the search and matching frameworks of Arce et al. (2020) and Bianchi and Bigio
+7Their sample includes Australia, Canada, Euro area, New Zealand, Sweden, UK and US.
+6
+===== PAGE 10 =====
+(2022) have very desirable characteristics, they rely on the assumption that interbank markets are
+populated by a large set of anonymous actors on both sides of the market. In reality commercial
+bank participants face a much more limited set of counterparties that are well known to them, and
+we argue that our interbank market set-up is able to capture this reality. 8
+We also contribute to the literature on the interaction of alternative monetary policy tools
+and their welfare implications. For example, Benigno and Benigno (2022) show that reserves can
+become an additional tool to control aggregate demand, as output depends not only on real interest
+rates but also on the supply of liquidity, where in their model reserves directly enter the aggregate
+supply equation due to a working-capital constraint faced by producers. Similarly, Diba and Loisel
+(2020, 2021) and Piazzesi, Rogers and Schneider (2021) develop frameworks where central bank
+liquidity is non-trivial, where in their models there is a decoupling between money-market rates
+and the relevant rate for household consumption-saving decisions when policy operates on a floor
+system. Canzoneri, Cumby and Diba (2017) study optimal monetary policy when the Fed has two
+instruments, and find that the monetary authority can obtain stabilizing welfare effects in cases
+where the central bank eliminates monetary distortions and has additional macroeconomic goals.
+Harrison (2017) studies the optimal use of QE and conventional policy in a New Keynesian set-up
+that incorporates a bond market friction that gives rise to a portfolio balance channel. He finds
+that at the ZLB the optimal implementation of QE is rapid, while the optimal normalization path
+is gradual and is characterized by QT taking place before policy rate lift-offs. These frameworks
+abstract from the role of reserves as an interbank settlement medium, and the resulting effects on
+financial stability and on bank lending, money creation, and overall economic performance.
+3. The Model
+The economy is populated by households, manufacturers, unions, banks, money market funds,
+bond investors, and a government. Figure 1 provides an overview of the model’s financial sector.
+Banks consist of retail deposit banks, wholesale banks, and retail lending banks, where we can
+think of wholesale banks as the treasury department of the bank that optimizes the overall balance
+sheet subject to regulations, while treating retail activities as separate profit centers. There are two
+groups of wholesale and retail lending banks that are identified by subscripts b1 and b2. Nominal
+variables are denoted by upper case letters while real variables are denoted by the corresponding
+lower case letters (Land ℓ for loans). Real normalized (by the price level and productivity) variables
+are denoted by lower case letters with a check symbol. The growth rate of productivity is constant
+at x “ Tt{Tt´1, while the growth rate of the CPI price level is πp
+t “ Pt{Pt´1.
+8Salgado-Moreno (2021) analyzes the effects of the change in the US monetary operating framework around the
+time of the global financial crisis on banks’ credit supply to the real economy. He uses a regime-switching model
+with a parsimonious Federal Funds market, where government-sponsored enterprises (GSEs) are the only interbank
+lenders.
+7
+===== PAGE 11 =====
+Figure 1: Overview of the Model
+Households
+Bond Investors
+MMF
+Wholesale BanksRetail Deposit Banks
+Retail Lending Banks
+Central Bank
+Group 1
+Group 2
+Group 1
+Group 2
+Reserve 
+Market
+Interbank 
+Market
+QE/QT policies
+BI Deposits
+HHs Deposits
+Retail 
+Loans
+Retail 
+Deposits
+Wholesale 
+Loans
+Dividends
+Wholesale 
+Deposits
+3.1. Households
+3.1.1. Preferences
+Households have unit mass and are indexed by j. They maximize lifetime utility subject
+to sequences of intertemporal budget constraints, bank participation constraints, and deposits-in-
+advance constraints, by choosing plans for consumption ctpjq, hours worked htpjq, investment Itpjq,
+capital ktpjq, retail loans Lb1,tpjq and Lb2,tpjq, and retail deposits Dhh
+t pjq. The objective function
+of household j is
+M ax E0
+8ÿ
+t“0
+βt
+hh
+#
+p1 ´ v
+x qSc
+t logpctpjq ´ νct´1q ´ ψ htpjq1` 1
+η
+1 ` 1
+η
++
+, (1)
+where Sc
+t is a mean 1 first-order autoregressive process with i.i.d. normal error term that represents
+shocks to consumption preferences, v is the degree of external habit persistence, ψ is the utility
+weight of hours, and η is the labor supply elasticity. Consumption ctpjq, with corresponding
+utility-based price index Pt, is a CES aggregate over varieties ctpj, zq, with time-varying elasticity
+of substitution θp,t, and therefore with time-varying gross price markups θp,t{ pθp,t ´ 1q “ Sµp
+t ¯µp,
+where Sµp
+t is a mean 1 i.i.d. normal process with error terms that represent price markup shocks.
+Household j accumulates the physical capital stock ktpjq, which depreciates at the rate ∆, and
+with investment subject to adjustment costs GI,t pjq “ Si
+tIt pϕi{2q pItpjq{ pxIt´1pjqq ´ 1q2. Capital
+accumulation is therefore given by ktpjq “ p1 ´ ∆q kt´1pjq ` Si
+tItpjq ´ GI,t pjq, where Si
+t is a mean
+1 first-order autoregressive process with i.i.d. normal error terms that represent shocks to the
+marginal efficiency of investment. The nominal and real after-tax returns to capital are given by
+8
+===== PAGE 12 =====
+Retk,t “
+“
+p1 ´ ∆q Qt ` Rk
+t
+‰
+{Qt´1 and retk,t “ Retk,t{ pxπp
+t q “
+“
+p1 ´ ∆q qt ` rk
+t
+‰
+{qt´1, where Rk
+t is
+the user cost of capital and Qt is Tobin’s q.
+3.1.2. Money Demands
+Households face a deposits-in-advance constraint for purchases of consumption and investment
+goods using deposits Dhh
+t pjq,
+κDhh
+t pjq ě 4Smon
+t Pt pctpjq ` Itpjqq , (2)
+where the factor 4 annualizes quarterly flows, κ determines steady state velocity and thereby the
+overall size of bank balance sheets, andSmon
+t is a mean 1 first-order autoregressive process with i.i.d.
+normal error terms that represent shocks to money demand. We verify that this constraint always
+binds in equilibrium. Its multiplier in the household optimization problem is denoted by λdia
+t . In or-
+der to satisfy their demand for deposit money, households need to obtain bank loans, and in this they
+are subject to small but nonzero real adjustment costs GL,b1,tpjq “ ℓb1,tpjq ϕℓ
+2
+`ˇℓb1,tpjq ´ ˇℓb1,t´1
+˘2
+and GL,b2,tpjq “ ℓb2tpjq ϕℓ
+2
+`ˇℓb2,tpjq ´ ˇℓb2,t´1
+˘2
+. We omit cash from the analysis, because in modern
+economies cash accounts for well under 5% of the broad money supply.
+3.1.3. Budget Constraint
+The representative household’s flow budget constraint, with multiplier Λ hh
+t pjq, is
+Qtktpjq ` Dhh
+t pjq
+`
+1 ` ϕf
+`
+brat
+bi,t ´ ¯brat
+bi
+˘˘
+´ PtΨhh
+t pjq ´ Σb2
+i“b1Li,tpjq p1 ´ GL,i,tpjqq (3)
+“ Qt´1kt´1pjqRetk,t
+´
+1 ´ Σb2
+i“b1Scred
+t´1 Scred
+i,t´1κiΓk
+i,t
+¯
+` id,t´1Dhh
+t´1pjq
+`QtSi
+tItpjq ´ QtGI,t pjq ´ PtItpjq ´ Ptctpjq ` W hh
+t htpjq ` PtΩtpjq .
+Portfolio costs: On the first line of (3), the term ϕf
+´
+brat
+bi,t ´ ¯brat
+bi
+¯
+represents transactions
+costs related to holding financial assets. The term brat
+bi,t “ Bbi
+t { p4GDPtq is the ratio to GDP of
+privately held government debt and ¯brat
+bi is its steady state. This cost is taken as exogenous by
+households, and PtΨhh
+t pjq includes its lump-sum distribution back to households ( PtΨhh
+t pjq also
+includes lump-sum redistribution of loan adjustment costs). This allows the model to replicate the
+small but positive elasticity of US real interest rates with respect to defaultable government debt
+that has been found in the literature, and that is now also used in IMF debt sustainability analysis
+(see the section on calibration below). Interest rates on all financial assets are affected in the same
+fashion, so that a change in the privately held government debt-to-GDP ratio, ceteris paribus, will
+affect the level of interest rates but not the structure of spreads.
+9
+===== PAGE 13 =====
+Asset returns: On the second line of (3), households’ return to capital excludes returns that
+serve to repay loans, where Γk
+i,tpjq are the endogenous shares of the gross returns of collateral capital
+that go to bank groups 1 and 2 to service loans, κiScred
+t´1 Scred
+i,t´1 are the shares of domestic capital
+that have been accepted as collateral by these banks, Scred
+t is a mean 1 first-order autoregressive
+process with i.i.d. normal error terms that represent shocks to aggregate credit supply, and Scred
+i,t
+are mean 1 first-order autoregressive processes with i.i.d. normal error terms that represent shocks
+to sectoral credit supply. The nominal interest rate on bank deposits is id,t.
+Other income and expenditures: Other than net asset income, households receive net
+revenue from capital production QtSi
+tItpjq ´ QtGI,t pjq, labor income W hh
+t htpjq, where W hh
+t is
+the wage rate paid by unions, and lump-sum net income PtΩtpjq. The latter includes profits
+of manufacturers, unions, bond investors, and banks, net fiscal transfers, and all transactions and
+adjustment costs. Expenditures include consumption and investment purchases Ptctpjq and PtItpjq.
+3.1.4. Participation Constraints
+Households also face participation constraints for taking out loans from
+the two retail lending bank groups, which will be explained below. We have
+Scred
+t Scred
+i,t κiRetk,t`1Qtktpjq
+´
+Γk
+i,t`1pjq ´ ξiGk
+i,t`1pjq
+¯
+´ iℓ,i,tLi,tpjq, with multiplier Λ hh
+t pjqλpart
+i,t pjq,
+i P tb1, b2u. The term ξiGk
+i,t`1pjq denotes bank group i’s endogenous monitoring cost share in gross
+returns to collateral capital, where ξi is the loss-given-default parameter, and iℓ,i,t is the wholesale
+lending rate charged by wholesale banks to retail lending banks.
+3.1.5. Optimality Conditions
+Household optimality conditions are shown in full in the Online Appendix. We assume that
+each household holds identical initial stocks of all physical and financial assets and liabilities,
+has identical exposures to all investment projects, and receives identical net lump-sum transfers.
+Because all households face the same market prices, and ex-post set the same prices for their own
+product varieties, they remain symmetric at all times. The first-order conditions for individual
+goods varieties and hours are standard. In the first-order conditions for aggregate consumption
+and investment the effective purchase price exceeds the direct purchase price by a mark-up due to
+monetary frictions, τ mon
+t “ λdia
+t 4Smon
+t , where λdia
+t is decreasing in the quantity of deposits. We will
+utilize the concept of the effective purchase price in interpreting our simulation results below. The
+first-order condition for capital has additional terms related to the use of capital as loan collateral.
+In the Euler equation for deposits, the asset return includes both a gross financial or interest rate
+yield and a net nonfinancial or convenience yield λdia
+t κ. The first-order conditions for loans feature
+loan adjustment cost terms as well as the returns λpart
+b1,t rℓ,b1,t`1 and λpart
+b2,t rℓ,b2,t`1.
+10
+===== PAGE 14 =====
+3.2. Manufacturers
+Manufacturers have unit mass and are indexed by j, where individual manufacturers differ by
+the goods variety they produce. Manufacturer j hires labour ht pjq from unions at the nominal wage
+rate W pr
+t , and capital kt´1 pjq from households at the user cost Rk
+t , to produce one variety j of the
+domestic good yt pjq “ p Sa
+t Ttht pjqq1´α pkt´1 pjqqα, where Sa
+t is a mean 1 first-order autoregressive
+process with i.i.d. normal error terms that represent shocks to technology. The labor demanded
+htpjq is a CES aggregate over varieties htpj, zq, with time-varying elasticity of substitution θw,t, and
+therefore with time-varying gross price markups θw,t{ pθw,t ´ 1q “ Sµw
+t ¯µw, where Sµw
+t is a mean 1
+i.i.d. normal process with error terms that represent wage markup shocks. Manufacturer j sets the
+price of his variety Ptpjq subject to monopolistic competition and quadratic price adjustment costs
+GP,tpjq “ p ϕp{2q Ptyt pPtpjq{Pt´1pjq ´ ¯πq2. The first-order conditions for input choice and the New
+Keynesian Phillips curve are standard.
+3.3. Unions
+Unions have unit mass and are indexed by j, where individual unions differ by the labour
+variety they sell. Unions buy homogenous labor from households at a competitively deter-
+mined nominal household wage rate W hh
+t . They set the wage W pr
+t pjq of their labor vari-
+ety htpjq subject to monopolistic competition and quadratic wage adjustment costs GW,tpjq “
+pϕw{2q W pr
+t ht
+`
+W pr
+t pjq{W pr
+t´1pjq ´ ¯πx
+˘2. The wage Phillips curve is standard.
+3.4. Bond Investors
+Bond investors have unit mass and are indexed byj. They are neither producers nor consumers
+of physical goods. They are the sole investors in domestic government securities Bbi
+t pjq that pay
+the nominal interest rate ib,t. Their holdings of wholesale deposits are denoted by Dbi
+t pjq and
+pay the wholesale interest rate iw,t. Bond investors transfer part of their net interest earnings to
+households as dividends Π bi
+t pjq in a lump-sum fashion, subject to dividend smoothing modelled as
+external habit persistence. The objective function for bond investor j is
+M ax E0
+8ÿ
+t“0
+βt
+bi
+«
+Sc
+t
+´
+1 ´ ν
+x
+¯
+log
+´
+ˇΠbi
+t pjq ´ ν
+x
+ˇΠbi
+t´1pjq
+¯
+` φ
+`ˇbbi
+t pjq
+˘1´ϑ
+1 ´ ϑ
+ff
+, (4)
+where βbi differs from βhh. To represent the highly interest-sensitive nature of wholesale money
+markets, bonds in the utility function replace the deposits-in-advance friction of households. The
+interest semi-elasticity of demand for government securities ϵbi
+b , which depends on ϑ, measures the
+percent increase of bond investors’ demand for government bonds in response to a one percentage
+point increase in the annualized interest rate on government bonds ib,t. The nominal budget
+constraint exhibits the same portfolio costs as households. We omit the optimality conditions.
+11
+===== PAGE 15 =====
+3.5. Money Market Funds
+Money market funds (MMF) represent the Federal Funds market. MMF have unit mass and
+are indexed by j. They buy wholesale deposit liabilities Db1,tpjq and Db2,tpjq from wholesale banks,
+in a competitive market and at interest rates iw,b1,t and iw,b2,t. Their customers are retail deposit
+banks, who demand a CES aggregate Drdb
+t pjq, at interest rate iw,t, over Db1,tpjq and Db2,tpjq. The
+interest rate iw,t represents the effective Federal Funds rate (EFFR). The CES aggregate features
+a (high) elasticity of substitution θ, and a quasi-share parameter bSd
+t , where Sd
+t is a mean 1 first-
+order autoregressive process with i.i.d. normal error terms that represent deposit withdrawal shocks
+between the two banking groups. The optimality conditions are standard.
+3.6. Wholesale Banks
+There are two groups of wholesale banks that have identical steady state net worth and loans,
+but that differ in their position in the deposit market, and therefore also in the markets for reserves
+and interbank loans. Specifically, bank group 1 represents money center banks that have a larger
+deposit base, and that therefore also hold larger central bank reserves and are net lenders in the
+interbank market. Bank group 2 by contrast has fewer deposits and reserves, and is a net borrower
+in the interbank market. The interest rates on wholesale deposits iw,i,t are determined by each
+bank group’s relative holdings of deposits and reserves, as fewer reserves relative to deposits make
+the management of the payment system more risky and costly to the bank and lead it to offer
+a higher wholesale deposit rate in order to attract more reserves. The interest rate on interbank
+loans, which represents LIBOR and its more recent successors, is determined by the interaction of
+group 1 supply and group 2 demand, with group 1 demanding a higher rate for larger interbank
+loans relative to its net worth, as larger loans make the management of counterparty exposures
+more risky and costly to the bank, and lead it demand higher compensation.
+The optimization problems of group 1 and group 2 wholesale banks are very similar, with
+the only difference being due to the fact that group 1 has the additional problem of managing a
+costly counterparty exposure in the interbank market. We will therefore describe the optimization
+problem of group 1, and will refer to differences with group 2 where necessary.
+Group 1 wholesale banks are indexed by pj, zq, because they are exposed to two different and
+independently distributed sources of risk. They are ex-ante identical in terms of ratios of assets
+and liabilities to net worth, while they may differ in terms of the size of net worth. They issue
+wholesale loans Lb1,tpj, zq to retail lending banks and wholesale deposits Db1,tpj, zq to money market
+funds. They also hold reserves Mb1,tpj, zq at the central bank and issue interbank loans Ob1,tpj, zq.
+Their net worth equals N b
+b1,tpj, zq, and their balance sheet is Lb1,tpj, zq ` Mb1,tpj, zq ` Ob1,tpj, zq “
+Db1,tpj, zq ` Nb1,tpj, zq.
+12
+===== PAGE 16 =====
+Along the continuum indexed by j, gross interest-inclusive loans are subject to lognormally
+distributed idiosyncratic shocks ωb
+b1,t`1 with mean 1 and variance pσb
+b1q2 that represent shocks to
+banks’ non-interest earnings, and that give rise to ex-post differences across banks in terms of
+violations of minimum capital adequacy rules (MCAR). We denote the pdf and cdf of these shocks
+by f bpωb
+b1,t`1q and F bpωb
+b1,t`1q, the cutoff below which MCAR is violated ex-post by ¯ ωb
+b1,t, and we
+define f b
+t “ f bp¯ωb
+b1,tq and F b
+t “ F bp¯ωb
+b1,tq. Along the continuum indexed by z, current period net
+worth is subject to lognormally distributed idiosyncratic shocks ωo
+t`1 with mean 1 and variance
+pσoq2 that represent shocks to banks’ equity, and that give rise to ex-post differences across banks
+in terms of the ratio of interbank loans to net worth. We denote the pdf and cdf of these shocks
+by f opωo
+t`1q and F opωo
+t`1q, the cutoff productivity shocks below which loan default occurs ex-post
+by ¯ωo
+t , and we define f o
+t “ f op¯ωo
+t q and F o
+t “ F op¯ωo
+t q.
+Reserve scarcity cost (RSC): Each bank faces a reserve scarcity cost that is pro-
+portional to its net worth, increasing in the ratio of deposits to reserves, and depen-
+dent on a parameter ð that indexes the convexity of the cost function, GM,b1,tpj, zq “
+pυ{ p1 ` ðqq Nb1,tpj, zq pDb1,tpj, zq{Mb1,tpj, zqq1`ð. The coefficients υ and ð of the RSC are assumed
+to be equal across group 1 and group 2 wholesale banks. Note that the functional form of our
+RSC is the inverse of Vissing-Jorgensen’s (2023) so-called ”reserves convenience yield function”.
+While our cost function is decreasing in reserves and increasing in deposits, Vissing-Jorgensen’s
+convenience yield function is increasing in reserves and decreasing in deposits. Both specifications
+capture the liquidity benefits of reserves for banks, such as reductions in transaction costs when
+faced with deposits outflows.
+Minimum capital adequacy rules (MCAR): MCAR limit wholesale banks’ ability to
+create credit and money. Bank pj, zq faces a future penalty of χb1,ℓ pLb1,tpj, zq ` rOb1,tpj, zqq πp
+t`1 if
+next period’s net worth falls short of a fraction γℓ of risk-weighted assets. Next period’s net worth
+equals the difference between the gross returns on asset-side and liability-side items, plus the net
+profits of retail deposit and retail lending banks, minus reserve scarcity costs. The regulatory risk
+weights on loans to households and banks equal 1 and r ă 1.
+Large exposure limit costs (LELC): Bank pj, zq faces a future cost of
+pχo{ p1 ` ϖqq Nb1,tpj, zq pOb1,tpj, zq{Nb1,tpj, zqq1`ϖ πp
+t`1 if the ratio of interbank loans to current
+net-loss-adjusted net worth Ob1,tpj, zq{
+`
+Nb1,tpj, zqωo
+t`1pj, zq
+˘
+exceeds γo.
+In equilibrium each bank faces the same interest rates rℓ,b1,t`1, rw,b1,t`1, ro,t`1, rt`1, and
+rd,t`1, the same parameters χb1,ℓ, γℓ, and χo, the same expected risk F b
+b1,t`1, f b
+b1,t`1, F o
+t`1, f o
+t`1,
+and identical lump-sum distributions from retail lending and deposit banks relative to net worth.
+This implies that the optimality conditions can be solved for unique loans-to-net-worth, deposits-to-
+net-worth, reserves-to-net-worth, and interbank-loans-to-net-worth ratios that are identical across
+banks. We can therefore drop the index pj, zq in our final optimality conditions.
+13
+===== PAGE 17 =====
+Net worth maximization: There are three first-order conditions with respect to the bank’s
+asset side items, taking interest rates as given. Defining ra,b1,t`1 “ rw,b1,t`1 `
+´
+ˇΠR
+b1,t`1x{ˇnb1,t
+¯
+`
+prt`1 ´ rw,b1,t`1q p ˇmb1,t{ˇnb1,tq ` p ro,t`1 p1 ´ γℓrq ´ rw,b1,t`1q pˇob1,t{ˇnb1,tq ´
+` ˇGM,b1,t{ˇnb1,t
+˘
+, the first-
+order conditions for wholesale loans, reserves and interbank loans are:
+Etrw,b1,t`1 “ Et
+¨
+˝rt`1 ` υ
+˜ ˇdb1,t
+ˇmb1,t
+¸ð ˇℓb1,tˇnb1,t ` ˇob1,tˇnb1,t ´ ˇn2
+b1,t
+ˇm2
+b1,t
+˛
+‚ , (5)
+Etrℓ,b1,t`1 “ Et
+»
+–rw,b1,t`1 ` υ
+˜ ˇdb1,t
+ˇmb1,t
+¸ð
+ˇnb1,t
+ˇmb1,t
+˜
+1 `
+χb1,ℓf b
+b1,t`1
+p1 ´ γℓq rℓ,b1,t`1
+˜
+1 ` r ˇob1,t
+ˇℓb1,t
+¸¸fi
+fl (6)
+`Etχb1,ℓ
+˜
+F b
+b1,t`1 ` f b
+b1,t`1
+˜
+1 ` r ˇob1,t
+ˇℓb1,t
+¸ ˜
+ra,b1,t`1
+p1 ´ γℓq rℓ,b1,t`1
+`ˇℓb1,t{ˇnb1,t
+˘
+¸¸
+,
+Etro,t`1 “ Et
+¨
+˝rw,b1,t`1 ` υ
+˜ ˇdb1,t
+ˇmb1,t
+¸ð ˆ ˇnb1,t
+ˇmb1,t
+˙˛
+‚{
+ˆ
+1 ´ γℓr` γℓr
+ft
+˙
+(7)
+`Et
+ˆ
+χb1,ℓrF b
+t`1 ` χo
+ˆ ˇob1,t
+ˇnb1,t
+˙ϖ ˆ
+F o
+t`1 ` f o
+t`1
+1
+p1 ` ϖq γo
+ˇob1,t
+ˇnb1,t
+˙˙
+{
+ˆˆ
+1 ´ γℓr` γℓr
+ft
+˙
+ft
+˙
+,
+ft “
+˜
+1 `
+χb1,ℓf b
+b1,t`1
+p1 ´ γℓq rℓ,b1,t`1
+˜
+1 ` rSrwgt
+t
+ˇob1,t
+ˇℓb1,t
+¸¸
+. (8)
+Condition (5) shows that RSC drives a wedge between the wholesale deposit rate and the policy rate
+ONRRP. The reason is that in order to increase the level of their reserves banks have to offer a higher
+wholesale deposit rate. Condition (6) shows that both MCAR and RSC drive a wedge between
+wholesale lending rates and wholesale deposit rates. The reason is that an increase in loans increases
+the likelihood and thus expected cost of violating capital adquacy rules (MCAR), and increases
+the scarcity of reserves and thus the bank’s wholesale funding costs (RSC). Condition (7) shows
+that LELC, RSC and MCAR (the latter only if r ą 0) drive a wedge between interbank lending
+rates and wholesale deposit rates. The reason is that an increase in interbank loans increases the
+likelihood and expected cost of breaching large exposure limits (LELC), and increases the scarcity
+of reserves and thus the bank’s wholesale funding costs (RSC).
+Post-dividend net worth equals net interest earnings, minus MCAR, LELC and RSC costs,
+and minus dividends that equal a fixed fraction of net worth. The latter are paid out to households
+in a lump-sum fashion, a specification that can be obtained by applying the “extended family”
+approach of Gertler and Karadi (2011).
+Group 2 wholesale banks, whose interbank borrowings are denoted byOb2,tpjq, only exist in the
+continuum indexed by j, as they do not face interbank lending risks. Their optimality condition for
+reserves is identical to (5) after replacing ˇob1,t with ´ˇob2,t. Their optimality condition for wholesale
+14
+===== PAGE 18 =====
+loans is similar to (6) but with the interbank loans term ˇ ob1,t replaced by zero. Their optimality
+condition for interbank borrowing takes the same form as the denominator on the first line of (7),
+with the denominator replaced by one and the second line absent. Group 2 wholesale banks trade
+off the higher cost of maintaining lower reserves with the higher cost of interbank borrowing.
+3.7. Retail Deposit Banks
+Retail deposit banks have unit mass and are indexed by j. They place wholesale deposits
+Drdb
+t pjq with money market funds at interest rate iw,t, and pay for them by issuing retail deposit
+varieties indexed by z, Dhh
+t pj, zq and Dbi
+t pj, zq, to households and bond investors. Retail holders
+demand CES composites of all deposit varieties. Retail deposit banks are perfectly competitive on
+the asset side, while on the liability side they are perfectly competitive vis-` a-vis bond investors,
+and monopolistically competitive vis-` a-vis households. This implies the pricing rulesibi
+d,t “ iw,t and
+ihh
+d,t “ id,t “ siw,t, where s is a mark-down term whose size depends on the elasticity of substitution
+between household deposit varieties.
+3.8. Retail Lending Banks
+The model of retail lending banks is based on a modified version of Bernanke et al. (1999).
+Group 1 and 2 retail lending banks obtain wholesale loans from group 1 and 2 wholesale banks,
+respectively. Inside each group retail lending banks are homogenous, and each bank lends the
+same amount to a borrower j. The total eligible loan collateral is the gross return to capital
+EtRetk,t`1Qtktpjq, while actual collateral is determined by the fractions κiScred
+t Scred
+i,t of this collat-
+eral that banks accept. Along the continuum indexed by j, the gross return to capital is subject to
+log-normally distributed idiosyncratic productivity shocks ωk
+i,t`1 with mean 1 and variance pσk
+i q2
+that represent shocks to borrowers’ real earnings, and that give rise to ex-post differences across
+borrowers, with a fraction entering bankruptcy. We denote the pdf and cdf of these shocks by
+f kpωk
+i,t`1q and F kpωk
+i,t`1q, the cutoffs below which bankruptcy occurs ex-post by ¯ωk
+i,t, and we define
+f k
+i,t “ f kp¯ωk
+i,tq and F k
+i,t “ F kp¯ωk
+i,tq. Retail lending banks’ cost of funding is given by wholesale lend-
+ing rates iℓ,i,t, while their loan contracts stipulate non-contingent retail lending rates ir,i,t that must
+be paid in full unless borrowers declare bankruptcy, which becomes advantageous when ωk
+i,t ă ¯ωk
+i,t.
+In case of bankruptcy, because of monitoring costs, the bank can only recover a fraction 1 ´ ξi
+of collateral. In equilibrium each retail lending bank in sector i faces the same rr,i,t`1, rℓ,i,t`1,
+retk,t`1, ξi, κi and qt. This implies that there are unique loans-to-capital ratios that are identical
+across borrowers, so that all equilibrium conditions are straightforward to aggregate. The optimal-
+ity conditions are the participation constraints that are shown in Section 2.1.4. These state that
+ex-ante net loan losses must equal zero, while ex-post net loan losses are generally different from
+zero because lending rates are non-contingent.
+15
+===== PAGE 19 =====
+3.9. Government
+The Taylor rule for ONRRP, the interest rate on central bank reserves it, is a conventional
+inflation forecast-based rule, with a steady state ¯ ı, interest rate smoothing with coefficient ii, a
+countercyclical response to deviations of one-quarter-ahead (as in Christiano et al. (2014)) inflation
+from the inflation target ¯π with coefficient iπ, and monetary policy shocks to Sint
+t , a mean 1 process
+with i.i.d. normal error terms:
+it “ pit´1qii ¯ıp1´iiqEt
+ˆ πp
+t`1
+¯π
+˙p1´iiqiπ
+Sint
+t . (9)
+A second rule, for the ratio to GDP of the quantity of reservesmrat
+t “
+`
+ˇmt{
+`
+4 ˚ g ˇdpt
+˘˘
+, ensures
+that the spread of the LIBOR interbank rate io,t over the ONRRP rate it does not increase too
+much relative to its steady state. We assume a steady state reserve ratio ¯ mrat, a countercyclical
+response to deviations of the interbank rate spread with coefficient mo, and reserve policy shocks
+to Sr
+t , a mean 1 first-order autoregressive process with i.i.d. normal error terms. The rule is
+ˇmrat
+t “ ¯mrat
+ˆ io,t{it
+¯ıo,t{¯ıt
+˙4mo
+Sr
+t . (10)
+On the central bank balance sheet, reserves are backed one-to-one by government securities,
+Bcb
+t “ Mt. This implies that any central bank profits are transferred directly to the government
+budget and are not retained as equity.
+Real government spending is given by gt “ sggdpS g
+t , where Sg
+t is a mean 1 first-order autore-
+gressive process with i.i.d. normal error terms. The government adjusts lump-sum taxes to ensure
+that government debt remains constant relative to trend, ˇbt “ ¯b.
+3.10. Market Clearing
+The market clearing conditions for government bonds and reserves are Bt “ Bcb
+t ` Bbi
+t and
+Mt “ Mb1,t ` Mb2,t. The market clearing conditions for retail and wholesale deposits are Drdb
+t “
+Dhh
+t ` Dbi
+t and Dwhs
+t “ Db1,t ` Db2,t. The interbank market clears at Ob1,t “ Ob2,t. Finally, the
+goods market clearing condition is yt “ ct ` It ` gt “ gdpt.
+4. Calibration
+Our calibration is for the US. Calibration of the steady state is based on the literature and on
+sample averages, where available, over the period 2010Q1-2019Q4. For some interest rates we had
+to use a shorter sample as they are not available over the full decade.
+16
+===== PAGE 20 =====
+4.1. Real Sector
+Trend productivity growth x is calibrated at 2% in annual terms. The CPI inflation target
+¯π and the (pre-CBDC) equilibrium real interest rate ¯r are set to 2% and 3% in annualized terms,
+respectively, the latter by adjusting the discount factor of bond investors βbi. For preferences
+of households, following the estimates in Cesa-Bianchi et al. (2023), we fix the habit persistence
+parameter v at 0.77, and the elasticity of labour supply η at 1.54. We normalize steady state labour
+supply to 1 by adjusting the preference weight ψ. For preferences of bond investors, we set the
+opportunity cost semi-elasticity of demand for government bonds at a high ϵbi
+b “ 300, by adjusting
+the parameter ϑ. This ensures that for bond investors very large changes in relative holdings of
+wholesale deposits and government securities require only very small changes, measured in a few
+basis points, in the spread between the wholesale deposit rate and the rate on government securities.
+For technologies, steady state gross markups are fixed at ¯µp “ ¯µw “ 1.1, in line with much of
+the literature. To match BLS sample averages for the US business sector, we set the steady state
+labor income share to 59.4% by adjusting the share parameter α. We set the ratio of investment to
+GDP to its sample average of 17.3% by adjusting the depreciation rate ∆. We calibrate the ratio
+of the value of capital Qtkt to GDP, which according to Fed and NIPA data equals around 240%,
+by adjusting the willingness-to-lend parameter κb1.
+4.2. Fiscal Sector
+The steady state total government debt-to-GDP ratio is set to its sample average of 98% by
+adjusting ¯brat. The steady state reserves-to-GDP ratio is set to its sample average of 11.5% by
+adjusting ¯mrat. As a result, the steady state ratio of privately held government debt to GDP
+¯brat
+bi equals 86.5%. The steady state share of government spending in real GDP is set to its sample
+average of 19% by adjustingsg. We set the steady state spread between the interest rates on reserves
+and on government securities to 20 basis points, equal to the sample average of the difference
+between the Federal Funds rate and the 3-month treasury bill rate, by adjusting the bonds-in-the-
+utility function parameter φ. The elasticity of the real interest rate on government securities with
+respect to changes in the government debt-to-GDP ratio is the subject of Laubach (2009), Engen
+and Hubbard (2004), and Gale and Orszag (2004), who report, for the US, that each percentage
+point increase in the debt ratio increases the real interest rate by between 1 and 6 basis points.
+The IMF’s revised Debt Sustainability Framework (International Monetary Fund (2021, 2022)) now
+makes explicit reference to a “Laubach (2009) Rule”, putting the value of that elasticity at 4 basis
+points. Our calibration is more conservative at 2 basis points, which requires setting ϕf “ 0.00005.
+17
+===== PAGE 21 =====
+4.3. Financial Sector
+The first subset of financial sector calibration targets relates to bank capital ratios. The
+steady state capital adequacy ratio γℓ is set to 10.5% which is the sum of the 8.0% Basel III
+total capital ratio and the 2.5% capital conservation buffer (see Basel Committee on Banking
+Supervision (2017)). We omit the countercyclical and GSIB buffers, and the additional supervisory
+requirements, as these do not apply to all banks and/or at all times. As shown in Federal Reserve
+Bank of New York (2018), banks hold capital considerably above the regulatory minimum. In our
+model they do so to self-insure against the risk of violating the MCAR. Based on the data in Federal
+Reserve Bank of New York (2018), we therefore set the actual steady state capital ratio to 15.5%,
+for an endogenous capital buffer of 5.0%, by adjusting banks’ dividend payout parameters δb1 and
+δb2. We set the risk weight on interbank loans to r “ 0.2.
+The second subset of financial sector calibration targets relates to regulatory non-compliance
+rates of banks and bankruptcy rates of their borrowers. The cumulative shares of banks that violate
+the Basel minimum in any quarter are F b
+b1 and F b
+b2. We set these shares to 2.5% in steady state,
+close to the approximate historical frequency of systemic banking crises in Jorda et al. (2011), by
+adjusting the bank riskiness parameters σb
+b1 and σb
+b2. Borrower bankruptcy rates F k
+b1 and F k
+b2 are
+set to 1.5% by adjusting the loss-given-default parameters ξb1 and ξb2. This matches delinquency
+rates on corporate loans reported in the FRED database.
+The third subset of financial sector calibration targets relates to steady state spreads outside
+the interbank market. To calibrate the wholesale lending spread over the policy rate, we use a 2000-
+2016 data set produced by Anderson and Cesa-Bianchi (2020) of “maturity-adjusted credit spreads”
+(MACS) for listed non-financial US firms. These are spreads between the cost of borrowing for a
+given firm and an equal-maturity risk-free interest rate. We recall that in the model the wholesale
+lending rate corresponds to the interest rate that would be charged to a notional zero-risk corporate
+borrower. A model-consistent calibration for the wholesale lending spread is therefore the spread
+between the average commercial paper rate paid by the safest blue-chip (AAA) non-bank corporates
+and the treasury bill rate (not the policy rate, which is on average 20 basis points higher than the
+treasury bill rate) at matching maturities of 3 months. Over the sample period this spread equals
+66 basis points, and we therefore calibrate the steady state wholesale lending rates ¯ rℓ,b1 and ¯rℓ,b2
+to 3.46% by adjusting the MCAR parameters χb1,ℓ and χb2,ℓ. The steady state retail lending rates
+¯rr,b1 and ¯rr,b2 are calibrated by adjusting the borrower riskiness parameters σk
+b1 and σk
+b2. For their
+data counterpart we use the difference between Moody’s seasoned Baa corporate bond yield and
+the market yield on U.S. treasury securities at 10-year constant maturity. Over the sample period
+this spread equals 189 basis points. This yields retail lending rates of 5.35%. The steady-state
+spread between the policy rate and the retail deposit rate is calibrated by adjusting the spread
+parameter s. Pre-GFC average spreads between the US policy rate and the effective interest rate
+18
+===== PAGE 22 =====
+on household checking accounts (from FDIC data) equalled around 300 basis points. 9 However,
+in our model deposits include a much wider range of financial sector liabilities, including deposits
+which attract rates much closer to the policy rate. To approximate the average convenience yield of
+total financial sector liabilities to households, we therefore calibrate this spread at 150 basis points.
+This is similar to Ashcraft and Steindel (2008), who compute, for the single year 2006, a spread
+of 134 basis points between the average rate of US commercial banks’ portfolio of treasury and
+agency securities on the one hand and the average rate on their complete portfolio of liabilities on
+the other hand.
+The fourth subset of parameters determines the steady state size and composition of balance
+sheets. Based on US Flow of Funds data for the sample period, retail loans are calibrated at
+135% of GDP, spread equally between the two bank groups, by adjusting the discount factor of
+households βhh and the willingness-to-lend parameter κb2. The steady state retail deposits to GDP
+ratio is calibrated at 65% based on the average value over the sample in BIS data, by adjusting
+the velocity parameter κ. Together with the steady state net worth implied by the calibration of
+bank capital ratios, and the steady state reserve and interbank ratios discussed below, this leaves
+the bond investor wholesale deposits to GDP ratio as a residual, at 79% of GDP.
+The fifth subset of parameters determines the size of the interbank market. Based on Allen et
+al. (2020), Table 1, we set the steady state interbank loans to net worth ratio of group 1 wholesale
+banks to 25%, which implies a steady state interbank loans to total assets ratio of 3.3%, by adjusting
+the quasi share coefficient of the deposits aggregate b.10 We set the interbank loans to net worth
+ratio beyond which penalties start to apply to 35% by adjusting the parameter γo. The fraction of
+banks that exceed that ratio in each quarter F o is set to 20% by adjusting the parameter σo.
+The sixth subset of parameters determines interest rates in the interbank market, with it
+representing the ONRRP rate, iw,t the EFFR, and io,t LIBOR. Figure 1 shows the empirical
+relationships between reserves and interest rate spreads in the data (circles) and the model (lines).
+We first match the empirical relationship between the quantity of reserves and the EFFR-
+ONRRP spread, which is shown on the left-hand-side of Figure 1. Between 2013m10, when the
+ONRRP was created, and 2019m12, the average spread between EFFR and ONRRP has averaged
+12 basis points. We therefore calibrate the steady state level of the real wholesale deposit rate
+at 3.12%, by adjusting the scale parameter of reserve scarcity costs υ. To match the slope of the
+relationship, we set the elasticity of substitution between the two deposit types to a fairly high
+θ “ 5, and then adjust the curvature parameter of reserve scarcity costs ð to obtain a 9 basis
+points increase in iw,b2,t for every 1 percentage point of GDP reduction in group 2 banks’ reserves,
+approximately in line with the data.
+9This spread has been significantly compressed during the ZLB period, but we do not consider this period to be
+representative of normal conditions in the banking sector.
+10The 3.3% US value is considerably lower than the approximately 30% values reported for France and Germany.
+19
+===== PAGE 23 =====
+Figure 2: Interbank Market Spreads as a Function of Reserves
+EFFR-ONRRP Spread
+rw,t /r  t
+5 10 15 20
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7Percent p.a.
+LIBOR-ONRRP Spread
+ro,t /r  t
+5 10 15 20
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7Percent p.a.
+(horizontal axis = reserves in percent of GDP)
+(line = model fit, circles = monthly data)
+(r.h.s. circles: orange/violet = 1-month/3-month LIBOR)
+Next we match the empirical relationship between the quantity of reserves and the LIBOR-
+ONRRP spread. Figure 2 shows both 1-month and 3-month LIBOR, but our calibration is based
+on the former. Over the same period 2013m10 - 2019m12, the average spread between 1-month
+LIBOR and EFFR has averaged 10 basis points. We therefore calibrate the steady state level of
+the real interbank lending rate at 3.22%, by adjusting the LELC coefficient χo. To match the slope
+of the relationship, we set the LELC curvature coefficient to ϖ “ 2.
+4.4. Adjustment Costs, Shock Persistence, and Policy Rules
+We have used the estimation results of the related models (without interbank market) in Cesa-
+Bianchi et al. (2023) and Kumhof et al. (2023) to allow us to perform preliminary welfare analysis.
+We calibrate the price and wage adjustment cost parameters at ϕp “ ϕw “ 300, the investment
+adjustment cost parameter at ϕi “ 0.78, and the loan adjustment cost parameter at ϕℓ “ 0.0005.
+The autocorrelation coefficients are ρa “ 0.96, ρc “ 0.57, ρcred “ 0.95, ρd “ 0.5, ρg “ 0.94,
+ρi “ 0.87 and ρmon “ 0.89.
+In our simulations, the interest rate policy rule parameters are set to ii “ 0.5 and ii “ 2.0. For
+the QE policy rule we will experiment with different values formo, with a baseline of mo “ 0. We set
+the standard errors of shocks to approximately reproduce the standard errors and autocorrelation
+coefficients of GDP, consumption, investment, government spending, policy rates, inflation, credit,
+and risky spreads over our sample.
+20
+===== PAGE 24 =====
+5. Steady State Effects of the Quantity of Reserves
+5.1. Pure Monetary QE/QT
+Figure 3 studies the effects on 20 key model variables of permanently changing the quantity of
+central bank reserves by varying the parameter ¯mrat while leaving all other parameters unchanged,
+including the overall quantity of government debt. The horizontal axis is the total reserves to GDP
+ratio. This is a pure monetary policy without any coordination with debt issuance policy.
+We begin by discussing the balance sheet mechanics, and for concreteness we will discuss QT,
+which moves towards the left from the black vertical line that indicates the initial steady state.
+With QT, the central bank sells bonds to bond investors, and bond investors pay by transferring
+wholesale deposits to the central bank. Banks settle the central bank’s wholesale deposit claims in
+reserves, which decline one-for-one with the decrease in central bank bond holdings. Retail deposits
+of households remain constant relative to GDP and therefore decline in line with GDP. The reason
+is that the deposits-in-advance constraint implies that retail deposits move one-for-one with the
+sum of consumption and investment, while the government spending rule implies that government
+spending moves one-for-one with the sum of consumption and investment.
+The initial reserve positions of bank groups B1 and B2 are approximately 9.5% and 2.0% of
+GDP. Accordingly, most of the drop in reserves is absorbed by B1 banks, even though at the margin
+the effect of QT on the reserve scarcity of B2 banks is more severe. We observe this in the behavior
+of the wholesale deposit rate spread over ONRRP, which is around six times larger for the reserves-
+scarce B2 banks. Because retail loans are priced directly off wholesale deposit rates, this means
+that the loans of B2 banks become relatively more expensive, and therefore drop by significantly
+more than those of B1 banks. B2 banks, in addition to paying a significantly higher interest rate
+on their wholesale deposits, are also willing to pay significantly more to attract interbank loans,
+with their interbank loan spread increasing by a very similar magnitude to their wholesale deposit
+rate spread. At the left margins of Figure 3, total central bank reserves have decreased by 7% of
+GDP, and B2 banks have compensated for this by paying 70-75 basis points more on their wholesale
+deposits and interbank loans, and thereby attracting interbank loans equal to 4% of GDP. However,
+due to more expensive lending rates, their loans decrease by 1% of GDP, and those of their B1
+competitors by another 0.4% of GDP. The resulting contraction in deposits has significant effects
+on economic activity, with GDP lower by around 0.4%, and investment by 1.0%, for the largest QT
+policies shown in Figure 3.
+21
+===== PAGE 25 =====
+The effects of QT on equilibrium real interest rates are driven by two effects that are both
+present at all points on the curve, but whose relative strength varies along the curve. To see this,
+note that bond investor and wholesale bank optimality conditions for wholesale deposit rates are
+¯rw “ x
+βbi
+`
+1 ` ϕf p¯brat
+bi ´ ¯brat
+bi,ssq
+˘
+, (11)
+¯rw “
+ˆ ¯dwhs
+¯drdb
+˙
+¯r `
+ˆ ¯db1
+¯drdb
+˙
+ĘRSC m
+b1 `
+ˆ ¯db2
+¯drdb
+˙
+ĘRSC m
+b2, (12)
+where p¯brat
+bi ´ ¯brat
+bi,ssq captures the deviations of bond investor’s government bond holdings from the
+initial (calibrated) steady state, and where
+ĘRSC m
+i “ υ
+ˆ ¯di
+¯mi
+˙ð ˆ ¯ni
+¯mi
+˙ ˆ ¯di ´ ¯mi
+¯mi
+˙
+,
+for i P p b1, b2q, are the derivatives of reserves scarcity costs with respect to reserves. We can
+combine (11) and (12) to yield
+¯r “
+ˆ ¯drdb
+¯dwhs
+˙ x
+βbi
+`
+1 ` ϕf p¯brat
+bi ´ ¯brat
+bi,ssq
+˘
+´
+ˆ ¯db1
+¯dwhs
+˙
+ĘRSC m
+b1 ´
+ˆ ¯db2
+¯dwhs
+˙
+ĘRSC m
+b2. (13)
+The first effect of QT on the steady state or neutral policy rate can be seen in the first term on
+the right hand side of (13). This is that, for a constant level of total government debt, a reduction in
+central bank reserves and therefore in central bank holdings of government debt leads to an increase
+in bond investor holdings of government debt. As the stock of government debt in private hands
+increases, all interest rates, including the policy rate, increase. 11 This effect is approximately linear
+in privately-held government debt and therefore in reserves. As shown in Figure 3, it dominates at
+reserves-to-GDP ratios above 10%.
+The second effect of QT on the steady state policy rate can be seen in the second and third
+terms on the right hand side of (13). This is that, as the scarcity or convenience yield of reserves
+increases, banks are willing to pay a higher wholesale deposit rate relative to the rate on reserves
+in order to not lose reserves to other banks, and this pushes up the spread between the two rates.
+In other words, ceteris paribus, QT reduces the rate that the central bank needs to pay on reserves,
+because reserves have become so valuable to banks. This effect is highly nonlinear in reserves,
+because reserve scarcity costs increase at an increasing rate as reserves approach zero. As shown in
+Figure 3, this effect dominates at reserves-to-GDP ratios below 10%, and can account for liquidity
+discounts of 20 basis points or more over the range shown. This has important implications for
+monetary policy.
+11See the discussion of portfolio costs following equation (3) and of the IMF’s “Laubach rule”in Section 4.2.
+22
+===== PAGE 26 =====
+Figure 3: Steady States - Monetary QE/QT
+Total Reserves
+Percent of GDP
+5 10 15 20
+5
+10
+15
+20
+Deposits HH
+Percent of GDP
+5 10 15 20
+64
+64.5
+65
+65.5
+66
+Reserves B1
+Percent of GDP
+5 10 15 20
+5
+10
+15
+Reserves B2
+Percent of GDP
+5 10 15 20
+1
+2
+3
+4
+5
+Interbank Loans
+Percent of GDP
+5 10 15 20
+1
+2
+3
+4
+Real Reserves Rate
+Percent p.a.
+5 10 15 20
+2.85
+2.9
+2.95
+3
+Wholesale Deposit Spread B1
+Percent p.a.
+5 10 15 20
+0.04
+0.06
+0.08
+0.1
+0.12
+Wholesale Deposit Spread B2
+Percent p.a.
+5 10 15 20
+0.2
+0.4
+0.6
+Interbank Rate Spread
+Percent p.a.
+5 10 15 20
+0.2
+0.4
+0.6
+Deposits B1
+Percent of GDP
+5 10 15 20
+65
+70
+75
+Deposits B2
+Percent of GDP
+5 10 15 20
+54
+56
+58
+60
+62
+Deposits BI
+Percent of GDP
+5 10 15 20
+55
+60
+65
+70
+75
+Loans HH
+Percent of GDP
+5 10 15 20
+134
+135
+136
+137
+Loans B1
+Percent of GDP
+5 10 15 20
+67.4
+67.6
+67.8
+68
+68.2
+68.4
+Loans B2
+Percent of GDP
+5 10 15 20
+66.5
+67
+67.5
+68
+68.5
+Bonds BI
+Percent of GDP
+5 10 15 20
+75
+80
+85
+90
+GDP
+Percent Deviation from St. St.
+5 10 15 20
+-0.4
+-0.2
+0
+0.2
+0.4
+0.6
+Wholesale Loans Spread B1
+Percent p.a.
+5 10 15 20
+0.46
+0.48
+0.5
+0.52
+Wholesale Loans Spread B2
+Percent p.a.
+5 10 15 20
+0.4
+0.6
+0.8
+Inflation Rate
+Percent p.a.
+5 10 15 20
+1
+1.5
+2
+2.5
+(horizontal axis = reserves in percent of GDP)
+(vertical black line = level of reserves in calibrated st. st.)
+(horizontal orange line = value of variable in calibrated st. st.)
+23
+===== PAGE 27 =====
+5.2. Fiscal-Monetary QE/QT
+Figures 4 and 5 study the steady state effects of changes in the quantity of government bonds
+that are allowed to be partially or fully absorbed by changes in the quantity of reserves. While these
+simulations exogenously change the total government debt to GDP ratio, for ease of comparison
+with figure 3, the horizontal axis remains the total reserves to GDP ratio.
+The motivation behind these exercises is that the response to the COVID shock across advanced
+economies has included very significant increases in both government debt and central bank reserves.
+For example, between 2020Q1 and 2020Q2 the US ratio of government debt to GDP rose by 26
+percentage points and the amount of Fed reserves rose by 7 percentage points. These simultaneous
+expansions in bonds and reserves have proven very persistent. Hence, in this section we simulate a
+permanent increase in the government bonds-to-GDP ratio assuming two distinct responses from
+the central bank that are shown in Figures 4 and 5.
+Figure 4 studies the effects of permanently changing the quantity of total government bonds
+while allowing the supply of central bank reserves, and thus government bonds held by the central
+bank, to be endogenously determined by commercial bank demand for reserves. This is akin to
+a “demand-driven” monetary operational framework with abundant reserves that central banks
+like the Bank of England and the ECB are aiming to maintain in the foreseeable future, after the
+current cycle of QT comes to an end (see Schnabel (2023) and Bailey (2024)).
+We focus our description on the case of an increase in government bonds – the section to the
+right of the black vertical line. On impact the entire bond issuance is absorbed by bond investors,
+who immediately sell slightly more than 100% of the additional issuance to banks in exchange for
+wholesale deposits, so that their bond holdings drop slightly relative to GDP. Banks immediately
+exchange these bonds for reserves at the central bank, and the central bank accommodates their
+higher demand. The higher level of reserves affects the interbank market by pushing down both
+interbank lending and the interbank rate spread. However, the effect on other lending rates is small
+because the interest rate on reserves increases. The reason is that the much more abundant supply
+of reserves reduces the scarcity premium or liquidity discount of reserves, while the risk premium
+is barely affected due to the very small change in government debt held by bond investors. On the
+balance sheets of commercial banks, the increase in reserve holdings is matched by an increase in
+wholesale deposits held by bond investors. There is little change in lending because of the small
+effects on overall lending rates. Finally, the small drop in the opportunity cost of holding money,
+the spread between lending and deposit rates, causes a small increase in real GDP.
+24
+===== PAGE 28 =====
+Figure 4: Steady States - Fiscal-Monetary QE/QT - Endogenous Reserves
+Government Bonds
+Percent of GDP
+10 15 20
+96
+98
+100
+102
+104
+106
+Deposits HH
+Percent of GDP
+10 15 20
+64
+64.5
+65
+65.5
+66
+Reserves B1
+Percent of GDP
+10 15 20
+8
+10
+12
+14
+16
+Reserves B2
+Percent of GDP
+10 15 20
+2
+3
+4
+5
+Interbank Loans
+Percent of GDP
+10 15 20
+1.5
+2
+2.5
+Real Reserves Rate
+Percent p.a.
+10 15 20
+2.95
+3
+3.05
+Wholesale Deposit Spread B1
+Percent p.a.
+10 15 20
+0.03
+0.04
+0.05
+Wholesale Deposit Spread B2
+Percent p.a.
+10 15 20
+0.1
+0.15
+0.2
+0.25
+0.3
+Interbank Rate Spread
+Percent p.a.
+10 15 20
+0.1
+0.15
+0.2
+0.25
+0.3
+Deposits B1
+Percent of GDP
+10 15 20
+68
+70
+72
+74
+Deposits B2
+Percent of GDP
+10 15 20
+56
+58
+60
+Deposits BI
+Percent of GDP
+10 15 20
+60
+65
+70
+Loans HH
+Percent of GDP
+10 15 20
+135
+135.1
+135.2
+Loans B1
+Percent of GDP
+10 15 20
+67.5
+67.52
+67.54
+Loans B2
+Percent of GDP
+10 15 20
+67.4
+67.5
+67.6
+67.7
+Bonds BI
+Percent of GDP
+10 15 20
+85.6
+85.8
+86
+86.2
+86.4
+86.6
+GDP
+Percent Deviation from St. St.
+10 15 20
+-0.02
+0
+0.02
+0.04
+0.06
+Wholesale Loans Spread B1
+Percent p.a.
+10 15 20
+0.44
+0.45
+0.46
+0.47
+Wholesale Loans Spread B2
+Percent p.a.
+10 15 20
+0.35
+0.4
+0.45
+0.5
+0.55
+Inflation Rate
+Percent p.a.
+10 15 20
+1
+1.5
+2
+2.5
+(horizontal axis = reserves in percent of GDP)
+(vertical black line = level of reserves in steady state)
+(horizontal orange line = value of variable or of deviation in steady state)
+25
+===== PAGE 29 =====
+Figure 5: Steady States - Fiscal-Monetary QE/QT - Exogenous Reserves
+Government Bonds
+Percent of GDP
+10 15 20
+96
+98
+100
+102
+104
+106
+108
+Deposits HH
+Percent of GDP
+10 15 20
+64
+64.5
+65
+65.5
+66
+Reserves B1
+Percent of GDP
+10 15 20
+8
+10
+12
+14
+16
+Reserves B2
+Percent of GDP
+10 15 20
+2
+3
+4
+5
+Interbank Loans
+Percent of GDP
+10 15 20
+1.5
+2
+2.5
+3
+Real Reserves Rate
+Percent p.a.
+10 15 20
+2.95
+3
+3.05
+Wholesale Deposit Spread B1
+Percent p.a.
+10 15 20
+0.03
+0.04
+0.05
+Wholesale Deposit Spread B2
+Percent p.a.
+10 15 20
+0.1
+0.15
+0.2
+0.25
+0.3
+Interbank Rate Spread
+Percent p.a.
+10 15 20
+0.1
+0.2
+0.3
+Deposits B1
+Percent of GDP
+10 15 20
+68
+70
+72
+74
+Deposits B2
+Percent of GDP
+10 15 20
+56
+58
+60
+Deposits BI
+Percent of GDP
+10 15 20
+60
+65
+70
+Loans HH
+Percent of GDP
+10 15 20
+134.95
+135
+135.05
+Loans B1
+Percent of GDP
+10 15 20
+67.45
+67.5
+67.55
+Loans B2
+Percent of GDP
+10 15 20
+67.4
+67.45
+67.5
+67.55
+67.6
+Bonds BI
+Percent of GDP
+10 15 20
+86.48
+86.49
+86.5
+86.51
+GDP
+Percent Deviation from St. St.
+10 15 20
+-0.01
+0
+0.01
+0.02
+Wholesale Loans Spread B1
+Percent p.a.
+10 15 20
+0.43
+0.44
+0.45
+0.46
+0.47
+Wholesale Loans Spread B2
+Percent p.a.
+10 15 20
+0.35
+0.4
+0.45
+0.5
+0.55
+Inflation Rate
+Percent p.a.
+10 15 20
+1
+1.5
+2
+2.5
+(horizontal axis = reserves in percent of GDP)
+(vertical black line = level of reserves in steady state)
+(horizontal orange line = value of variable or of deviation in steady state)
+26
+===== PAGE 30 =====
+Figure 5 studies the effects of permanently changing the quantity of total government bonds
+while having the central bank absorb the entire change, ∆ M “ ∆Bcb “ ∆B. Bonds held by bond
+investors are constant although their ratio to GDP decreases very slightly due to a small increase
+in GDP. The effect on GDP in this case is even smaller because the effect on the opportunity cost
+of money is smaller. This is because bond investors hold on to an unchanged stock of government
+debt rather than being net sellers, which implies that the interest rate on reserves increases by more
+in the virtual absence of any Laubach effect, while the interest rate spread on deposits drops by
+less because reserves increase by less. But other than this small difference the evolution of balance
+sheets and spreads is qualitatively very similar to Figure 4.
+The lesson from both experiments is that if the central bank buys a substantial portion of
+newly issued government debt by issuing reserves, the result is an increase in the policy rate but a
+decrease in spreads relative to the policy rate, with a small but beneficial net effect on opportunity
+costs and real activity. This is accompanied by an increase in financial stability, as the size of
+banks’ balance sheets increases approximately by the quantity of reserves, matched by an increase
+in wholesale deposits held by bond investors, with very small effects on lending.
+5.3. Iso-Market Rate Curve
+Vissing-Jorgensen (2023) introduced the concept of the short-term iso-market rate curve, which
+she defines as the schedule with “all possible combinations of reserve supply and the interest rate
+on reserves which achieve the same [interbank] target.” Our theoretical model allows us to obtain
+an iso-market rate curve.
+Figure 6 depicts our model’s short-term iso-market rate curve for the initial steady state
+interbank rate. We simulate two cases because in order to fix a central bank interbank rate target,
+we need to drop one of two possible steady state equations. The first possibility is to drop the
+interbank loans supply schedule of group 1 banks to obtain a “demand driven” scenario, which is
+illustrated in the left column of Figure 6. The second possibility is to drop the interbank loans
+demand schedule of group 2 banks to obtain a “supply driven” scenario, which is illustrated in the
+right column of Figure 6. The center column shows our benchmark QT/QE simulation where both
+demand and supply schedules determine the interbank rate simultaneously. All variables share a
+common x-axis, the reserves-to-GDP ratio, and each row has similar y-axes for ease of comparison.
+Under a demand driven interbank market, the iso-market rate curve increases to the left of
+the black vertical line that marks our initial steady state, in other words under QT. At the same
+time, interbank loans increase substantially more than under our benchmark case, as reserve-scarce
+banks’ demand for relatively cheap interbank funding is fully accommodated by reserve-abundant
+banks, who absorb more than 100% of the total decline in reserves while reserve-scarce banks
+increase their reserve levels.
+27
+===== PAGE 31 =====
+Figure 6: Steady States - Iso-Market Rate Curves
+Iso-Market Rate Curve (Demand Driven)
+Percent p.a.
+6 8 10 12
+2.7
+2.8
+2.9
+3
+3.1
+Real Reserves Rate (Benchmark)
+Percent p.a.
+6 8 10 12
+2.7
+2.8
+2.9
+3
+3.1
+Iso-Market Rate Curve (Supply Driven)
+Percent p.a.
+6 8 10 12
+2.7
+2.8
+2.9
+3
+3.1
+Total Reserves (Demand Driven)
+Percent of GDP
+6 8 10 12
+5
+10
+15
+Total Reserves (Benchmark)
+Percent of GDP
+6 8 10 12
+5
+10
+15
+Total Reserves (Supply Driven)
+Percent of GDP
+6 8 10 12
+5
+10
+15
+Real Interbank Rate (Demand Driven)
+Percent p.a.
+6 8 10 12
+3.2
+3.4
+3.6
+Real Interbank Rate (Benchmark)
+Percent p.a.
+6 8 10 12
+3.2
+3.4
+3.6
+Real Interbank Rate (Supply Driven)
+Percent p.a.
+6 8 10 12
+3.2
+3.4
+3.6
+Interbank Loans (Demand Driven)
+Percent p.a.
+6 8 10 12
+2
+4
+6
+Interbank Loans (Benchmark)
+Percent of GDP
+6 8 10 12
+2
+4
+6
+Interbank Loans (Supply Driven)
+Percent of GDP
+6 8 10 12
+2
+4
+6
+Reserves B1 (Demand Driven)
+Percent of GDP
+6 8 10 12
+0
+5
+10
+Reserves B1 (Benchmark)
+Percent of GDP
+6 8 10 12
+0
+5
+10
+Reserves B1 (Supply Driven)
+Percent of GDP
+6 8 10 12
+0
+5
+10
+Reserves B2 (Demand Driven)
+Percent of GDP
+6 8 10 12
+1
+2
+3
+Reserves B2 (Benchmark)
+Percent of GDP
+6 8 10 12
+1
+2
+3
+Reserves B2 (Supply Driven)
+Percent of GDP
+6 8 10 12
+1
+2
+3
+(horizontal axis: Reserves in Percent of GDP)
+(vertical black line = level of reserves in steady state)
+(horizontal orange line = value of variable or of deviation in steady state)
+28
+===== PAGE 32 =====
+Under a supply driven interbank market, the iso-market rate curve decreases to the left of our
+initial steady state. Because reserve-abundant banks are not compensated for additional interbank
+lending with a higher interest rate, the increase in interbank loans is much smaller, and the decline
+in reserves of reserve-scarce banks is much larger. The resulting steep increase in their interest rate
+liquidity discount is the main reason behind the decline in the iso-market rate curve, which at the
+left margin is substantially larger, by 20bps, than in the benchmark case.
+These results emphasize the importance of both the distribution of reserves and the interbank
+market structure for the success of central bank balance-sheet normalization policies. The latter
+matters because under a demand driven interbank market permanent QT is reflected primarily in
+quantities, while under a supply driven interbank market QT requires a stronger drop in the real
+rate paid on reserves to obtain the same interbank rate target.
+6. Economic Shocks and the Interbank Market
+6.1. Deposit Withdrawal Shocks
+As mentioned in the introduction, our model reflects the reality that banks never face financing
+risks, they only face refinancing risks. Banks always finance new loans by creating new deposits,
+so that there is never a risk of not being able to finance a new loan. But there is a risk of having
+to refinance a lost deposit, and this is the risk we study in this section. To make the magnitudes of
+balance sheet changes easier to interpret, we express all balance sheet variables in percent of GDP.
+Furthermore, to avoid confounding the separate effects of changes in balance sheets and in GDP
+on these ratios we use steady state GDP rather than actual GDP for scaling.
+If a bank, after netting, experiences deposit outflows, this captures the notion of a modern
+bank run. Such runs however are not a runs on the entire banking system by retail depositors, but
+rather runs from one part of the banking system to another by large institutional depositors. We
+emphasize the banks-to-banks nature of modern bank runs because deposits are never withdrawn
+to “eat” them (as in Diamond-Dybvig (1983) runs), but only to deposit them in safer alternatives.
+The empirical evidence (see Cipriani, Eisenbach and Kovner (2024)) shows that in the 2023 US
+bank run episodes this alternative has not been cash but the largest US banks, who are perceived to
+be safer because they benefit from explicit or implicit deposit guarantees. Our model allows us to
+study this in the simplest possible form, by examining the effects of withdrawals from reserve-scarce
+bank group B2 to reserve-abundant bank group B1, with no first-round effects on the aggregate
+quantity of deposits. We emphasize the wholesale nature of modern bank runs because in the 2023
+US bank run episodes the key actors have been large wholesale depositors withdrawing very large
+funds. Our model of money market funds allows us to study this through a negative shock Sd
+t to
+the quasi-share of B2 deposits in their deposits aggregate. This captures the notion of wholesale
+money markets “getting nervous” about certain sectors of the banking system.
+29
+===== PAGE 33 =====
+Figure 7: Deposit Withdrawal Shock
+GDP
+(% Difference)
+-4 0 4 8 121620242832
+-0.6
+-0.4
+-0.2
+0
+Consumption
+(% Difference)
+-4 0 4 8 121620242832
+-0.3
+-0.2
+-0.1
+0
+Investment
+(% Difference)
+-4 0 4 8 121620242832
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+Inflation Rate
+(pp Difference)
+-4 0 4 8 121620242832
+-0.4
+-0.3
+-0.2
+-0.1
+0
+Real Reserves Rate
+(pp Difference)
+-4 0 4 8 121620242832
+-0.4
+-0.3
+-0.2
+-0.1
+0
+Real Interbank Rate
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.5
+1
+1.5
+Interbank Rate Spread
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.5
+1
+1.5
+Effective Purchase Price
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+Wholesale Deposit Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+0
+0.5
+1
+1.5
+Wholesale Lending Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+0
+0.5
+1
+1.5
+Retail Lending Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+0
+0.5
+1
+1.5
+Loans/GDP_SS
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-1
+-0.5
+0
+0.5
+1
+Reserves/GDP_SS
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-1
+0
+1
+Interbank Loans/GDP_SS
+(pp Difference)
+-4 0 4 8 121620242832
+0
+1
+2
+3
+4
+Deposits/GDP_SS by Bank
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-5
+0
+5
+Deposits/GDP_SS by Depositor
+(pp Difference, green=HH, red=BI)
+-4 0 4 8 121620242832
+-0.4
+-0.2
+0
+0.2
+0.4
+(black line = aggregates or B1/B2 averages)
+(green line = B1 banks, red line = B2 banks)
+30
+===== PAGE 34 =====
+Figure 8: Deposit Withdrawal Shock for Different Reserves Rules
+GDP
+(% Difference)
+-4 0 4 8 121620242832
+-0.6
+-0.4
+-0.2
+0
+Consumption
+(% Difference)
+-4 0 4 8 121620242832
+-0.3
+-0.2
+-0.1
+0
+Investment
+(% Difference)
+-4 0 4 8 121620242832
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+Inflation Rate
+(pp Difference)
+-4 0 4 8 121620242832
+-0.4
+-0.3
+-0.2
+-0.1
+0
+Real Reserves Rate
+(pp Difference)
+-4 0 4 8 121620242832
+-0.4
+-0.3
+-0.2
+-0.1
+0
+Real Interbank Rate
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.5
+1
+1.5
+Interbank Rate Spread
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.5
+1
+1.5
+Effective Purchase Price
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+Wholesale Deposit Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+0
+0.5
+1
+1.5
+Wholesale Lending Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+0
+0.5
+1
+1.5
+Retail Lending Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+0
+0.5
+1
+1.5
+Loans/GDP_SS
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-1
+-0.5
+0
+0.5
+1
+Reserves/GDP_SS
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+0
+2
+4
+6
+Interbank Loans/GDP_SS
+(pp Difference)
+-4 0 4 8 121620242832
+0
+1
+2
+3
+4
+Deposits/GDP_SS by Bank
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-5
+0
+5
+Deposits/GDP_SS by Depositor
+(pp Difference, green=HH, red=BI)
+-4 0 4 8 121620242832
+0
+1
+2
+3
+4
+(black line = aggregates or B1/B2 averages)
+(green line = B1 banks, red line = B2 banks)
+(solid line: m0 “ 0, dashed/dash-dotted/dotted lines: m0 “ 10{30{50)
+31
+===== PAGE 35 =====
+In Figure 7, black lines indicate aggregate variables, including aggregates over B1 and B2
+banks, green lines indicate B1 banks, and red lines indicate B2 banks. The shock is very large,
+it amounts to a withdrawal of deposits equal to 7.5% of steady state GDP from B2 banks to B1
+banks. Ceteris paribus this exceeds the initial reserves of B2 banks, who therefore respond by
+offering much higher wholesale deposit spreads and interbank loan spreads, which both increase by
+almost 170 basis points. Wholesale deposit rates of B1 banks are almost unaffected. The result of
+higher interbank loan spreads is that B2 banks are able to refinance deposit losses of more than
+4.5% of steady state GDP in the interbank market. The remaining shortfall of 3.5% of GDP is
+reflected in roughly equal reserve losses of B2 banks and reserve gains of B1 banks.
+While the shock is purely financial, its effect on the wholesale deposit rate of B2 banks has
+large real economic effects because it increases the cost at which reserves-scarce parts of the banking
+sector can create money. For B2 banks their funding rate increase is passed through to wholesale
+and retail lending rates, so that their lending drops by more than 1% of steady state GDP. For
+households the resulting increase in spreads between borrowing costs and deposit rates (see the third
+row in the figure) and the associated increase in the effective purchase price lead to a reduction in
+retail deposit holdings, see the green line in the bottom right subplot. As a result, GDP drops by
+0.65% and inflation by 45 basis points, with the policy rate dropping to partly offset the effects of
+higher lending spreads.
+The maintained assumption in Figure 7 is that the overall level of reserves is kept constant, in
+other words that mo “ 0 and reserves do not respond to deviations of the interbank spread from
+its steady state level. Figure 8 explores alternatives whereby the central bank injects additional
+reserves when the interbank spread increases. For the most aggressive reserves rule, aggregate
+reserves increase by more than 4.5% of GDP. As a result, interbank interest rates increase by
+around half a percentage point less, and the quantity of interbank borrowing increases by around
+a percentage point of steady state GDP less. The drops in GDP and inflation are halved in size. A
+central bank policy that prevents shortages of reserves during banking sector distress can therefore
+have significant real economic benefits.
+6.2. Asymmetric Lending Boom Shocks
+As discussed above, when banks expand and contract in lockstep, the need for deposit refi-
+nancing typically does not arise, and if it does it is due to run shocks on the liability side, not
+due to excessive lending. However, these assumptions are no longer satisfied when bank lending
+does not expand in lockstep. In Figure 9, we therefore explore a scenario where reserve-scarce B2
+banks significantly increase their willingness to lend while B1 banks do not. The specific shock is
+a persistent increase in the credit supply parameter κb2.
+32
+===== PAGE 36 =====
+Figure 9: Asymmetric Lending Boom Shock
+GDP
+(% Difference)
+-4 0 4 8 121620242832
+0
+0.5
+1
+Consumption
+(% Difference)
+-4 0 4 8 121620242832
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+Investment
+(% Difference)
+-4 0 4 8 121620242832
+0
+1
+2
+3
+4
+5
+Inflation Rate
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.2
+0.4
+0.6
+Real Reserves Rate
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.2
+0.4
+0.6
+Real Interbank Rate
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.2
+0.4
+0.6
+0.8
+Interbank Rate Spread
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.1
+0.2
+0.3
+Effective Purchase Price
+(pp Difference)
+-4 0 4 8 121620242832
+-1
+-0.8
+-0.6
+-0.4
+-0.2
+0
+Wholesale Deposit Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+0
+0.1
+0.2
+0.3
+Wholesale Lending Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+0
+0.1
+0.2
+0.3
+0.4
+Retail Lending Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-0.3
+-0.2
+-0.1
+0
+Loans/GDP_SS
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-1
+0
+1
+2
+Reserves/GDP_SS
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-1
+-0.5
+0
+0.5
+1
+Interbank Loans/GDP_SS
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.2
+0.4
+0.6
+0.8
+1
+Deposits/GDP_SS by Bank
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+0
+0.5
+1
+1.5
+2
+2.5
+Deposits/GDP_SS by Depositor
+(pp Difference, green=HH, red=BI)
+-4 0 4 8 121620242832
+0
+0.5
+1
+1.5
+2
+2.5
+(black line = aggregates or B1/B2 averages)
+(green line = B1 banks, red line = B2 banks)
+33
+===== PAGE 37 =====
+Figure 10: Asymmetric Lending Boom Shock for Different Reserves Rules
+GDP
+(% Difference)
+-4 0 4 8 121620242832
+0
+0.5
+1
+Consumption
+(% Difference)
+-4 0 4 8 121620242832
+0
+0.2
+0.4
+0.6
+Investment
+(% Difference)
+-4 0 4 8 121620242832
+0
+1
+2
+3
+4
+5
+Inflation Rate
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.2
+0.4
+0.6
+Real Reserves Rate
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.2
+0.4
+0.6
+Real Interbank Rate
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.2
+0.4
+0.6
+0.8
+Interbank Rate Spread
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.1
+0.2
+0.3
+Effective Purchase Price
+(pp Difference)
+-4 0 4 8 121620242832
+-1
+-0.8
+-0.6
+-0.4
+-0.2
+0
+Wholesale Deposit Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+0
+0.1
+0.2
+0.3
+Wholesale Lending Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-0.1
+0
+0.1
+0.2
+0.3
+0.4
+Retail Lending Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-0.3
+-0.2
+-0.1
+0
+Loans/GDP_SS
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-1
+0
+1
+2
+3
+Reserves/GDP_SS
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-1
+0
+1
+2
+Interbank Loans/GDP_SS
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.2
+0.4
+0.6
+0.8
+1
+Deposits/GDP_SS by Bank
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+0
+1
+2
+3
+Deposits/GDP_SS by Depositor
+(pp Difference, green=HH, red=BI)
+-4 0 4 8 121620242832
+0
+1
+2
+3
+(black line = aggregates or B1/B2 averages)
+(green line = B1 banks, red line = B2 banks)
+(solid line: m0 “ 0, dashed/dash-dotted/dotted lines: m0 “ 10{30{50)
+34
+===== PAGE 38 =====
+As a result of the shock, B2 banks increase their loans by around 2.7% of steady state GDP.
+However, their ability to retain deposits remains unchanged, so that their deposits only increase
+by around 0.4% of steady state GDP over the first year (and just over 1% of steady state GDP at
+the maximum after two to three years). The difference of around 2.3% of GDP on impact is partly
+made up by borrowing of around 1.1% of steady state GDP in the interbank market, at a spread
+that increases by 30 basis points. The remainder, at 1.2% of steady state GDP, represents a loss
+of reserves to B1 banks. The increase in their funding costs in the interbank and wholesale deposit
+markets partly offsets their greater willingness to lend, with their retail lending rates dropping
+by less than those of their competitors, B1 banks. Overall this shock is expansionary because it
+increases credit and money creation by the banking system, with GDP increasing by 1.25% and
+inflation by 70 basis points.
+Figure 10 once more studies the role of countercyclical reserves rules. The effects are qualita-
+tively similar to, but quantitatively smaller than, Figure 8. The reason is that the increase in the
+interbank rate spread is much smaller, and therefore triggers a more modest reserve injection.
+6.3. Reserves Shocks
+Figure 11 studies the effects of a large, temporary and persistent reduction in the quantity of
+reserves, or QT, from 11.5% of GDP in steady state to around 5.5%. Because of the asymmetric
+deposit and reserve positions of the two banking groups, most of the reserve loss is absorbed by B1
+banks. But despite this it is B2 banks that experience the strongest effects, with their wholesale
+deposit spread increasing by 40 basis points, compared to 5 basis points for B1 banks. This is
+passed on to loan pricing, with the result that B2 loans decrease, B1 loans increase, and overall
+loans decrease. The overall effect of the increase in funding costs is a decrease in GDP of almost
+0.3% and a decrease in inflation by around 20 basis points. In other words, as we have already
+seen in Figures 3, 4 and 5 for permanent QT, QT affects real economic activity through the cost
+of credit and money creation, and affects banks that have weak deposit bases disproportionately.
+6.4. Monetary Policy Shocks
+Figure 12 studies the effects of a 100 basis points shock to the interest rate reaction function.
+Because interest rate smoothing is modest at ii “ 0.5, the effects of this shock are highly temporary.
+The main observation is that there are almost no significant effects through the interbank market,
+while the effects on inflation and real variables are standard. This result carries over to all other
+real business cycle and aggregate financial sector shocks. The main shocks for which the interbank
+market plays an important role are therefore shocks to the quantity of reserves and shocks to the
+relative quantities of deposits and/or loans between different parts of the banking system.
+35
+===== PAGE 39 =====
+Figure 11: Reserves Shock
+GDP
+(% Difference)
+-4 0 4 8 121620242832
+-0.25
+-0.2
+-0.15
+-0.1
+-0.05
+0
+Consumption
+(% Difference)
+-4 0 4 8 121620242832
+-0.1
+-0.05
+0
+Investment
+(% Difference)
+-4 0 4 8 121620242832
+-1
+-0.8
+-0.6
+-0.4
+-0.2
+0
+Inflation Rate
+(pp Difference)
+-4 0 4 8 121620242832
+-0.15
+-0.1
+-0.05
+0
+Real Reserves Rate
+(pp Difference)
+-4 0 4 8 121620242832
+-0.2
+-0.15
+-0.1
+-0.05
+0
+Real Interbank Rate
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.05
+0.1
+0.15
+0.2
+Interbank Rate Spread
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.1
+0.2
+0.3
+0.4
+Effective Purchase Price
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.02
+0.04
+0.06
+0.08
+0.1
+Wholesale Deposit Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+0
+0.1
+0.2
+0.3
+0.4
+Wholesale Lending Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+0
+0.1
+0.2
+0.3
+0.4
+Retail Lending Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+0
+0.1
+0.2
+0.3
+Loans/GDP_SS
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-0.3
+-0.2
+-0.1
+0
+0.1
+0.2
+Reserves/GDP_SS
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-6
+-4
+-2
+0
+Interbank Loans/GDP_SS
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.2
+0.4
+0.6
+0.8
+1
+Deposits/GDP_SS by Bank
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-6
+-4
+-2
+0
+Deposits/GDP_SS by Depositor
+(pp Difference, green=HH, red=BI)
+-4 0 4 8 121620242832
+-6
+-4
+-2
+0
+(black line = aggregates or B1/B2 averages)
+(green line = B1 banks, red line = B2 banks)
+36
+===== PAGE 40 =====
+Figure 12: Monetary Policy Shock
+GDP
+(% Difference)
+-4 0 4 8 121620242832
+-0.25
+-0.2
+-0.15
+-0.1
+-0.05
+0
+Consumption
+(% Difference)
+-4 0 4 8 121620242832
+-0.2
+-0.15
+-0.1
+-0.05
+0
+Investment
+(% Difference)
+-4 0 4 8 121620242832
+-0.8
+-0.6
+-0.4
+-0.2
+0
+Inflation Rate
+(pp Difference)
+-4 0 4 8 121620242832
+-0.15
+-0.1
+-0.05
+0
+Real Reserves Rate
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.2
+0.4
+0.6
+0.8
+Real Interbank Rate
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.2
+0.4
+0.6
+0.8
+Interbank Rate Spread
+(pp Difference)
+-4 0 4 8 121620242832
+-1
+-0.5
+0
+0.5
+1
+1.5
+10-3
+Effective Purchase Price
+(pp Difference)
+-4 0 4 8 121620242832
+0
+0.05
+0.1
+Wholesale Deposit Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-1
+-0.5
+0
+0.5
+1
+1.5
+10-3
+Wholesale Lending Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-2
+0
+2
+4
+10-3
+Retail Lending Rate Spread
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+0
+0.01
+0.02
+0.03
+Loans/GDP_SS
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-0.1
+0
+0.1
+0.2
+0.3
+0.4
+Reserves/GDP_SS
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-0.01
+-0.005
+0
+0.005
+0.01
+Interbank Loans/GDP_SS
+(pp Difference)
+-4 0 4 8 121620242832
+0
+5
+10
+10-3
+Deposits/GDP_SS by Bank
+(pp Difference, green=B1, red=B2)
+-4 0 4 8 121620242832
+-0.1
+0
+0.1
+0.2
+0.3
+0.4
+Deposits/GDP_SS by Depositor
+(pp Difference, green=HH, red=BI)
+-4 0 4 8 121620242832
+-0.2
+0
+0.2
+0.4
+(black line = aggregates or B1/B2 averages)
+(green line = B1 banks, red line = B2 banks)
+37
+===== PAGE 41 =====
+7. Welfare
+We have seen that a policy of injecting additional central bank reserves during periods of
+stress in interbank markets is beneficial in that it helps to smooth wholesale deposit rates, and
+thereby lending rates, credit creation, and money creation. The effects on real activity can be
+substantial. Figure 13 attempts to quantify this by performing welfare evaluations of both policy
+rules, the Taylor for the ONRRP rate and the reserves rule for the quantity of reserves. We perform
+a second-order approximation of both the welfare criterion and the equilibrium equations of the
+model over a grid of policy rule parameterizations. The zero-welfare baseline for the grid sets
+iπ “ 1.5 and mo “ 0. The upper limits of our search are iπ “ 3.00 (as in Schmitt-Grohe and Uribe
+(2004)) and mo “ 100. Of course the results in Figure 13 depend on the calibrated standard errors
+of the model’s shocks, including reserves shocks and net deposit withdrawal shocks.
+Under our baseline calibration, we find that around our highest welfare point welfare is nearly
+flat in the two smoothing coefficients, except at very high interest rate smoothing where welfare
+is decreasing. The highest welfare is achieved when both smoothing coefficients are at zero and
+both feedback coefficients are at their upper limits, where welfare is very flat in iπ but less flat in
+mo. The overall welfare gain, relative to the baseline, equals a 0.16% compensating consumption
+variation, roughly equally shared between the Taylor rule and the reserves rule. An active reserves
+policy can therefore make a substantial contribution to smoothing the business cycle and thereby
+improving welfare. This result is dependent on a significant role for reserves shocks and deposit
+withdrawal shocks in our calibration.
+8. Conclusion
+This paper aims to shed light on the macroeconomic and financial stability implications of
+central bank balance sheet policies. Much of the early theoretical literature on QE focused on
+the asset side of central bank balance sheets, most importantly on the effect of asset purchases on
+interest rates and term premia of different assets, while treating the liability side as simply a short-
+term asset held by households or investors. By contrast, our focus is on the liability side of central
+bank balance sheets, and the fact that the principal central bank liability is reserves, which have a
+very specific function in the financial system and thereby the economy. Most importantly, we focus
+on the effects of reserve creation (QE) or destruction (QT) on interbank rates and ultimately bank
+lending rates, and through these on credit creation, money creation, and economic activity.
+The framework that we have developed has two other important advantages. First, it takes
+account of the fact that banks never face financing risks when making loans, they only face refinanc-
+ing risks when losing deposits after netting, where on average such post-netting deposit losses will
+equal zero over the cycle. Second, the framework lends itself to ready incorporation into standard
+38
+===== PAGE 42 =====
+New Keynesian DSGE frameworks, with a fully developed real as well as financial sector, as all
+financial-to-real linkages are explicitly modeled without reliance on reduced-form model elements.
+Figure 13: Policy Rules and Welfare
+Smoothing Parameters
+Feedback Parameters
+Our results show that the effects of central bank balance sheet operations through the reserves
+market can be sizeable. Intuitively, a larger central bank balance sheet reduces interbank frictions,
+and this reduces the opportunity cost of credit and money for households and firms. This in turn
+boosts economic activity. Also, the incremental effects of injecting reserves are much larger at lower
+reserve levels. Both of these statements are supported by the data – see Figure 2.
+39
+===== PAGE 43 =====
+At low reserve levels the equilibrium real interest rate (r-star) is significantly (in our example
+by up to around 20 basis points) reduced by a liquidity discount due to a scarcity premium for
+reserves, while the output effects of increasing reserve levels are very sizeable. Given these beneficial
+(albeit at a decreasing rate) effects of higher reserve levels, it is not surprising that a policy rule of
+actively injecting additional reserves into the interbank market in response to financial disturbances
+can make a sizeable contribution to financial and real stability. One such financial disturbance that
+we have identified is a shock whereby deposits are withdrawn from one part of the financial system
+and deposited in another part. This can lead to highly asymmetric effects on the two parts of the
+banking system, with the part experiencing withdrawals experiencing large increases in funding
+costs while the other part sees almost no change. This asymmetry can imply large effects on the
+real economy. Another financial disturbance is an asymmetric lending boom, whereby one part of
+the financial sector expands lending by far more than the other, and as a result will tend to lose
+some deposits and therefore reserves even after netting.
+For most real business cycle and aggregate financial shocks, the reserves and interbank mar-
+kets and thus the liability sides of central banks’ balance sheets play only a negligible role, so that
+the conclusions and policy recommendations of existing models remain nearly unchanged. These
+markets do matter when shocks are to the quantity of reserves themselves, or when shocks are asym-
+metric across different parts of the financial system. Because such asymmetric shocks are clearly
+now a concern of policymakers, and because our model can represent them in a very parsimonious
+way, this should make this framework interesting for policymakers.
+Bayesian estimation of this model is part of our future research agenda. But there is one other
+important topic for future research. In our model, a QT operation takes the form of the central bank
+buying government bonds from bond investors and getting paid in wholesale deposits, which are
+then settled by banks in the form of reserves. The central bank never becomes a lender to the real
+economy. This reserves-against-government-bonds modus operandi of QT (and QE) corresponds
+closely to the institutional reality in the US and the UK. 12 However, in some jurisdictions such
+as the eurozone the central bank follows a reserves-against-private-securities model. This would
+require modifications to our model.
+12In the UK there are also some purchases and sales of high-quality corporate securities, but their size is very small
+compared to purchases and sales of government securities.
+40
+===== PAGE 44 =====
+References
+Allen, F., Covi, G., Gu, X., Kowalewski, O. and Montagna, M. (2020), “The Interbank Market
+Puzzle”, Bank of England Staff Working Papers, No. 862.
+Anderson, G. and Cesa-Bianchi, A. (2020), “Crossing the Credit Channel: Credit Spreads and
+Firm Heterogeneity”, Bank of England Staff Working Papers, No. 854.
+Andr´ es, J., Lopez-Salido, D., and Nelson, E., (2004), “Tobin’s imperfect asset substitution in
+optimizing general equilibrium”, Journal of Money, Credit, and Banking, 36(4), pp. 665-90
+Arce, ´O., Nu˜ no, G., Thaler, D. and Thomas, C. (2020), “A Large Central Bank Balance Sheet?
+Floor vs Corridor Systems in a New Keynesian Environment”, Journal of Monetary Economics ,
+114(C), 350-367.
+Ashcraft, A. and Steindel, C. (2008), “Measuring the Impact of Securitization on Imputed Bank
+Output”, Federal Reserve Bank of New York.
+Bailey, A. (2024), “The importance of central bank reserves”, Lecture in honour of Charles Good-
+hart, London School of Economics, https://www.bankofengland.co.uk/speech/2024/may/andrew-
+bailey-lecture-london-school-of-economics-charles-goodhart.
+Basel Committee on Banking Supervision (2017), “Basel III: Finalizing Postcrisis Reforms”, Tech-
+nical Report, Bank for International Settlements.
+Benes, J. and Kumhof, M. (2012), “The Chicago Plan Revisited”, IMF Working Papers,
+WP/12/202.
+Benigno, G. and Benigno, P. (2022), “Managing Monetary Policy Nor-
+malization”, Federal Reserve Bank of New York Staff Report, No. 1015,
+https://www.newyorkfed.org/research/staff
+reports/sr1015.html.
+Bernanke, B., Gertler, M. and Gilchrist, S. (1999), “The Financial Accelerator in a Quantitative
+Business Cycle Framework”, Handbook of Macroeconomics, Volume 1C, 1341—1393.
+Bianchi, J. and Bigio, S. (2022), “Banks, Liquidity Management, and Monetary Policy”, Econo-
+metrica, 90(1), 391-454.
+Borio, C. (2023), “Getting up from the Floor”, BIS Working Papers, No 1100,
+https://www.bis.org/publ/work1100.htm.
+Busetto, F., Chavaz, M., Froemel, M., Joyce, M., Kaminska, I. and Worlidge, J. (2022), “QE at
+the Bank of England: a perspective on its functioning and effectiveness”, Bank of England Quar-
+terly Bulletin 2022 Q1, https://www.bankofengland.co.uk/quarterly-bulletin/2022/2022-q1/qe-at-
+the-bank-of-england-a-perspective-on-its-functioning-and-effectiveness.
+Canzoneri, M., Cumby, R. and Diba, B. (2017), “Should the Federal Reserve Pay Competitive
+Interest on Reserves?”, Journal of Money, Credit and Banking , 49(4), 663-693.
+Carpenter, S., Demiralp, S., Ihrig, J. and Klee, E. (2015), “Analyzing Federal Reserve Asset Pur-
+chases: From Whom Does the Fed Buy?”, Journal of Banking & Finance, 52(C), 230-244.
+Cesa-Bianchi, A., Kumhof, M., Sokol, A. and Thwaites, G. (2024), “Towards a New Monetary The-
+ory of Exchange Rate Determination”, Bank of England Staff Working Papers, No. 817 (updated,
+forthcoming).
+Chen, H., C´ urdia, V. and Ferrero, A. (2012), “The Macroeconomic Effects of Large-scale Asset
+Purchase Programmes”, Economic Journal, 122(564), 289-315.
+41
+===== PAGE 45 =====
+Christensen, J.H.E. and Krogstrup, S., 2019. “Transmission of Quantitative Easing: The Role
+of Central Bank Reserves,”The Economic Journal, Royal Economic Society, vol. 129(617), pages
+249-272.
+Christensen, J.H.E. and Krogstrup, S., 2022. “A Portfolio Model of Quantitative Easing,”Quarterly
+Journal of Finance (QJF), World Scientific Publishing Co. Pte. Ltd., vol. 12(04), pages 1-39.
+Christiano, L., Motto, R. and Rostagno, M. (2014), “Risk Shocks”, American Economic Review,
+104 (1) , 27—65.
+Cipriani, M., Eisenbach, T.M. and Kovner, A. (2024), “Tracing Bank Runs in Real Time”, Federal
+Reserve Bank of New York Staff Reports, no. 1104, https://doi.org/10.59576/sr.1104.
+Cui, W. and Sterk, V. (2021), “Quantitative Easing with Heterogeneous Agents”, Journal of Mon-
+etary Economics, 123(C), 68-90.
+Del Negro, M., Eggertsson, G., Ferrero, A. and Kiyotaki, N. (2017), “The Great Escape? A
+Quantitative Evaluation of the Fed’s Liquidity Facilities”, American Economic Review , 107(3),
+824-857.
+Diamond, D. and Dybvig, P. (1983), “Bank Runs, Deposit Insurance, and Liquidity”, Journal of
+Political Economy, 91 (3) , 401—419.
+Diba, B. and Loisel, O. (2020), “A Model of Post-2008 Monetary Policy”, unpublished manuscript,
+Georgetown University, http://olivierloisel.com/research/MOD
+paper.pdf.
+Diba, B. and Loisel, O. (2021), “Pegging the Interest Rate on Bank Reserves: A Resolution of New
+Keynesian Puzzles and Paradoxes”, Journal of Monetary Economics, 118(C), 230-244.
+Du, W., Forbes, K. and Luzzetti, M. (2024), “Quantitative Tightening Around the Globe: What
+Have We Learned?”, Report for the Kent A. Clark Center for Global Markets at the Univer-
+sity of Chicago Booth School of Business. https://www.chicagobooth.edu/research/igm/events-
+forums/2024-usmpf-conference.
+Engen, E. and Hubbard, G. (2004), “Federal Government Debt and Interest Rates”,NBER Macroe-
+conomics Annual, 19, 83-160.
+Federal Reserve Bank of New York (2018), “Quarterly Trends for Consolidated US Banking Orga-
+nizations”, First Quarter 2018.
+Gale, W. and Orszag, P. (2004), “Budget Deficits, National Saving, and Interest Rates”, Brookings
+Papers on Economic Activity, 35(2), 101-210.
+Gertler, M. and Karadi, P. (2011), “A Model of Unconventional Monetary Policy”, Journal of
+Monetary Economics, 58 (1) , 17-34.
+Gertler, M. and Karadi, P. (2012), “QE 1 vs. 2 vs. 3... a Framework for Analyzing Large Scale Asset
+Purchases as a Monetary Policy Tool”, International Journal of Central Banking , 9(S1), 5–53.
+Harrison, R. (2017), “Optimal Quantitative Easing”, Bank of England Staff Working Papers, No.
+678.
+International Monetary Fund (2021), “Review of Debt Sustainability Framework for Market Access
+Countries”, IMF Policy Paper, January.
+International Monetary Fund (2022), “Staff Guidance Note on the Sovereign Risk and Debt Sus-
+tainability Framework for Market Access Countries”, August.
+Jakab, Z. and Kumhof, M. (2015), “Banks Are not Intermediaries of Loanable Funds - and why
+This Matters”, IMF Working Papers, WP/15/529.
+42
+===== PAGE 46 =====
+Jakab, Z. and Kumhof, M. (2019), “Banks Are not Intermediaries of Loanable Funds - Facts,
+Theory and Evidence”, Bank of England Staff Working Papers, No. 761 (updated).
+Jorda, O., Schularick, M. and Taylor, A. (2011), “Financial Crises, Credit Booms, and External
+Imbalances: 140 Years of Lessons”, IMF Economic Review, 59(2), 340-378.
+Kiyotaki, N. and Moore, J. (2012), “Liquidity, Business Cycles, and Monetary Policy”, NBER
+Working Papers, No. 17934.
+Kumhof, M., Pinchetti, M., Rungcharoenkitkul, P. and Sokol, A. (2023), “CBDC Policies in Open
+Economies”, CEPR Discussion Papers, No. 17982.
+Kumhof, M. and Wang, X. (2021), “Banks, Money, and the Zero Lower Bound on Deposit Rates”,
+Journal of Economic Dynamics and Control , 132(C).
+Laubach, T. (2009), “New Evidence on the Interest Rate Effects of Budget Deficits and Debt”,
+Journal of the European Economic Association , 7(4), 858-885.
+Logan, L. (2023), “Ample Rand the Friedman Rule”, speech given in Frank-
+furt on November 10 at the ECB Conference on Money Markets 2023,
+https://www.dallasfed.org/news/speeches/logan/2023/lkl231110.
+Piazzesi, M., Rogers, C. and Schneider, M. (2021), “Money and Bank-
+ing in a New Keynesian Model”, unpublished manuscript, Stanford University,
+https://web.stanford.edu/˜piazzesi/MBinNK.pdf.
+Salgado-Moreno, M. (2021), “Monetary Policy, Excess Reserves and Credit Supply: Old-
+Style vs. New-Style Central Banking”, Working Paper, https://sites.google.com/view/mauricio-
+salgadomoreno/.
+Schmitt-Groh´ e, S. and Uribe, M. (2004), “Optimal Fiscal and Monetary Policy under Sticky Prices,
+Journal of Economic Theory, 114, 198-230.
+Schnabel, I. (2023), “Back to Normal? Balance Sheet Size and Interest Rate Control”, speech given
+in New York on March 27 at an event organized by Columbia University and SGH Macro Advisors,
+https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230327
+1˜fe4adb3e9b.en.html.
+Sims, E. and Wu, C. (2021), “Evaluating Central Banks’ Tool Kit: Past, Present, and Future”,
+Journal of Monetary Economics, 118(C), 135-160.
+Smith, A. and Valcarcel, V. (2023), “The Financial Market Effects of Unwinding the Federal
+Reserve’s Balance Sheet”, Journal of Economic Dynamics and Control , 146(C).
+Vissing-Jorgensen, A. (2023) “Balance Sheet Policy Above the Effective Lower Bound”,
+Working Paper for the ECB’s Sintra conference, https://sites.google.com/view/annette-vissing-
+jorgensen/working-papers.
+Waller, C. (2024), “Thoughts on Quantitative Tightening, Including Remarks on the Pa-
+per ‘Quantitative Tightening around the Globe: What Have We Learned?’”, speech,
+https://www.federalreserve.gov/newsevents/speech/waller20240301a.htm.
+43

@@ -1,0 +1,2354 @@
+
+===== PAGE 1 =====
+0 
+ 
+  
+Liquidity Dependence and the Waxing and Waning of Central Bank 
+Balance Sheets1 
+ 
+First Draft: August 2022 
+ 
+This Draft: December 2024 
+ 
+ 
+ 
+Viral V Acharya 
+(NYU Stern School of Business, CEPR, 
+ECGI & NBER) 
+ 
+Rahul S Chauhan 
+(University of Chicago Booth School of 
+Business) 
+ 
+Raghuram Rajan 
+(University of Chicago Booth School of 
+Business and NBER) 
+Sascha Steffen 
+(Frankfurt School of Finance & 
+Management) 
+ 
+ 
+Abstract 
+ 
+When the Federal Reserve (Fed) expanded its balance sheet via quantitative easing  (QE), 
+commercial bank s typically financed reserve holdings with uninsured demandable deposits . 
+They also issued credit lines to corporations. In the aggregate, these bank- issued claims on 
+liquidity did not shrink commensurately when the Fed halted QE and turned to quantitative 
+tightening (QT). Consequently, banks that increased liquidity risk exposure – especially small 
+and regional banks – became vulnerable to liquidity shocks , necessitating further liquidity 
+provision by the Fed. The evidence suggests that the expansion and shrinkage of central bank 
+balance sheets has led to liquidity dependence of banks on central banks.   
+ 
+ 
+JEL: G01, G2, E5 
+ 
+Keywords: Federal Reserve, quantitative easing, large-scale asset purchases, quantitative 
+tightening, Fed normalization, demandable deposits, uninsured deposits, lines of credit, 
+financial stability, monetary policy.  
+                                                 
+1 Rajan thanks the Fama-Miller Center at the Booth School and the Hoover Institution for research support. Steffen 
+is grateful for financial support from the BMWi and DLR. We are grateful to Gara Afonso, Ryan Banerjee, Richard 
+Berner, Wenxin Du, Michael Fleming, Charles Goodhart, Sam Hanson, Florian Heider, Martin Hiti, Raj Iyer, Anil 
+Kashyap, Gabriele La Spada, Lorie Logan, Stephan Luck, Thorsten Martin, Thomas Mertens, Emanuel Moench, 
+Laura Nicolae, Bill Nelson, Jose-Luis Peydro, Charlie Plosser, Jon Pogach, Rodney Ramacharan, Ricardo Reis, 
+Asani Sarkar, Andrei Shleifer, Jeremy Stein, Paul Tucker, Bruce Tuckman, Quentin Vandeweyer, attendees at the 
+Federal Reserve Bank of Kansas Jackson Hole Economic Symposium in August 2022 on “Reassessing Constraints 
+on the Economy and Policy”, and seminar participants at various central banks, conferences, policy think- tanks 
+and universities, for helpful comments. An early draft of this paper was named “Liquidity Dependence: Why 
+Shrinking Central Bank Balance Sheets is an Uphill Task”.   
+===== PAGE 2 =====
+1 
+ 
+Should the reduction of the size of a central bank’s balance sheet be an entirely benign process 
+“like watching paint dry”, as senior Federal Reserve (Fed) officials put it?2 The central bank will 
+either let bonds held as assets on its balance sheet mature or sell them, thus extinguishing reserves, 
+its liabilities. While bond prices may have to adjust to draw in sufficient private replacement 
+demand, and the swap of bonds for reserves with the private sector may enhance the term premium, 
+these possible price adjustments seem natural consequences to the rebalancing of portfolios, 
+reversing in part the price effects at the time of expansion of central bank balance sheets.  
+Yet, after the Fed embarked on quantitative tightening (QT) in 2017, that is, a shrinkage of 
+reserves, financial markets in the United States experienced two episodes of significant liquidity 
+stress: in September 2019 and again in March 2020 (by when the Fed had already restarted 
+injecting reserves). The former episode – which led to a n intra-day spike in repo market rates – 
+was attributed, in part, to significant reserve flows into the Treasury’s Fed account leaving the 
+private sector short and, in part, to the uneven distribution of reserves across banks (see Copeland, 
+Duffie and Yang (2021) or D’Avernas and Vandeweyer (2021), for instance). Copeland, Duffie 
+and Yang (2021) show that reserves hoarding by banks, suggesting an anti cipated shortage of 
+reserves manifested in delayed intraday interbank payments, was evident in data at least two weeks 
+prior to the eventual repo rate spike. The March 2020 episode, which also spread across days,  is 
+attributed to the panic surrounding the COVID -19 outbreak that led to a “dash for cash”, starting 
+with corporations – both non-financial and financial – that drew heavily on lines of credit provided 
+by commercial banks (Kashyap (2020), Acharya, Engle, Jager  and Steffen (2023), and Acharya, 
+Gopal, Jager and Steffen (2024)).  
+Once again, in March 2023, after a massive expansion of the Fed’s balance sheet during 
+the pandemic and a subsequent modest balance -sheet shrinkage (though accompanied by large 
+interest-rate hikes), mid -size and regional US banks  suffered runs or significant outflows of 
+uninsured deposits, especially of corporate transaction deposits. Those that failed included Silicon 
+Valley Bank [SVB]), Signature Bank and First Republic Bank, but at least 22 banks had runs (see 
+Cipriani, Eisenbach, and Kovner (2024)). This episode, which lasted for several weeks,  has been 
+largely attributed to inadequate bank risk management and supervis ory laxity (see Barr (2023)) . 
+Notwithstanding proximate causes for financial fragility, we ask whether the prior expansion and 
+                                                 
+2 Former Federal Reserve Chair Janet Yellen citing Fed President Pat Harker, 
+https://www.federalreserve.gov/mediacenter/files/fomcpresconf20170614.pdf 
+===== PAGE 3 =====
+2 
+ 
+then shrinkage of the Fed’s balance sheet left the private financial sector more vulnerable to such 
+liquidity disruptions.  
+When the central bank expands its balance sheet during quantitative easing (QE) by buying 
+securities, it can either buy them from commercial banks or the “public” such as non-bank financial 
+institutions, family offices, and high net-worth individuals. Figure 1 (from Leonard, Martin and 
+Potter (2017)) is illustrative. In Panel A, the central bank buys securities from banks. In this case, 
+there is no expansion of the commercial bank balance sheet, as the central bank simply swaps 
+reserves for securities with the banks.   
+In Panel B, the “public”, which typically cannot hold reserves directly, deposit s the 
+payment in the commercial bank. Banks now hold reserves and (typically) owe wholesale 
+demandable bank deposits to the public.  In this case, bank balance sheets expand one for one with 
+the expansion of the central bank balance sheet. The public may spend their deposits on corporate 
+issuances, and corporations may in turn save the proceeds in transaction deposit accounts at banks, 
+without altering the basic picture. Furthermore, individual banks can subsequently alter their 
+capital structure, moving away from wholesale deposits towards other liabilities.  
+Similarly, when the central bank shrinks its balance sheet through QT, it could sell 
+securities to banks (no change in bank balance sheet size) or to non-banks (leading to a shrinkage 
+in bank balance sheets). Given these different mechanisms via which QE and QT can operate, we 
+ask what happens to commercial bank balance sheets when the central bank balance sheet first  
+waxes then wanes, and whether this could be a source of liquidity stress. We focus on the waxing 
+and waning of the Fed balance sheet during the 2008Q4 to 2021Q4 period, but extend the 
+descriptive analysis to 2023Q1, and also study the events of March 2023.  
+We find that during the QE episodes , commercial banks expand their balance sheets, 
+issuing demand deposits, especially uninsured ones which are prone to runs. They also reduce their 
+time deposits , and write more corporate credit lines , which are typically drawn down under 
+aggregate corporate stress. Thus overall claims on bank liquidity increase. I mportantly, they do 
+not fall significantly when QE ended in October 2014 or when the Fed started QT starts in October 
+2017.  Instead, Claims t o Potential Liquidity, measured as the ratio of demandable claims 
+(uninsured demandable deposits and outstanding credit lines) to liquidity (reserves plus holdings 
+of assets eligible for repo transactions at the Fed), increased steeply over these periods. In sum, at 
+===== PAGE 4 =====
+3 
+ 
+the aggregate level over these episodes, we find commercial bank balance sheets wax but do not 
+wane with the waxing and waning of the central bank’s balance sheet. 
+To establish more firmly that commercial banks drive this process, we turn to the  cross-
+section of banks to ascertain the causal impact of reserves on each bank’s demandable claims. To 
+identify plausibly exogenous changes in a given bank’s reserves, we instrument the bank’s reserves 
+with the change in aggregate bank reserves multiplied by the bank’s historical reserves “beta” on 
+aggregate bank reserves (where a bank’s beta is simply the past four-quarter average of its share 
+of aggregate bank reserves).  We find that during the periods of QE, banks that exogenously obtain 
+more reserves tend to increase both uninsured demand deposits and issue  credit lines, while 
+simultaneously shrinking time deposits. Importantly, banks  do not  reliably shrink uninsured 
+demand deposits or credit lines when they lose reserves as  QE ends and QT begins . The panel 
+analysis also helps rule out (via time fixed -effects) confounding factors such as GDP growth and 
+the level of interest rates which can affect deposit growth, as well as helps control for time-varying 
+bank-level characteristics. 
+ We then explore bank-level pricing of liquidity. Banks that have a g reater concern about 
+liquidity risk should nudge term deposit rate spreads higher so that they can reduce their 
+dependence on demand deposits. Therefore, a proxy for the price of liquidity at the bank level is 
+the spread between term deposit interest rates and savings deposit interest rates.  We find that 
+during periods of QE, banks with greater  (instrumented) reserves tend to reduce the term spread. 
+Interestingly again, we find that these behaviors do not reliably reverse in the period between when 
+the first sequence of QE ends in October 2014 and when the central bank resumes expanding its 
+balance sheet again in September 2019. Put differently, banks that lose reserves post QE and during 
+QT do not raise term spreads to raise the maturity of their deposits.  
+In other words, when the central bank expands its balance sheet during QE, commercial 
+banks also alter their commitments, a simple but important fact that has not been fully appreciated. 
+Reserve-rich commercial banks seem to engage in a search for yield both through their liabilities 
+(issuing more money- like liabilities  and reducing term liabilities ) and their off -balance sheet 
+commitments (issuing more lines of credit)  that are not simpl y reversed or do not shrink fast 
+enough in QT relative to the loss of reserves.  
+One possibility that might account for the asymmetric bank behavior between QE and QT 
+is that banks feel confident they will retain  their access to liquidity during QT if they  substitute 
+===== PAGE 5 =====
+4 
+ 
+lost reserves with bonds that are eligible collateral for repo transactions. Of course, to the extent 
+that repos must be conducted with other banks, banks will all be reliant on a diminishing pool of 
+ultimate liquidity, that is, reserves. So, in a situation where every bank wants to transform repo-
+eligible financial securities into reserves (a “dash for cash”), there will be too little to satisfy all  
+and banks with more demandable claims will experience financial fragility, effectively resulting 
+in an aggregate bank run. If inter -bank markets cease working due to hoarding by well -managed 
+surplus banks (see Acharya and Rajan (2024), Copeland, Duffie, and Yang (2024)), while the fear 
+of stigma prevents banks from accessing reserves from Fed windows, then the dash for cash could 
+lead to spikes in collateralized borrowing rates in the repo markets, and if unaddressed by Fed 
+intervention, fire sales and distress.
+3   
+Indeed, it turns out that  there is considerable cross- sectional dispersion in  liquidity risk 
+exposure – as proxied for by the ratio of uninsured demand deposits and undrawn lines of credit 
+to reserves and repo -eligible securities – across banks . Specifically, we  document that the 
+ratcheting-up of liquidity risk exposure between 2010 and 2021 is driven especially by small banks 
+not subject to liquidity coverage ratio (LCR) requirement. In contrast, the largest banks, subject to 
+the most stringent LCR requirement, show a significant decline in exposure since 20 12.  
+Furthermore, we find that the distribution of this ratio across banks (largely driven by small banks) 
+steadily shifts to the right, i.e., the ratio moves to higher levels, through the different episodes of 
+QE, continuing its momentum post  QE and during pre -pandemic QT, and ends up with a 
+significantly fatter right tail of banks  by the time of COVID -19’s onset. Liquidity exposure  
+becomes concentrated. 
+Finally, we study two episodes of financial fragility, the first around the  COVID-19 
+outbreak in March 2020 and the  second around the bank runs and uninsured deposit outflows in 
+March 2023. Both followed episodes of QT, with the second also preceded by rate hikes.4 In both 
+                                                 
+3 Note that there is often, at least in early stages of financial stress, stigma associated with borrowing from the Fed at 
+the discount window. The Standing Repo Facility (SRF), allowing financial institutions to borrow additional 
+reserves from the Fed, was not operational before 2021, and the fact that the Fed had to create a new lending facility 
+in 2023 suggests the SRF was not fully effective. 
+4 We do not empirically analyze the repo rate spike of September 2019 given its short-lived nature and lack of 
+publicly available data at daily frequency. While the accumulation of reserves in the Treasury account and the 
+uneven distribution of remaining reserves across banks were possibly the proximate causes of the Treasury repo rate 
+spike in September 2019, Fed studies earlier in that year suggested the banking system had ample reserves (see 
+Logan (2019)). Our evidence suggests that the shrinkage of aggregate reserves without a commensurate decline in 
+aggregate claims to liquidity was a deeper catalyst. At a minimum, by leaving the system vulnerable, it likely 
+amplified other channels (also see Copeland et al. (2024)). 
+===== PAGE 6 =====
+5 
+ 
+cases, smaller banks with more liquidity exposure became more dependent on emergency liquidity 
+assistance from the Fed or Federal Home Loan Banks (FHLBs).  
+In sum, we have three key findings. QE leads to more uninsured demandable deposits , 
+undrawn lines of credit, and fewer time deposits  in the banks that accrue reserves. Second, in the 
+time-series, as QE stops and QT gets under way, these uninsured demand deposits and credit lines 
+do not necessarily shrink with reserves in a commensurate manner. In the cross-section of banks, 
+claims on reserves do not remain where the reserves ar e, which can exacerbate liquidity stress if 
+shocks materialize and surplus banks are unwilling to lend reserves , creating ex -post liquidity 
+dependence of illiquid banks on the central bank. Indeed, and third, we find evidence of such 
+dependence for liquidity-stretched smaller banks in two episodes of financial fragility. 
+The shortage of reserves relative to claims can never cause a liquidity problem if the Fed 
+will always lend reserves at short notice to any degree desired – that is, it operates an infinitely 
+elastic balance sheet  – and banks have no qualms borrowing. If interbank markets for reserves 
+have ceased operating, an additional requirement is that the Fed should lend to specific liquidity-
+stressed entities, though unintended gaps or accidents could emerge. Furthermore, if the system is 
+short i n aggregate, the Fed may have to supply reserves on a more permanent basis to avoid 
+frequent illiquidity episodes. One cost of such intervention is that the commercial banking system 
+might issue yet more claims, and the central bank finds may find it hard to wean the system ’s 
+dependence even if the economy’s macro-economic priorities would require a different path.  
+ The rest of the paper is as follows. Section 2 introduces the data we use.  Section 3 presents 
+aggregate time-series analysis linking quantities of reserves, deposits (and their various types) and 
+credit lines. Section 4 then further analyzes these patterns using bank-level panel data to establish 
+a plausibly causal effect of QE on these commercial banking quantities . Section 5 documents the 
+ratcheting-up of bank-specific liquidity risk, its drivers, and ensuing financial fragility. Section 6 
+discusses implications for policy. Section 7 concludes with some directions for future research. 
+2. Data 
+We now describe the data sets we employ for our primary tests on how QE and QT affect 
+commercial bank balance sheets (Sections 3 and 4) . Data employed in bank fragility tests are 
+described along with the tests in Section 5. Des criptive summary statistics of all variables of 
+interest are in the Online Appendix Table A1. 
+===== PAGE 7 =====
+6 
+ 
+2.1. Time-series 
+From the Federal Reserve Economic Data (FRED) database, we collect aggregate data on central 
+bank reserves with the banking system (H6 release) and bank deposits (H6 and H8 release), as well 
+as the time-series of outstanding off-balance-sheet credit lines to corporations (FDIC-sourced) and 
+the U.S. Gross Domestic Product (GDP).5 We use monthly data for aggregate time-series figures 
+and quarterly data for regression tables in order to be consistent with the frequency of FDIC call 
+reports. We focus on the period of 2008Q4- 2021Q4 for the aggregate regression analysis of QE 
+and QT. However, in some of our descriptive charts, we also use earlier data to see trends prior to 
+QE, and use data from 2022Q1 to 2023Q4 to analyze recent bank fragility.  
+2.2. Panel with Individual Banks  
+We employ the following cross-section and time-series data for US banks during 2008Q4-2021Q4. 
+Bank-level reserves: Reserves are calculated as cash and balances due to a bank from the Federal 
+Reserve Banks, based on the bank balance -sheet data from FDIC Call Reports, specifically  item 
+RCFD0090, or as item RCON0090 if the former is missing.  
+Bank-level deposits: We use FDIC’s Summary of Deposits – Branch Office Deposits data to 
+obtain branch-level deposits to construct our deposit instrument. For each bank in the Call Reports 
+data, we use the Federal Financial Institutions Examination Council’s (FFIEC) relationships table 
+to link the bank to the Bank Holding Company (BHC), supplemented with RSSDHCR mapping 
+of the Summary of Deposits. While the analysis of bank reserves, deposits, off-balance sheet 
+unused credit lines  and deposit rates is at the depository level in the panel  tests, the analysis of 
+credit line originations is at the BHC level.  
+An important part of our analysis focuses on uninsured demandable deposits of banks. 
+Using FDIC Call Reports data, we first break down deposits int o their uninsured-demandable, 
+uninsured-time, insured-demandable, and insured-time components. Total Uninsured Deposits are 
+computed as the sum of total foreign deposits and domestic deposit accounts with balances over 
+$100,000 before 2006Q1, non-retirement accounts with balances above $100,000 and retirement 
+accounts with balances above $100,000 for the time period of 2006Q1- 2009Q2, and all deposits 
+                                                 
+5 Fed reserves can be held (i) in the Government Treasury Account and (ii) by non-banks via the Reverse Repo Facility. 
+For instance, in August 2022, the Fed’s liabilities of around $9 trillion corresponded to rou ghly $4 trillion reserves 
+with the banking system, $1 trillion in the U.S. Government Treasury Account or with agencies and market utilities, 
+$2 trillion in reverse repos of non- banks (which was small before the pandemic QE), and $2 trillion currency -in-
+circulation. Given our focus on the banking system, we will refer to the reserves it holds as “aggregate reserves”.  
+===== PAGE 8 =====
+7 
+ 
+over $250,000 after 200 9Q2 (reflecting the temporary increase in deposit insurance limit  later 
+made permanent), reported in schedule RC-O.6 Uninsured Time Deposits are time deposits above 
+$100,000 till 2010Q 1 and above $250,000 after 2010Q1 plus foreign interest bearing deposits .7 
+Insured Time Deposits and Total Insured Deposits are time deposits and total deposits which fall 
+below the corresponding deposit insurance limits. We then compute Uninsured Demandable 
+Deposits as the difference between Total Uninsured Deposits and Uninsured Time Deposits, and 
+by extension, Insured Demandable Deposits as the difference between Total Insured and Insured 
+Time Deposits. 8 Given this construction, demandable deposits strictly speaking are “non-time” 
+deposits, and include savings and money market deposits in addition to transaction accounts, which 
+is appropriate given they entail immediacy. 9 Non-interest bearing foreign deposits will count as 
+uninsured demand deposits.10  
+We obtain deposit rate data from S&P Global’s RateWatch, including weekly branch-level 
+deposit rate data of different product types, along with product size and maturity information. For 
+our deposit rate analysis, we use the average 3-month Certificate of Deposit (CD), 12-month CD, 
+18-month CD and 24-month CD rates, and Savings account rates, aggregated to the bank- quarter 
+level and focus on the time period of 2008Q4-2021Q4.   
+Bank-level credit lines issuance: We obtain data on the origination of credit lines by U.S. non-
+financial firms from Refinitiv LoanConnector . These data include the name of the company 
+contracting the l ine as well as the  relevant contract terms . LoanConnector also includes the 
+company credit rating at line origination.  To obtain lender information, we use the Schwert (2018) 
+link-file to map lenders in LoanConnector to the ultimate parent level (extending the file to the 
+                                                 
+6 Note that Call Reports fields RCONF-051 & 052 reflect this change only in 2009Q2, while the deposit insurance 
+limits were raised from $100,000 to $250,000 in October 2008 (2008Q4). 
+7 While deposit insurance limit was raised in 2008Q4, the Call Reports items RCON2604 (Time Deposits Accounts 
+with balance over $100,000) changed to RCONJ473 (Time Deposits Accounts with balances between $100-250k) 
+and RCONJ474 (Time Deposits Accounts with balances over $250k) only in 2010Q1, in schedule RC-E. 
+8 We do not adjust for the FDIC's Transaction Account Guarantee (TAG) Program's implicit insurance of all non-
+interest-bearing transaction accounts of balances over $250,000 when we compute Uninsured Domestic Deposits. 
+Hence, Uninsured Demandable Deposits include temporarily insured transaction deposits and Insured Demandable 
+Deposits do not include those deposits. The Program operated during October 14, 2008 to December 31, 2010, and 
+was then replaced with a similar program (by the Dodd Frank Act) that expired on December 31, 2012. 
+9 Note also that the construction of uninsured demandable deposit measures is based on other reported fields in Call 
+Reports. It leads to some bank-quarters having negative amounts for these deposits. We truncate these negative 
+amounts to zero in our analysis, but also verify that all our results are robust to starting the analysis in 2010 by when 
+such negative amounts are rare (given the overall surge in uninsured deposits starting in 2009).   
+10 Note that we do not use item RCON5597 which records "Estimated Amount of Uninsured Deposits in Domestic 
+Offices of the Bank" to compute total uninsured deposits as it is missing for 65% of bank-quarter observations of 
+our sample. Where available, it does not differ materially from our calculations of uninsured deposits.  
+===== PAGE 9 =====
+8 
+ 
+end of 2021) and obtain their respective CR SP/Compustat identifier (GVKEY). Finally, we use 
+the GVKEY-RSSD mapping provided by the Federal Reserve Bank of New York to obtain call 
+report identifiers (RSSD) for BHCs. While we employ credit lines data starting in 2008Q4, due to 
+a recent change in data vendor and associated data format changes we have not yet been able to 
+update the data past 2021Q4.   
+ 3. The Aggregate Time-series:  Bank reserves, deposits and credit lines 
+3.1. Descriptive evidence 
+In Figure 2, we plot reserves, deposits, and undrawn credit lines aggregated over all US 
+commercial banks using data from the Federal Reserve’s Flow of Funds for the period 2008Q4 to 
+2021Q4. In Panel A, we plot them a s percentages of GDP. The vertical lines correspond to the 
+beginning of the different Federal Reserve QE and QT  programs:  (1) Nov 2008 (QE I), (2) Nov 
+2010 (QE II), (3) Nov 2012 (QE III), (4) Oct 2014 (QE halted without actively reducing balance 
+sheet size), (5) October 2017 (QT or active balance sheet reduction), (6) Sept 2019 (Repo-market 
+“spike” and subsequent reserve expansion , followed by Pandemic-induced QE starting March 
+2020, which for simplicity we collectively refer to as “Pandemic QE”), and (7) March 2022, Fed 
+rate hikes (with pandemic QT starting in June 2022).  
+Central bank reserves expanded from the start of QE I in November 2008 to the end of QE 
+III in Sep 2014 from less than 5% of GDP to more than 15% of GDP. There was some stabilization, 
+even decline, in reserves when each phase of QE ended and before the next phase began. At the 
+same time, bank deposits grew from below 50% to over 60% of GDP, again with some stabilization 
+when each phase of QE ended and before the next one began. Undrawn outstanding credit line s 
+decreased initially, from $2.37 trillion in Q4 2007 to $1.89 trillion in Q4 2011, largely due to 
+concerted drawdowns by corporations during and following the global financial crisis (see 
+Ivashina and Scharfstein (2010) and Acharya and Mora (2015)). However, they too increased from 
+November 2010 (the start of the QE  II) from about 12% to over 15% of GDP  by Sep 2014. 
+Importantly, while reserves dropped by more than half between the end of QE in Oct 2014 and the 
+end of the first QT in September 2019, both deposits as well as credit lines remained remarkably 
+flat. This highlights the pattern that neither of these claims on bank liquidity reversed their QE  I-
+III increase when the central bank balance sheet shrank.  
+When reserves increased from about 7% to mor e than 17% of GDP during the pandemic 
+QE period, bank deposits jumped again from 60% to almost 80% of GDP  and credit lines also 
+===== PAGE 10 =====
+9 
+ 
+increased from 15% to over 17% of GDP. From 2022, however, reserves, deposits and outstanding 
+credit lines all started declining sharply (relative to the GDP) once the Fed started raising rates, 
+ended QE and switched to QT. Banks first lost deposits to money market funds, perhaps reflecting 
+the deposits channel of monetary policy wherein banks do not raise deposit rates commensurate 
+with Fed rate hikes in order to squeeze sticky depositors (Drechsler, Savov and Schnabl (2017)), 
+but from March 2023, depositors started fleeing mid-size and regional banks (see Caglio, Dlugosz, 
+and Rezende (2023)). 
+Next, we split deposits into demand deposits and time deposits in Panel B.11 Overall, the 
+figure suggests a positive correlation between demand deposits and reserves as well as a negative 
+correlation between time deposits and reserves during the QE I-III periods as well as the pandemic 
+QE period. While reserves relative to GDP almost quadrupled over the 2009 to 2021 period, time 
+deposits declined from about 23.4% of GDP to just about 6.3% of GDP. Demand deposits (both 
+uninsured and insured) , on the other hand, increased from 40% to about 80% of GDP over the 
+same period. This  shift from t ime to demand deposits may be because the money premium 
+associated with demand deposits made them cheaper to issue than time deposits, which improves 
+accounting profitability (ROE) – effectively, a search for yield on the liability side. Interestingly, 
+the decline in time deposits flattens out whenever the Fed ceases QE, suggesting that QE tends to 
+push banks to increase the “demandability” of bank claims.  
+Focusing on uninsured and insured demandable deposits separately, we observe that while 
+both rose in a similar way during QE I -III, and also stayed flat post QE III, uninsured deposits , 
+which a re likely held by non- bank institutions, grew and fell faster respectively during the 
+pandemic QE and QT. Panel C, which excludes foreign deposits, shows that while the share of 
+US-based (domestic) insured demandable deposits in overall (domestic) deposits  during 2001Q1 
+to 2021Q4 remained stable over the entire period around 40%, the share of uninsured demandable 
+deposits, after remaining relatively flat at 18% between 2001 and 2009, rose sharply from then to 
+peak at 47% during 2021.
+12 Thus, the bulk of the effects of QE are seen in the rise in the quantum 
+and share of uninsured demand deposits (and the fall in time deposits).   
+                                                 
+11 Note that due to the aforementioned discrepancy in the dates on which Call Reports reflect the change in the 
+definition of Total Uninsured Deposits (2009Q2) and Uninsured Time Deposits (2010Q1), we see a temporary blip 
+up in Insured Demandable Deposits and a blip down in Uninsured Demandable Deposits during 2009Q2-2010Q1. 
+Also, the sudden rise in Insured Time Deposits (and the corresponding fall in Uninsured Time Deposits) in 2010Q1 
+reflects the change in definition in Call Reports. 
+12 The patterns in Panel C are robust to including foreign deposits. 
+===== PAGE 11 =====
+10 
+ 
+To see that this does not reflect a general increase in household demand for deposits (which 
+would typically be for insured deposits), we plot in Panel D the aggregate ratio of US household 
+deposits to financial assets from the Flow of Funds for the period Oct 1987- Dec 2023. While the 
+ratio declined dramatically from 22.5% in Oct 1987 to 10% at beginning of 2000, and did rise to 
+15% by the collapse of Lehman Brothers, it has remained relatively stable thereafter in the 12.5% 
+to 15% range during the 2008Q4 to 2021Q4 period.  T ogether, Panels C and D suggest a turning 
+point in the growth of uninsured demandable deposits around the Fed’s embarking on QE , and 
+indicate that this turning point is not coincident with an increase in household deposits share  or 
+with a rise in insured demandable deposit share of overall deposits.  
+In the rest of this section, we turn to time-series regressions on aggregate quantities of bank 
+deposits, credit lines and reserves,  and offer econometric support for the descriptive patterns we 
+have identified.   
+3.2. Time-series Regressions: Quantities of bank reserves, deposits and credit lines 
+We estimate the following ordinary least squares (OLS) regression: 
+ΔYt = αΔXt + βXt−4 + εt,                                       (1) 
+where ΔYt = Yt −   Yt−4 is either the change in Ln(Deposits) or Ln(Credit Lines) or the change in 
+the Deposits or Credit Lines, with the change taken over the past year , i.e., four quarters back, to 
+control for any seasonality, and ΔXt = Xt − Xt−4 is respectively either the change in Ln(Reserves) 
+or the change in R eserves. As in the descriptive analysis, we also split deposits into demand and 
+time deposits in some estimations. Standard errors reported in parentheses  are adjusted for 
+autocorrelation in the residuals up to 4 quarters. We include the four-quarter lag of Ln(Reserves) 
+or Reserves to allow for a lagged impact of reserves.  
+In Table 1, we present estimates of model (1) for the 2008Q4 to 2021Q4 period. Columns 
+(1) to (4) respectively use quarterly changes in the natural logarithm of Deposits, Demand 
+Deposits, Time Deposits, and (undrawn) Credit Lines over the same quarter in the previous year  
+as the dependent variable. The results suggest that the growth in Reserves is positively correlated 
+with the growth in Deposits, Demand Deposits, as well as Credit Lines, and negatively correlated 
+with the growth in Time Deposits. Our point estimates suggest that an increase in Reserves by 10% 
+over the last 12 months is associated with an increase in Deposits of about 1.4%, Demand Deposits 
+of 1.9%, and Credit Lines of 0.8%, but with a reduction in Time Deposits of 3.6%, consistent with 
+demand and time deposits moving in opposite directions to reserves as we saw in Panel B of Figure 
+===== PAGE 12 =====
+11 
+ 
+2. Importantly, this suggests that banks do not just issue deposits to finance reserves, but they shift 
+toward issuing more demandable claims as reserves increase.   
+The correlation with lagged Ln(Reserves) is statistically significant, relatively smaller than 
+the coefficient on changes in reserves for overall deposits (and statistically insignificant for 
+demand and time deposits) but relatively larger in magnitude for credit lines , suggesting that 
+changes in reserves take some time to translate into additional deposits and especially credit lines 
+(or alternatively, that there is some momentum from past changes in reserves). With the exception 
+of the credit lines coefficient, our estimates are robust to excluding this lagged variable (see Online 
+Appendix Table A2) 
+In columns (5) to (8), we use arithmetic changes in Deposits or Credit Lines (instead of log 
+changes) as dependent variables, since the coefficients are easier to interpret . The point estimate 
+in column (5) suggests that for the aggregate banking system , deposit liabilities change in levels 
+almost one for one with reserves. S uch a relationship would arise if on the margin banks finance 
+an expansion in their holdings of reserves largely through deposits. Equivalently, it is consistent 
+with the Fed injecting reserves by buying assets from non- banks, who then deposit the proceeds 
+with b anks. Of course, this requires that after receiving deposits banks do not rebalance their 
+capital structure away from deposits. Since the new assets (reserves) have zero risk weights, banks 
+have no need to issue additional capital if the leverage r atio does not bind, and since the asset  is 
+very liquid, they have no need to rebalance assets  to meet liquidity ratios . Columns (6) and (7) 
+imply that demand deposits increase substantially more than one for one with reserves, because 
+time deposits in fact shrink . Column (8) indicates changes in reserves are positively correlated 
+with changes in outstanding credit lines. 
+In Table 2, we break the dependent variable, namely deposits, into insured and uninsured. 
+Once again, columns (1)-(4) has the variables in log changes and columns (5)-(8) are in arithmetic 
+changes. While uninsured deposits are statistically related to reserves ( columns (1) and (5)), 
+insured deposits are not (columns (2) and (6)). Within demand deposits, the coefficient estimates 
+for uninsured demandable deposits (see columns (3) and (7)) is 15-60% greater than that of insured 
+demandable deposits (see columns (4) and (8)). These results are overall in line with the descriptive 
+patterns seen in Figure 2, Panel B.   
+ Collectively, these correlations  suggest that an increase in central bank reserves is 
+associated with an increase in uninsured, especially demandable,  deposits as well as credit lines . 
+===== PAGE 13 =====
+12 
+ 
+This is suggestive of banks trying to minimize the cost of holding reserves by financing with 
+uninsured demandable deposits, and earning fe es by issuing demandable claims such as credit 
+lines. Of course, this search for yield by issuing liquidity claims may be quite safe if the bank has 
+sufficient reserves to meet claims, or if aggregate liquidity is plentiful. It can turn awry if not. 
+Aggregate time-series analysis is not conducive to inference about the c ausal impact of 
+reserves on variables of interest, especially when we examine different episodes of central bank 
+activity, since we run into issues of statistical power given the small number of observations within 
+each episode. Time-series analysis also cannot adequately rule out confounding effects from 
+economy-wide factors such as the level of economic activity  and interest rates, as well as the 
+consequent change in household financial assets, which directly affect deposit creation and deposit 
+demand in the economy.  We, therefore, turn to panel tests with a cross-section of banks.   
+4. The Panel Tests: Bank reserves, deposits and credit lines 
+4.1. Central bank reserves and bank choices (quantities and rates). 
+In our panel tests, we focus on individual banks and how their reserve holdings affect their 
+uninsured demandable deposits and credit lines (which create liquidity risk ), as well as time 
+deposits (which help us understa nd bank deposit maturity  choice).  We first describe the 
+methodology underlying our panel tests. 
+4.2. Methodology 
+While the aggregate stock of bank reserves is set by the central bank and therefore is likely 
+to be  exogenous to total bank deposits, the stock of reserves at an individual bank could be 
+endogenous to that bank’s deposit funding. For instance, there could be reverse causality from 
+deposits to reserves. Conversely, a bank that has had adverse performance may experience weaker 
+deposit inflows (or even deposit outflows) and a relative fall in reserves but may also try to attract 
+reserves to meet withdrawals. Banks may also be subject to liquidity regulations.  Since such 
+regulations are relaxed if a bank chooses time deposits over demand deposits, liquidity-constrained 
+banks may seek reserves at the same time as they seek time deposits – inducing a positive 
+correlation we need to correct for. Also, large banks that have access to equity and bond markets 
+may raise a part of their funding from non- deposit sources, which would increase reserves but 
+simultaneously not increase deposits. 
+===== PAGE 14 =====
+13 
+ 
+To allay such endogeneity concerns which can bias the estimated relationships of interest, 
+we employ a 2-stage least squares (2-SLS) specification, instrumenting the change in bank-level 
+reserves in the first stag e to obtain the impact of a  plausibly exogenous change in bank- level 
+reserves on bank-level variables of interest. We employ a Reserve Instrument, 1R
+itz , computed as 
+the product of the most recent change in aggregate bank reserves and the bank’s reserve share: 
+ln �
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑏𝑏𝐴𝐴𝑏𝑏𝑏𝑏 𝐴𝐴 𝐴𝐴 𝑟𝑟𝐴𝐴𝐴𝐴𝑟𝑟𝐴𝐴 𝑟𝑟𝑡𝑡
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑏𝑏𝐴𝐴𝑏𝑏𝑏𝑏 𝐴𝐴 𝐴𝐴 𝑟𝑟𝐴𝐴𝐴𝐴𝑟𝑟𝐴𝐴 𝑟𝑟𝑡𝑡−1
+� ×
+1
+4 ∑ 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝑖𝑖′𝑠𝑠 𝑠𝑠ℎ 𝐵𝐵𝑎𝑎𝑎𝑎  𝑜𝑜𝑜𝑜 𝐵𝐵 𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝐵𝐵𝑎𝑎 𝑎𝑎 𝑏𝑏 𝐵𝐵𝐵𝐵𝐵𝐵 𝑎𝑎𝑎𝑎𝑠𝑠𝑎𝑎𝑎𝑎 𝑟𝑟𝑎𝑎𝑠𝑠𝐴𝐴−𝑏𝑏
+4
+𝑏𝑏=1 .  (3a)        
+The first component, the growth in aggregate banking system  reserves, is plausibly not 
+driven by an individual bank’s circumstances, but in the aggregate by the Fed’s monetary stance. 
+Given the nature of Fed’s QE operations, this component is large in magnitude at the inception of 
+QE I and pandemic QE  relative to other quarters . T his variability lends exactly the kind of 
+statistical and economic power to the instrument that an  econometrician ideally wishes for. 
+However, the power of the instrument is weaker during post QE III and QT period as Fed did not 
+dramatically shrink reserves in a particular quarter, something we will have to contend with in the 
+results to follow.13  
+Turning to the second component, banks will differ in their propensity to attract reserves. 
+Some banks will be at the center of networks  of customers with surplus deposits, which  will 
+position them best to attract reserves. In particular d uring QE, non- banks may tender financial 
+assets to the central bank , placing the associated deposits received in payment with their 
+relationship bank or prime broker. Given they are likely to attract reserves because of their activity, 
+network centricity, or relationships, banks with a more “reserve-intensive” past are likely to attract 
+more incremental reserves today if the central bank expands its aggregate stock. These more 
+persistent underlying factors would cause a bank  to have a pre-determined higher reserve share 
+but because it can rebalance its balance sheet, this need not  affect its structure of liquidity claims 
+other than through the deliberate choices it makes. For instance, Kashyap, Rajan, and Stein (2002) 
+                                                 
+13 An alternate instrument uses the growth in the overall Fed balance sheet as the first component, while retaining the 
+second component: 
+ ln �
+𝐹𝐹𝐴𝐴 𝐹𝐹 𝐴𝐴 𝑟𝑟𝑟𝑟𝐴𝐴𝐴𝐴𝑟𝑟𝑡𝑡
+𝐹𝐹𝐴𝐴 𝐹𝐹  𝐴𝐴 𝑟𝑟𝑟𝑟𝐴𝐴𝐴𝐴𝑟𝑟𝑡𝑡−1
+� ×
+1
+4 ∑ 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝑖𝑖′𝑠𝑠 𝑠𝑠ℎ𝐵𝐵𝑎𝑎 𝑎𝑎  𝑜𝑜𝑜𝑜 𝐵𝐵𝑎𝑎𝑎𝑎𝑎𝑎 𝑎𝑎𝑎𝑎 𝐵𝐵𝑎𝑎 𝑎𝑎 𝑏𝑏 𝐵𝐵𝐵𝐵𝐵𝐵 𝑎𝑎 𝑎𝑎𝑠𝑠𝑎𝑎𝑎𝑎𝑟𝑟 𝑎𝑎𝑠𝑠𝐴𝐴−𝑏𝑏
+4
+𝑏𝑏=1   .        (3b) 
+The rationale for using the overall balance-sheet growth of the Fed rather than the growth in aggregate bank reserves 
+might be that aggregate banking reserves are a residual from the Fed’s choice of balance sheet size and the economy’s 
+demand for cash in circulation (and in recent years, the overnight reverse repo facility for money market funds). 
+However, bank “reserve betas” with respect to this alternate instrument do not necessarily add up to one in the cross-
+section. Our results are robust to employing both instruments together and separately (Online Appendix B).  
+ 
+===== PAGE 15 =====
+14 
+ 
+argue that banks can best utilize a stock of reserves by writing both demandable deposit claims as 
+well as credit lines against it – maximizing the effective yield of the reserves.   
+With this rationale, the second component of the instrument, Bank i’s lagged s hare of 
+aggregate bank reserves, can be interpreted as a bank’s “reserve beta,” which is calculated by 
+dividing the bank-level reserves by aggregate bank reserves.  We average this share over the past 
+4 quarters to deal with possible seasonality or noise in bank-level reserves, as well as to reduce the 
+impact of any endogenous reserve adjustment by the bank (assuming that such adjustment is 
+transitory and uncorrelated or weakly correlated from one quarter to the next). The quarterly share 
+of a bank in aggregate bank reserves is persistent with a Kendall -bias adjusted autocorrelation of 
+0.74 on average across banks (standard deviation across banks being 1.50).       
+4.3. Impact of reserves on quantities of deposits  
+We then estimate a 2-stage least square specification.  The first-stage is estimated as  
+∆𝐿𝐿
+𝐵𝐵(𝑅𝑅𝑎𝑎𝑠𝑠
+𝑎𝑎𝑎𝑎𝑟𝑟𝑎𝑎𝑠𝑠)𝑖𝑖𝐴𝐴= 𝛾𝛾1
+1R
+itz +𝛾𝛾3𝐿𝐿𝐵𝐵( 𝑅𝑅𝑎𝑎𝑠𝑠 𝑎𝑎𝑎𝑎𝑟𝑟𝑎𝑎𝑠𝑠𝑖𝑖𝐴𝐴−5) + 𝜇𝜇𝜇𝜇𝑖𝑖𝐴𝐴−1 + 𝛿𝛿𝐴𝐴+  𝜗𝜗𝑖𝑖𝐴𝐴               (4) 
+𝑤𝑤ℎ
+𝑎𝑎𝑎𝑎𝑎𝑎 
+∆𝒀𝒀𝑖𝑖𝐴𝐴=  𝑌𝑌𝑖𝑖𝐴𝐴−  𝑌𝑌𝑖𝑖𝐴𝐴−4, and 𝜇𝜇𝑖𝑖𝐴𝐴−1 represents bank controls lagged by one quarter  which are 
+bank size (measured as Ln(Assets) ), profitability (Net Income -to-Assets), and capitalization 
+(Equity-to-Assets), as well as a  Primary Dealer indicator that identifies banks that are primary 
+dealers.14 Finally, 𝛿𝛿𝐴𝐴 represents (quarter) time-fixed effects which soak up any aggregate temporal 
+change in conditions.  
+W
+e will typically report estimates for the overall period (column (1)), the QE I-III plus post 
+pandemic QE period (column (2)), QE I-III periods (column (3)), and for the post QE III and QT 
+period (column (4)). To ensure we do not have too many gaps in the panel analysis, we include the 
+period Aug-Oct 2010 (between QE I and QE II) and Sep 2011-Aug 2012 (between QE II and QE 
+III) as part of the QE period, even though these were periods in between phases of QE. Excluding 
+these interim periods between successive QE programs does not change the results qualitatively. 
+The pandemic QT period seems qualitatively different because balance sheet contraction was 
+preceded by the sharp rise in inflation, accompanied by higher interest rates, and followed by bank 
+runs within a year of its commencement. We analyze only the runs later in the paper. 
+                                                 
+14 We verify in Online Appendix Table A6 that these time-varying controls are not correlated with our reserves 
+instrument, i.e., there is no “bad controls“ problem in the second stage. We also verify in Online Appendix Tables 
+A7 and A8 that our results are robust to timing the controls at the beginning of each sub-period as well as excluding 
+the controls altogether, respectively. 
+===== PAGE 16 =====
+15 
+ 
+The first-stage results are presented in Table 3 Panel A. We find that the relevance criteria 
+are met as the first-stage correlation between the instrument and the endogenous variable, viz., the 
+log change in reserves of a bank, is estimated to be positive and significant across all time -series 
+sub-samples of our regressions. We also report the F-statistic and the Kleibergen and Paap (2006) 
+Wald F-Statistic as the robustness tests for instrument weakness.15 We find that the F-statistics are 
+well above the thumb rule of 40 for each sub-sample of regressions and meet the Stock and Yogo 
+(2005) thresholds for instrumental variable bias of 10% except for the sub-sample of post QE III 
+and QT period. The Kleibergen-Paap F-statistics marginally improve when we reduce the number 
+of clustered standard errors to just bank-level clustering (as the number of quarters in the post QE 
+III and QT period is only 20), which we report in the Online Appendix Table A5.  
+In the second stage, we regress the change in deposits, ∆𝐿𝐿𝐵𝐵(𝐷𝐷𝑎𝑎𝑝𝑝𝑜𝑜𝑠𝑠𝑖𝑖𝑎𝑎𝑠𝑠) , against 
+instrumented ∆𝐿𝐿𝐵𝐵(𝑅𝑅𝑎𝑎𝑠𝑠𝑎𝑎𝑎𝑎𝑟𝑟𝑎𝑎𝑠𝑠) , including other independent variables included in the first stage:  
+∆𝐿𝐿𝐵𝐵(𝐷𝐷𝑎𝑎𝑝𝑝𝑜𝑜𝑠𝑠𝑖𝑖𝑎𝑎𝑠𝑠)𝑖𝑖𝐴𝐴=  𝛽𝛽1𝐼𝐼𝐵𝐵𝑠𝑠𝑎𝑎𝑎𝑎 ∆𝐿𝐿𝐵𝐵(𝑅𝑅𝑎𝑎𝑠𝑠𝑎𝑎𝑎𝑎𝑟𝑟𝑎𝑎𝑠𝑠)𝑖𝑖𝐴𝐴+ 𝛽𝛽2𝐿𝐿𝐵𝐵(𝑅𝑅𝑎𝑎𝑠𝑠𝑎𝑎𝑎𝑎𝑟𝑟𝑎𝑎𝑠𝑠)𝑖𝑖𝐴𝐴−5 + 𝜇𝜇𝜇𝜇𝑖𝑖𝐴𝐴−1 + 𝜏𝜏𝐴𝐴+  𝜀𝜀𝑖𝑖𝐴𝐴 
+(5) 
+where 𝜇𝜇𝑖𝑖𝐴𝐴−1 represents time-varying bank controls lagged by one quarter  as in equation (4) . 
+Quarter time-fixed effects 𝜏𝜏𝐴𝐴 absorb any aggregate trends in deposit growth such as due to 
+fluctuations in economic activity or increases in household financial assets.  
+In Table 3 Panel B.1, we present OLS estimates, and in Panel B.2, instrumental variable 
+(IV) estimates, for the impact of reserves on uninsured demandable deposits. For parsimony, we 
+do not report estimated coefficients of the control variables including the fifth lag of log reserves.  
+The coefficient estimates for our main variable of interest, the change in log reserves, are 
+positive and significant in the OLS estimates for the overall period and all sub- periods. In the IV 
+estimates, the instrumented change in log reserves is indeed positively and significantly correlated 
+with the change in log uninsured demandable deposits in the overall sample (column (1)), the QE 
+periods (column (2)), and QE I-III periods (column (3)), but for the p ost QE III and QT period 
+(column (4)) it is negative and statistically insignificant.  
+The positive IV coefficient during QE periods suggests that banks that receive QE-injected 
+reserves increase their uninsured demand deposits.  This is consistent with the Fed buying bonds 
+from non-banks which typically then hold flighty uninsured transaction or money market deposits 
+                                                 
+15 Cragg and Donald (1993) Wald F-statistics are not useful as standard errors are clustered two-ways by bank and 
+quarter.  
+===== PAGE 17 =====
+16 
+ 
+at banks (unlike sticky, typically retail, insured deposits). Since reserves shrink during the post QE 
+III and QT period, the statistically insignificant IV coefficient during these periods support s the 
+time-series finding that uninsured demandable deposits do not (reliably) shrink after having risen 
+during QE periods, and the negative sign in fact implies that if anything they (noisily) keep rising.  
+In terms of magnitudes, an exogenous 10 percent year-on-year increase in a bank’s reserves 
+leads to a 2.05 percent rise in its uninsured demandable deposits in the overall time period , and 
+1.96 percent rise in the QE periods . The statistically significant IV magnitudes in Panel B.2 are 
+almost an order of magnitude greater than those observed in the OLS estimation in Panel B.1, 
+suggesting there is some bank-level endogeneity that shrinks the magnitude of the OLS  estimate. 
+The IV estimate is of the same order of magnitude as the simple time -series estimate based on 
+aggregate data (Table 2, Panel A, Column 3).    
+Panel C presents results on time deposits. While the OLS estimates (Panel C .1) suggest a 
+positive relation between reserves and time deposits, the IV estimates (Panel C.2) imply a negative 
+relation in the overall and QE periods (Columns 1- 3), suggesting that there is indeed some 
+endogeneity in individual bank res erves that the IV e stimates address. This IV estimate is 
+consistent in sign with our aggregate time-series results and about half the magnitude  (see Table 
+1, Panel A, Column 3). Based on the estimates, an exogenous 10 percent year-on-year increase in 
+a bank’s reserves leads to approximately a 1.6-1.8 percent decrease in the bank’s time deposits in 
+the overall and the QE periods . Finally, t here is a statistically insignificant, albeit large -in-
+magnitude, positive coefficient in the Post QE III and QT period (C.2 Column 4).  
+Overall, Table 3 suggests that there is a maturity-shortening of deposits at the bank level 
+during QE periods, as a bank’s uninsured transaction, money market,  and savings (all clubbed 
+together as demandable) deposits increase with an influx of reserves, while longer -maturity time 
+deposits decrease. This maturity-shortening, however, does not reverse when the central bank stops 
+injecting or reduces aggregate reserves during the post QE III and QT period. The differential 
+effect for demand and time deposits suggests that it is not just that deposit financing passively 
+grows with reserves; there seems to be an active move by banks to substitute term financing with 
+demandable financing.   
+Could it be that this transformatio n is simply because lower interest rates accompany QE 
+(Drechsler, Savov and Schnabl, 2017)? Importantly, we have shown that the maturity-shortening 
+of deposits within quarter is greater at banks that typically received QE-injected reserves, so there 
+===== PAGE 18 =====
+17 
+ 
+is a cross- sectional dimension to this, different from the time series that we control for. 16 More 
+generally, the value of our panel tests is precisely to rule out confounding possibilities that make 
+the aggregate time-series regressions hard to interpret. For in stance, the desire for time deposits 
+may shrink during times of low interest rates, especially if QE is accompanied by forward guidance 
+that rates will remain “low for long .” Since we identify greater rotation towards demandable 
+deposits away from time deposits during QE for banks that are more reserve intensive, controlling 
+for such time fixed-effects, this suggests an active bank preference rather than a passive one.  
+There may be something special about the smallest banks, who dominate our sample. Large 
+banks, by contrast, dominate activity. We check in Online Appendix C whether our estimates are 
+broadly similar when we limit our sample to the top 100 banks by asset size as of 2014 Q3. This 
+includes 8 banks greater than $250 billion in assets, 28 banks in $50-$250 billion in assets, and the 
+rest below $50 billion.17 Indeed, by and large the magnitude of the coefficient estimates on 
+instrumented reserves are similar f or the top 100 banks in explaining both uninsured demand 
+deposits and time deposits, though statistical significance is lower in some sub-periods due to the 
+smaller sample of banks. 
+4.4. Impact of bank-level reserves and deposits on deposit rates 
+In Table A3 of the O nline Appendix, we show (following Lopez -Salido and Vissing 
+Jorgensen (2022)) that the pric e of aggregate liquidity, measured as the Effective Federal Funds 
+Rate (EFFR) minus Interest on Excess Reserves (IOR),  is reduced by aggregate reserves 
+outstanding but increased by claims on aggregate liquidity, that is, by deposits and credit lines 
+outstanding. Aggregate analysis, as we have just noted, has the obvious problem that we cannot 
+control for all time-varying factors.  Therefore, one way to get further insights into the financing 
+of reserves by commercial banks with uninsured demandable rather than time deposits is to 
+examine the relative pricing of these deposits across banks, correcting for time fixed effects.  Our 
+intent is to see whether banks with more (exogenous) reserves tend to offer a lower spread for term 
+                                                 
+16 Furthermore, if we do control for a bank’s deposit “beta” (Drechsler, Savov and Schnabl, 2021), that is, for how 
+much a bank’s deposit rate changes in relation to changes in the Federal Funds rate, we do not see a qualitative 
+change in estimates for the first stage or the second stage of our panel tests in Table 3 (see Online Appendix Table 
+A9). The deposit betas are from Philipp Schnabl’s website at 
+https://pages.stern.nyu.edu/~pschnabl/data/data_deposit_beta.htm (last update: April 2023). 
+17 While standard errors are clustered at the bank-quarter level for the full sample, limiting the sample to top 100 banks 
+allows for clustering only at the bank level, (refer to Appendix C) 
+===== PAGE 19 =====
+18 
+ 
+deposits, that is, they prefer shrinking deposit maturity and foregoing the liquidity protection term 
+deposits offer.  
+Specifically, we focus in our cross-sectional deposit-rate tests on the spread between time-
+deposit rates (in particular, rates on 3-, 12-, 18- and 24-month Certificates of Deposits where the 
+depositor is locked in for the term by high withdrawal penalties ) and money market savings rates 
+(henceforth MM savings rates). A narrowing of the difference between the two as a bank’s reserves 
+grow, coupled with a reduction in the quantum of time deposits, would suggest the bank ’s 
+unwillingness to pay more for term protection, a form of liability side search for yield.  
+Formally, we employ a 2-SLS specification by instrumenting bank-level reserves and bank-
+level deposits in the first stage. We have already discussed our instrument s for reserves. Deposit 
+rates might be jointly determined with bank-level deposits as well – for example, a bank seeing an 
+outflow of term deposits may raise term deposit rates , and this could show up as a negative 
+correlation between deposits and spreads . To correct for such endogeneity, our i nstrument for 
+deposits focuses on the counties the bank is present in  and the growth in deposits there . 
+Specifically, the instrument is
+,
+, ,1
+ln .
+ctD
+it ict
+c Ci t ct
+Depzw Dep∈ −
+= 
+∑  where 
+,
+,1
+,1
+it
+ct
+ict
+ct
+cC
+Depw Dep
+−
+′ −
+′∈
+=
+∑
+ is the bank -
+specific weight accorded to county c the bank operates in time t, and 
+,
+,1
+ct
+ct
+Dep
+Dep −
+is the growth rate in 
+aggregate deposits in that county over the past period.  The bank-specific weight is determined as 
+the level of aggregate deposits in that county at time t-1 divided by the sum of aggregate deposits 
+over all the counties the bank has a presence in. In other words, our deposit instrument for a bank 
+is the overall deposit growth rates of the counties the bank has a presence in, weighted by their 
+relative aggregate deposit size last period among all the counties the bank has a presence in.  
+Implicitly, we assume the deposit growth rates in the larger counties (in terms of aggregate 
+deposits) that the bank has a presence in will drive the growth rate in its own deposits, else the 
+correlation of the instrument with deposits will be weak, and  the instrument will fail the standard 
+weak instrument tests. The exclusion restriction is that the bank’s presence in those counties, the 
+relative size of deposit banking in those counties, and the growth of deposits in those counties, are 
+factors that do not determine the bank’s deposit spreads, other than through the size and growth of 
+===== PAGE 20 =====
+19 
+ 
+its own deposits. We also control for bank and quarter fixed effects, which helps absorb bank- and 
+quarter-level time-invariant variation in our first and second-stage regressions.  
+Formally, we estimate the following model in the first stage:  
+𝐿𝐿𝐵𝐵(𝐷𝐷𝑎𝑎𝑝𝑝𝑜𝑜𝑠𝑠𝑖𝑖𝑎𝑎𝑠𝑠)𝑖𝑖𝐴𝐴= 𝛾𝛾11𝐷𝐷𝑎𝑎𝑝𝑝𝑜𝑜𝑠𝑠𝑖𝑖𝑎𝑎 𝐼𝐼𝐵𝐵𝑠𝑠𝑎𝑎𝑎𝑎𝐼𝐼𝐼𝐼𝑎𝑎𝐵𝐵𝑎𝑎𝑖𝑖𝐴𝐴+ 𝛾𝛾12. 𝑅𝑅𝑎𝑎𝑠𝑠𝑎𝑎𝑎𝑎𝑟𝑟𝑎𝑎𝑠𝑠 𝐼𝐼𝐵𝐵𝑠𝑠𝑎𝑎𝑎𝑎𝐼𝐼𝐼𝐼𝑎𝑎𝐵𝐵𝑎𝑎𝑖𝑖𝐴𝐴+ 𝜇𝜇𝜇𝜇𝑖𝑖𝐴𝐴−1 
++ 𝜌𝜌𝑖𝑖+  𝛿𝛿𝐴𝐴+  𝜇𝜇𝑖𝑖𝐴𝐴                                                                                          (6) 
+𝐿𝐿𝐵𝐵(𝑅𝑅𝑎𝑎𝑠𝑠𝑎𝑎𝑎𝑎𝑟𝑟𝑎𝑎𝑠𝑠)𝑖𝑖𝐴𝐴= 𝛾𝛾21𝐷𝐷𝑎𝑎𝑝𝑝𝑜𝑜𝑠𝑠𝑖𝑖𝑎𝑎 𝐼𝐼𝐵𝐵𝑠𝑠𝑎𝑎𝑎𝑎𝐼𝐼𝐼𝐼𝑎𝑎𝐵𝐵𝑎𝑎𝑖𝑖𝐴𝐴+ 𝛾𝛾22. 𝑅𝑅𝑎𝑎𝑠𝑠𝑎𝑎𝑎𝑎𝑟𝑟𝑎𝑎𝑠𝑠 𝐼𝐼𝐵𝐵𝑠𝑠𝑎𝑎𝑎𝑎𝐼𝐼𝐼𝐼𝑎𝑎𝐵𝐵𝑎𝑎𝑖𝑖𝐴𝐴+ 𝜇𝜇𝜇𝜇𝑖𝑖𝐴𝐴−1 
++ 𝜌𝜌𝑖𝑖+  𝛿𝛿𝐴𝐴+  𝜇𝜇𝑖𝑖𝐴𝐴                                                                                          (7) 
+where i represents bank, t represents quarterly dat a, 𝜌𝜌𝑖𝑖 represents bank -fixed effects, and 𝛿𝛿𝐴𝐴 
+represents (quarter) time-fixed effects. All regressions include bank-time-varying controls lagged 
+by one quarter ( 𝜇𝜇𝑖𝑖𝐴𝐴−1). The first-stage results are presented in Table 4 Panel A.  Confirming the 
+relevance criteria, we find that the first-stage correlation between the instrument and the relevant 
+endogenous variables (Ln(Reserves) or Ln(Deposits)) is positive and significant across all sub -
+samples of our regressions, except Ln(Reserves) with the reserves instrument in the Post QE -QT 
+period (column (4) – we will return to this in the next section). The specification is also robust to 
+Hansen-J test for overidentifying restrictions. As robustness tests for instrument weakness, we also 
+report the F -statistic and the Kleibergen -Paap Wald F -statistic. We find these statistics are well 
+above the thumb-rule of 40 for each sub-sample of regressions and meet the Stock-Yogo thresholds 
+bias of 10% except, once again, for the sub-sample of post QE III and QT period.  
+In the second stage, we regress deposit spreads  against instrumented Ln(Deposits) and 
+Ln(Reserves); in particular, we estimate 
+𝐷𝐷𝑎𝑎𝑝𝑝𝑜𝑜𝑠𝑠𝑖𝑖𝑎𝑎 𝑅𝑅𝐵𝐵𝑎𝑎𝑎𝑎 𝑆𝑆𝑝𝑝𝑎𝑎𝑎𝑎𝐵𝐵𝑆𝑆𝑖𝑖𝐴𝐴= 𝛽𝛽1𝐼𝐼𝐵𝐵𝑠𝑠𝑎𝑎𝑎𝑎 𝐿𝐿𝐵𝐵(𝐷𝐷𝑎𝑎𝑝𝑝𝑜𝑜𝑠𝑠𝑖𝑖𝑎𝑎𝑠𝑠)𝑖𝑖𝐴𝐴+ 𝛽𝛽2 𝐼𝐼𝐵𝐵𝑠𝑠𝑎𝑎𝑎𝑎 𝐿𝐿𝐵𝐵(𝑅𝑅𝑎𝑎𝑠𝑠𝑎𝑎𝑎𝑎𝑟𝑟𝑎𝑎𝑠𝑠)𝑖𝑖𝐴𝐴+ 𝜇𝜇𝜇𝜇𝑖𝑖𝑎𝑎−1 +  
+ 𝜋𝜋𝑖𝑖+ 𝜏𝜏𝐴𝐴+  𝜀𝜀𝑖𝑖𝐴𝐴    (8) 
+where i represents bank i, t represents the quarterly date, 𝜇𝜇𝑖𝑖𝐴𝐴−1 again represents bank-time varying 
+controls lagged by one quarter as in the first -stage, 𝜋𝜋𝑖𝑖 represents bank -fixed effects and 𝜏𝜏𝐴𝐴 
+represents (quarter) time-fixed effects. Deposit Rate Spread refers to the 3-, 12-, 18-, or 24-month 
+Certificate of Deposit (CD) Rate to MM Savings Rate Spread. The primary coefficient of interest 
+in model (8) is 𝛽𝛽2, and the hypothesis is that it is negative because an exogenous increase in bank 
+reserves induces a preference in banks for a shorter maturity of deposits, whence they reduce time 
+deposit spreads.  
+===== PAGE 21 =====
+20 
+ 
+Table 4, Panels B presents the second-stage of the 2-SLS regression results (corresponding 
+OLS results are in the Online Appendix Table A10). Within each panel, subpanels 1-4 correspond 
+sequentially to estimates for the overall time period and individual QE/QT periods.  
+We see that for the overall sample of banks and the overall time period (subpanel B.1), the 
+coefficients on Ln(Reserves) are always negative as expected and statistically significant .  The 
+coefficient magnitude is smaller by a factor of 2 to 4 for the 12- month CD spread relative to the 
+other CD maturities (there may be more noise  in the 12-month CD spread across banks, because 
+some banks treat it as a short -term CD with minimal loss of interest if the CD is withdrawn 
+prematurely, while others treat it as a long-term CD with substantial penalty for early withdrawal). 
+In terms of economic magnitude, a one standard deviation increase in the instrumented log reserves 
+(demeaned for bank and t ime fixed effects) translates into a 48 basis points narrower 18- month 
+CD to MM Savings Rate Spread, which is about 1.16 times the standard deviation  of the  
+(demeaned) 18-month CD to MM Savings Rate  Spread. We note here that the unreported 
+coefficients on Ln(Total Deposits) are positive but insignificant. 
+Examining estimates for the individual time periods (subpanels B.2-4), we find that relative 
+to the overall sample period, the negative effect of reserves on the term spread for deposits is 
+similar in magnitude for all of the QE periods ( subpanel B.2) and the  QE I -III periods  alone 
+(subpanel B.3). Interestingly however, pricing in the Post QE III/QT period ( subpanel B.4) 
+becomes much noisier, with the coefficients on Ln(Reserves) turning positive for three of the four 
+maturities. Hence, similar to the estimates from quantities, the cross -sectional bank pricing of 
+liquidity turns noisy with the shrinkage in reserves, instead of simply reversing. Of course, we 
+should note the weakness of our instrument in this sub-period.  
+4.5.  Impact of Reserves on Origination of Credit Lines 
+As discussed earlier, b anks can also create demandable claims on liquidity  through the 
+provision of credit lines. There has been a significant  increase since 2010 (post Global Fin ancial 
+Crisis and its aftermath) in credit lines as a percentage of GDP, as shown in Figure 2 earlier.  Credit 
+line usage has also evolved into an important source of liquidity management for corporations. In 
+the early stages of the pandemic, there was a dash for cash (Kashyap, 2020) and credit lines were 
+substantially drawn down in March 2020 (see e.g. Acharya and Steffen (2020) and Acharya, Engle, 
+Jager and Steffen (2024)). Despite this unprecedented usage, the amount of undrawn outstanding 
+credit lines increased much beyond the pre-pandemic levels by the end of 2021.  
+===== PAGE 22 =====
+21 
+ 
+In this sub-section, we provide  corroborating evidence using panel data that banks with 
+higher exogenous reserves originate more credit lines. To investigate the effect of an exogenous 
+change in reserves on the origination of credit lines  across banks, we re-compute the instrument 
+for reserves at the BHC level, since data on bank participat ion in the syndicates that offer credit 
+lines are at the BHC level. Table 5, Panel A confirms that the instrument meets the relevance 
+criteria as well as passes the instrument weakness threshold for the overall period (Column 1) and 
+the QE periods (Columns 2 and 3). However, the instrument is statistically insignificant in 
+explaining reserves during the post QE III and QT period as well as fails to cross the instrument 
+weakness threshold (Column 4). We will return to this issue in the next section. 
+For the second stage, we estimate at the BHC (i) -quarter (t) level: 
+∆𝐿𝐿𝐵𝐵(𝐶𝐶𝑎𝑎𝑎𝑎𝑆𝑆𝑖𝑖𝑎𝑎 𝐿𝐿𝑖𝑖𝐵𝐵𝑎𝑎𝑠𝑠)
+𝑖𝑖𝐴𝐴=  𝛽𝛽1∆𝐿𝐿𝐵𝐵(𝑅𝑅𝑎𝑎𝑠𝑠𝑎𝑎𝑎𝑎𝑟𝑟𝑎𝑎𝑠𝑠)𝑖𝑖𝐴𝐴+ 𝛽𝛽2𝐿𝐿𝐵𝐵(𝑅𝑅𝑎𝑎𝑠𝑠𝑎𝑎𝑎𝑎𝑟𝑟𝑎𝑎𝑠𝑠)𝑖𝑖𝐴𝐴−5 +  𝜇𝜇𝜇𝜇𝑖𝑖𝑎𝑎−1 + 𝜏𝜏𝐴𝐴+ 𝜀𝜀𝑖𝑖𝐴𝐴    (9) 
+where 𝜇𝜇𝑖𝑖𝐴𝐴−1 represents bank-time-varying controls lagged by one quarter, 𝜏𝜏𝐴𝐴 is a quarter-time fixed 
+effect, again to control for aggregate growth trends induced by fluctuations in economic activity. 
+𝐶𝐶𝑎𝑎𝑎𝑎𝑆𝑆𝑖𝑖𝑎𝑎 𝐿𝐿𝑖𝑖𝐵𝐵𝑎𝑎𝑠𝑠𝑖𝑖𝐴𝐴 is the total amount of lines of credit to IG -rated corporations (Table 5, Panel B ) 
+and Non-IG rated corporations (Table 5, Panel C) originated by BHC i in quarter t. Standard errors 
+in parentheses are clustered at the quarter level.  Both panels show the OLS estimates as well as 
+the IV ones. 
+A possible concern with OLS estimates is (again) that of endogeneity.  Banks that need 
+more central bank reserves, for example, due to an increase in liquidity risk, may also cut back on 
+new credit lines to reduce risk. This can result in a negative correl ation, or dampen the otherwise 
+positive correlation, between reserves and credit lines. Indeed, the OLS estimates reported in 
+Panels B.1 and C.1 suggest that an increase in reserves is often associated with a decrease in the 
+amount of credit lines that are  originated, though the coefficients are not uniformly statistically 
+significant.  
+ The IV estimates  reported in Panels B.2 and C.2 correct for endogeneity. They indicate 
+that during the overall and QE  periods, an exogenous 10% increase in a bank’s reserve growth 
+leads to an increase in the origination of lines of credit  to investment-grade firms by about 2.23 
+percent and non-investment-grade firms by 2.28 percent for the overall period.  
+===== PAGE 23 =====
+22 
+ 
+For both types of firms, the coefficient estimate on reserves i s not statistically significant 
+only for the post QE III/QT period, and indeed has a negative sign for IG firms.18 It may well be, 
+however, that the first stage is simply not well- identified for the post QE III/QT period at BHC 
+level (which shrinks the cross-section appreciably), rendering difficult any statistical inference in 
+the second stage.  
+4.6. Implications 
+Overall, that reserves-recipient BHCs expand outstanding credit lines during QE (Table 5) 
+is consistent with their preference for taking on liquidity r isk, as seen also in the bank -level 
+increase of uninsured demandable deposits (Table 3) and decrease of deposit maturity (Table 4). 
+The evidence on off balance sheet liabilities growing during QE also assuages concerns that these 
+effects of QE on liquidity risk-taking by the banking sector (Tables 3 and 4) are simply due to 
+some mechanical balance sheet effect.  While the absence of precise coefficient estimates for the 
+post QE III/QT period suggest that banks simply do not reverse their claims, our reserve 
+instruments in this period are not always strong (Tables 4 and 5). W e now examine bank balance 
+sheets more closely to understand what might be going on. 
+5. Financial Fragility in Moving from QE to QT. 
+QE is not simply an expansion of reserves, taking the nature of claims on liquidity on the 
+banking sector as static .  Were it so, any increase in central bank b alance sheet size by injecting 
+reserves would always enhance financial stability. In contrast, the liquidity dependence view (see 
+Acharya and Rajan (2024)) suggests that banks write new liquidity claims when the central bank  
+issues reserves that it does not intend to withdraw quickly. Furthermore, banks don’t not always 
+shrink these claims commensurately when the central bank switches from expanding to shrinking 
+its balance sheet (as for example, in 2017-19), creating an aggregate liquidity mismatch.19 
+                                                 
+18 In a related finding, Carletti et al. (2021) exploit a tax change in Italy that induced households to switch from bank 
+bonds to deposits and find that banks experiencing a greater inflow of retail deposits expand the supply of credit 
+lines and term loans to low-risk credits. 
+19 The increase in demand for reserves is described in a Federal Reserve survey of senior loan officers in November 
+2022: “the majority of respondents from domestic banks reported that their bank’s lowest comfortable level of reserves 
+(LCLOR) had increased [since the end of 2019]…; most of the group reported the change being an increase by more 
+than 20 percent…A large majority of respondents reported that their bank always preferred to hold additional reserves 
+above their bank’s LCLOR.” (see Senior Financial Officer Survey Results, November 2022, Board of Governors of 
+the Federal Reserve System, p 2). 
+===== PAGE 24 =====
+23 
+ 
+We now examine these developments across banks more carefully . In an episode of 
+aggregate liquidity shortage, bank specific vulnerabilities will get ac centuated and therefore it is 
+important to understand where the  liquidity mismatches are the largest. Our analysis here should 
+be thought of as illustrative of vulnerabilities built up across bank characteristics during central 
+bank balance sheet expansions and contractions, rather than an exhaustive or causal analysis. 
+5.1. Ratcheting-up of liquidity risk at some banks 
+5.1.1. Growth in uninsured demandable deposits and its variation by bank size 
+ Banks of different sizes are regulated differently.  As noted by Yankov (2020), liquidity 
+coverage ratio (LCR) regulations were applied rigorously to large banks with size above $250 
+billion in assets, moderately to mid-size banks between $50 billion and $250 billion in assets, and 
+mildly to small banks below $ 50 billion in assets.20 These partitions were known ahead of time, 
+and the regulation implemented in a phased manner during 2014 to 2017. Partitioning banks 
+according to asset size in 2014Q3, we plot value-weighted ratios, i.e., they are the aggregate of the 
+numerator across banks in a partition, divided by the aggregate of the denominator.  
+Figure 3, Panel A shows that uninsured demandable deposits to bank assets follows an 
+upward trend during 2008Q4-2021Q4, from 16.5% to 39.2% for the largest banks, 14.1% to 35.8% 
+for mid-size banks, and 10.2% to 33.8% for the small banks. The largest proportional increase in 
+uninsured demandable deposits seems to take place for the small banks, the ones not subject to the 
+LCR regulations.  Importantly, the ratio  was stable for the largest  banks, rose for the smallest 
+banks, and fell for the medium sized banks during the Post-QE + QT period of 2014-19. It did fall 
+for all banks during the pandemic -QT in 2022- 23 as polic y rates were also raised sharply  
+(culminating with bank runs or sharp deposit outflows starting in 2023Q1). Perhaps more 
+accentuated is the ratio of uninsured demand deposits to bank rese rves (see Online Appendix 
+Figure A1 Panel A), which really explodes for the smallest banks during 2014- 2019, and again 
+around the initiation of QT in 2022. The differential behavior across banks in how claims on 
+liquidity and reserves respond to declines in aggregate reserves in Post -QE/QT periods m ay 
+explain why the reserves instrument is weak over these periods.  
+                                                 
+20 LCR regulation imposes a minimum requirement on the amount of unencumbered high-quality liquid assets 
+(HQLA) that would allow banks to service a supervisory 30-day liquidity stress scenario. In particular, HQLA 
+should exceed 30-day net outflow under the stress scenario, in its most stringent implementation. 
+===== PAGE 25 =====
+24 
+ 
+Even if commercial banks find issuing liquidity claims worthwhile, why do they not shrink 
+their issuance of claims on liquidity whenever the central bank withdraws reserves from the system 
+(as in 2014-2019)? One possibility is that banks feel confident in their access to liquidity because 
+they substitute lost reserves during QT with bonds that are eligible collateral for repo transactions. 
+Eligible securities are , of course, not cash, though they may give holders the illusion of ready 
+access to reserves. In a dash for cash, everyone will want to borrow reserves, and few will want to 
+lend them, exacerbating demand relative to supply. So substituting reserves with eligible securities 
+does not eliminate exposure to liquidity stress, and may indeed exacerbate it if banks become 
+overconfident about their access to reserves.   
+In Figure 3 Panel B we calculate a bank’s  ratio of uninsured demandable deposits to its 
+potential liquidity, the latter being measured as its reserves plus eligible assets, where eligible 
+assets are those that qualify as collateral for borrowing reserves from the Fed (at any time during 
+our sample period) . Such c ollateral is also commonly posted and accepted for repo market 
+transactions. Uninsured demandable deposits relative to potential liquidity fell during 2008Q4-
+2021Q4 from a multiple of 1.29 to 1.15 for the largest banks, and marginally rose from 0.97 to 
+0.98 for mid- size ban ks; for the small banks, however, it rose from 0.68 to 1.45. So there is 
+important cross-size variation in the ratcheting-up of liquidity risk in the banking sector. By 2021, 
+small banks, which traditionally used to hold more insured deposits and liquid assets, seem to have 
+swapped position with the largest banks in being the most exposed to unbacked uninsured deposits 
+(especially so given their limited access to wholesale funding and public bond and equity markets). 
+As a side note, Silicon Valley Bank was a small bank by our measure till 2019.
+21 
+Pandemic QT, when rates also moved up rapidly, is particularly interesting. Initially, from 
+2022Q1 to 2022Q4, the uninsured demandable deposit multiple rose for the largest, the mid- size, 
+and the small banks to 1.34, 1.09 and 1.7, respectively. But with the onset of banking stress in the 
+first quarter of 2023, and the rapid movement in deposits, the ratio fell to 1.09, 0.88 and 1.34 in 
+2023Q4, respectively, a particularly substantial fall for the small banks. 
+ 
+                                                 
+21 Ruan and Vij (2024), focusing on a 2018 regulatory cap on the size of Wells Fargo bank, document that it led to a 
+growth of uninsured deposits at smaller, less regulated banks, especially during the COVID-19 aftermath. 
+Subsequently, these banks faced deposit outflows around the SVB stress in 2023. Their finding is consistent with 
+facts we document, though the relative rise of uninsured demandable deposits at small banks is seen in data even 
+pre-2018 (and especially so relative to their potential liquidity).  
+===== PAGE 26 =====
+25 
+ 
+5.1.2. Claims to potential liquidity: a composite measure of liquidity risk  
+Recognizing credit lines are also claims on liquidity, we compute Claims to Potential 
+Liquidity as the ratio of uninsured demandable deposits and outstanding credit lines to reserves 
+plus eligible assets.22 Note that since the field for Off  Balance Sheet Unused Credit Lines 
+(RCFDJ457) only appears 2010Q1 onwards, our analysis of the Claims to Liquidity Ratio starts in 
+2010Q1. In Figure 4, Panel A shows that for the aggregate commercial ban king balance sheet, 
+claims to potential liquidity had come down to 1.6 by the end of QE III, rose again to peak at 1.9 
+around the liquidity stresses of September 2019 and the end of pre-pandemic QT, falling again to 
+1.5 during pandemic-QE, but then rising again to 1.8 by the time of banking stress of 2023 (and 
+falling thereafter), reflecting well its movement in tandem with the waxing and waning of Fed 
+balance sheet.  
+Figure 4 Panel B mirrors Figure 3 Panel B in showing the cross-section of the ratcheting-
+up of this measure of liquidity exposure from 2010Q1 to 2023Q1, emphasizing that it is most 
+pronounced again for the small banks.
+23 We will see that t he rise in outstanding credit lines, a 
+component of this measure, is an important vulnerability during the dash for cash at the time of 
+COVID outbreak.  
+Finally, Fi gure 4 Panel C shows how the distribution of Claims to Potential Liquidity 
+evolves, with a density plot separately for QE I-III, post QE III, and QT (2017Q4-2019Q3) periods, 
+in each case bunching all values greater than or equal to 6 as a single point of mass at 6. It is clear 
+that Claims to Potential Liquidity  ends up in  September 2019 (end of pre -pandemic QT) with a 
+significantly fatter right tail at values greater than or equal to 6. In other words, by September 
+2019, in addition to the system having a larger ratio of Claims to Potential Liquidity, there was an 
+increase in dispersion among banks in such Claims.  
+As aggregate reserves started shrinking during QT, reserve- deficient banks were now 
+effectively reliant on repo markets to obtain reserves from surplus banks by pledging eligible 
+                                                 
+22 There are other bank liabilities and assets that could also be considered. For instance, funds borrowed from the 
+Federal Reserve plus other funds borrowed (e.g., from Federal Home Loan Banks) could also signal fragility that 
+has been addressed by official backstops rather than privately; subordinated debt borrowings could matter if there is 
+a nexus of solvency and liquidity issues; finally, Federal funds sold and reverse repos could also be sources of 
+potential liquidity for banks given their short-term nature. Results that follow are robust to including these in 
+alternate definitions of claims to potential liquidity (see Online Appendix Figure A1 and Table A13). 
+23 Interestingly, uninsured demandable deposits drive most of the variation in the ratio for small banks. In size-
+weighted terms, these deposits at small banks grew by 2022Q1 to more than 300% of their 2010Q1 level, while their 
+holdings of eligible assets (Treasury and Agency securities) grew by less than 200% over the same period.  
+===== PAGE 27 =====
+26 
+ 
+assets, failing which they had to go to the Fed. As Acharya and Rajan ( 2024) explain, such  
+interdependence can render the system fragile and illiquid. Treasury repo rates could spike up if 
+surplus banks hoard liquidity, and with the overall system being tight, there may have been 
+incentive for them to do so.24  Similarly, the onset of the pandemic might not have caused the dash 
+for cash on corporate credit lines in March 2020  if the system had not already seen a significant 
+tightening of reserves relative to demandable claims on liquidity. 
+5.2. Liquidity risk seeking as a form of search for yield by banks  
+Why do banks seek liquidity risk? Meiselman, Nagel and Purnanandam (2023) show that 
+banks with high accounting returns on equity (ROE) had higher systematic tail risk during the 
+Global Financial Crisis (GFC). They show ROE has strong predictive power for materialization of 
+such tail risk both during the 2007- 09 global financial crisis as well as the 2023 banking sector 
+stress. Since bank top management has high- powered incentives to generate ROE, this may also 
+incentivize them to reach for yield by taking liquidity risks in normal times, that is, reduce funding 
+costs with uninsured demandable deposits and generate higher fee premia by writing credit 
+commitments, in return for a small probability of a really bad outcome when massive drawdowns 
+are realized (see, for example, Rajan (2006)). The post -GFC regulations such as more stringent 
+capital requirements (e.g., stress tests) and the LCR requirement w ere meant to curb this kind of 
+risk-taking, but these regulations apply more to large banks than small banks, and supervision post 
+GFC has also been uneven except for the very large banks, as suggested by Barr (2023).  
+Figure 5 relates the log of bank Return On Equity (ROE, measured as Income before Tax 
+divided by Total Book Equity) to the log of Claims to Potential Liquidity , at quarterly frequency 
+over the period 2010Q1 to 2021Q4, controlling for bank and time fixed effects, and separately for 
+mid-size and small banks (left plots) and large banks (right plots).
+25 Given the time -series 
+evolution in ratcheting-up of liquidity risk (as seen in Figures 3 and 4), Panel A shows the bin-
+scatter for QE I -III period of 2010Q1 to 2014Q3, Panel B for the post QE -III and QT period of 
+2014Q4 to 2019Q3, and Panel C shows it for the pandemic QE period of 2019Q4 to 2021Q4.  
+                                                 
+24 Such hoarding might be an attempt to signal their “fortress” balance sheet with high reserves, a consequence of 
+regulatory requirements to hold liquidity (Copeland, Duffie and Yang (2021), D’Avernas and Vandeweyer (2021)), 
+or the fear of supervisory stigma from having to access the Fed for intra-day reserves (Nelson (2019, 2022)). 
+25 Conclusions we draw are all robust to examining the relationship between bank ROE and claims to potential 
+liquidity, i.e., without taking logs (see Online Appendix Figure A2). 
+===== PAGE 28 =====
+27 
+ 
+The left plots show that while liquidity risk is positively and significantly associated with 
+ROE for mid -size and small banks across all three periods, the economic magnitude of the 
+relationship is small, with a unit increase in Claims to Potential Liquidity being associated with an 
+increase in bank ROE by around 1 -6 basis points.  In contrast, the right plots show that liquidity 
+risk is not statistically significantly associated with ROE for large banks during two of three 
+periods (perhaps due to lack of statistical power from there being only eight banks in this sample  
+of banks subject to the most stringent LCR). However, during QE and especially during post QE-
+III and QT (when the aggregate price of liquidity risk would have risen), the economic magnitude 
+of the relationship is large, and statistically significant in the latter. Conversely, during pandemic 
+QE when the system is flooded with liquidity and the relationship might have attenuated, the 
+coefficient estimate is negative. 
+ The bottom l ine, therefore, is that for banks below 250 billion in assets  (which typically 
+have lower profitability overall ), there appear to be gains in accounting profitability from taking 
+on liquidity risk across all QE and QT periods, though gains seem to be small. For large banks, the 
+gains are especially large post-QE and in QT when aggregate liquidity becomes tighter. That leads 
+to the critical question: Does any of this individual liquidity risk taking matter when aggregate 
+liquidity shortages emerge?   
+5.3. Consequences of ratcheting-up of bank liquidity risk  
+  We investigate two episodes of plausible aggregate  liquidity shortage, the COVID- 19 
+outbreak of March 2020 and runs on banks by uninsured depositors in March 2023. We have 
+shown that the individual bank’s response (and the aggregate systemic response) to the Fed’s QE 
+and QT  set up the mismatch between claims on liquidity and available liquidity that would 
+potentially be troubling in case of an aggregate shock . These mismatches were high as we have 
+seen (Figure 4 panel A) just before the onset of the pandemic, and before the bank runs in March 
+2023, especially for small banks (Figure 4 panel B). We now show that smaller banks with higher 
+liquidity risk exposure suffered greater stock price falls, claim drawdowns, and greater resort to 
+Fed liquidity facilities during these episodes.   
+5.3.1. COVID-19 outbreak (March 2020) 
+We first examine bank returns during March 2020, i.e., at the onset of the COVID -19 
+pandemic, when the financial system experienced intense liquidity stress. Panel A of Figure 6 
+shows the time-series from Jan 1 to June 30, 2020 of the stock return difference between banks 
+===== PAGE 29 =====
+28 
+ 
+split into those with high and those with low Claims to Potential Liquidity ratio (median split) 
+measured as of December 31, 2019. The stock prices of banks with an above-median ratio dropped, 
+on average, 7.5 percentage points more by third week of March 2020 compared to banks with a 
+below-median ratio. The decline is particularly  sharp from March 1, 2020 onward, as awareness 
+of the likely impact of the pandemic dawned, and until March 23, 2020, when a series of liquidity 
+interventions by the Federal Reserve Bank stemmed the market decline including of bank stock 
+prices (Acharya, E ngle, Jager  and Steffen, 2024).  While the differential stock return narrows 
+somewhat thereafter, it remained close to –4.0% even at end of June 2020. 
+To tease out the effects for smaller banks, and for the different components of Claims to 
+Potential Liquidity (though the small number of observations makes this analysis only suggestive), 
+we compute the total return on the stock of a BHC minus the cumulative stock market (S&P500). 
+In Table 6 column 1, the dependent variable is this excess return from Jan 1 st to Feb 28 th. As 
+explanatory variables, we include our measure of liquidity risk exposure, Claims to P otential 
+Liquidity (logged to ensure that inference is not driven by extreme outliers) and a set of BHC-level 
+control variables  at the end of 2019, consis ting of  Net Income/Assets, Equity/Assets, Non-
+Performing Loans to Loans ratio, Loans/Assets and the Primary Dealer Indicator. The coefficient 
+on Claims to Potential Liquidity, is positive. Since there were no relevant news surprises over this 
+period, all we take away is there was no pre-trend in stock prices.  
+In columns (2)-(4), the dependent variable is the cumulative excess return  from March 1 
+2020 to March 23rd 2020, the period when credit line drawdowns increased.  The various claims 
+to liquidity, both directly and interacted with bank size  indicator (which is one if book assets are 
+below or equal to $250bln in 2019Q4), are the primary explanatory variables of interest. Estimates 
+suggest that during 1 st-23rd March 2020, bank returns appear negatively but not significantly 
+correlated with claims (whether overall, credit lines, or deposits), and negatively but again not 
+significantly correlated with the smaller bank size indicator. Returns are, however, economically 
+as well as statistically significantly more negative for smaller banks with credit line exposure  
+(column 3).  
+With all the caveats associated with a small number of observations, this makes sense.  At 
+the outbreak of Covid, liquidity stress came from a drawdown in credit lines , as firms rushed to 
+assure themselves of liquidity bef ore banks t ightened conditions for drawdowns . Supportive of 
+this, in Figure 6 panel B, we plot the realized Gross Drawdowns  (measured as the change in 
+===== PAGE 30 =====
+29 
+ 
+outstanding corporate credit lines for a bank in FDIC Call Reports during Q1 2020 relative to total 
+assets) against the log of Credit Lines to Potential Liquidity ratio of banks. The scatter plot as well 
+as the fitted regression line show a clear positive association – banks that had written more credit 
+lines relative to potential liquidity experienced more drawdowns. This  must have particu larly 
+affected the stock price of small and medium banks that had written them as they would have had 
+to find immediate costly sources of liquidity to meet these demands and because these drawdowns 
+encumbered bank capital (see Acharya, Engle, Jager and Steffen (2024)) . Because there were no 
+associated fears of bank insolvency, uninsured demand deposit exposure at these banks was not as 
+much a worry for market participants (column 4), which is perhaps why we find overall liquidity 
+exposure at smaller banks has large negative but noisy effects (column 2).26 
+How about borrowing from the Fed and allied authorities? W e plot in Figure 7 Panel A 
+quarterly data on “Other Borrowings” (relative to assets), which include discount window 
+borrowing from the Fed as well as advances from the Federal Home Loan Banks (FHLBs) for the 
+period 2019Q1 to 2023Q1. Panel A shows that Other Borrowings were high following the COVID-
+19 outbreak in 2020, especially for smaller banks, consistent with discount window borrowings 
+from the Fed, but started declining from 2020Q2 until 2022Q1 when tightening started again.  
+Large banks were uniformly less reliant than small banks on these facilities from 2019 Q3.  
+We can delve deeper. There usually is stigma associated with discount window borrowing, 
+so banks undertake it only if liquidity stressed. The dependent variable in columns (5)-(7) of Table 
+6 is an indicator if a bank borrowed from the Fed’s discount window during 2020Q1- Q4.  The 
+coefficient estimates on all direct measures of claims to potential liquidity are negative, suggesting  
+large banks that write them do not have to approach the discount window because they have other 
+sources of liquidity (e.g., repo borrowing) or offsetting claims on liquidity during stressed times 
+as in Kashyap, Rajan, and Stein (2002) and Gatev and Strahan (2007) (e.g., if credit line 
+drawdowns on smaller banks are redeposited with large banks). By contrast, we find that relative 
+to large banks, smaller banks are significantly more likely to approach the discount window, 
+especially if they have written more claims to liquidity. Interestingly, even though there were no 
+                                                 
+26 Indeed, as documented by Li, Strahan and Zhang (2020), many (e.g., the highest-rated) firms that drew down 
+credit lines from the largest banks did so for precautionary reasons rather than liquidity needs and simply 
+redeposited credit line drawdowns with their banks, transforming a possibly revocable promise (credit line) to an 
+irrevocable one (deposit). 
+===== PAGE 31 =====
+30 
+ 
+significant uninsured deposit drawdowns, we find that smaller banks that have uninsured deposit 
+exposure (column (7)) also approached the discount window, perhaps with a precautionary motive.   
+   Because of the early and unprecedentedly large Fed intervention, and perhaps because 
+large banks were better-capitalized and more solvent than during the global financial crisis, the 
+dash for cash did not turn into a full -scale panic. T he events of March 2020 remained simply a 
+warning of what could happen. We turn next to the bank runs of March 2023.   
+ 5.3.2. Mid-sized bank runs and regional banking stress (March 2023) 
+Figure 2 Panel B shows a steep, almost vertical, increase in commercial bank reserves and deposits 
+in 2020Q1 with the QE initiated at the onset of the COVID-19 pandemic, while Figure 4 Panel B 
+shows Claims to Potential Liquidity  ratcheting up till early 2023. Did the pandemic QE and the 
+growth in liquidity exposure set the stage for the banking stress that followed in March 2023?  
+ In March 2023, a mid -size bank, Silicon Valley Bank (SVB) Financial Group, with over 
+$200 billion in assets, became distressed. SVB had gained 140 billion dollars in deposits during 
+the Pandemic QE period of 2019Q4 -  2022Q1, over 90% being uninsur ed deposits. However, as 
+has been our recurring theme, reserves did not stay where the demandable deposits were. Instead, 
+SVB had invested mostly in a long -dated Treasury portfolio and the rest in loans to tech -sector 
+startups that were also its depositors in a large m easure.  The pace of its expansion was so rapid 
+that both total assets and deposits more than tripled during the Q1 2020 to Q4 2022 period. When 
+interest rates were raised sharply in 2022 -23, long duration asset values fell. T he resulting value 
+erosion of SVB’s bond portfolio and tech sector losses induced a net outflow of $25 billion of 
+deposits between 2022 Q2-2022Q4. This accelerated to a full-fledged run as large depositors, such 
+as tech -sector venture -capital firms , sensed insolvency. After  a significa nt loss of deposits in 
+March 2023, the bank failed on March 10, 2023 and was put under FDIC receivership. At least 22 
+banks experienced runs at that time (see Cipriani, Eisenbach, and Kovner (2024)). The runs ended 
+after unprecedented intervention by the F ed, the FDIC,  and the Treasury, including a new Fed 
+Bank Term Funding Program (BFTP), lending by the Federal Home Loan Banks, and the invoking 
+of the systemic risk exception to bail out all uninsured depositors  in the failed banks. T he FDIC 
+incurred losses exceeding $30 billion to date in the process (Gruenberg (2023)). 
+While some banks were likely insolvent and man y poorly supervised, did t heir outcomes 
+turn out to be  emblematic of small - and medium -sized banks in general , especially given the 
+ratcheting up of liquidity risk at small banks seen in Figures 3 and 4? Table 7 answers this question 
+===== PAGE 32 =====
+31 
+ 
+econometrically, also employing bank-level control variables in the cross-sectional regressions. It 
+is especially important in this period to separate liquidity risk effects from potential concerns of 
+solvency. Hence, we verify that the results are robust to controlling for each bank’s mark-to-market 
+losses using balance sheets and the methodology of Jiang et al. (2023) to compute losses, allowing 
+for the effect of losses to vary by bank size groups (Online Appendix Table A11 Panel B).  
+In column 1, the dependent variable is the bank’s pre event excess return (over the period  
+Jan 3-Feb 28 2023). As we can see from the positive but economically small coefficient estimate 
+on Claims to Potential Liquidity , there is no pre -trend. Columns (2) -(4) examine excess stock 
+returns of banks over the period 1st March to 13th March 2023, which represents the peak period 
+of bank runs on small and mid-sized banks, with a range of dependent variables that allow for the 
+effect of liquidity risk (and its components)  to be size- dependent. Coefficient estimates suggest 
+once again there is indeed a divergence betw een large  banks and smaller ones. In particular, 
+interacting claims to potential liquidity with an indicator if the bank’s 2022Q4 asset size is below 
+$250 billion shows that the adverse stock market effects are relatively much larger for m id-size 
+and small banks relative to similar large banks. Importantly, it is uninsured deposits to potential 
+liquidity (and also claims to potential liquidity, of which it is the major component) which drive 
+the effect. In particular, if we vary the claims to potential liquidity ratio from the 25
+th to the 75th 
+percentile of its distribution, the adverse stock market return implied by the coefficient estimates 
+is 2.78 p.p. lower for small and mid-size banks relative to that for similarly exposed large banks. 
+Interestingly, because the concerns in March 2023 were centered around the solvency of banks 
+stemming from illiquidity, not around corporate needs to drawdown credit lines, credit lines 
+outstanding seem to play less of a role.
+27 
+Turning to quarterly change in uninsured demandable deposits in Columns (5)-(7), higher 
+exposure to liquidity risk does result in drawdowns of deposits from 2022Q1 to 2023Q1, especially 
+at smaller banks. The magnitude of the effect is particularly pronounced for banks that have high 
+uninsured depos its to potential liquidity exposure.  For large banks, the change is positive, 
+consistent with a flight- to-quality of uninsured deposits to the largest banks (see, for instance, 
+Caglio, Dlugosz, and Rezende (2023)). While the latter may in part be due to their too -big-to-fail 
+                                                 
+27 In Online Appendix Table A11 Panel A we exclude delisting returns of the failed banks (Signature Bank and 
+Silicon Valley Banks) and also run a cross-section with Change in Ln(Uninsured Demandable Deposits) and Change 
+in Ln(Other Borrowed Money) over 2022Q4-2023Q1. Results are robust to these changes. 
+===== PAGE 33 =====
+32 
+ 
+status, we showed earlier in Figure 4 that these banks, on average, brought down their Claims to 
+Potential Liquidity substantially since 2008Q3, perhaps because of more binding LCR 
+requirements, besides being better-capitalized than the rest because of their systemic status.    
+Finally, a significant consequence of all this was again the liquidity dependence of smaller 
+banks on the Fed. Returning to Figure 7 Panel A, we see that Other Borrowed Money sky-rocketed 
+for small and medium banks, growing steadily as the Fed started tightening in March 2022. In 
+contrast, their borrowing in the private market, as evidenced by Fed Funds Borrowed in Figure 7 
+Panel B, stayed low during the crisis. Private b orrowing by large banks increased significantly in 
+2023q1, suggesting they continued to be able to access private markets. Comparing the magnitudes 
+across the panels, while large banks had approximately equal reliance on public and private funds 
+during 2023Q1, for small (mid- size) banks the reliance on public funds was about eight (seven) 
+times that on private funds. This suggests that the Fed and Home Loan Banks, not private markets, 
+emerged as the marginal source of liquidity for small and mid-size banks, confirming their liquidity 
+dependence.  
+The estimates in Table 7 Columns (8)-(10) highlight this liquidity dependence of smaller 
+banks on the authorities (unfortunately, details of discount window borrowing will be released 
+only with a two -year lag). The (log) quarterly change in Other Borrowings f rom 2022Q 1 to 
+2023Q1 is significantly greater for smaller banks with greater (log) claims to potential liquidity . 
+Once again, these data suggests that unlike at the time of COVID outbreak, this dependence is 
+driven by banks with uninsured demandable deposits  exposure (column 10) and less so by those 
+with outstanding credit lines (column 9). 
+In sum then, our analysis of where liquidity exposures build up in the system, and then how 
+they play out in the face of aggregate liquidity shocks in March 2020 a nd March 2023 , suggest 
+liquidity exposure is not entirely benign . At the very le ast, it suggests a dependence on  Fed 
+liquidity support. Of course, we do not have compelling explanations about why liquidity risk 
+exposure builds up in parts of the banking system other than the lack of regulation coupled with 
+the agency incentive to search for yield. There could also be organizational behavior explanations. 
+For instance, if units are set up by banks to write lines of credit, it may be hard for them to withdraw 
+committed lines, or disband units, when reserves shrink.  The need to maintain corporate 
+relationships may be a related reason why banks may be reluctant to cut back on liquidity claims. 
+Silicon Valley Bank, for instance, maintained uninsured transaction deposit accounts for tech 
+===== PAGE 34 =====
+33 
+ 
+companies (see, for example, Chang, Cheng and Hong (2023)). Until the shortage of aggregate 
+liquidity makes itself felt through disruptions, individual banks may not realize, or have an 
+incentive to ignore, a tightening of aggregate conditions. Such behavior may be especially 
+pronounced and rational if banks believe the Fed will always come to the rescue. Indeed, since the 
+Fed has repeatedly come to the rescue and reaffirmed the liquidity put, it is hard to assess the 
+counterfactual.
+ 
+6. Discussion: Other Explanations and Policy Implications. 
+6.1. Other Explanations 
+A possible explanation of our finding that banks expand their balance sheets at the same 
+time as the Fed does is that it is not causal. Instead, as Lopez-Salido and Vissing-Jorgensen (2022) 
+argue, the value of household assets increased during QE, and the rise in deposits could be a natural 
+consequence if the households maintained a constant deposit to asset ratio. The fact that uninsured 
+demand deposits expand disproportionately with reserves during QE (see Figure 2 Panel B), and 
+uninsured deposits are typically not held by households suggests this cannot be the entire story.
+28 
+It is also not clear why, if banks passively accommodated deposit flows, they would push time 
+deposit rates lower (as we have documented) or issue credit lines when flush with reserves.  
+6.2. Policy Implications  
+Turning to policy, clearly a primary function of a central bank is to provide emergency 
+temporary liquidity support to maintain financial stability. Indeed, the shortage of reserves relative 
+to claims can never be a problem if the Federal Reserve can lend reserves at short notice to the 
+degree desired to all who desire it, and have eligible collateral to borrow.
+29  
+                                                 
+28 A more direct way to test our explanation is to re-estimate Table 1 Panel A controlling for the change in 
+household financial assets. However, since household financial assets also contain deposits, which is the dependent 
+variable, we include the change in household financial assets minus deposits (or insured deposits, which are 
+typically held by households) to rule out a mechanical correlation in the time-series, and to capture the effect of 
+household financial assets alone. Formally, if Reserves ( )
+OtherThanDeposits
+t t t ttD HA Dαγ ε= + ++ is the true model, then 
+we can recover γ  by estimating Reserves
+11
+OtherThanDeposits
+t tt tD HAαγ π
+γγ
+= ++
+−−
+. We find in Online Appendix Table 
+A4 that the coefficient on household assets less deposits is not statistically significant, while the coefficient estimate 
+on reserves increases.  
+29 The costs of repeated emergency liquidity infusion include  distortions in the price of liquidity, windfall gains to 
+those who have access to central bank-provided liquidity or who can game or time central bank liquidity intervention, 
+and distortions in private sector credit and investment when the private sector knows the central bank will be available 
+whenever liquidity bets go sour. See Acharya, Shin and Yorulmazer (2011), Diamond and Rajan (2012), or Farhi and 
+Tirole (2012) on the theoretical modeling of such collective moral hazards.     
+===== PAGE 35 =====
+34 
+ 
+Our concern is that Fed balance-sheet expansion followed by contraction can create a large 
+and persistent  mismatch. The problem then is not just temporary intra-day demand-supply 
+mismatches for reserves (which undoubtedly will increase) but that the entire banking system will 
+have a higher stock of claims on potential liquidity issued by banks – that is, the aggregate bank 
+balance sheet is more levered with demandable claims and fewer supporting reserves. By raising 
+the risk of dash-for-cash episodes, including the possibility the Fed may int ervene too little, too 
+late, and not reach the right places, the persistent mismatch may serve as an overhang to activity 
+(see Acharya and Rajan ( 2024)). Unless all participants are confident of repeated, adequate, and 
+timely Fed intervention, seemingly the best way for the Fed to eliminate the overhang of liquidity 
+risk is through a durable infusion of additional reserves into the market, that is, a central bank 
+balance sheet expansion. But such an intervention then raises the specter  of further liquidity 
+dependence, our key concern, as commercial banks issue further claims on liquidity in response.   
+In other words, unless Fed’s balance sheet expansion is quickly and predictably reversed, 
+commercial bank responses will demand a bigger central bank balance sheet for longer. However, 
+temporary intervention may not alleviate concerns  unless banks dial down liquidity mismatches . 
+The Fed may be trapped into accommodating liquidity dependence  of banks . There are other 
+consequences; if the central bank is forced to resume QE in a time of above-target inflation, it may 
+send confusing signals to the market . F resh QE  may also foster irresponsible fiscal policy if 
+government finances are already strained, as seems currently the case in industrial economies.     
+   Our findings have implications for monetary policy. By buying long-term bonds from the 
+market using reserves, the Federal Reserve expects to compress the yield on long-term financing, 
+thereby facilitating the financing of long- term projects (also known as “portfolio rebalancing”) . 
+However, we find that banks have been shortening the maturity of their liabilities over the period 
+of QE, making it harder for them to finance long-term loans without incurring costly asset/liability 
+maturity mismatches. In other words, the maturity-shortening effect of QE on the bank’s liability 
+side may limit any maturity -lengthening effects of QE on the bank asset side,  dampening the 
+effectiveness of the portfolio-rebalancing channel (see Greenlaw et al., 2018, and Fabo et al., 2021 
+for more questions on the effectiveness of QE).30  
+                                                 
+30 We show in Online Appendix Table A 12 that an exogenous increase in bank’s reserves affects its loan growth 
+adversely, echoing the findings of Diamond, Jiang and Ma (2021), who document a restraining effect of quantitative 
+easing on non-reserve assets of banks, and of Altavilla, Rostagno and Schumacher (2023), who find that only the non-
+borrowed portion of reserves (i.e., reserves not funded with deposits) is positively related to bank loans. 
+===== PAGE 36 =====
+35 
+ 
+ 7. Further Research and Conclusion. 
+Our work suggests that stress may build when the elasticity of liquidity claims to reserves 
+is much higher during QE than QT, leaving large liquidity mismatches  – our Claims to Liquidity 
+can be a useful measure both in the aggregate and in subsets of banks of impending aggregate 
+tightness. However, large changes in monetary policy interest rates can also have an independent 
+effect on deposit (and reserve) withdrawals from banks. And, of course, depositor panics may have 
+to be offset by Fed-cum-Treasury solvency and liquidity interventions. Arguably, we have seen all 
+this since the pandemic QT started in 2022. A fter the mini-panic of March 2023, subsequent QT 
+seems to have eaten into money market reserve holdings rather than bank reserve holdings, perhaps 
+because of generous Fed lender of last resort support to banks . Our primary insight that we need 
+to incorporate private bank behavior  to understand the financial stability implications of the 
+waxing and waning of central bank balance sheet size will likely hold up.  
+Policy measures should also ensure the flow of liquidity between banks to mitigate liquidity 
+stress when it materializes. In particular, supervisors should be particularly wary of ratcheting up 
+implicit liquidity requirements (see Nelson (2019, 2022)) as the fear of such supervisory action in 
+response to a bank’s intra-day overdrafts can accentuate the phenomenon of reserve hoarding by 
+surplus banks (Bank of England (2022), Copeland, Duffie, and Yang (2021)).  
+Finally, our evidence is based entirely around the balance-sheet decisions of the Federal 
+Reserve. What about other systems? In recent work, Angeloni et al. (2024) document that the 
+positive relation of banking sector reserves to uninsured demandable deposits that we 
+documented for the US holds up also for the Eurozone countries. Using available data from 
+balance-sheets of stress-tested and systemically important banks since 2010, they also show that 
+in the Eurozone too, “small” banks (based on below median assets on average over the sample 
+period 2010-23) grew their transactions deposits faster than the “large” banks (above median 
+assets). Large banks also reduced their transaction deposits more once reserves decreased.  Are 
+drivers of these patterns in Europe similar to those we documented for the US banks, and what 
+compensating regulations have allowed European banks to fare better during the recent period of 
+rate hike and QT? Du, Forbes and Luzzetti (2024) finds only a modest impact of QT in seven 
+advanced economies on overnight funding spreads though, as we argue, the US banking turmoil 
+of March 2023 was in part a consequence of QT. Once the dust has settled, more data will be 
+available to help us understand all this. More research is clearly warranted. 
+===== PAGE 37 =====
+36 
+ 
+References 
+ 
+Acharya, Viral V., Robert Engle, Max imilian Jager and Sascha Steffen, “Why Did Bank Stocks Crash 
+During COVID-19?”, Review of Financial Studies, 2024, Volume 37, Issue 9, Pages 2627-2684 
+Acharya, Viral V., Manasa Gopal, Maximilian Jager and Sascha Steffen, 2024, “Shadow Always Touches 
+the Feet: Implications of Bank Credit Lines to Non-Bank Financial Intermediaries”, working paper, NYU 
+Stern School of Business.  
+Acharya, Viral V. and Nada Mora, "A Crisis of Banks as Liquidity Providers",  Journal of Finance, 2015, 
+70(1), 1-44. 
+Acharya Viral V., and Raghuram Rajan, “Liquidity, liquidity everywhere, not a drop to use : Why flooding 
+banks with central bank reserves may not expand liquidity” , Journal of Finance, 2024, Volume 79, Issue 
+5, 2943-2991. 
+Acharya, Viral V., Hyun -Song Shin and Tanju Yorulmazer, "Crisis Resolution and Bank Liquidity,"  
+Review of Financial Studies, 24(6), 2011, 2166-2205. 
+Acharya, Viral V. and Sascha Steffen, 2020.  “The risk of being a fallen angel and the corporate dash for 
+cash in the midst of COVID” Review of Corporate Finance Studies, Volume 9, Issue 3, Pages 430-471. 
+Altavilla, Carlo, Massimo Rostagno and Julian Schumacher (2023) “Anchoring QT: Liquidity, Credit and 
+Monetary Policy Implementation,” Working paper, Center for Economic Policy Research. 
+ 
+Angeloni, Ignazio, Stijn Claessens, Amit Seru, Sascha Steffen and Beatrice Weder di Mauro. Much Money, 
+Little Capital, and Few Reforms: The 2023 Banking Turmoil, 2024 Geneva Report. 
+Bank of England (2022), “The Prudential Liquidity Framework: Supporting Liquid Asset Usability”, 
+Discussion Paper 1/22. 
+Barr, Michael (2023), “ Review of the Federal Reserve’s Supervision and Regulation of Silicon Valley 
+Bank”, https://www.federalreserve.gov/publications/files/svb-review-20230428.pdf 
+Caglio, Cecilia, Jennifer Dlugosz, and Marcelo Rezende (2023), “ Flight to Safety in the Regional Bank 
+Crisis of 2023”, working paper, Federal Reserve Board.   
+Carletti, Elena,  Filippo De Marco, Vasso Ioannidou ∗, Enrico Sette (2021) “Banks as Patient Lenders: 
+Evidence from a Tax Reform,” Journal of Financial Economics, 141, 6-26.  
+ 
+Cipriani, Marco, Thomas Eisenbach, and Anna Kovner (2024), “Tracing Bank Runs in Real Time”, Federal 
+Reserve Bank of New York Staff Report No 1104.  
+Copeland, Adam, Darrell Duffie and Yilin (David) Yang (2021) “Reserves Were Not So Ample After All”, 
+Working Paper, Federal Reserve Bank of New York. 
+Cragg, J.G. and S.G. Donald (1993) “Testing Identifiability and Specification in Instrumental Variable 
+Models,” Econometric Theory, 9, 222 – 240.  
+D’Avernas Adrien and Quentin Vandeweyer (2021) “Intraday Liquidity and Money Market Dislocations”, 
+Working Paper, University of Chicago Booth School of Business. 
+===== PAGE 38 =====
+37 
+ 
+Diamond, D W and R G Rajan, (2012), "Illiquid Banks , Financial Stability, and Interest Rate Policy," 
+Journal of Political Economy, 120(3): 552 - 591.  
+Diamond, William, Zhengyang Jiang, and Yiming Ma (2021), “The Reserve Supply Channel of 
+Unconventional Monetary Policy”, SSRN working paper. 
+Drechsler, Itam ar, Alexi Savov, and Philipp Schnabl (2017) "The deposits channel of monetary 
+policy." The Quarterly Journal of Economics 132, no. 4: 1819-1876. 
+Drechsler, Itamar, Alexi Savov, and Philipp Schnabl (2021)  "Banking on Deposits: Maturity 
+Transformation without Interest Rate Risk." Journal of Finance.  
+Du, Wenxin, Krisin Forbes, and Matthew Luzzetti (2024) “ Quantitative Tightening Around the Globe: 
+What Have We Learned?” Prepared for the US Monetary Forum, 28 February 2024. 
+Fabo, Brian, Martina Jancokova, Elisabeth Kempf, and Lubos Pastor, (2021), “Fifty Shades of QE: 
+Comparing Findings of Central Bankers and Academics”, SSRN working paper.  
+Farhi, Emmanuel and Jean Tirole 2012. “Collective Moral Hazard, Maturi ty Mismatch, and Systemic 
+Bailouts.” American Economic Review 102: 60–93. 
+Gatev, Evan and Philip Strahan 2006. “Banks' Advantage in Hedging Liquidity Risk: Theory and Evidence 
+from the Commercial Paper Market”, Journal of Finance, Volume 61, Issue 2, Pages 867-892. 
+Greenlaw, D.; Hamilton, J. D.; Harris, E. S.; and West, K. D. (2018) “A Skeptical View of the Impact of 
+the Fed’s Balance Sheet.” Working Paper.  Available at https://research.chicagobooth.edu/ -
+/media/research/igm/docs/2018-usmpf-report.pdf. 
+Gruenberg, Martin, (2023)
+, On the Notice of Proposed Rulemaking on Long-Term Debt, August 29 
+2023: https://www.fdic.gov/news/speeches/2023/spaug2923a.html 
+Ivashina, Victori a and David Scharfstein (2010) “ Bank Lending During the Financial Crisis of 2008" , 
+Journal of Financial Economics 97 (3): 319–338. 
+Jiang, Erica, Gregor Matvos, Tomasz Piskorski and Amit Seru (2023) “Monetary Tightening and U.S. Bank 
+Fragility in 2023: Mark to Market Losses and Uninsured Deposit Rusn,” NBER Working Paper #31048. 
+Kashyap, Anil (2020), “The Dash for Cash and the Liquidity Multiplier: Lessons from March 2020”, speech 
+at the LBS AQR Asset Management Institute Virtual Summit. 
+Kashyap, Anil, Raghuram G Rajan and Jeremy Stein (2002) “Banks as Liquidity Providers: An Explanation 
+for the Coexistence of Lending and Deposit-Taking”, Journal of Finance, LVII(1), 33-73.  
+Kleibergen, F. and Paap, R.  2006.  Generalized Reduced Rank Tests Using the Singular Value 
+Decomposition.  Journal of Econometrics, Vol. 133, pp. 97-126. 
+ 
+Leonard, Deborah, Antoine Martin, and Simon M. Potter (2017), “How the Fed Changes the Size of its 
+Balance Sheet”, Liberty Street Economics, Federal Reserve Bank of New York. 
+Li, Lei, Philip Strahan and Song Zhang, “Banks as Lenders of First Resort: Evidence from the COVID-19 
+Crisis,” Review of Corporate Finance Studies, Volume 9, Issue 3, November 2020, Pages 472–500. 
+ 
+Lopez-Salido David and Annette Vissing-Jorgensen (2022) “Reserve Demand and Balance-sheet Runoff”, 
+Working paper, Federal Reserve Board of Governors. 
+===== PAGE 39 =====
+38 
+ 
+Meiselman, Ben S., Stefan Nagel and Amiyatosh Purnanadam (2023) “Judging Banks’ Risk by the Profits 
+They Report”, Working Paper, University of Chicago Booth School of Business. 
+ 
+Nelson, Bill (2019) “Fed’s Balance Sheet Can and Should Get Much Smaller”, Remarks at Brookings 
+Symposium on Repo Market Disruption, Bank Policy Institute.  
+ 
+Nelson, Bill (2022) “More Taxis Sitting Idle”, Blog, https://bpi.com/more-taxis-sitting-idle/
+ 
+Ruan, Tianyue and Siddharth Vij (2024) “Size-Based Regulation and Bank Fragility: Evidence from the 
+Wells Fargo Asset Cap,” Working Paper, National University of Singapore. 
+ 
+Rajan, Raghuram (2006) “Has Financial Development Made the World Riskier?”, European Financial 
+Management, 12(4), pp. 499-533. 
+ 
+Schwert, Michael. "Bank capital and lending relationships." The Journal of Finance 73, no. 2 (2018): 787-
+830.Stulz, René M., Alvaro G. Taboada, and Mathijs A. Van Dijk. The Determinants of Bank Liquid Asset 
+Holdings. No. w30340. National Bureau of Economic Research, 2022. 
+Stock, James, and Motohiro Yogo. "Asymptotic distributions of instrumental variables statistics with many 
+instruments." Identification and inference for econometric models: Essays in honor of Thomas 
+Rothenberg 6 (2005): 109-120. 
+Yankov, Vladimir, 2020, The liquidity coverage ratio and corporate liquidity management, FEDS  Notes, 
+2020-02.
+===== PAGE 40 =====
+ 
+ 
+39 
+Figure 1.  Quantitative Easing, Quantitative Tightening, and Commercial Bank Balance 
+Sheets 
+ 
+The figure below shows how the Federal Reserve’s balance sheet expansion during quantitative easing (QE) affects  
+commercial bank balance sheets.  
+ 
+Panel A: QE – Purchase from Banks 
+Panel A shows the Fed purchasing securities from banks, with banks effectively swapping eligible securities for 
+reserves. In this case, commercial bank balance sheets do not expand with the expansion of the Fed balance sheet. 
+ 
+ 
+
+===== PAGE 41 =====
+ 
+ 
+40 
+Panel B: QE – Purchase from Non-banks/public  
+Panel B shows the Fed purchasing eligible securities directly from non-banks/public. In this case, commercial bank 
+balance sheets expand with the expansion of the Fed balance sheet as the non-banks deposit the Fed payment in the 
+bank. 
+ 
+ 
+ 
+ 
+Panel C: QT – Asset Sale to Banks, No Contraction in Bank Balance Sheets 
+Panel C shows the asset swap  with banks during quantitative tightening (QT). As Fed balance sheet shrinks, 
+commercial bank deposits do not shrink in this case. 
+ 
+  
+
+===== PAGE 42 =====
+ 
+ 
+41 
+Figure 2. Time-Series of Aggregate Reserves, Deposits, and Credit Lines 
+ 
+The panels plot credit lines (left y -axis), deposits (right y-axis) and reserves (left y-axis) as a percentage of gross 
+domestic product (GDP) for all commercial banks  using data from the Federal Reserve ’s Financial Accounts of the 
+United States (Flow of Funds).  
+ 
+Panel A. Credit Lines, Deposits, and Reserves as percentage of GDP 
+ 
+The vertical lines correspond to the beginning of the different Federal Reserve QE / QT phases: (1) Nov 2008 (QE I), 
+(2) Nov 2010 ( QE II), (3) Nov 2012 (QE III ), (4) Oct 2014 ( Post QE III), (5) QT period, (6) Sept 2019 (P andemic 
+QE) (7) March 2022 (Pandemic QT). 
+ 
+ 
+ 
+  
+ 
+  
+
+===== PAGE 43 =====
+ 
+ 
+42 
+Panel B. Uninsured and Insured Demand and Time Deposits, and Reserves as percentage of GDP 
+ 
+We plot demandable (demand, savings, and money market deposits) and time deposits partitioned into insured and 
+uninsured deposits using FDIC’s Call Reports Data for the period 2008Q4-2023Q4. Computation of Insured and 
+Uninsured Domestic Deposits are based on call report schedule RC-O. Insured domestic deposits are defined as 
+deposits lying below the FDIC deposit insurance thresholds of $100,000 before 2006Q1, non-retirement accounts 
+below $100,000 and retirement accounts below $250,000 between 2006Q1-2009Q2 and $250,000 after 2009Q2. 
+Split of time deposits into Insured vs. Uninsured Deposits are based on the aforementioned deposit insurance 
+thresholds ($100k before 2010Q1 and $250k thereafter) in schedule RC-E.  Demandable Domestic Insured and 
+Uninsured deposits are estimated by taking the difference between Total Domestic Insured/Uninsured Deposits and 
+Domestic Insured/Uninsured Time Deposits respectively. Uninsured demandable deposits are domestic uninsured 
+demand deposits plus non-interest-bearing foreign deposits. Uninsured time deposits are domestic uninsured time 
+deposits plus interest-bearing foreign deposits. 
+  
+ 
+ 
+ 
+  
+
+===== PAGE 44 =====
+ 
+ 
+43 
+ 
+Panel C: Share of Uninsured and Insured Demandable Deposits to Total Deposits 
+We plot the share of Domestic Uninsured Demandable Deposits and Domestic Insured Demandable Deposits to total 
+domestic deposits estimated using US Call Reports annually for the time period 2001-2023. Foreign deposits are 
+excluded from this chart.  
+ 
+ 
+Panel D: Ratio of Deposits to Household Financial Assets  
+We plot the ratio of aggregate US household deposits to household financial assets (series BOGZ1FL194090005Q) 
+from Flow of Funds for the period Oct 1987-Dec 2023.  
+ 
+ 
+ 
+
+===== PAGE 45 =====
+ 
+ 
+44 
+Figure 3: The Rise in Uninsured Demandable Deposits 
+ 
+Panel A: Uninsured Demandable Deposits/Assets 
+We plot the ratio of aggregate uninsured demandable deposits to aggregate b ook assets of banks that fall within the 
+size buckets of (i) Bank Assets above $250bn (ii) Bank Assets between $50-250bn and (iii) Bank Assets below $50bn, 
+with Bank Assets measured in 2014Q3. Uninsured demandable deposits are defined as the difference between Total 
+Uninsured Deposits and Uninsured Time Deposits plus Non-interest Bearing Foreign Deposits. Bank Assets refer to 
+Total Book Assets. Bank Reserves refer to balances due at Federal Reserve Banks. Eligible assets consist of Treasury 
+and Agency securities that were eligible for swap against reserves in at least one Quantitative Easing round between 
+2008Q4-2021Q4. The sample ranges 2008Q4 to 2023Q4. All data is sourced from FDIC's Call Reports.   
+ 
+ 
+ 
+Panel B: Uninsured Demandable Deposits/(Reserves + Eligible Assets) 
+ 
+Panel B plots the ratio of aggregate uninsured demandable deposits to the aggregate sum of bank reserves and 
+eligible assets of banks within the aforementioned size buckets. 
+ 
+
+===== PAGE 46 =====
+ 
+ 
+45 
+Figure 4. Claims toPotential Liquidity: (Credit Lines + Uninsured Demandable 
+Deposits)/(Reserves  + Eligible Assets) 
+We plot the time -series of Claims to Potential Liquidity, which is the ratio of the sum of aggregate undrawn credit 
+lines and uninsured demandable deposits to the sum of reserves and eligible assets between 2010Q1-2023Q4, with 
+data (field) obtained for each component from Call Reports: Off -balance sheet unused lo ans or credit lines 
+(RCFDJ457); Uninsured demandable deposits, obtained by subtracting time deposits of more than $250,000 ($100,000 
+before 2010Q1) from total uninsured deposits, the latter being estimated from schedule RC- O of Call Reports, to 
+which we ad d non -interest bearing foreign deposits.  Reserves are from RCFD0090 (RCON0090 if missing), and 
+Eligible assets consist of Treasury and Agency securities that were eligible for  swap with the Fed for reserves in at 
+least one quantitative easing round between 2008Q4-2023Q1. We set the value of reserves and credit lines to zero for 
+a given quarter if they are missing. All data are from FDIC’s Call Reports. 
+ 
+ 
+Panel A: Claims to Potential Liquidity for the aggregate banking sector 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 47 =====
+ 
+ 
+46 
+Panel B: Claims to Potential Liquidity by bank size categories 
+ 
+We plot Claims to Potential Liquidity aggregated within bank size categories of  (i) Bank Assets above $250bn (ii) 
+Bank Assets between $50-250 bn, and (iii) Bank Assets below $50bn, banks classified by assets as of 2014Q3.   
+ 
+ 
+Panel C: Density of Claims to Potential Liquidity, for different QE and QT periods 
+Panel C plots the density of distribution of the ratio in different QE and QT periods. QEI-III refers to the period 
+2010Q1-2014Q3, Post QE-III period refers to 2014Q4-2017Q3, and QT period refers to 2017Q4-2019Q3. 
+ 
+ 
+ 
+  
+
+===== PAGE 48 =====
+ 
+ 
+47 
+Figure 5. Return on Equity and Claims to Potential Liquidity Ratio by Bank Size 
+The panels are bin- scatter plots of log of bank Return on Equity (ROE) on the log of Claims to Potentia l Liquidity 
+ratio for different bank size sub samples. The Claims to Potential Liquidity ratio is defined as the sum of off-balance 
+sheet credit lines and uninsured demandable deposits divided by the sum of reserves and eligible assets (as in Figure 
+4). We scale the Claims ratio with its Standard Deviation in every sub-sample. ROE is the ratio of Income before Tax 
+to Total Bank Book Equity. Data are sourced from FDIC Call Reports. We control for bank and time fixed effects.  
+ 
+The left plot is for smaller banks i.e. banks with assets less than $250 billion in 2014Q3. The right panel is for large 
+banks with more than $250 billion in assets. 
+Panel A: QE-I-III 
+Panel A plots data for 2010Q1-2014Q3 (QE-I-III). 
+ 
+ 
+ 
+Panel B: Post-QE + QT 
+Panel B plots data for 2014Q4-2019Q3 (Post QE III + QT). 
+ 
+
+===== PAGE 49 =====
+ 
+ 
+48 
+ 
+Panel C: Pandemic QE 
+Panel C plots data for 2019Q4-2021Q4 (Pandemic QE). 
+ 
+ 
+ 
+ 
+ 
+  
+
+===== PAGE 50 =====
+ 
+ 
+49 
+Figure 6. Liquidity Risk and Fragility: The COVID Shock  
+ 
+Panel A. Implications for bank stock returns (1st January to 30th June, 2020) 
+Panel A shows the difference in stock return performance (in percentage point s) between banks with high vs. low 
+Claims on Potential Liquidity ratio over the 1 st January to 30 th June 2020 period. We measure Claims to Potential 
+Liquidity ratio as (Undrawn Credit Lines +  Uninsured Demandable Deposits)/(Eligible Assets + Reserves) as of 
+December 31, 2019 and use a median split to distinguish between the two groups of banks. Stock returns data are from 
+CRSP.       
+ 
+ 
+  
+ 
+ 
+Panel B. Gross drawdowns of credit lines (Q1 2020) 
+Panel B plots Gross Drawdowns of credit lines to bank assets over the Q1 2020 period against the log Credit Lines 
+to Potential Liquidity ratio defined as ln (Undrawn Credit Lines)/(Eligible Assets + Reserves) in 2019Q4. Gross 
+Drawdowns are from Refinitiv LoanConnector.
+ 
+
+===== PAGE 51 =====
+ 
+ 
+50 
+Figure 7: Dependence of Banks on Official Liquidity During 2019 to 2023 
+ 
+Panel A 
+Panel A plots the bank size-wise bar charts of “Other Borrowed Money” (RCFD3190) deflated by bank assets for the 
+time period 2019Q1 -2023Q4. Other Bo rrowed Money includes Federal Home Loan Bank (FHLB) Advances and 
+borrowings made from the Federal Reserve Bank. The bank-size groups are based on asset size in 2014Q3  
+ 
+ 
+ 
+Panel B 
+Panel B plots the bank size-wise summary bar-charts of “Fed Funds Borrowed” (RCONB993+RCFDB995) deflated 
+by Assets in 2019Q4. Fed Funds Borrowed include inter-bank secured (including repo) and unsecured transactions. 
+ 
+
+===== PAGE 52 =====
+ 
+ 
+51 
+Table 1. Aggregate Deposits and Credit Lines vs Reserves (Time-Series)  
+This table reports the results from time -series regression of changes in deposits or credit lines on changes in reserves. The variables in Columns (1) to (4) are  
+changes in the natural logarithm of  total deposits (1), demand deposits (2), tim e deposits (3) and credit lines (4) as dependent variables.  Columns (5) to (8) uses 
+changes in the levels of the same variables. All data are from the Federal Reserve Economic Database (FRED). Standard errors (Newey -West) account for auto-
+correlation up to 4 quarters and are reported in parentheses. The sample ranges from 2008Q4-2021Q4. * p<0.1, ** p<0.05, *** p<0.01 
+ 
+ 
+ (1) (2) (3) (4) (5) (6) (7) (8) 
+ ∆Ln(Deposits) ∆Ln(Demanda
+ble Deposits) 
+∆Ln(Time 
+Deposits) 
+∆Ln(Credit 
+Lines) ∆ Deposits ∆Demandable 
+Deposits 
+∆Time 
+Deposits ∆Credit Lines 
+∆Ln(Reserves) 0.143*** 0.191*** -0.362*** 0.0815**     
+ (0.0384) (0.0563) (0.105) (0.0309)     
+         
+Ln(Reserves)t-4 0.0490*** 0.0110 -0.00475 0.0889***     
+ (0.0140) (0.0220) (0.0792) (0.0329)     
+         
+∆Reserves     1.011*** 1.376*** -0.277*** 0.149*** 
+     (0.250) (0.327) (0.0627) (0.0414) 
+         
+Reservest-4     0.328*** 0.342*** 0.0795 0.147*** 
+     (0.0724) (0.0836) (0.0693) (0.0403) 
+         
+Constant -0.318*** -0.00782 0.0370 -0.621** -90.77 -17.77 -168.2 -164.5* 
+ (0.106) (0.166) (0.606) (0.254) (178.1) (160.7) (158.5) (91.83) 
+N 49 49 49 49 49 49 49 49 
+R-Sq      0.63      0.63      0.57      0.23      0.67      0.69      0.59      0.42 
+S.E.(# Lags) Newey-West 
+(4) 
+Newey-West 
+(4) 
+Newey-West 
+(4) 
+Newey-West 
+(4) 
+Newey-West 
+(4) 
+Newey-West 
+(4) 
+Newey-West 
+(4) 
+Newey-West 
+(4) 
+ 
+  
+===== PAGE 53 =====
+ 
+ 
+52 
+Table 2. Aggregate Uninsured and Insured Deposits vs Reserves (Time-Series) 
+We report the results from time-series regression of changes in deposits of different types on changes in reserves. Computation of Insured and Uninsured Domestic 
+Deposits are based on the FDIC Call Report schedule RC-O. Insured deposits are defined as deposits lying below the FDIC deposit insurance thresholds of $100,000 
+before 2006Q1, non-retirement accounts below $100,000 and retirement accounts below $250,000 between 2006Q1-2009Q2, and $250,000 after 2009Q2. Split of 
+Time Deposits into Insured vs. Uninsured Deposits are based on the aforementioned deposit insurance thresholds ($100k before 2010Q1 and $250k thereafter) in 
+schedule RC-E. Demandable Insured and Uninsured Domestic Deposits are estimated by taking the difference between Total Insured/Uninsured Domestic Deposits 
+and Insured/Uninsured Time Deposits respectively.  Uninsured demandable de posits are obtained by adding non -interest-bearing foreign deposits to uninsured 
+domestic demand deposits. Uninsured time deposits are obtained by adding interest-bearing foreign deposits to uninsured domestic time deposits. Columns (1) to 
+(4) use changes in the natural logarithm of uninsured deposits (1), insured deposits  (2), uninsured demandable (3) and insured demandable deposit  (4) as dependent 
+variables. Columns (5) to (8) uses changes in the level of the same variables . Standard errors (Newey-West) account for auto-correlation up to 4 quarters and are 
+reported in parentheses. The sample ranges from 2008Q4-2021Q4. * p<0.1, ** p<0.05, *** p<0.01  
+ 
+ 
+  (1) (2) (3) (4) (5) (6) (7) (8) 
+  ∆Ln(Uninsured 
+Deposits) 
+∆Ln(Insured 
+Deposits) 
+∆Ln(Uninsured 
+Demandable 
+Deposits) 
+∆Ln(Insured 
+Demandable 
+Deposits) 
+∆Uninsured 
+Deposits 
+∆Insured 
+Deposits 
+∆Uninsured 
+Demandable  
+Deposits 
+∆Insured 
+Demandable 
+Deposits 
+∆Ln(Reserves) 0.174*** 0.0490 0.163* 0.140** 
+    
+  (0.0482) (0.0514) (0.0908) (0.0631) 
+    
+  
+        
+Ln(Reserves)t-4 0.0921 -0.0188 -0.0399 -0.00274 
+    
+  (0.0630) (0.0330) (0.0943) (0.0445) 
+    
+  
+        
+∆Reserves 
+    
+0.728*** 0.263 0.740*** 0.479*** 
+  
+    
+(0.148) (0.158) (0.161) (0.160) 
+  
+        
+Reservest-4 
+    
+0.268* 0.00354 0.128 0.0809 
+  
+    
+(0.141) (0.0894) (0.0999) (0.0859) 
+  
+        
+Constant -0.640 0.198 0.410 0.0870 -221.3 346.7 96.05 174.9 
+  (0.484) (0.256) (0.724) (0.346) (329.1) (217.6) (225.2) (207.4) 
+N 49 49 49 49 49 49 49 49 
+R-sq      0.28      0.12      0.20      0.27      0.55      0.19      0.59      0.42 
+S.E.(# Lags) Newey-West 
+(4) 
+Newey-West 
+(4) 
+Newey-West 
+(4) 
+Newey-West 
+(4) 
+Newey-West 
+(4) 
+Newey-West 
+(4) 
+Newey-West 
+(4) 
+Newey-West 
+(4) 
+ 
+===== PAGE 54 =====
+53 
+ 
+ 
+ 
+Table 3: Effect of Reserves on Deposit Quantities – First Stage, OLS and Second Stage 
+The table shows the first stage, the OLS and the second -stage of 2SLS IV regressions of ∆Ln(Deposit s) ( the 
+dependent variable ) against ∆Ln(Reserves). Deposit and reserve data are sourced from FDIC’s Call Reports . 
+Reserves are cash and balances due from Federal Reserve Banks at the consolidated bank-level (RCFD0090). We 
+supplement the Reserves variable with the field at depository institution level (RCON0090) if the former field is 
+missing.  Panel A shows the first -stage of ∆Ln(Reserves) instrumented by reserve instrument   (zR1it): Growth in 
+Aggregate Reserves in quarter t × Lagged Share in Reserves, averaged over previous 4 quarters.  
+ 
+All specifications control for Time-FE, lagged Ln(assets), Equity-Capital Ratio, Net Income/Assets, indicator for 
+Primary Dealers and Ln(Reserves) lagged by five quarters . Columns (1) represent the regressions on the overall 
+sample ranging 200 8 Q4 – 2021 Q4. Columns (2) represent QE I- III + Pandemic QE  of 2008Q4 - 2014Q3 & 
+2019Q4-2021Q4. Columns (3) represent the QEI-III period: 2008Q4 - 2014Q3. Columns (4) show results for the 
+Post QE III and QT period 2014Q4 - 2019Q3. Standard errors are two-way clustered at the bank and time level.   
+Newey-West SE adjusted for autocorrelation up to 4 quarters are also reported for OLS.  Stock & Yogo (S&Y) 
+weak ID test critical values with 10% maximal IV size for the first-stage are reported below the F-stats.  * p<0.1, 
+** p<0.05, *** p<0.01 
+ 
+Panel A: First Stage 
+ 
+ (1) (2) (3) (4) 
+ ∆Ln(Reserves) 
+Ln(Reserves_t/Rese
+rves_t-1) × Lagged 
+Share in Agg. 
+Reserves over 4Q 
+13.14*** 
+(0.722) 
+12.54*** 
+(0.594) 
+12.67*** 
+(0.606) 
+25.87** 
+(12.30) 
+ 
+N 81892 51062 43236 30830 
+Kleibergen-Paap F-
+stat 
+1039.24 3341.34 614.27   4.41 
+F-stat  132358415.9 578625.9 193052.1 28.30 
+S&Y 10% maximal 
+IV size 
+16.38 16.38 16.38 16.38 
+Period Overall QE I-III +  
+Pandemic QE 
+QE I-III Post QE III + QT 
+ 2008Q4-2021Q4 2008Q4-2014Q3, 
+2019Q4-2021Q4 
+2008Q4-2014Q3 2014Q4-2019Q3 
+  
+===== PAGE 55 =====
+54 
+ 
+ 
+ 
+Panels B and C: Second Stage 
+ 
+Computation of Insured and Uninsured Domestic Deposits are based on call report schedule RC-O. Insured 
+deposits are defined as deposits lying below the FDIC deposit insurance thresholds of $100,000 before 2006Q1, 
+non-retirement accounts below $100,000 and retirement accounts below $250,000 between 2006Q1-2009Q2, 
+and $250,000 after 2009Q2. Split of Time Deposits into Insured vs. Uninsured Domestic Deposits are based on 
+the aforementioned deposit insurance thresholds ($100k before 2010Q1 and $250k thereafter) in schedule RC-E.  
+Demandable Insured and Uninsured Domestic Deposits are estimated by taking the difference between Total 
+Insured/Uninsured Domestic Deposits and Insured/Uninsured Domestic Time Deposits respectively. Uninsured 
+demandable deposits are obtained by adding non-interest-bearing foreign deposits to uninsured domestic demand 
+deposits. Uninsured time deposits are obtained by adding interest-bearing foreign deposits to uninsured domestic 
+time deposits.  
+ 
+Panel B: ∆Ln(Uninsured Demandable Deposits)  
+ 
+Panel B.1: OLS 
+ (1) (2) (3) (4) 
+∆Ln(Reserves)  0.0284*** 0.0262*** 0.0264*** 0.0345*** 
+ (0.00255) (0.00335) (0.00381) (0.00254) 
+Newey-West s.e. (0.00177) (0.00239) (0.00267) (0.00205) 
+          
+N 73882 42556 34923 31326 
+Panel B.2: IV 
+∆Ln(Reserves)  0.205*** 0.196*** 0.197*** -0.253 
+ (0.0177) (0.0148) (0.0161) (0.464)      
+N 72431 42536 34911 29895 
+ 
+ 
+Period Overall  
+QE I-III +  
+Pandemic QE QE I-III  Post QE III + QT  
+ 2008Q4-2021Q4 2008Q4-2014Q3, 
+2019Q4-2021Q4 
+2008Q4-2014Q3 2014Q4-2019Q3 
+ 
+ 
+ 
+Panel C: ∆Ln(Time Deposits) 
+ 
+ 
+In Panel C, the dependent variable is ∆Ln(Time Deposits) or (RCON6648+RCON2604 before 2009Q4) and  
+(RCON6648 + RCONJ473 + RCONJ474 after 2009Q4). 
+Panel C.1: OLS 
+ (1) (2) (3) (4) 
+∆Ln(Reserves)  0.0137*** 0.0133*** 0.0130*** 0.0160*** 
+ (0.00131) (0.00174) (0.00189) (0.00125) 
+Newey-West s.e. (0.00119) (0.00153) (0.00162) (0.00129) 
+     
+N 82616 50430 42733 31946 
+Panel C.2: IV 
+∆Ln(Reserves) -0.171*** -0.145*** -0.158*** 0.690 
+ (0.0459) (0.0441) (0.0334) (0.646) 
+     
+N 81106 50555 42853 32612 
+ 
+Period 
+ 
+Overall 
+ 
+QE I-III +  
+Pandemic QE 
+ 
+QE I-III 
+ 
+Post QE III + QT 
+ 2008Q4-2021Q4 2008Q4-2014Q3, 
+2019Q4-2021Q4 
+2008Q4-2014Q3 2014Q4-2019Q3 
+  
+===== PAGE 56 =====
+55 
+ 
+ 
+ 
+ 
+Table 4: Effect of Reserves on CD Spreads: First Stage and Second Stage 
+The table shows the first stage (Panel A) and the second stage (Panel B) of 2SLS IV regressions of 3, 12, 18 and 24-month CD – Money Market (MM) savings spread against bank-
+level Ln(Reserves). Panel A shows the first stage of Ln(Reserves)  and Ln(Deposits) instrumented respectively by Growth in Aggregate Reserves × Lagged Share in Reserves  
+averaged over previous 4 quarters (zR1it) and Deposit Growth Instrument (zDit), with bank-level controls. Note Total Deposits contain domestic and foreign deposits at the bank-
+level. Bank-level variables are sourced from FDIC’s Call Reports data. Reserves are cash and balances due from Federal Reserve Banks at the consolidated bank level (RCFD0090). 
+We supplement the Reserve variable with the field at depository institution level (RCON0090) if the former field is missing.    All specifications control for  lagged Ln(Assets), 
+Equity/Assets Ratio, Net Income/Assets, and Primary Dealer indicator,  along bank and time fixed effects. Standard errors are two-way clustered at the bank and time level. Stock 
+& Yogo (S&Y) weak ID test critical values  with 10% maximal IV size for the first-stage are reported below the F -stats.  The sample period is 2008Q4 – 2021Q4. * p<0.1, ** 
+p<0.05, *** p<0.01 
+ 
+Panel A: First Stage  
+ (1) (2) (3) (4) (5) (6) (7) (8) 
+ Ln(Reserves) Ln(Reserves) Ln(Reserves) Ln(Reserves) Ln(Total 
+Deposits) 
+Ln(Total 
+Deposits) 
+Ln(Total 
+Deposits) 
+Ln(Total 
+Deposits) 
+ 0.0775*** 0.0500 0.0782 0.119*** 0.0271*** 0.0212** 0.0239** 0.0193*** 
+Deposit Growth 
+Instrument 
+(0.0262) (0.0444) (0.0485) (0.0254) (0.00425) (0.00833) (0.00932) (0.00557) 
+         
+ 10.90*** 10.52*** 10.52*** -29.58 -0.0413 0.152 0.438 13.55 
+Ln(Reserves_t/R
+eserves_t-1) # 
+Lagged Share in 
+Agg. Reserves 
+over 4Q 
+(1.329) (1.332) (1.513) (34.22) (0.583) (0.917) (0.961) (12.27) 
+N 81966 51170 43351 30796 122050 51804 43835 32058 
+Kleibergen-Paap 
+F-stat 
+1932.7  31.96  58.19 2600.8 107.22  31.96  58.19 36947.7 
+F-stat 142.46 1173.5 917.3   0.66 11586.1 9547.5 6172.1   0.66 
+S&Y IV 10% 
+maximal IV size 
+7.03 7.03 7.03 7.03 7.03 7.03 7.03 7.03 
+Hansen-J p-val  0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 
+ 
+Period 
+ 
+Overall 
+ 
+QE I-III + 
+Pandemic QE 
+ 
+QE I-III 
+ 
+Post QE III + 
+QT 
+ 
+Overall 
+ 
+QE I-III + 
+Pandemic QE 
+ 
+QE I-III 
+ 
+Post QE III + 
+QT 
+ 2008Q4-2021Q4 2008Q4-2014Q3 
+2019Q4-2021Q4 
+2008Q4-2014Q3 2014Q4-2019Q3 2008Q4-2021Q4 2008Q4-2014Q3 
+2019Q4-2021Q4 
+2008Q4-2014Q3 2014Q4-2019Q3 
+===== PAGE 57 =====
+56 
+ 
+ 
+ 
+ 
+ 
+ 
+Panels B: Second Stage 
+ 
+ (1) (2) (3) (4) 
+ 3 month CD Rate - 
+MM Savings Rate 
+12 month CD Rate - 
+MM Savings Rate 
+18 month CD Rate - 
+MM Savings Rate 
+24 month CD Rate - 
+MM Savings Rate 
+ 
+Panel B.1 - Overall Period: 2008Q4 – 2021Q4 
+Ln(Reserves) -0.177*** -0.0731** -0.280*** -0.138** 
+ (0.0452) (0.0343) (0.103) (0.0538) 
+     
+N 58950 63432 52761 62513 
+ 
+Panel B.2  - QE I-III + Pandemic QE: 2008Q4 – 2014Q3 & 2019Q4 – 2021Q4 
+Ln(Reserves) -0.164*** -0.0558* -0.228* -0.114** 
+ (0.0441) (0.0278) (0.112) (0.0543) 
+     
+N 37872 40491 33661 39863 
+Panel B.3  - QE I-III: 2008Q4 – 2014Q3 
+Ln(Reserves) -0.167*** -0.0505 -0.230** -0.117** 
+ (0.0375) (0.0302) (0.109) (0.0504) 
+     
+N 33180 35311 29287 34716 
+ 
+Panel B.4  – Post QE III + QT: 2014Q4-2019Q3 
+Ln(Reserves) 0.526 0.0289 -0.240 0.288 
+ (0.402) (0.707) (0.573) (0.676) 
+     
+N 21001 22860 19024 22571 
+ 
+  
+===== PAGE 58 =====
+57 
+ 
+ 
+ 
+ 
+Table 5. Effect of Reserves on Credit Line Originations: First Stage and Second Stage 
+The table shows OLS and the second-stage of 2SLS IV regressions of the change in the amount of originated credit 
+lines ∆Ln(Credit Lines) of IG-rated and Non-IG rated firms in the U.S. as the dependent variable against change 
+in reserve holdings aggregated to the BHC level. Change is the contemporaneous level minus the level lagged by 
+4 quarters. Reserve data is sourced from FDIC’s Call Reports, credit line originations  from the Refinitiv 
+LoanConnector database. Reserves  are cash and balances due from Federal Reserve Banks at the consolidated 
+bank-level (RCFD0090). We supplement the Reserves  variable with the field at depository institution level 
+(RCON0090) if the former field is missing.  Columns (1) represent the regressions on the overall sample ranging 
+2008 Q4 – 2021 Q4. Columns  (2) represent QE I-III + Pandemic QE  of 2008Q4 - 2014Q3 & 2019Q4 -2021Q4. 
+Columns (3) represent the QEI-III period: 2008Q4 - 2014Q3. Columns (4) show results for the Post QE III and QT 
+period: 2014Q4 - 2019Q3. We report the second stage where ∆Ln(Reserves) is instrumented by the BHC- level 
+reserve instrument (zR1it): Growth in Aggregate Reserves × Average Lagged Share of the BHC in Reserves over 
+the previous 4 quarters . All specifications control for Time-FE, lagged Ln(assets), Equity- Capital Ratio, Net 
+Income/Assets, indicator for Primary Dealers and Ln(Reserves) lagged by five quarters.  Standard errors are 
+clustered at the time level. Stock & Yogo (S&Y) weak ID test critical values with 10% (15%) maximal IV size for 
+the first-stage are reported below the F-stats.   * p<0.1, ** p<0.05, *** p<0.01 
+ 
+Panel A: First Stage 
+Panel A presents the first-stage results for both the IG (A.1) and Non-IG (A.2) sub-samples.  
+ 
+Panel A.1: IG Firms (1) (2) (3) (4) 
+ ∆Ln(Reserves) 
+zR1it 4.676*** 4.857*** 4.822*** 7.055 
+ (0.979) (1.080) (1.177) (22.82)      
+N 1189 724 543 465 
+F-stat 17.82 17.74 16.07 3.887 
+Kleibergen-Paap F-
+Stat 
+12.646 11.999 9.726 0.002 
+S&Y 10% (15%) 
+Max. IV size 
+16.38 (8.96) 16.38 (8.96) 16.38 (8.96) 16.38 (8.96) 
+Panel A.2: Non-IG 
+Firms  (1) (2) (3) (4) 
+ ∆Ln(Reserves)      
+zR1it 5.967*** 6.197*** 6.206*** 16.81 
+ (0.294) (0.378) (0.477) (24.44)      
+N 1312 792 603 520 
+F-stat 170.3 196.2 163.3 5.217 
+Kleibergen-Paap F-
+Stat 
+224.762 150.27 86.797 0.496 
+S&Y 10% (15%) Max. 
+IV size 
+16.38 (8.96) 16.38 (8.96) 16.38 (8.96) 16.38 (8.96) 
+ 
+Period 
+ 
+Overall 
+ 
+QE I-III +  
+Pandemic QE 
+ 
+QE I-III 
+ 
+Post QE III + QT 
+ 2008 Q4 – 2021 Q4  
+2008Q4 – 2014Q3 & 
+2019Q4 – 2021Q4 2008Q4 – 2014Q3  2014Q4-2019Q3  
+ 
+  
+===== PAGE 59 =====
+58 
+ 
+ 
+ 
+ 
+Panels B and C: Second Stage 
+ 
+Panel B: IG-rated firms  
+ 
+ 
+Panel B.1: OLS (1) (2) (3) (4) 
+ ∆Ln(Credit Lines) 
+∆Ln(Reserves)  -0.0493** -0.0484 -0.0290 -0.0442 
+ (0.0206) (0.0348) (0.0370) (0.0874)      
+N 1718 649 486 430 
+Panel B.2: IV (1) (2) (3) (4) 
+ ∆Ln(Credit Lines)      
+∆Ln(Reserves) 0.223*** 0.197*** 0.192*** -29.44 
+ (0.0581) (0.0652) (0.0552) (618.8)      
+N 1079 649 486 430 
+Period 
+ 
+ 
+  
+ 
+Overall 
+ 
+ 
+2008 Q1 - 2021 Q4  
+ 
+QE I-III +  
+Pandemic QE 
+ 
+2008Q4 - 2014Q3 & 
+2019Q4 - 2021Q4 
+QE I-III 
+ 
+ 
+2008Q4 - 2014Q3  
+Post QE III + QT 
+  
+ 
+2014Q4-2019Q3  
+ 
+ 
+Panel C: Non-IG rated firms 
+ 
+Panel C.1: OLS (1) (2) (3) (4) 
+ ∆Ln(Credit Lines) 
+∆Ln(Reserves)  -0.0417 -0.0636* -0.0606* 0.0450 
+ (0.0295) (0.0313) (0.0344) (0.0755)      
+N 1223 731 562 492 
+Panel C.2: IV (1) (2) (3) (4) 
+ ∆Ln(Credit Lines)      
+∆Ln(Reserves) 0.228** 0.226** 0.237** 1.217 
+ (0.101) (0.0991) (0.0979) (2.155) 
+N  1223 731 562 492 
+Period 
+ 
+  
+Overall 
+  
+ 
+2008 Q1 - 2021 Q4  
+QE I-III +  
+Pandemic QE 
+ 
+2008Q4 - 2014Q3 & 
+2019Q4 - 2021Q4 
+QE I-III 
+ 
+ 
+2008Q4 - 2014Q3  
+Post QE III + QT 
+ 
+ 
+2014Q4-2019Q3  
+ 
+ 
+===== PAGE 60 =====
+59 
+ 
+ 
+ 
+ 
+Table 6. Claims to Liquidity and Fragility: March 2020 – COVID Shock  
+This dependent variables in this table are U.S. banks’ excess stock returns over the 1/1/2020 – 2/28/2020 period (column 1) and the 3/1/2020 – 3/23/2020 period (columns (2)-
+(4)) and indicator variables if a bank uses the discount window (DW) over the period 2020Q1-Q4 (columns (5)-(7)). The explanatory variables are the log of Claims to Potential 
+Liquidity ratio (=(Off Balance Sheet Unused Credit Lines + Uninsured Demandable Deposits)/(Eligible Assets + Reserves)) as of December 31, 2019, or the log of Unused Credit 
+Lines to Potential Liquidity ratio (= (Off Balance Sheet Unused Credit Lines)/(Eligible Assets + Reserves)), or the log of Uninsured Demandable Deposits to Potential Liquidity 
+ratio (= (Uninsured Demandable Deposits)/(Eligible Assets + Reserves)). Excess Return over a period is measured as cumulative stock return at the BHC level net of S&P 500 
+return over the same period estimated from CRSP data. Discount Window data is sourced from www.federalreserve.gov/regreform/discount-window.htm. Bank-level data from 
+Call Reports is aggregated to the BHC level using FFIEC relationship table. Bank Reserves refer to balances due at Federal Reserve Banks. Eligible assets consist of Treasury 
+and Agency securities that were eligible for swap with the Fed for reserves in at least one Quantitative Easing round between 2008Q4-2021Q4. Off balance sheet (BS) unused 
+credit lines refers to field RCFDJ457 in Call Reports. We control for equity/assets, the log of total assets, the non-performing loans to loans ratio, loans/assets, primary dealer 
+indicator and net income/assets in 2019Q4. Standard errors are in parentheses. The regressions also include size indicators and interactions of various claims to potential liquidity 
+ratios with the size indicators, which are equal to one if bank assets in 2019Q4 are less than $250bn.  * p<0.1, ** p<0.05, *** p<0.01 
+      (1) (2) (3) (4) (5) (6) (7) 
+ Pre-Covid Return Excess Returns 1(DW/Assets) 
+ (1/1/2020-2/28/2020)  (3/1/2020-3/23/20)   (2020Q1-Q4)  
+Ln(Claims to Potential Liquidity) 0.015*** -0.0342   -0.308**   
+ (0.005) (0.0249)   (0.157)   
+        
+1{Bank Assets<=$250bn}  -0.0379 -0.0331 -0.0307 0.263*** 0.538*** 0.359*** 
+  (0.0322) (0.0371) (0.0314) (0.100) (0.192) (0.128) 
+        
+1{Bank Assets<=$250bn} # Ln(Claims to Potential Liquidity)  0.0181   0.306*   
+  (0.0240)   (0.157)   
+        
+Ln(Unused Credit Lines to Potential Liquidity)   -0.000740   -0.0986**  
+   (0.00715)   (0.0470)  
+        
+1{Bank Assets<=$250bn} # Ln(Unused Credit Lines to Potential Liquidity)   -0.0183**   0.0995**  
+   (0.00829)   (0.0470)  
+        
+Ln(Unins. Dem. Deposits to Potential Liquidity)    -0.0517   -0.406** 
+    (0.0315)   (0.178) 
+        
+1{Bank Assets<=$250bn} # Ln(Unins. Dem. Deposits to Potential Liquidity)    0.0371   0.404** 
+    (0.0309)   (0.179) 
+        
+N 309 310 304 309 3711 3457 3574 
+R2 0.275 0.132 0.165 0.133 0.182 0.183 0.181 
+===== PAGE 61 =====
+60 
+ 
+ 
+ 
+ 
+Table 7: Claims to Liquidity and Fragility: March 2023 – The SVB Episode  
+The dependent variables are Excess returns (col (1) - (4)), Change in Ln Uninsured Demandable Deposit (col (5) - (7)) and Change in Ln Other Borrowed Money balances (col(8) -(10)). 
+Explanatory variables include banks’ claims to potential liquidity, and additionally, size indicators and interactions of claims to potential liquidity ratios with the size indicators (equal to one 
+if bank assets in 2022Q4 <=$250bn). Excess returns are estimated as the bank’s cumulative return over a period net of the S&P 500 return over the indicated period.  Columns (5)-(10) use 
+quarterly changes in the dependent variables  fort the time -period 2022Q1- 2023Q1. Uninsured Demandable Deposits are estimated from schedule RC -O of call reports by subtracting 
+uninsured time deposits from total uninsured deposits and adding non- interest-bearing foreign deposits. Other borrowed money is from Call Reports (RCFD 3190) and includes FHLB 
+advances and other borrowings made by banks for liquidity needs. Claims to Potential Liquidity  ratio is the (Off Balance Sheet Unused Credit Lines + Uninsured Demandable 
+Deposits)/(Reserves + Eligible Assets). Unused Credit Lines to Potential Liquidity ratio is (Off Balance Sheet Credit Lines)/(Reserves + Eligible Assets). Uninsured Dem. Deposits to 
+Potential Liquidity ratio is (Uninsured Demandable Deposits)/(Reserves + Eligible Assets). All specifications control for lagged Equity/Assets ratio, the log of total assets, Net Income/Assets, 
+the NPL/Loans-Ratio, Loans/Assets and a Primary Dealer indicator.  Columns (5)-(10) control for Time-FE. Standard errors are in parentheses  and clustered by BHC. * p<0.1, ** p<0.05, 
+*** p<0.01 
+ 
+ (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) 
+ Excess Returns ∆Ln(Uninsured Dem. Deposits) ∆Ln(Other Borrowed Money) 
+ 01/03-
+02/28/23 
+03/01-03/13/23 2022Q1-2023Q1 
+Ln(Claims to Potential Liquidity) 0.00961** 0.0392   0.127***   -0.527***   
+ (0.00466) (0.0275)   (0.0436)   (0.178)   
+           
+1{Bank Assets <=$250bn}  -0.0892** -0.134*** -0.0993** 0.000567 -0.0976** -0.0397 0.0835 0.445*** 0.224** 
+  (0.0427) (0.0478) (0.0429) (0.0426) (0.0446) (0.0419) (0.129) (0.100) (0.0940) 
+           
+1{Bank Assets <=$250bn} # Ln(Claims to Potential 
+Liquidity) 
+ -0.0544* 
+(0.0280) 
+  -0.139*** 
+(0.0436) 
+  0.528*** 
+(0.177) 
+  
+           
+Ln(Unused Credit Lines to Potential Liquidity)   0.0103 
+(0.00880) 
+  0.0307*** 
+(0.0100) 
+  -0.0656 
+(0.0614) 
+ 
+           
+1{Bank Assets <=$250bn} # Ln(Unused Credit Lines to 
+Potential Liquidity) 
+  -0.00831 
+(0.0100) 
+  -0.0301*** 
+(0.00977) 
+  0.0681 
+(0.0615) 
+ 
+           
+Ln(Unins. Dem Deposits to Potential Liquidity)    0.0541** 
+(0.0274) 
+  0.121* 
+(0.0671) 
+  -0.566*** 
+(0.217) 
+           
+1{Bank Assets <=$250bn} # Ln(Uninss. Dem Deposits 
+to Potential Liquidity) 
+   -0.0709** 
+(0.0280) 
+  -0.137** 
+(0.0672) 
+  0.567*** 
+(0.217) 
+           
+N 307 306 301 305 13690 13024 13690 7320 7048 7287 
+R2 0.130 0.378 0.375 0.381 0.0491 0.0408 0.0512 0.0180 0.0186 0.0181 
+ 

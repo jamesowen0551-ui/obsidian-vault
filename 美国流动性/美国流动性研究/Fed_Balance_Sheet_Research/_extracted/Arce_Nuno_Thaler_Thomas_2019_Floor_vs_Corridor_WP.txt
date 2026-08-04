@@ -1,0 +1,6010 @@
+
+===== PAGE 1 =====
+A Large Central Bank Balance Sheet? Floor vs Corridor
+Systems in a New Keynesian Environment
+Óscar Arcey Galo Nuñoy Dominik Thaleryz Carlos Thomasy
+F ebruary 7, 2019
+Abstract
+The quantitative easing (QE) policies implemented in recent years by central banks have
+had a profound impact on the working of money markets, giving rise to large excess reserves
+and pushing down key interbank rates against their  oor  the interest rate on reserves.
+With macroeconomic fundamentals improving, central banks now face the dilemma as to
+whether to maintain this large balance sheet/ oor system, or else to reduce their balance
+sheet size towards pre-crisis trends and operate traditional corridor systems. We address
+this issue using a New Keynesian model featuring heterogeneous banks that trade funds in
+an interbank market characterized by matching frictions. In this environment, balance sheet
+expansions push market rates towards their  oor by slackening the interbank market. A large
+balance sheet regime is found to deliver ampler  policy space by widening the steady-state
+distance between the interest on reserves and its e¤ective lower bound (ELB). Nonetheless, a
+lean-balance-sheet regime that resorts to temporary but prompt QE in response to recessions
+severe enough for the ELB to bind achieves similar stabilization and welfare outcomes as a
+large-balance-sheet regime in which interest-rate policy is the primary adjustment margin
+thanks to the larger policy space.
+Keywords: central bank balance sheet, interbank market, search and matching frictions,
+reserves, zero lower bound.
+JEL codes : E42, E44, E52, G21
+The views expressed in this manuscript are those of the authors and do not necessarily represent the views of the
+European Central Bank or Banco de España. We would like to thank Stéphane Dupraz, Jordi Galí, Morten Ravn,
+Ricardo Reis and the participants at the 2018 EUI-Banque de France Conference, the 2018 Meeting of the Verein
+fuer Socialpolitik, the Banque de France Workshop "Monetary Policy and Asset Prices: Lessons from the Crisis and
+New Tools", the 2017 Econometric Society European Winter Meeting, the 3rd Banco de España-CEMFI Workshop,
+the De Nederlandsche Bank 2017 Annual Research Conference, the 3rd EUI Alumni Conference, the 2017 Workshop
+of the ECB s MPC Task Force on the Operational Framework, and seminars at CREST-Polytechnique, the Bank
+of England, the Bank of Spain and BBV A. All remaining errors are ours. Declarations of interest: none.
+yBanco de España, zcorresponding author: dominik.thaler@bde.es, Calle de Alcalá 48, 28014 Madrid
+1
+===== PAGE 2 =====
+1 Introduction
+The  nancial crisis and the ensuing Great Recession forced central banks across the industrialized
+world to put in place quantitative easing (QE) policies that led to a massive increase in the size
+of their balance sheets. On the liabilities side, balance sheet expansion has taken the form of an
+unprecedented increase in aggregate excess reserves. In turn, such an increase in excess liquidity
+has put downward pressure on overnight interbank market rates, to the point that they have been
+pushed towards their  oor  the interest paid on excess reserves by the respective central banks,
+which has thus become basically the sole determinant of such interbank rates in recent years.
+This  large balance sheet regime or   oor system represents a change in paradigm as regards
+the conduct of monetary policy vis-à-vis the one prevailing before the crisis, characterized by
+relatively small central bank balance sheets, near-zero aggregate excess reserves, and interbank
+rates in between the interest rates paid and charged by central banks on excess reserves and on
+their marginal lending, respectively ( lean balance sheet regime , or  corridor system ).
+Figure 1 illustrates these developments for the case of the euro area. Before the crisis, the
+EONIA the main index of interest rates on overnight loans in the euro area interbank market 
+remained very close to the middle of the corridor formed by the interest rates of the ECB s deposit
+and marginal lending facilities. Also, reserves in excess of regulatory requirements were negligible.
+F ollowing the  rst large-scale liquidity injections put in place in the context of the recent crisis,
+the EONIA shifted towards the lower bound of the interest rate corridor, i.e. the deposit facility
+rate, as excess reserves scaled up to historical highs at that time. The launch of the large-scale
+asset purchase program in F ebruary 2015 consolidated the new large-balance-sheet/ oor regime.
+As macroeconomic fundamentals slowly but steadily improve across many advanced economies,
+monetary policy-makers now face the dilemma as to whether to reduce the size of their balance
+sheets towards pre-crisis trends and return to the corridor system, or else whether to continue
+operating under the current  oor system. This issue has drawn much attention in recent times
+both in academia and policy circles. 1 However, formal analyses in the context of well-suited
+theoretical models are relatively scarce.
+In this paper, we propose a relatively simple general equilibrium model designed to compare
+the stabilization and welfare properties of (a) the pre-crisis lean balance sheet regime and (b) the
+post-crisis  oor system with a large balance sheet. Our framework departs from the standard
+New Keynesian DSGE model in two key dimensions. First, in order to motivate the existence
+of an interbank market, we introduce banks that collect deposits from households and have the
+possibility of lending to non nancial  rms. Banks receive idiosyncratic shocks to the return that
+they can expect from the latter investment. As a result, some banks endogenously choose to borrow
+1See e.g. Bernanke (2016) and Bullard (2017).
+2
+===== PAGE 3 =====
+Figure 1: This  gure shows the ECB interest rates and its balance sheet since the introduction of
+the Euro. Excess reserves are both excess reserves in current accounts as well as deposits at the
+deposit facility.
+in the interbank market so as to  nance their lending to  rms, and some others will choose to lend
+in the same market or to hold government bonds.2 Second, following a recent literature, we capture
+the bilateral trading nature of the interbank market by assuming that the latter is characterized by
+search and matching frictions. 3 Every period, lending and borrowing banks search for each other
+and, upon matching, trade interbank loans, with the central bank s deposit and lending facilities
+as the outside option for lending and borrowing banks, respectively. As a result, the equilibrium
+interbank rate falls inside the interest rate corridor formed by the deposit and lending facility rates.
+Crucially, its actual position within this corridor is determined by the tightness of the interbank
+market, i.e. the ratio between demand and supply of interbank funds. In this setup, bank reserves
+are therefore the residual funds that lending banks are not able to place in the interbank market.
+On the analytical front, we show that the size of the central bank s balance sheet plays a key role
+in determining outcomes in the interbank market. On the assets side, the central bank purchases
+long-term government bonds and, through its lending facility, provides funding to borrowing banks
+2In particular, our modelling of banks shares many features with Buera and Moll s (2015) modelling of entrepre-
+neurs in a real framework, where the latter receive iid idiosyncratic shocks to the future return on their investments
+and can borrow from other entrepreneurs subject to an exogenous leverage constraint.
+3See e.g. Afonso and Lagos (2015), Armenter and Lester (2017), Atkeson, Eisfeldt and Weill (2015), Bech and
+Monnet (2016), and Bianchi and Bigio (2017).
+3
+===== PAGE 4 =====
+that fail to  nd lenders in the interbank market. Its liabilities are banksreserves at the deposit
+facility. An expansion of the central bank balance sheet through bond purchases produces ceteris
+paribus a symmetric fall in banks bond holdings and a corresponding increase of the amount
+of funds available for lending to other banks. The resulting slackening in the interbank market
+improves the market position of borrowing banks and compresses the spread between the interbank
+rate and the deposit facility rate. W e refer to this novel mechanism as the  interbank transmission
+channel of balance-sheet expansions. The interbank market slackening also makes it harder for
+lending banks to  nd suitable trading partners, thus forcing them to keep a larger proportion of
+their excess funds at the deposit facility. Therefore, asset purchases produce both an increase in
+reserves and a reduction in the gap between interbank rates and the interest on reserves.
+W e also show analytically that, compared to the lean balance sheet/corridor regime, the large
+balance sheet/ oor regime delivers a steady-state deposit facility rate that is higher and therefore
+further away from its e¤ ective lower bound (ELB). In other words, the  oor system allows for
+ampler  policy space for conventional monetary policy  i.e. parallel shifts in the deposit and
+lending facility rates4 in the face of economic downturns. The reason is as follows. In the steady
+state of our model, real market interest rates are independent of the central bank s balance sheet
+size  as are nominal market rates, for given in ation target. 5 As a result, the shrinkage of the
+spread between the latter rates and the interest on reserves that comes with a  oor regime is
+re ected, not in lower market rates, but in a higher interest on reserves.
+On the numerical front, we calibrate our model to the euro area, showing that it replicates
+well the observed relationship between excess reserves and the spread between the interbank and
+deposit facility rates since 1999, including both the pre-crisis period  with basically zero excess
+reserves and a stable spread around 1%, i.e. half of the pre-crisis corridor width and the recent
+period characterized by large excess reserves and a near-zero spread.
+As mentioned before, our main interest is to compare the stabilization and welfare properties
+of both monetary policy regimes. W e  rst perform a comparative statics exercise in which we
+vary the permanent size of the central bank s balance sheet, and show that a larger balance sheet
+increases steady-state welfare monotonically. This is despite the fact that neither central bank
+asset purchases per se nor the reserves resulting from these purchases ful ll any socially useful
+4By conventional policy we hence refer to how the ECB and many other central banks operated monetary policy
+before the crisis. This is di¤erent from steering the interbank market rate by changing the quantity of reserves, as
+the Federal Reserve did prior to 2008, which we discuss in section 4.4.
+5As in standard DSGE models, in the steady state of our model the real interest rate that determines the
+representative household s consumption and saving decisions  here, the real interest earned on its deposits 
+equals its rate of time preference. Under certain conditions, the steady-state interbank rate is exactly equal to the
+household deposit rate, and is hence independent of the size of the central bank s balance-sheet. More generally,
+in more complex models (e.g. OLG-models) the steady-state market interest rates may also depend on structural
+factors other than the rate of time preference. What matters for our argument though is that the steady-state
+market real rate is independent of monetary policy, as is typically the case in such models.
+4
+===== PAGE 5 =====
+role. The reason is that an expansion of excess reserves and the ensuing slackness in the interbank
+market raises borrowersmatching probability to the point of essentially eliminating their recourse
+to the central bank s lending facility. This in turn reduces the central bank s seigniorage, which
+acts as a distortionary tax on the banking sector as a whole. Nonetheless, quantitatively the welfare
+gains from moving from a lean- to a large-balance-sheet steady state are negligible, because in the
+former steady state seigniorage is very limited to begin with.
+T urning to stabilization properties, we next analyze the usefulness of di¤ erent central bank
+balance sheet regimes under severe recessions in which interest-rate policy is constrained by the
+ELB, as has been the case across many advanced economies during and after the Great Recession.
+F or this purpose, we consider a crisis scenario driven by an exogenous time preference shock. The
+shock drives the central bank s deposit facility rate against its ELB, thus preventing further (con-
+ventional) monetary accommodation for some time. Against the backdrop of this crisis scenario,
+and starting from a lean balance sheet, we show that a temporary asset purchase program can
+reduce the severity of the recession through the above-explained interbank transmission channel:
+Central bank bond purchases reduce the amount of funds that inactive banks can invest in bonds
+and hence increases their supply of funds to the interbank market. This slackening of the interbank
+market in turn pushes rates down, all the way to their  oor. Since interbank rates are a key de-
+terminant of e¤ ective lending and borrowing rates for the real economy, both aggregate economic
+activity and welfare improve relative to the baseline scenario without asset purchases.
+How do these outcomes change in a  oor system? As mentioned before, the latter system
+features higher steady-state interest on reserve and hence more space to cut it before hitting the
+ELB. W e show that in such a regime, a reduction in policy rates in response to the crisis is
+enough to achieve stabilization outcomes very similar to those of the lean-balance-sheet regime
+with temporary QE. An important quali cation of this result is that, for the latter regime to
+perform as well as the large-balance-sheet one in the face of a severe shock, the QE measures
+must be implemented as soon as the ELB would bind in the absence of QE. Indeed, we show that
+a corridor scenario with delayed QE loses much e¤ ectiveness relative to the  oor system. Our
+analysis thus suggests that, in contexts in which the central bank may not be capable of/willing
+to implement QE policies in a prompt and decisive manner (e.g. due to implementation lags or
+institutional constraints) when conventional monetary policy exhausts its room for manoeuvre, a
+ oor regime may achieve better stabilization outcomes thanks to the enlarged space for interest-rate
+policy.
+Finally, our baseline analysis assumes for simplicity that balance-sheet policies take the form
+of bond purchases on the assets side. In the context of a model extension where the central bank
+can also engage in large-scale credit operations with banks, we show that the expansionary e¤ ects
+of balance sheet policies are essentially the same regardless of whether the central bank provides
+5
+===== PAGE 6 =====
+liquidity by purchasing bonds or through credit operations. 6 While we do not believe that in
+practice both policies are necessarily equally e¤ ective or operate through the same channels, we
+do stress the notion that, insofar as they have similar implications for the liabilities side of the
+central bank balance sheet, their e¤ ects through the speci cinterbank channel we analyze here
+should also be similar.
+Literature review. Our paper contributes to several strands of literature within the realm of
+DSGE models of monetary policy transmission. In analyzing the central bank s balance sheet as
+an instrument of monetary policy, we contribute to a by now large literature, of which Gertler and
+Kiyotaki (2010, GK10), Gertler and Karadi (2011, GK11 and 2013, GK13), Cúrdia and W oodford
+(2011, CW) and Chen, Cúrdia and F errero (2012, CCF) are some prominent examples. W e depart
+from these important contributions both in terms of modelling and in focus. As regards modelling,
+unlike in the latter papers (except GK10) we explicitly model the interbank market, which is a
+key ingredient in our analysis. Unlike in GK10, the interbank market in our framework emerges
+endogenously as a result of idiosyncratic shocks to the prospective return on banksinvestments
+projects. More importantly for our purposes, our interbank market is characterized by match-
+ing frictions, which, as explained before, allows balance sheet policies to endogenously a¤ ect the
+position of interbank (and other) market rates inside the policy rate corridor. In terms of focus,
+none of the above papers compares the pre-crisis corridor system with the current  oor system in
+a macroeconomic model with both deposit and lending central bank facilities. F urthermore, the
+mechanism through which balance sheet policies have e¤ ects is fundamentally di¤ erent. In GK11
+and GK13, central bank asset purchases reduce excess returns on the acquired assets by relaxing
+banksleverage constraints. In CCF, transaction costs and segmented markets allow purchases of
+long-term government bonds to be e¤ ective by compressing term premia. In CW, asset purchases
+reduce credit spreads both by lowering banksintermediation costs and by creating reserves which
+further reduce intermediation costs.7 In our setup, by contrast, such policies are e¤ ective because,
+by raising the relative supply of funds in the (frictional) interbank market, they compress the
+spread between short-term market interest rates and the  oor of the interest rate corridor.
+In analyzing the transmission of balance-sheet policies in a dynamic model with an endogenous
+market for interbank loans characterized by matching frictions, our analysis is also related to
+Bianchi and Bigio (2017, BB). An important di¤ erence is how we motivate the existence of the
+interbank market. As mentioned before, in our framework the interbank market emerges as a result
+of heterogeneous investment opportunities across banks. In BB, banks instead receive idiosyncratic
+6Unlike bond purchases, which as explained before free up resources in lending banksbalance sheets and hence
+increase the supply of interbank funds, central bank credit operations instead reduce borrowing banks funding
+needs and hence the demand of interbank funds. But their e¤ect on interbank market tightness is essentially the
+same, hence the similarity of their e¤ects.
+7Ireland (2014) proposes a New Keynesian model where banksdemand for reserves arises due to their role as
+an input in the production of banking services.
+6
+===== PAGE 7 =====
+withdrawal shocks which, coupled with mandatory reserve requirements, lead those banks with
+excess reserves to lend federal funds to those other banks with liquidity shortfalls. Also, we place
+our interbank market substructure into an otherwise standard New Keynesian DSGE model, which
+allows us to analyze the extent to which balance sheet policies complement conventional interest
+rate policies in binding-ELB situations. Finally, our paper largely di¤ ers in focus. Bianchi and
+Bigio (2017) use their framework to study the determinants of the decline in bank lending during
+the recent  nancial crisis. By contrast, we focus on the comparison between the lean-balance-
+sheet/corridor system that prevailed before the crisis and the current large-balance-sheet/ oor
+regime (still) prevailing in the largest industrialized economies. 8
+Finally our theory relates to the empirical literature on the e¤ ects of balance sheet policies.
+Most of this literature  nds that asset purchases, which go hand in hand with reserve creation, are
+e¤ ective as a monetary policy tool. W e do not aim here at summarizing this large and increasing
+literature. Within the latter, however, we note that the evidence in Christensen and Krogstrup
+(2018) speaks directly in favour of the transmission channel we model here. They document that
+even those balance sheet policies which do not withdraw long term assets from the market, but
+increase the stock of reserves by either reducing the supply of other central bank debt or by
+purchasing other short term assets, have an impact on market interest rates. 9 Also related are the
+empirical  ndings in Reis (2016), according to which the  rst QE program in the US was e¤ ective
+at raising expected in ation but subsequent QE rounds were not. As we show in the last section,
+our model o¤ ers a result in a similar vein: a given balance sheet expansion is less e¤ ective at
+stimulating the macroeconomy the higher the starting balance-sheet size is.
+2 Model
+Time is discrete. The economy is composed of households, non nancial  rms (intermediate-good
+ rms,  nal-good producers and retailers), banks, the central bank and the government.
+8Armenter and Lester (2017) analyze the current con guration of the US money market setup, with both a
+reserve facility for banks and a reverse-repo facility for nonbanks, in a two-period, partial equilibrium model with
+matching frictions. While being very di¤erent in modelling and scope, we follow them in assuming competitive
+search in the money (interbank) market, which allows us to characterize the dependence of the interbank market
+rate on its tightness in extremely simple terms.
+9Christensen and Krogstrup (2017) build a simple partial equilibrium model of portfolio balance channels that
+can account for the reserves-induced e¤ects of QE documented in their empirical work.
+7
+===== PAGE 8 =====
+2.1 Households
+The representative household s utility is
+E0
+1X
+t=0
+t [u(Ct) v(Lt)];
+whereCt is consumption, Lt is labor supply and  is the household s discount factor. In addition
+to consuming and supplying labor, households save in the form of bank deposits, the real value of
+which is denoted by Dt. They also build new capital goods Kt using the technology
+Kt =
+
+1 S
+ It
+It 1
+
+It + (1 ) 
+t 1Kt 1;
+whereIt are  nal goods used for investment purposes, and(1 ) 
+t 1Kt 1 is depreciated e¤ ective
+capital repurchased from  rms after production in periodt; in the latter term,  is the depreciation
+rate and 
+t 1 is an e¤ ective capital index, to be de ned below, which the household takes as given.
+The function S satis esS(1) =S0(1) = 0 andS00(1) >0. The budget constraint is
+Ct +It +Dt =WtLt + RD
+t 1
+Pt=Pt 1
+Dt 1 +QK
+t
+
+1 S
+ It
+It 1
+
+It +
+X
+s=R;B
+s
+t Tt;
+wherePt is the aggregate price level,RD
+t 1 is the riskless gross deposit rate, Wt is the real wage, QK
+t
+is the real price of capital goods, fs
+tgs=R;B are lump-sum real dividend payments from the house-
+hold s ownership of retailers (s = R) and banks ( s = B), and Tt are lump-sum taxes. The  rst
+order conditions are standard,
+1 = Ett;t+1
+RD
+t
+1 +t+1
+; W t = v0(Lt)
+u0(Ct); (1)
+1 =QK
+t
+
+1 S
+ It
+It 1
+
+ S0
+ It
+It 1
+ It
+It 1
+
++ Ett;t+1QK
+t+1S0
+It+1
+It
+It+1
+It
+2
+;
+where t;t+1 =u0(Ct+1)
+u0(Ct) is the stochastic discount factor and tPt=Pt 1  1 is the in ation rate.
+W e assume that all private agents in the economy (households, banks, and  rms) can save in a
+non-modelled technology ( mattressor  vault ) at a net nominal rate ; where 0. Therefore
+there is an e¤ ective lower bound (ELB) on all gross nominal interest rates, given by 1 :
+8
+===== PAGE 9 =====
+2.2 Intermediate good  rms
+W e assume that intermediate good  rms (and banks) are segmented across a continuum of  islands ,
+indexed by j2 [0; 1]. The representative  rm on island j is perfectly competitive and produces
+units of the intermediate good, Yj
+t , according to a Cobb-Douglas technology,
+Yj
+t =Zt(!j
+t 1Kj
+t 1)(Lj
+t)1 ; (2)
+where Zt is an exogenous aggregate total factor productivity (TFP) process, Lj
+t is labor, Kj
+t 1
+is the pre-determined stock of installed capital, and !j
+t 1 is an island-speci c shock to e¤ ective
+capital. After production, the  rm j is left with a depreciated capital stock of (1 )!j
+t 1Kj
+t 1.
+As in Gertler and Karadi (2011), the shock to e¤ ective capital  or capital quality shock  !j
+t 1
+di¤ ers from a TFP shock in that it not only a¤ ects output in the production function, but also
+a¤ ects the depreciated stock of capital.
+The timing is as follows: At the end of period t  1 each  rmj learns the realization of the
+shock to next period s e¤ ective capital,!j
+t 1. These shocks are iid over time and across islands,
+and have cumulative distribution functionF (!). At this point each  rm needs to install capital on
+its island, which it buys from the household at unit price QK
+t 1. In order to  nance this purchase,
+the  rm must obtain funding from its local bank. As in Gertler and Kiyotaki (2010) and Gertler
+and Karadi (2011), we assume that the  rm sells to the bank one unit of equity Aj
+t 1 per unit of
+capital acquired: Aj
+t 1 = Kj
+t 1. Equity is a perfectly state-contingent claim on the future return
+from one unit of capital and is traded at price QA;j
+t 1. By perfect competition, the price of the
+capital good and of equity coincide ( QK
+t 1 = QA;j
+t 1), and therefore QK
+t 1Kj
+t 1 = QK
+t 1Aj
+t 1. Finally,
+at the beginning of period t, the  rm hires labor and produces.
+Each  rmj chooses labor in order to maximize operating pro ts, PY
+t Yj
+t  PtWtLj
+t , subject to
+(2), wherePY
+t is the price of the intermediate good. The  rst order condition with respect to labor
+implies that the e¤ ective capital-labor ratio is equalized across islands,
+!j
+t 1Kj
+t 1
+Lj
+t
+=
+ Wt
+MCt (1 )Zt
+1=
+; (3)
+for all j, where MCt PY
+t =Pt is the inverse of the average gross markup of  nal goods prices
+over the intermediate good price, as explained below. The  rm s nominal pro ts then equal
+PY
+t Yj
+t  PtWtLj
+t =PtRk
+t!j
+t 1Kj
+t 1, where
+Rk
+tMCtZt
+(1 )MCtZt
+Wt
+(1 )=
+is the common real return on e¤ ective capital. After production, the  rm sells the depreciated
+9
+===== PAGE 10 =====
+e¤ ective capital(1 )!j
+t 1Kj
+t 1 to households at unit price QK
+t . The total real cash  ow from
+the  rm s investment project equals the sum of operating pro ts and proceeds from the sale of
+depreciated capital,
+Rk
+t!j
+t 1Kj
+t 1 + (1 )QK
+t !j
+t 1Kj
+t 1: (4)
+Since capital is  nanced entirely by equity, the cash  ow in (4) is paid o¤ entirely to the lending
+bank.
+2.3 Banks
+On each island there exists a representative bank. Only the bank on island j has the technology to
+obtain perfect information about  rms on that island, monitor them, and enforce their contractual
+obligations.10 This e¤ ectively precludes  rms from obtaining funding from other sources, including
+households or other banks. As indicated before, banks  nance  rms investment in the form of
+perfectly state-contingent debt,Aj
+t . After production in period t + 1, island j s  rm pays the bank
+the entire cash  ow from the investment project,
+
+Rk
+t+1 + (1 )QK
+t+1
+
+!j
+tAj
+t = Rk
+t+1 + (1 )QK
+t+1
+QK
+t
+!j
+tQK
+t Aj
+t:
+The gross return on the bank s investment in real assets (QK
+t Aj
+t ) is thus the product of an aggregate
+component,
+RA
+t+1 Rk
+t+1 + (1 )QK
+t+1
+QK
+t
+;
+and an island-speci c component, !j
+t . Besides investing in the local  rm, the bank may borrow
+or lend funds in the interbank market by means of one-period nominal loans. Let B+;j
+t and B ;j
+t
+denote the real amount borrowed and lent at time t, respectively, with B+;j
+t ;B ;j
+t  0. F or each
+unit lent in the interbank market att the bank receives a noncontingent gross nominal returnRL
+t at
+periodt + 1, whereas each unit borrowed costs the bank the noncontingent gross nominal rate RB
+t
+att + 1. Both rates are taken as given by the bank. Later we will see how they are determined. 11
+As of now it su¢ ces to know that in equilibrium RB
+t RL
+t .
+The bank can also purchase nominal long-term T reasury bonds. In particular, we assume that
+a new bond issued at time t pays(1 )s units of currency s + 1 periods later, for s 0.12 A
+convenient feature of this speci cation is that a bond issued s periods ago is equivalent to (1 )s
+new bonds, so in each period we need only keep track of the price of one bond cohort. Let QG
+t
+10 The costs of these activities for the bank are assumed to be negligible.
+11 In particular, they will both be a function of the monetary policy rates and the actual interbank market rate.
+12 Ever since Woodford (2001), this form of bond with geometrically decaying coupons has become a standard
+way of modelling long-term nominal government debt in a tractable manner.
+10
+===== PAGE 11 =====
+denote the nominal price of a bond issued at time t. Hence, the nominal return at the beginning
+of period t + 1 on the bank s portfolio of government bonds is
+RG
+t+1  + (1 )QG
+t+1
+QG
+t
+: (5)
+W e denote by bj;G
+t the real market value of the bank s government bond portfolio at the end of
+period t. Finally, the bank takes a real amount Dj
+t of deposits from the household, which as
+mentioned before pay a gross nominal return RD
+t . Combining all these elements, the bank s real
+net earnings at the start of the following period, denoted by Ej
+t+1, will be given by
+Ej
+t+1 =RA
+t+1!j
+tQK
+t Aj
+t + RL
+t
+1 +t+1
+B ;j
+t + RG
+t+1
+1 +t+1
+bj;G
+t   RD
+t
+1 +t+1
+Dj
+t  RB
+t
+1 +t+1
+B+;j
+t : (6)
+In each period t the sequence of events is as follows. The bank starts the period with net earnings
+Ej
+t . W e assume that the bank pays a fraction1 &2 (0; 1) of its earnings to households as dividends.
+The remaining fraction & is retained as post-dividend equity, denoted by Nj
+t = &Ej
+t .13 F ollowing
+the dividend payment, but before learning the shock to the local  rm s capital productivity in the
+next period (!j
+t ), the bank takes deposits Dj
+t from households. The deposits market then closes,
+after which the island-speci c shock!j
+t is realized. Upon observing it, the bank then chooses how
+much to invest in the local  rm (QK
+t Aj
+t ) and in government bonds (bj;G
+t ), and how much to borrow
+or lend in the interbank market ( B+;j
+t ;B ;j
+t ), subject to its balance sheet constraint,
+QK
+t Aj
+t +B ;j
+t +bj;G
+t =Nj
+t +Dj
+t +B+;j
+t : (7)
+Finally, banks face an exogenous leverage constraint,
+QK
+t Aj
+tNj
+t; (8)
+with  > 1;14 and they can not shortsell assets ( Aj
+t;B +;j
+t ;bj;G
+t  0) or lend negative amounts
+(B ;j
+t  0).
+The bank maximizes the expected discounted stream of dividends, Et
+P1
+t=1 t;t+s(1 &)Ej
+t+s.
+The problem can be expressed recursively as a two-stage problem within each period, whereby the
+13 In equilibrium, this speci cation is equivalent to assuming that banks do not pay dividends but each period a
+constant fraction 1 & of randomly selected banks close for exogenous reasons and pay their accumulated net worth
+to the household as dividends. For models using speci cations similar to the latter, see e.g. Gertler and Karadi
+(2011) and Nuño and Thomas (2017).
+14 We are assuming that government bonds or interbank lending do not enter the leverage constraint in equation
+(8). This is completely inconsequential. As we show below, in equilibrium the banks for which the leverage constraint
+binds choose not to invest in bonds or interbank loans. Conversely, the leverage constraint is slack for those banks
+which choose to invest in bonds or interbank loans.
+11
+===== PAGE 12 =====
+bank  rst chooses deposits and then, after the realization of the idiosyncratic shock, chooses the
+remaining balance-sheet items,
+Vt(Nj
+t ) = max
+Dj
+t0
+Z
+Vt(Nj
+t;Dj
+t;! )dF (!);
+Vt(Nj
+t;Dj
+t;!j
+t) = max
+Aj
+t0;bj;G
+t 0;B+;j
+t 0;B ;j
+t 0
+Ett+1
+
+(1 &)Ej
+t+1 +Vt+1(&Ej
+t+1)
+
+;
+subject to equations (6), (7) and (8).
+Next we assume an implicit restriction on parameters, which ensures that in equilibrium the
+interbank market will be active:
+Assumption 1 : W e assume that parameters are such that the following inequality holds in
+equilibrium for all t: Dt (  1)Nt.
+This condition simpli es the solution of the banks problem, since it avoids additional case
+distinctions. In our numerical exercises we make sure it is satis ed. 15 Given this assumption, the
+solution of the bank s problem is given by the following lemma (proved in Appendix A.1):
+Lemma 1 (Bank s problem) The solution to the bank s problem is given by a demand policy
+for the local  rm s assets,
+Aj
+t =
+8
+><
+>:
+Nj
+t=QK
+t ; if !j
+t >! B
+t ;
+(Nj
+t +Dj
+t )=QK
+t ; if !L
+t !j
+t!B
+t ;
+0; if !j
+t <! L
+t;
+(9)
+and for interbank borrowing,
+B+;j
+t =
+8
+><
+>:
+(  1)Nj
+t Dj
+t; if !j
+t >! B
+t ;
+0; if !L
+t !j
+t!B
+t ;
+0; if !j
+t <! L
+t:
+(10)
+where
+!B
+t 
+Et
+h
+~t;t+1RB
+t = (1 +t+1)
+i
+Et
+h
+~t;t+1RA
+t+1
+i ; ! L
+t 
+Et
+h
+~t;t+1RL
+t= (1 +t+1)
+i
+Et
+h
+~t;t+1RA
+t+1
+i ; (11)
+15 Allowing this condition to be violated would introduce a discontinuity in the solution of the model: If the
+government engages in large enough asset purchases, it eventually may bring the interbank market to collaps as
+borrowing orders reach 0. Additional purchases then have no more e¤ect on the model. The solution of the
+banks problem for the general case is available upon request. Notwithstanding, for our calibration quantitatively
+it does not matter much whether or not we explicitly account for this satiation point. Even while assumption 1
+holds, the marginal e¤ect of asset purchases converges towards zero asymptotically (see Section 3 below). For our
+calibration this convergence is rather fast: The marginal e¤ect of asset purchases is already very close to 0 long
+before assumption 1 may be violated.
+12
+===== PAGE 13 =====
+~t;t+1 t;t+1
+ 
+1 & +&N
+t+1
+
+and N
+t is the marginal value of equity. Demand for government
+bonds and interbank lending satis es
+bj;G
+t =B ;j
+t = 0; if !j
+t!L
+t;
+bj;G
+t +B ;j
+t =Nj
+t +Dj
+t; (bj;G
+t ;B ;j
+t ) 0, if !j
+t <! L
+t:
+Banks individual deposit demand satis es:
+Dj
+t2 [0; (  1)Nj
+t ]:
+The ex-ante return on government bonds and the return on interbank lending satisfy a no-arbitrage
+condition,
+Et
+
+~t;t+1
+RG
+t+1
+1 +t+1
+
+= Et
+
+~t;t+1
+RL
+t
+1 +t+1
+
+: (12)
+Finally, the nominal deposit rate equals
+RD
+t =
+
+1 F
+ 
+!B
+t
+
+RB
+t +F
+ 
+!L
+t
+
+RL
+t
++
+
+F
+ 
+!B
+t
+
+ F
+ 
+!L
+t
+ E
+ 
+!j!L
+t !!B
+t
+
+Et
+h
+~t;t+1RA
+t+1
+i
+Et
+h
+~t;t+1= (1 +t+1)
+i ; (13)
+withRD
+t 2 [RL
+t;RB
+t ].
+The lemma states that, according to their island-speci c return realization !j
+t , banks endoge-
+nously split into the following three groups, illustrated in  gure 2:
+ On islands where the local  rm draws an idiosyncratic shock above the borrowing threshold
+!B
+t , the local bank borrows from the interbank market so as to invest in the  rm up to the
+leverage constraint.
+ Banks that draw an idiosyncratic return below the lending threshold !L
+t lend their resources
+(equity and deposits) in the interbank market and to the government, with both investments
+o¤ ering the same ex ante return according to equation (12). 16
+ Finally, banks with an idiosyncratic return in between both thresholds do not borrow or lend
+in the interbank market and simply invest their equity and deposits in the local  rm.
+16 Notice that for these banks the demand for government bonds bj;G
+t versus interbank lending B ;j
+t is undeter-
+mined at the individual level, as both assets are equally pro table ex ante . However, it will be determined at the
+aggregate level as explained later on.
+13
+===== PAGE 14 =====
+Figure 2: This  gure illustrates how banks split into 3 groups according to the return on their
+island (x-axis). F or simplicity we abstract from aggregate uncertainty in this graph.
+This implies that the leverage constraint is always binding for the more productive banks, while
+it is slack for the less productive ones.
+Notice also that, according to equation (13), the unit cost of taking deposits at the beginning
+of the period  i.e. the deposit rate  equals the expected bene t across realizations of !j
+t . F or
+high-pro tability banks (!j
+t > !B
+t ) that are leverage-constrained, an additional unit of deposits
+allows them to reduce their interbank borrowing, thus saving RB
+t
+1+t+1
+. F or low-pro tability banks
+(!j
+t <! L
+t ), each additional unit of deposits is invested in interbank lending or government bonds,
+which yields RL
+t
+1+t+1
+. F or intermediate-pro tability banks (!L
+t !j
+t!B
+t ), each additional unit of
+deposits is invested in the local  rm, with an average idiosyncratic return ofE
+ 
+!j!L
+t !!B
+t
+
+.17
+2.4 The interbank market
+The interbank market is modelled as a decentralized, over-the-counter (OTC) market, as in Afonso
+and Lagos (2012), Armenter and Lester (2017), or Bianchi and Bigio (2017), among many others.
+Banks that wish to lend place lending orders, whereas banks that wish to borrow place borrowing
+orders. Lending and borrowing orders are placed on a per-unit basis, as in Atkeson et al. (2012).
+Borrowing and lending orders then search for each other in an interbank market characterized by
+search and matching frictions.
+W e start by determining the volume of borrowing and lending orders. W e know from Lemma
+1 that banks with !j
+t >! B
+t borrow from other banks in the amount B+;j
+t = (  1)Nj
+t Dj
+t 0,
+whereas those with !j
+t <! L
+t lend to other banks in the amount B ;j
+t = (Nj
+t +Dj
+t ) bj;G
+t  0. The
+17 Since the bank s problem is locally linear in deposits Dj
+t , the banks optimality conditions do not pin down the
+individual amount of deposit taking but instead the equilibrium deposit rate: By equation (13) in equilibrium the
+bank breaks even ex ante , so it is indi¤erent between taking one more unit of deposits or not. The only requirement
+is that all banks satisfy 0Dj
+t (  1)Nj
+t .
+14
+===== PAGE 15 =====
+mass of borrowing and lending orders are thus given respectively by
+B
+t 
+Z 1
+0
+B+;j
+t dj =
+Z
+j:!j
+t>!B
+t
+
+(  1)Nj
+t Dj
+t
+
+dj =
+
+1 F
+ 
+!B
+t
+
+[(  1)Nt Dt]; (14)
+L
+t 
+Z 1
+0
+B ;j
+t dj =
+Z
+j:!j
+t<!L
+t
+h
+(Nj
+t +Dj
+t ) bj;G
+t
+i
+dj =F
+ 
+!L
+t
+
+(Nt +Dt) bG
+t ; (15)
+whereNt
+R 1
+0 Nj
+tdj is aggregate bank equity, bG
+t 
+R
+j:!j
+t<!L
+t
+bj;G
+t dj are aggregate bank holdings of
+government bonds, and in each equality with have used the fact that!j
+t is distributed independently
+fromNj
+t andDj
+t .
+F ollowing Armenter and Lester (2017), we assumecompetitive searchin the interbank market.18
+Our motivation for assuming competitive search is that, as will become clear shortly, it delivers a
+natural explanation for the observed relationship between excess reserves and the spread between
+their return and that of short-term interbank claims. The interbank market is divided into many
+di¤ erent  submarkets . Each submarket is a subset of borrowers and lenders searching for each
+other. Submarkets di¤ er in the loan rate that is o¤ ered to both sides, denoted byRIB
+s;t for submarket
+s. In each submarket, lending ( L
+s;t) and borrowing orders ( B
+s;t) are matched according to a
+common matching function, 
+ 
+L
+s;t; B
+s;t
+
+. W e assume that  is C1, weakly increasing and concave
+in both arguments, naturally satis es 0  (x;y ) min (x;y ) and has constant returns to scale.
+Given constant returns to scale, each lending order  nds a borrowing order with probability
+
+ 
+L
+s;t; B
+s;t
+
+L
+s;t
+= 
+ 
+1; B
+s;t
+L
+s;t
+!
+  L
+ 
+B
+s;t
+L
+s;t
+!
+; (16)
+in which case it earns the interest rate RIB
+s;t ; otherwise the unit of funds is deposited at the central
+bank and earns the deposit facility rate,RDF
+t . Similarly, each borrowing order  nds a lending order
+with probability
+
+ 
+L
+s;t; B
+s;t
+
+B
+s;t
+= 
+ 1
+B
+s;t=L
+s;t
+; 1
+
+  B
+ 
+B
+s;t
+L
+s;t
+!
+; (17)
+in which case it pays the interest rate RIB
+s;t ; otherwise the unit of funds must be borrowed from
+the central bank at the lending facility rate, RLF
+t , with RLF
+t > RDF
+t . Let s;t B
+s;t=L
+s;t denote
+the ratio of borrowing to lending orders in submarket s, which we henceforth refer to as interbank
+(sub)market tightness. Thus, the matching probability for lending (borrowing) orders  L ( B) is
+increasing (decreasing) in market tightness.
+Both borrowers and lenders send their respective orders to the submarkets that maximize their
+18 The concept of competitive search equilibrium has a long tradition in search theory, starting with the seminal
+contribution of Moen (1997). See also Mortensen and Pissarides (1999).
+15
+===== PAGE 16 =====
+respective values. As shown in Appendix A.2, value maximization with respect to the choice of
+interbank submarket is equivalent, in the case of lending banks, to maximizing the average return
+on lending orders,
+ L (s;t)RIB
+s;t +
+ 
+1   L (s;t)
+
+RDF
+t RL
+s;t; (18)
+In the case of borrowing banks, the same maximization is equivalent to minimizing the average
+cost of borrowing orders,
+ B (s;t)RIB
+s;t +
+ 
+1   B (s;t)
+
+RLF
+t RB
+s;t: (19)
+LetRL
+t denote the maximum average return that a lender can obtain in equilibrium. Any submarket
+that attracts lenders must therefore o¤ er them the average return RL
+t . In other words, the pair 
+RIB
+s;t;s;t
+
+in any submarket that is active in equilibrium must satisfy RL
+s;t =RL
+t , or
+ L (s;t)RIB
+s;t +
+ 
+1   L (s;t)
+
+RDF
+t =RL
+t: (20)
+Therefore, in order to accept visiting a submarket that o¤ ers a lower rate RIB
+s;t , lenders must be
+compensated by a higher market tightnesss;t and therefore a higher matching probability L (s;t).
+Subject to (20), borrowers choose the submarket that minimizes their borrowing cost (19) with
+respect to RIB
+s;t and s;t.19 As shown in Appendix A, the solution to this problem is given by the
+following interbank rate.20
+Proposition 1 (Interbank rate) The equilibrium interbank interest rate is given by
+RIB
+t =' (t)RDF
+t + (1 ' (t))RLF
+t ; (21)
+where
+' (t) d L (t)
+d
+t
+ L (t) = @
+ 
+L
+t; B
+t
+
+@B
+t
+B
+t
+ (L
+t; B
+t )2 (0; 1): (22)
+The equilibrium interest rate for matched orders is a weighted average of the respective outside
+return/cost: the deposit facility rate RDF
+t for lenders and the lending facility rate RLF
+t for borrow-
+ers, with the weight on the former given by the elasticity of the matching function with respect to
+19 As argued by Armenter and Lester (2017), the competitive search paradigm captures salient features of trading
+activity in interbank markets. Given the repeated interactions, lenders typically have ex ante information about
+which borrowers pay higher or lower interest rates; moreover, those that o¤er higher rates typically attract more
+lenders. Thus, competitive search captures the bilateral and stochastic nature of trading in interbank markets while
+retaining the link between interest rates and allocations.
+20 In equilibrium, all banks visit the same submarket, characterized by the pair
+ 
+RIB
+t ;t
+
+that satis es equation
+(21) and t = B
+t =L
+t , with the aggregate amount of borrowing and lending orders, B
+t and L
+t , being determined
+by equations (14) and (15). Given the equilibrium pair
+ 
+RIB
+s;t;s;t
+
+=
+ 
+RIB
+t ;t
+
+, lenders and borrowers average
+return, RL
+t and RB
+t , simply equal the left-hand side of equations (20) and (19), respectively.
+16
+===== PAGE 17 =====
+the number of borrowing orders, ' (t). Therefore, when the elasticity ' (t) is high, the interbank
+rate paid by borrowers and earned by lenders is close to the  oor of the interest rate corridor. In
+this regard, ' (t) can be interpreted as the borrowersshare of the joint surplus, de ned as the
+gap between both policy rates.
+While the sign of '0 (t) depends on the assumed matching technology, it is natural to consider
+technologies for which ', and hence borrowerssurplus share, decreases with the tightness of the
+interbank market. W e shall maintain this assumption from now on. Intuitively, when the ratio
+between borrowing and lending orders increases, it becomes harder for borrowers to  nd lenders, so
+the former must o¤ er rates that are higher and hence closer to the lending facility rate. Conversely,
+in a slack interbank market with a relative abundance of lending orders, lenders must accept rates
+that are lower and hence closer to the deposit facility rate.
+As indicated above, our assumption of competitive search is motivated by our interest in pro-
+viding a natural and simple explanation for the downward-sloping relationship between excess
+reserves and the spread between the interbank rate and the deposit facility rate (DFR) observed
+in the euro area and other major advanced economies. Indeed, from equation (21) the foregone
+return from funds deposited at the central bank is given by
+RIB
+t  RDF
+t = (1 ' (t))
+ 
+RLF
+t  RDF
+t
+
+:
+As we prove in the next section, in our model there exists an inverse relationship between the
+amount of excess reserves and interbank market tightness. Thus, an economy with large excess
+reserves is characterized by a slack interbank market, i.e. by a low t. Provided '0 < 0, an
+increase in excess reserves therefore narrows the gap RIB
+t  RDF
+t (for a given width of the policy
+rate corridor, RLF
+t  RDF
+t ). In search-theoretic environments an alternative (and relatively more
+common) approach is to assume random search, instead of competitive search. However, standard
+formulations of that approach would not deliver the above endogenous relationship between the
+amount of reserves and the interbank-DFR spread. 21
+Such inverse relationship between the amount of reserves and the spread between their return
+and that of short-term interbank rates is common in the literature on reserves. In much of that
+literature, banks hold reserves in order to self-insure against liquidity shocks (as in the classic Poole,
+1968, analysis or, more recently, Bianchi and Bigio, 2017) or because it constitutes an essential
+input to their activities (see Cúrdia and W oodford, 2011, and Ireland, 2014, for recent examples).
+21 In a standard random search setup, each matched borrower-lender pair would negotiate the interbank loan
+rate à la Nash according to an exogenous bargaining power parameter, '. The agreed rate would be given by
+equation (21) with ' replacing' (t). The opportunity cost of reserves would then be (1  ')
+ 
+RLF
+t  RDF
+t
+
+, which
+is independent of interbank market tightness for a given corridor width. Nonetheless, Bianchi and Bigio (2017)
+show that, by extending the standard random search setup (with a single search round) to a multiround search
+environment, one can arrive to similar results, albeit at the cost of additional complexity.
+17
+===== PAGE 18 =====
+Instead, in our model banks with relatively poor investment opportunities simply try to pass their
+reserves on to other banks and earn a higher return along the way; but, as in Afonso and Lagos
+(2012) and other studies in the search-theoretical literature, search and matching frictions in the
+interbank market imply that some banks nevertheless end up holding reserves at the end of the
+period. In reality, both explanations are likely to coexist, that is, banks may wish to hold some
+reserves because of the liquidity services they provide, but also because frictions in the interbank
+market prevent them from  nding suitable borrowers.
+2.5 Final good producers
+A competitive representative  nal good producer aggregates a continuum of di¤ erentiated retail
+goods indexed by i2 [0; 1] using a Dixit-Stiglitz technology, Yt =
+R 1
+0 Y ( 1)=
+i;t di
+=( 1)
+, where
+> 1 is the elasticity of substitution across retail goods. Cost minimization implies
+Yi;t =
+Pi;t
+Pt
+ 
+YtYd
+t (Pi;t); (23)
+wherePt =
+R 1
+0 P 1 
+i;t di
+1=(1 )
+is a price index. T otal spending in intermediate inputs then equals
+R 1
+0 Pi;tYi;tdi = PtYt. F ree entry implies zero pro ts, such that the equilibrium price of the  nal
+good is exactly Pt.
+2.6 Retail goods producers
+W e assume that the monopolistic competition occurs at the retail level. Retailers purchase units of
+the intermediate good  rms, transform them one-for-one into retail good varieties, and sell these
+to  nal good producers. Each retailer i sets a price Pi;t as in the sticky price model of Calvo
+(1983) taking as given the demand curve Yd
+t (Pi;t) and the price of the intermediate good, Py
+t .
+Speci cally, during each period a fraction of  rms (1 ) are allowed to change prices, whereas
+the other fraction, , do not change. Retailers that are able to change prices in period t choose a
+new optimal price in order to maximize its expected discounted stream of pro ts,
+max
+Pi;t
+1X
+k=0
+kEt
+"
+t;t+k
+ Pi;t
+Pt+k
+ MCt+k
+ Pi;t
+Pt+k
+ 
+Yt+k
+#
+: (24)
+The  rst-order condition is standard, with all time-t price-setters choosing a common priceP
+t ; see
+Appendix B. The price level Pt evolves according to P 1 
+t =P 1 
+t 1 + (1 ) (P
+t )1 .
+18
+===== PAGE 19 =====
+2.7 Central Bank
+Interest rate policy . The central bank sets two nominal policy rates: the (gross) deposit facility
+rateRDF
+t and the (gross) lending facility rate RLF
+t . W e assume that the policy rates are set such
+that: (i) a constant corridor of width > 0 is maintained, i.e.
+RLF
+t =RDF
+t +; (25)
+and (ii) the central bank s operational target, which we assume to be the interbank rate, achieves
+a certain target level. 22 This target level is described by a conventional T aylor rule,
+RIB;
+t =RIB
+t 1 + (1 )
+  Rss +t
+
+; (26)
+where Rss is the steady-state nominal interbank rate, 2 (0; 1) is the persistence parameter, and
+ > 1 determines the response to deviations in net in ation from target (assumed to be zero).
+Combining equation (21) and (25), we obtain the following relationship between the operational
+target and the deposit facility rate: RIB
+t = RDF
+t + (1 't), where 't ' (t). Using this and
+the T aylor rule (26), we can then  nd the deposit facility rate that implements the desired level
+for the operational target,
+RDF;
+t =
+
+RDF
+t 1 +
+ 
+1 't 1
+
+
+
++ (1 )
+  R +t
+
+  (1 't): (27)
+As mentioned before, all gross nominal rates have an ELB given by 1  1. Thus, if RDF;
+t is
+above such ELB, then RDF
+t = RDF;
+t and RIB
+t = RIB
+t . But if RDF;
+t falls below the ELB, then
+RDF
+t = 1  and the central bank must accept a positive deviation of the interbank rate from its
+target. Therefore, the deposit facility rate equals
+RDF
+t = max
+n
+RDF;
+t ; 1 
+o
+:
+with given by (27).
+Market rates and the interest rate corridor. It is worthwhile to pause for a moment
+to take stock of the di¤ erent market interest rates in our model and where they lie relative to
+each other inside the interest rate corridor formed by the two policy rates. According to (21), the
+interbank rate RIB
+t is a weighted average of the two policy rates ( RDF
+t ;RLF
+t ), being closer to the
+ oor the higher the borrowerssurplus share' (t). The e¤ ective returns on interbank lending and
+22 Targeting an index of interbank market rates is common among major central banks e.g. the Federal Funds
+Rate in the US. We could have alternatively chosen the household discount rate RD
+t as the central bank s operating
+target. Our results would have been very similar, because in equilibrium both rates are very close to each other,
+regardless of the size of the central bank s balance sheet.
+19
+===== PAGE 20 =====
+borrowing are given, respectively, by
+RL
+t =   L (t)RIB
+t +
+ 
+1   L (t)
+
+RDF
+t ; (28)
+RB
+t =   B (t)RIB
+t +
+ 
+1   B (t)
+
+RLF
+t ; (29)
+i.e. they are weighted averages of the interbank rate and the respective outside-option return
+(RDF
+t ;RLF
+t ), with weights that depend on the respective matching probabilities,  L (t)  L
+t and
+ B (t)  B
+t . Finally, from Lemma 1 the deposit rate lies in between the e¤ ective interbank
+lending and borrowing rates,RD
+t 2 [RL
+t;RB
+t ]; its position relative to RIB
+t is in principle ambiguous.
+T aking all this together, we have the following equilibrium ordering:
+Lemma 2 Market (RL
+t;RIB
+t ;RD
+t ;RB
+t ) and policy (RDF
+t ;RLF
+t ) nominal rates satisfy
+RDF
+t RL
+t RIB
+t ;RD
+t RB
+t RLF
+t :
+Much of our theoretical analysis in the next sections will be devoted to analyzing how market
+rates move inside the interest rate corridor ( RDF
+t ;RLF
+t ) as the size of the central bank s balance
+sheet changes. W e turn next precisely to balance-sheet policy.
+Balance sheet policy . The central bank also chooses the real market value of its government
+bond holdings, bG;CB
+t . W e assume the latter is determined by the following rule,
+bG;CB
+t = (1 )bG;CB
+t 1 +b
+G;CB
++npt +(bG;CB
+t 1  b
+G;CB
+)rit; (30)
+wherenpt andrit2f 0; 1g are extraordinary real net purchases and extraordinary real reinvestment,
+which are generally zero. This rule says that, in the absence of extraordinary measures, the central
+bank keeps the real market value of its bond portfolio  xed at b
+G;CB
+. The real net purchases give
+the central bank a tool to increase the balance sheet size in extraordinary times, while reinvestment
+allows the central bank to keep the balanced sheet size  xed for a while after net purchases have
+been phased out.
+The central bank s assets are government bonds, bG;CB
+t , and loans to banks extended by its
+lending facility, i.e. the mass of borrowing orders that did not  nd matches in the interbank
+market: B
+t
+ 
+1   B
+t
+
+. Its liabilities are banks reserves at its deposit facility, i.e. the mass of
+interbank lending orders that did not  nd a match: L
+t
+ 
+1   L
+t
+
+.23 W e assume that the central
+bank accumulates no equity and pays all pro ts to the government. 24 The central bank sbalance
+23 The monetary base is therefore the nominal amount of reserves at the central bank, PtL
+t
+ 
+1   L
+t
+
+. For
+convenience, we abstract from cash holdings by banks and households, although nothing of substance for our key
+insights would change if we allowed for such holdings.
+24 In case of central bank losses, these are assumed to be covered by the Treasury.
+20
+===== PAGE 21 =====
+sheet, expressed in real terms, is therefore
+bG;CB
+t + B
+t
+ 
+1   B
+t
+
+= L
+t
+ 
+1   L
+t
+
+: (31)
+Finally, the central bank s real pro ts are
+CB
+t = RG
+t
+1 +t
+bG;CB
+t 1 + RLF
+t 1
+1 +t
+B
+t 1
+ 
+1   B
+t 1
+
+  RDF
+t 1
+1 +t
+L
+t 1
+ 
+1   L
+t 1
+
+:
+2.8 Government
+The budget constraint of the government expressed in real terms is given by
+bt 1
+RG
+t
+1 +t
+=bt +Tt + CB
+t ;
+where bt is the real market value of government debt. 25 Without loss of generality, the latter is
+assumed to be held constant at a certain level: bt =b.
+2.9 Aggregation, market clearing and equilibrium
+Market clearing for capital requires that total supply by households, Kt, equals total demand by
+intermediate  rms,
+R 1
+0 Kj
+tdj. Since Kj
+t = Aj
+t on each island j the capital stock Kt equals total
+demand of  rmsassets by banks,
+R 1
+0 Aj
+tdj. T o calculate the latter, we use Lemma 1, obtaining
+Kt =
+Z
+j:!j
+t>!B
+t
+Nj
+t
+QK
+t
+dj+
+Z
+j:!j
+t2[!L
+t;!B
+t ]
+Nj
+t +Dj
+t
+QK
+t
+dj = 
+
+1 F
+ 
+!B
+t
+
+Nt +
+
+F
+ 
+!B
+t
+
+ F
+ 
+!L
+t
+
+(Nt +Dt)
+QK
+t
+;
+(32)
+where in the second equality we have used the fact that !j
+t is independently distributed from Nj
+t
+andDj
+t .
+Labor market clearing requires that household s labor supply Lt equals  rmstotal labor de-
+mand,
+R 1
+0 Lj
+tdj. T o calculate the latter, we start by using (3) to solve for individual labor demand
+Lj
+t and we then aggregate across  rms:
+R 1
+0 Lj
+tdj =
+
+(1 )ZtMC t
+Wt
+1=R 1
+0 !j
+t 1Kj
+t 1dj. T o solve for
+25 The government s real budget constraint can be derived from the nominal budget constraint: Bt 1 =
+B
+new
+t QG
+t +Pt
+ 
+Tt + CB
+t
+
+, where B
+new
+t = Bt  (1 )Bt 1 is gross new bond issuance, using also the de ni-
+tion of RG
+t (equation 5) and btBtQG
+t =Pt.
+21
+===== PAGE 22 =====
+R 1
+0 !j
+t 1Kj
+t 1dj, we use again Lemma 1 and Kj
+t =Aj
+t to obtain
+Z 1
+0
+!j
+tKj
+tdj = Nt
+QK
+t
+Z
+!B
+t
+!dF (!) +Nt +Dt
+QK
+t
+Z !B
+t
+!L
+t
+!dF (!)
+= Nt
+QK
+t
+
+1 F
+ 
+!B
+t
+
+E
+ 
+!j!!B
+t
+
++ Nt +Dt
+QK
+t
+
+F
+ 
+!B
+t
+
+ F
+ 
+!L
+t
+
+E
+ 
+!j!L
+t ! <!B
+t
+
+;
+where we have used again the fact that !j
+t is independently distributed from Nj
+t;Dj
+t . Using (32),
+we can express the above equation more compactly as
+Z 1
+0
+!j
+tKj
+tdj = 
+tKt; (33)
+where
+
+t 
+
+1 F
+ 
+!B
+t
+
+E
+ 
+!j!!B
+t
+
+ [1 F (!B
+t )] + Nt+Dt
+Nt
+[F (!B
+t ) F (!L
+t )] +
+Nt+Dt
+Nt
+
+F
+ 
+!B
+t
+
+ F
+ 
+!L
+t
+
+E
+ 
+!j!L
+t ! <!B
+t
+
+ [1 F (!B
+t )] + Nt+Dt
+Nt
+[F (!B
+t ) F (!L
+t )]
+(34)
+is an index of capital e¢ ciency. 26 Labor market clearing then requires
+Lt =
+(1 )ZtMCt
+Wt
+1=
+
+t 1Kt 1: (35)
+Aggregate supply of the intermediate good equals
+R 1
+0 Yj
+t dj. Equations (3) and (35) imply that the
+e¤ ective capital-labor ratio!j
+t 1Kj
+t 1=Lj
+t equals 
+t 1Kt 1=Lt for all  rms. F rom equation (2), we
+then have
+Z 1
+0
+Yj
+t dj =Zt
+ Lt
+
+t 1Kt 1
+1 Z 1
+0
+!j
+t 1Kj
+t 1dj =ZtL1 
+t (
+t 1Kt 1);
+where in the second equality we have used (33). Using (23), aggregate demand of the intermediate
+good equals
+R 1
+0 Yi;tdi =Yt
+R 1
+0
+
+Pi;t
+Pt
+ 
+di =Ytt, where t
+R 1
+0 (Pi;t=Pt) di is an index of relative
+price dispersion. Market clearing for the intermediate good therefore requires
+Yt = Zt
+t
+L1 
+t (
+t 1Kt 1):
+Aggregate supply of the  nal good must equal consumption and investment demand by households,
+Yt =Ct +It:
+26 In the limiting case in which !B
+t 1 =!L
+t 1 !t 1, 
+t collapses to E (!j! !t 1).
+22
+===== PAGE 23 =====
+Market clearing for government bonds requires supply to equal demand by private banks and the
+central bank,27
+bt =bG
+t +bG;CB
+t :
+Finally, we can aggregate equation (6) across banks and use Ni
+t = &Ej
+t to  nd an expression for
+aggregate bank equity,
+Nt
+& =RA
+t 
+t 1QK
+t 1Kt 1 + RL
+t 1
+1 +t
+L
+t 1 + RG
+t
+1 +t
+bG
+t 1  RD
+t 1
+1 +t
+Dt 1  RB
+t 1
+1 +t
+B
+t 1;
+where we have used (33) and Aj
+t 1 =Kj
+t 1 to substitute for
+R 1
+0 !j
+t 1Aj
+t 1dj (= 
+t 1Kt 1).
+This concludes the set-up of the model. W e de ne an equilibrium in this model as a set of
+state-contingent functions for prices and quantities such that all agentsoptimization problems are
+solved and markets clear. Appendix B.1 lists the conditions that have to hold in equilibrium for
+aggregate variables.
+3 The interbank transmission channel of bond purchases
+Having set up the model, we now discuss the mechanism through which the central bank s balance
+sheet policy a¤ ects interest rates and, through these, the rest of the economy. W e focus our
+discussion here on asset purchases; however the last section of the paper shows that our arguments
+apply to credit operations with banks as well.
+F or this and for the next section it is useful to de ne two further properties that the matching
+function may ful ll:
+De nition 1 (Match-e¢ cient interbank market) The interbank market is match-e¢ cient
+if  (x;x ) = x: If  (x;x )< x, then it is match-ine¢ cient. The interbank market is asymptoti-
+cally match-e¢ cient if lim
+x!1
+ (x;y ) = lim
+x!1
+ (y;x ) =y.
+This de nition states that the interbank market is match-e¢ cient if, whenever the number
+of lending and borrowing orders is the same, all orders  nd a match (since then both matching
+probabilities equal  (x;x )=x = 1). If in such situations some orders do not  nd a match, then
+the interbank market is said to be match-ine¢ cient. Asymptotic match-e¢ ciency means that, if
+the volume of orders on one of the two sides of the market is arbitrarily large, then the number of
+matches equals the volume of orders on the short side. Notice that, as the matching function is
+increasing, match e¢ ciency necessarily implies asymptotic match e¢ ciency.
+27 Notice that we have implicitly assumed that the household cannot hold government bonds. This assumption is
+innocuous, since in equilibrium the household will always prefer deposits over bonds.
+23
+===== PAGE 24 =====
+The (capped) Cobb-Douglas function,  (x;y ) = minf2x1y1 1;x;yg, with 22 (0; 1) and
+12 (0; 1),28 is match-ine¢ cient, although it is still asymptotically match-e¢ cient.29 Similarly,
+the functional form proposed by Den Haan et al. (2000),  (x;y ) = xy
+ 
+x +y 1=
+is match-
+ine¢ cient but asymptotically match-e¢ cient. In the limit !1 , this function becomes equivalent
+to the Leontie¤ function  (x;y ) = minfx;yg, which is the only continuous and weakly increasing
+matching technology that satis es match-e¢ ciency.30
+Having de ned these concepts, we now analyze the transmission of asset purchases. Combining
+the balance sheet constraint (31) and the interbank market clearing condition B
+t B
+t =  L
+t L
+t yields
+L
+t  B
+t =bG;CB
+t : (36)
+That is, the di¤ erence between lending and borrowing orders in the interbank market equals the
+market value of bonds held by the central bank. Dividing by B
+t , rearranging, and using the
+de nition of interbank market tightness,t = B
+t =L
+t , we obtain
+ 1
+t =ebG;CB
+t + 1 (37)
+whereebG;CB
+t bG;CB
+t =B
+t denotes central bank bond holdings normalized by the value of interbank
+borrowing orders. Therefore, by increasing its bond holdings, the central bank can (for given B
+t )
+reduce the tightness in the interbank market.31 This in turn a¤ ects borrowerssurplus share' (t),
+the matching probabilities (  x (t);x = L;B ), and ultimately, through equations (21), (28) and
+(29), the position of market rates inside the corridor. The following proposition characterizes how
+asset purchases a¤ ect market interest rates:
+Proposition 2 (E¤ ect of central bank bond purchases) (i) Government bond purchases by
+28 In discrete time environments, matching functions need to respect the requirement that matching probabilities
+do not exceed unity i.e. there cannot be more matches than searchers on either side. The Cobb-Douglas speci -
+cation generally does not satisfy this requirement, hence its capping. If 2 1 the capped Cobb-Douglas function
+is equal to the Leontie¤ function.
+29 For 2 < 1,  (x;x ) = minf2x;x;xg = 2x < x, hence the match-ine¢ ciency. However, lim
+x!1
+ (x;y ) =
+minf1;1;yg =y, hence the asymptotic match-e¢ ciency.
+30 Proof available upon request. However, in violation of our assumption that  is C 1, this function is not
+continuously di¤erentiable. Therefore, in the following whenever we speak of a match-e¢ cient technology we refer
+to the following limiting case : lim! (x;y ;), where (x;y ;) is a continuous non-match-e¢ cient matching
+function parametrized by  satisfying lim! (x;y ;) = minfx;yg8 x;y .
+31 The central bank controls the ratio ebG;CB
+t  bG;CB
+t =B
+t indirectly, by directly choosing the nominal value of
+bonds held bG;CB
+t Pt. To be able to exercise this control, it must be (i) that prices do not simply adjust such that
+the real holdings bG;CB
+t stay constant and (ii) that the volume of borrowing orders does not adjust such that the
+ratiobG;CB
+t =B
+t stays constant. The former is guaranteed by price stickiness in a model without nominal rigidities
+by contrast, there exists an equilibrium where the central bank s nominal asset holdings have no in uence on real
+variables. Whether the latter holds true is determined in general equilibrium. Figure 9 in Appendix 3 shows a
+numerical example how nominal purchases translate into changes of bG;CB
+t =B
+t almost proportionally, since neither
+Pt nor B
+t respond signi cantly.
+24
+===== PAGE 25 =====
+the central bankebG;CB
+t push the interbank rate RIB
+t and with it the e¤ective borrowing and lending
+ratesRB
+t andRL
+t towards the bottom of the corridor:
+@RIB
+t  RDF
+t
+@ebG;CB
+t
+;@RB
+t  RDF
+t
+@ebG;CB
+t
+;@RL
+t RDF
+t
+@ebG;CB
+t
+< 0: (38)
+(ii) Bond purchases feature a weak form of decreasing returns to scale of bond purchases, de ned as
+follows. Let t
+
+ebG;CB
+t
+
+
+ 
+RIB
+t (0) RDF
+t (0)
+
+ 
+
+RIB
+t
+
+ebG;CB
+t
+
+ RDF
+t
+
+ebG;CB
+t
+
+be the reduction
+in the interbank rate due to bond purchases, relative to the case of no bond purchases. Then
+t
+
+xebG;CB
+t
+
+< t
+
+ebG;CB
+t
+
+x8x> ex, for some ex 1:
+The proof can be found in Appendix A. According to part (i), bond purchases monotonically
+reduce the spread between the actual interbank rate (as well as the e¤ ective interbank borrowing
+and lending rates) and the deposit facility rate. The previously derived negative e¤ ect of bond
+purchases on interbank market tightness, together with of our assumption that '0(t)< 0, are key
+in driving this result.
+Another way to understand this result is as follows. Given a  xed supply of government bonds,
+larger holdings by the central bank imply smaller holdings by commercial banks,bG
+t . F rom equation
+(15), ceteris paribus this increases the amount of funds that banks with relatively poor investment
+opportunities try to place in the interbank market. This increase in lending orders L
+t reduces
+the tightness in the interbank market ( t falls) for a given volume of borrowing orders B
+t . Under
+competitive search  and the assumption that '0 (t) < 0  this implies a higher surplus share
+for borrowers and, from equation (21), a lower interbank market rate for given policy rates. In
+addition, the fall in interbank market tightness makes it harder for lenders to  nd borrowers and
+easier for borrowers to  nd lenders ( L
+t decreases,  B
+t increases). F rom equations (28, 29), it follows
+thatRL
+t andRB
+t fall too. Panel 2 in Figure 3 illustrates these e¤ ects.
+The e¤ ect of balance sheet policies on RL
+t andRB
+t is passed through to the household deposit
+rate according to equation (13). Since RD
+t depends also on other variables that are determined
+in general equilibrium, Proposition 2 cannot generally be extended to RD
+t . However, as we will
+see in our numerical analysis, for our calibration RD
+t is always indistinguishable from RIB
+t and
+hence moves essentially one for one with the latter. The reduction in the nominal deposit rate
+in turn triggers a general equilibrium response similar to that triggered by a policy rate cut in
+the standard New Keynesian model: Since prices are sticky, real rates fall and households bring
+forward consumption, which stimulates the economy.32
+32 Our model features additional transmission channels of monetary policy that are not present in the standard
+New Keynesian model. First, a change in interbank market tightness also a¤ects the average capital e¢ ciency 
+t
+de ned in equation (34). Second, nominal contracts imply redistributionary e¤ects between households and banks,
+25
+===== PAGE 26 =====
+Figure 3: This  gure schematically represents the transmission of monetary policy to market rates.
+It shows how the rates respond to a parallel shift in the policy rates (panel 1) or an expansion of
+the balance sheet (panel 2). Note that the model predicts no particular ordering of RD andRIB .
+The case depicted here with RD >R IB is purely illustrative.
+Part (ii) of the proposition follows from (38) and the fact that by Lemma 2 RIB
+t  RDF
+t .33
+Since bond purchases monotonically reduce the interbank-DFR spread but the latter is always
+non-negative, for a given bond purchase program of size ~bG;CB
+t (starting from zero holdings) there
+exists a minimum scaling factor ex 1 such that a proportional increase in the size of the program
+by any factor xex reduces the above spread by a less than proportional amount.
+In addition to market interest rates, asset purchases also have implications for the quantity
+of reserves. The larger volume of interbank lending orders L
+t and the lower lender matching
+probability  L
+t imply that more lending orders fail to  nd a match and hence end up at the central
+banks reserve facility:
+ 
+1   L
+t
+
+L
+t increases. Our model therefore delivers an inverse relationship
+between the interbank-reserves interest rate spread and the amount of excess reserves. How much
+of the bond purchases actually translates into an increase in reserves depends on what happens
+with the other asset in the central bank s balance sheet: lending facility credit,
+ 
+1   B
+t
+
+B
+t . In the
+special case of match-e¢ ciency, since borrowing orders are the  short sideof the interbank, they all
+are matched ( B
+t = 1). Therefore, there is no lending facility activity and bond purchases translates
+one for one into reserves creation. In the more general case of match-ine¢ ciency, some borrowing
+orders fail to be matched (  B
+t < 1) and hence there is always some lending facility credit. In
+this case, bond purchases and the resulting interbank market slackening raise borrowersmatching
+probability and
+ 
+1   B
+t
+
+B
+t falls (for given borrowing orders B
+t ), such that bond purchases
+crowd out some facility lending. As long as the interbank market is approximately match-e¢ cient,
+which in turn a¤ect the average capital e¢ ciency as well. We abstract however from further discussion of these
+additional e¤ects here for convenience and because they turn out to be small for plausible calibrations.
+33 Note that decreasing returns to scale are conventionally de ned as in the proposition but with ex = 1:
+26
+===== PAGE 27 =====
+however,  B
+t is always close to one and the latter e¤ ect is negligible, so bond purchases increase
+reserves almost one for one. 34
+4 Large vs lean balance sheet
+In this section we compare the properties of a leancentral bank balance sheet regime, in which
+the central bank holds no bonds, with those of a largebalance sheet regime, in which the central
+bank has permanently expanded its balance sheet size through an asset purchasing program.
+4.1 Lean balance sheet
+By lean balance sheet we refer to a scenario in which central bank asset holdings are arbitrarily
+small. In particular, we consider for illustration the limiting case in which the central bank does
+not hold any government bonds: bG;CB
+t = 0. In this case the central banks balance sheet has only
+one item on each side: lending facility lending is the only asset and deposit facility borrowing
+(reserves) the only liability. F rom equation (36), the volume of borrowing and lending orders must
+then be the same, such that interbank market tightness equals t = B
+t =L
+t = 1 . The match
+ nding probabilities of borrowers and lenders hence equal
+ L
+t =  B
+t =  (1; 1): (39)
+If in addition one assumes a match-e¢ cient interbank market, in which the number of matches
+always equals the  short side of the market, both matching probabilities are one:  L
+t =  B
+t =
+ (1; 1) = 1. Hence neither lending nor borrowing banks need to access the central bank s deposit
+or lending facilities, so reserves and facility lending are both zero: L
+t
+ 
+1   L
+t
+
+= B
+t
+ 
+1   B
+t
+
+= 0.
+Therefore, under match-e¢ ciency, a  leanbalance sheet is in fact a zero-sized balance sheet.
+Combining (39) with equations (13), (21), (25) , (28) and ( 29) allows us to characterize the
+relative position of equilibrium rates within the corridor formed by the policy rates:
+34 The timing adds some subtle details to these mechanisms. The central bank purchases assets before the
+interbank market closes from banks that are on islands that had low productivity in the previous period, i.e.
+those with !j
+t 1 < !L
+t 1. It pays in reserves. These banks instantaneously use these reserves to  nance their
+portfolio choices. After the interbank market closes, these reserves end up with the banks on islands that have low
+productivity in the current period, i.e. those with !j
+t < !L
+t . Imagine for example: A particular bank j s draw!j
+t
+is below !L
+t both yesterday and today. Yesterday it bought bonds worth one unit today. Today it sells them to
+the central bank in exchange for reserves before the interbank market closes. It uses these funds to lend them in
+the interbank market. When the interbank market closes,  L
+t units of reserves have been lent to other banks and
+(1   L
+t ) remain on bank j s balance sheet.
+27
+===== PAGE 28 =====
+Proposition 3 (Corridor system) If bG;CB
+t = 0; then
+RIB
+t = ' (1)RDF
+t + (1 ' (1))RLF
+t ;
+RB
+t = RLF
+t  '(1) (1; 1);
+RL
+t = RDF
+t + [1 '(1)]  (1; 1);
+which implies RDF
+t < RL
+t < RIB
+t < RB
+t < RLF
+t : If the interbank market is furthermore match-
+e¢ cient, then  (1; 1) = 1 and
+RD
+t =RL
+t =RB
+t =RD
+t =RIB
+t =' (1)RDF
+t + (1 ' (1))RLF
+t :
+The interbank rate thus equals a weighted average of the two policy rates with a constant weight
+of' (1). F or instance, if the matching technology satis es' (1) = 1=2, such that its elasticity with
+respect to borrowing or lending amounts equals one half when both quantities are symmetric, then
+the interbank rate always lies in middle of the corridor and the distances between the interbank
+RIB
+t and each of the two e¤ ective rates RL
+t and RB
+t are equal. F urthermore, in the case of a
+match-e¢ cient interbank market, all market interest rates coincide with the interbank rate. 35 This
+is true also for the household deposit rate, by virtue of the fact that RD
+t 2 [RL
+t;RB
+t ].
+This regime resembles a corridor system like the one used by the ECB prior to 2009. The
+balance sheet was essentially zero (in terms of excess reserves) and the interbank rate was in the
+middle of the corridor.
+4.2 Large balance sheet
+W e contrast the lean balance sheet system with the case in which the central bank s bond holdings
+(normalized by the volume of interbank borrowing orders) becomes arbitrarily large,ebG;CB
+t !1:36
+F rom equation (37), the interbank market becomes arbitrarily slack in this case: t& 0. This
+in turn implies  L
+t & 0, i.e. lending orders are matched with a vanishingly small probability.
+Also, borrowers matching probability increases relative to the lean balance sheet case,  B
+t 
+35 An implication of RL
+t = RB
+t is that !B
+t = !L
+t  !t, such that there is no intermediate segment of banks
+that neither borrow nor lend in the interbank market. Capital e¢ ciency (equation 34) then simpli es to 
+t =
+E (!j! !t).
+36ebG;CB
+t !1 may require bG;CB
+t !1 (see footnote 31). Naturally, the maximum size of the central bank
+balance sheet is limited by the total size of the bond market: bG;CB
+t  bt: Hence, formally we need to consider
+the limit where both the banks holdings of bond and the total stock of bonds go towards in nity: ebG;CB
+t !1 and
+bt!1 and bG;CB
+t  bt . To abbreviate notation we just write ebG;CB
+t !1 : In reality, the supply of bonds is,
+of course, limited. However, for our calibrated model it is su¢ cient to buy bonds of the value of a few percentage
+points of GDP to get extremely close to this limit. The amount of bonds outsanding is an order of magnitude
+larger. Therefore we can ignore this consideration.
+28
+===== PAGE 29 =====
+ (1; 1), and converges to one under asymptotic match e¢ ciency. So the e¤ ective interbank lending
+and borrowing rates converge, respectively, to the interest on reserves and (under asymptotic
+match e¢ ciency) to the actual interbank rate. The following result establishes that the latter rate
+converges to the  oor, pulling all other market rates with it.
+Proposition 4 (Floor system) AsebG;CB
+t ! 1, borrowing banks surplus share converges to
+one, limebG;CB
+t !0' (t) = 1. The interbank and e¤ective lending rates converge to the bottom of the
+corridor,
+lim
+ebG;CB
+t !0
+RIB
+t = lim
+ebG;CB
+t !0
+RL
+t =RDF
+t :
+If the matching technology is furthermore asymptotically match e¢ cient, all other market rates
+converge too to the bottom of the corridor,
+lim
+ebG;CB
+t !0
+RB
+t = lim
+ebG;CB
+t !0
+RD
+t =RDF
+t :
+The proof can be found in Appendix A. Thus, as the central bank s bond holdings become
+arbitrarily large, the economy converges to a   oor system , in which the central bank e¤ ectively
+sets all market rates by setting the interest on reserves. This equilibrium resembles the current
+situation in the euro area and other advanced economies, characterized by large excess reserves
+and money market indices trading very close to the deposit facility rate.
+Notice that the interbank market is still active in the case of a  oor system. In this system
+the expected return of bonds, interbank claims and reserves are equated, however the return of
+investments in local  rms di¤ ers across islands. That means that the lending banks are indi¤ erent
+between holding bonds, reserves or interbank claims, but the borrowing banks are not. Their
+demand hence pins down the quantities traded on the interbank market. Hence the interbank
+market does not break down in a  oor system.
+Having characterized how balance sheet policy a¤ ect market rates, we now brie y discuss
+how conventional interest-rate policy, by which we mean parallel shifts in the deposit and lending
+facility rates, operate in our framework. F rom Propositions 3 and 4, it is straightforward to see that
+(parallel) changes in both policy rates transmit one-for-one to market rates under both regimes. 37
+Panel 1 in Figure 3 illustrates this graphically for the case of a lean balance sheet.
+37 The only exception is the transmission to the household deposit rate RD
+t in the lean balance sheet case. As
+discussed in Section 3, RD
+t depends on (RB
+t ;RL
+t ) but also on other endogenous variables that are a¤ected in general
+equilibrium. As argued there too however, in our numerical implementation it is always the case that RD
+t RIB
+t ,
+such that policy rate changes move deposit rates almost one-for-one also under a lean balance sheet.
+29
+===== PAGE 30 =====
+4.3 Policy space with respect to the ELB
+The relative position of market rates within the policy rate corridor has important implications
+for monetary policy when taking into account the ELB. This section shows that the  oor system
+provides more policy space for conventional interest rate policy compared to the corridor system.
+T o see this most clearly, consider the case of match e¢ ciency. F rom the household s Euler equation
+(1), our assumption of a zero net in ation target, and Propositions 3 and 4, the steady-state
+interbank rate in both regimes equals
+RIB
+ss =RD
+ss = 1=:
+That is, the interbank rate depends only on householdsdiscount factor and is hence independent
+of monetary policy (for given in ation target). F rom the same propositions, one can then obtain
+the steady-state level of the  oor rate, i.e. the deposit facility rate.
+Proposition 5 (Policy space) Assume the interbank market is match-e¢ cient. In a corridor
+system (bG;CB
+t = 0) the steady-state gross deposit facility rate is
+RDF
+ss = 1=  [1 ' (1)]< 1=: (40)
+In a  oor system, the steady-state deposit facility rate is
+RDF
+ss = 1=:
+Therefore, a  oor system implies a wider distance between the steady-state deposit facility rate and
+its ELB, 1  1.
+The intuition is the following. In both regimes, the steady-state interbank rate equals the
+inverse of the household s discount factor. In the corridor regime, the interbank rate lies in the
+middle of the two policy rates, so necessarily the steady-state deposit facility rate must lie below
+1=, the more so the wider the corridor width . By contrast, in the  oor regime the steady-state
+deposit facility rate coincides with the steady-state interbank rate and hence is equal to 1=. As
+a result, the  oor system features a wider (steady-state) distance between the deposit facility rate
+and its ELB, thus allowing for more  policy spacefor interest rate cuts in the face of de ationary
+shocks. This result will play a key role in our numerical results, when we compare crisis scenarios
+under both the lean-balance-sheet/corridor system and the large-balance-sheet/ oor one.
+30
+===== PAGE 31 =====
+W e  nally note that our  policy spaceresult can also be extended to the more general case of
+asymptotic match e¢ ciency, albeit with some additional complexity. 38
+4.4 Monetary policy implementation in the US
+While we motivated this paper with reference to the Euro zone and used Euro zone terminology
+at times, our model can also be used to understand monetary policy implementation in the US,
+both prior to and after the introduction of interest on excess reserves (IOER) in 2008.
+Prior to 2008, the F ederal reserve (the "F ed") operated an asymmetric corridor system. Back
+then, the F ed paid no interest on excess reserves (IOER): RDF
+t = 1 for all t. F urthermore, it
+o¤ ered discount window loans at a discount rate ( RLF
+t in our model) which was set 1ppt above
+the target for the F ed funds rate (FFR, RIB
+t ). Instead of steering the latter by moving both the
+upper and lower bound of the corridor as in a standard symmetric corridor system, the F ed did
+so by moving only the discount rate and adjusting its government bond holdings through open
+market operations. F or example, to lower the FFR the F ed would buy bonds and lower the discount
+rate. This is consistent with our model. Lowering RLF
+t while maintainingRDF
+t unchanged reduces
+RIB
+t , however less than one-for-one since the relative position of RIB
+t within the corridor remains
+constant (for given tightness). An increase of government bond holdings is hence necessary to
+lowerRIB
+t further, such that RIB
+t falls one-for-one with RLF
+t . Notice that this system provides the
+same amount of policy space as the  oor system, if the ELB is at 0 and if the F ed is willing to
+provide su¢ cient reserves so as to lower RIB
+t to the 0. If the ELB lies below 0, it provides less
+policy space.
+In 2008 the F ed introduced IOER. This came shortly after the implementation of the  rst
+large scale asset purchase program, which generated large amounts of excess reserves. Since then,
+the F ed e¤ ectively operates a symmetric  oor system, as described in the section 4.2. The F ed
+now steers the FFR RIB by moving the IOER RDF and the discount rate RLF in parallel. Since
+the FFR is at the bottom of the corridor, it moves one-for-one with the IOER. This has become
+evident ever since 2015, when the F ed started tightening monetary policy by raining its policy
+rates. Doing so allowed the F ed to tighten the monetary stance gradually, without  rst draining
+the huge amounts of excess liquidity in the economy. 39
+38 In particular, the expression for RDF
+ss in the corridor regime is slightly more complicated than equation (40),
+as it is to prove that it lies below 1=. This proof is available upon request.
+39 An unmodelled detail distinguish the US from the Euro Area. Unlike in the Euro area, in the US not all
+participants in the Fed funds market have equal access to the Fed s deposit facility. While banksexcess reserves
+are remunerated at the IOER rate, other participants such as GSEs can only deposit funds at the Fed through the
+overnight reverse repurchase (ON RRP) facility, where they receive a marginally lower rate. This is why the Fed
+funds rate lately traded marginally below the IOER. Modelling this explicitly is beyond the scope of the current
+paper, however one may think of RDF in the model as an average of the IOER and ON RRP rates. See Chen et
+al. (2016) and Armenter and Lester (2016) for a more detailed partial equilibrium analysis of the US set-up.
+31
+===== PAGE 32 =====
+Parameter V alue T arget
+ Capital share 0.33
+ Depreciation 0.025
+ Discount factor 0.995
+ Risk aversion 1
+ Inverse Frisch elasticity 0.276
+ Calvo parameter 0.779 Gertler and Karadi (2013)
+ Markup 4.167
+ Investment adjustment 1.728
+ Taylor rule in ation 1.5
+ Taylor rule persistence 0.8
+ E¤ective lower bound 0 ZLB
+ Leverage constraint 18.8 Steady-state leverage ratio
+ Bond maturity 0.05 5 years average maturity
+B=Y Government debt 1.34 Bankssteady-state bond holdings
+B
+G;CB
+Government debt held by CB 0 No QE pre crisis
+ Corridor width 0.5% Pre-crisis corridor width
+& Dividend ratio 0.975 RoE of banks
+ Mean of idiosyncratic shocks -0.023 Normalize 
+ = 1
+ Std of idiosyncratic shocks 0.0028 Ratio of redistr. to productive assets
+ Matching function 225 Ratio of interbank to CB lending
+T able 1: Calibrated parameter values
+5 Quantitative analysis
+5.1 Calibration
+W e assume standard preferences: u(Ct) v(Lt) = C1 
+t =(1 ) L1+ 
+t =(1 + ). W e also use a
+standard quadratic speci cation for investment adjustment costs: S (x) = 
+2 (x  1)2, where  is a
+scale parameter. Idiosyncratic shocks are assumed to be log-normally distributed with parameters
+ and. The matching function is as in Den Haan et al. (2000),
+
+ 
+L
+t; B
+t
+
+= L
+t B
+t
+
+(L
+t )
+
++ (B
+t )
+
+1=:
+In calibrating the standard parameters, i.e. those of the production function ( ; ), the utility
+function (;; ) and the New Keynesian elements ( ;;;; ), we follow Gertler and Karadi
+(2013), who use the values of Primiceri et al. (2006).
+Most of the remaining parameters are non-standard and relate to the banking sector. W e set 
+to 0, that is we assume the ELB is zero. F or the remaining parameters, we target moments from
+pre-crisis euro area data (1999-2007).40 The parameter de ning the corridor width is set to 0.5%
+40 We calibrate the model in line with the European institutional set up. In the US the corridor system was only
+implemented in 2008. At the same time the Fed  ooded the market with liquidity, which drove the fed funds rate
+close to the interest-on-excess-reserves  oor.
+32
+===== PAGE 33 =====
+Assets Liabilities
+Claims on private non n. 62.8% 6.8% Equity
+Claims on government 10.4% 66.3% Deposits
+Interbank claims 26.9% 26.9% Interbank liabilities
+T able 2: Aggregate bank balance sheet
+per quarter, which implies an annualized corridor width of 2 percentage points, as used by the ECB
+before the crisis. The central bank is assumed to not hold any QE asset in the (corridor-system)
+steady state, b
+G;CB
+= 0 , as was the case prior to the crisis. Banks dividend ratio & is chosen
+to match the historical average real return on bank equity of 10%. The parameter de ning the
+maturity of government debt  is set to 0.05, which yields an average maturity of 5 years. The
+mean of the iid shocks to island speci c capital e¢ ciency  is set such that the steady state capital
+e¢ ciency 
+ss is normalized to 1.
+W e choose the parametersb,  and to match the average structure of the aggregate balance
+sheet of the monetary  nancial institutions (MFIs) in the euro area over the years 1999-2007
+according to ECB data. T able 2 reports the targeted balance sheet. 41 The government debt level
+we obtain (b) hence re ects only the debt held by the banks. Appendix D describes in detail how
+we aggregated the data to arrive to this stylized aggregate balance sheet.
+The matching function parameter  is set such that the model reproduces the empirical rela-
+tionship between excess reserves over GDP and the interbank-deposit facility rate spread during
+the entire euro period (1999-2017). 42 In particular, we choose  to minimize the weighted mean
+absolute error between the data and the model prediction. 43 As shown in Figure 4, our calibrated
+model replicates the relationship between excess reserves and the interbank-DFR spread fairly
+well, both for the pre-crisis corridor system in which this spread  uctuated around 1% (i.e. one
+half of the corridor width) and for the current  oor system in which it is essentially zero. 44 The
+41 The balance sheet structure in the table de nes 3 targets: 2 ratios between the three asset categories and the
+ratio of equity to deposits. Since we have 3 parameters, we match the targeted structure perfectly.
+42 To determine this relationship numerically for the model, we compute the steady state spread and the excess
+reserves to GDP ratio for di¤erent values of bG;CB . As an alternative more consistent with the time series nature
+of our data, we also determined this relationship using a dynamic perfect foresight simulation. In this simulation
+the economy starts at the steady state with 0 bond holdings. Then the balance sheet is gradually expanded. No
+shocks occur. The numerical results are virtually identical.
+Notice also that, as empirical proxy for the model s interbank rate, we take the EUREPO rate. The latter,
+contrary e.g. to EONIA, is based on secured interbank transactions and is hence a closer counterpart to RIB
+t , which
+carries no default risk.
+43 We use weekly observations from 1999-2017. We weight the observations by the probability density function of
+the data, which we approximate by a histogram of 30 equal spaced bins. This allows us to get a good overall  t
+of the relationship despite having many more observations close to zero than for higher values of excess reserves.
+Finally notice that in the data the corridor was changed over time while we abstract from this policy in the model.
+Normalization by division through the corridor width yields similar results.
+44 Figure 10 in Appendix C shows that similar relationships between the amount of excess reserves and the
+interbank-reserves interest rate spread hold for other major currency areas, such as the US, Japan and the UK.
+33
+===== PAGE 34 =====
+Figure 4: This  gure shows the realtionship between the EUREPO-DF spread and the excess
+reserves in the steady state of the model and in weekly EMA data (colours indicate time from
+1999 (blue) to 2017 (red)). Since the shortest available maturity for the EUREPO is 4 weeks, we
+approximated the expected DFR over the next 4 weeks by the materialized DFR.
+resulting value for  is very high, implying almost exact match-e¢ ciency. As a result, in the ab-
+sence of central bank bond holdings only 0.08% of banksassets are excess reserves, a negligible
+number albeit an order of magnitude larger than in the pre-crisis data (0.006%). F urthermore our
+calibration yields a ratio of total bank assets to GDP of 3.1, which is close to its data counterpart
+of 2.6.
+5.2 Comparative statics: the role of the central bank balance-sheet
+size
+W e start our numerical analysis by investigating the e¤ ect of the balance-sheet size on the steady
+state equilibrium. Figure 5 plots the relationship between the steady-state value of a number of
+endogenous variables and the endogenous excess reserves/GDP ratio, as we vary the steady-state
+real market value of central bank s bond holdings bG;CB (starting from zero). 45 As the ratio of
+reserves increases, the interest rates on depositsRD
+ss and interbank loansRIB
+ss both converge to each
+other and all rates converge to the bottom of the corridor, RDF
+ss : This means that the interbank-
+45 Since our calibrated matching function implies approximate match-e¢ ciency, by the arguments of Section 3 the
+increase in the central bank s bond holdings translates almost one-for-one into an increase in reserves. Thus, using
+bond holdings over GDP as the x-axis variable in Figure 5 would make basically no di¤erence (other than the fact
+that the reserves ratio is very small but not exactly zero for bG;CB
+ss = 0.
+34
+===== PAGE 35 =====
+Figure 5: This  gure illustrates the e¤ ect of the central bank s balance sheet size in steady state.
+The upper left panel displays deviations from the steady state associated with a balance sheet size
+of 0. The welfare di¤ erence is measured in current consumption equivalents. The upper right panel
+displays central banks pro ts as % of GDP .
+DFR spread also converges to zero (as shown already in Figure 4), consistently with Proposition
+2.46
+The top panels show that both steady state GDP and welfare (the latter in consumption-
+equivalent units) increase in the ratio of excess reserves. This is the result of the reduction in
+central bank seigniorage. These pro ts result from the di¤ erence in the remuneration on the central
+bank s assets and liabilities. In particular,
+CB
+ss =RG
+ssbG;CB +RLF
+ss
+ 
+1   B
+ss
+
+B
+ss RDF
+ss
+ 
+1   L
+ss
+
+L
+ss;
+where RLF
+ss = RDF
+ss + and RG
+ss = RL
+ss > RDF
+ss . As the size of the balance sheet increases, the
+per unit margin goes down faster such that total pro ts drop. Since the pro ts raised by the
+central bank act like a tax on banks and hence on capital returns, they distort the household s
+savings decision. Therefore, lower pro ts imply higher welfare.47 However, as the upper two panels
+demonstrate, these e¤ ects are quantitatively rather negligible.
+46 Note that the volume of outstanding interbank claims is always positive and infact marginally increases in the
+size of the central bank s balance sheet. The latter is so because the spread between RB andRL, which discourages
+interbank transactions, decreases.
+47 Since our model features multiple distortions, it is not a priori clear that an increase in one distortion must
+decrease welfare. Nevertheless, this numerical  nding is intuitive since central bank pro ts act like a tax on capital
+(hence causing underinvestment) and none of the other frictions leads to overinvestment.
+35
+===== PAGE 36 =====
+5.3 Balance sheet policies at the ELB
+Next we consider the dynamic implications of di¤ erent balance sheet policies when the economy
+is driven to the ELB. T o bring the economy there, we consider a time-varying household discount
+factor and simulate a temporary shock to it. W e consider four di¤ erent scenarios, which di¤ er only
+in the central bank s balance sheet policy:
+(i) A lean initial balance sheet with no unconventional policy response to the crisis: bG;CB
+t = 08t.
+(ii) A large initial balance sheet but no unconventional policy response to the crisis: bG;CB
+t =
+b
+G;CB
+> 08t.
+(iii) Starting from the same lean balance sheet as in scenario (i), the central bank implements a
+temporary bond purchase program.
+(iv) Starting from the same lean balance sheet as in scenario (i), the central bank implements the
+same temporary bond purchase program as in scenario (iii), but with a 1 year delay.
+In all four cases the interest rate policy follows the same T aylor rule, and the economy is
+assumed to rest at the corresponding steady state before the shock (assumed to take place at time
+t = 1 ). At t = 1 , the discount factor  increases, and then it gradually converges back to its
+steady state value following an AR(1) process; once the shock arrives, its future path is perfectly
+foreseen thereafter.48 W e choose the size of the shock  common to all scenarios  such that the
+ELB constraint binds for 10 quarters under scenario (i). In scenario (ii) we consider an initial
+balance sheet size of 5% of GDP , a level high enough that RIB
+ss ' RDF
+ss and hence the economy
+e¤ ectively rests in a  oor regime.49 In scenario (iii), we assume the central bank purchases bonds
+for 2 periods at a speed of 1% of steady state GDP per quarter, reinvests for one period, and then
+lets its bond portfolio mature; 50 this path for bond holdings is announced contemporaneously to
+the crisis shock. Finally, in scenario 4, we assume the central bank implements the same bond
+purchase program, but with a 4 quarter lag. 51
+48 We solve for the paths of the endogenous variables using the Newton-based perfect foresight solver for the
+non-linear model implemented in DYNARE. Notice that the future path of the exogenous variables (  and the
+unconventional policy response, if any) is revealed on the impact period.
+Computing the nonlinear solution has two advantages: It allows us to consider the ELB and to capture the highly
+nonlinear relationship between the central bank balance sheet size and the real variables.
+49 As shown in Figure 4, in the euro area for excess reserve ratios above 5% the spread between the interbank rate
+and the DFR is stabilized at near-zero levels.
+50 In terms of the rule in equation (30) for central bank s bond holdings, we thus assume npt = 0:01Yannual for
+t = 1; 2 and rit = 1 for t = 1; 2; 3.
+51 One caveat is in order when interpreting our results: like most New Keynesian models our model is subject to
+the forward guidance puzzle (see Del Negro et al. 2012 and Carlstrom, Fuerst and Paustian 2015), which implies
+large e¤ects of hitting the ZLB.
+36
+===== PAGE 37 =====
+Figure 6: This  gure shows the responses of key variables to the shock under the di¤ erent assump-
+tions about unconventional monetary policy. The top row compares 3 variables across di¤ erent
+scenarios. Each of the panels in the bottom row shows the corridor rates and the interbank rate
+in one of the 3 scenarios. The interbank rate under the  rst scenario is reproduced in all panels
+for comparison. The deposit rate is not plotted, however it is virtually identical to the interbank
+rate. Figure 9 in Appendix C shows further varibles for the same simulations.
+The blue lines Figure 6 display the economy s response inscenario (i), i.e. under a lean balance
+sheet and no QE. As households become more patient, they postpone consumption, driving down
+aggregate demand and in ation. The central bank responds to the fall in in ation by lowering its
+two policy rates holding the corridor width constant  , but the deposit facility rate hits the ELB,
+preventing further (conventional) monetary accommodation for some periods.
+The red lines show the responses in scenario (ii), where the central bank permanently operates
+a large balance sheet, i.e. a  oor system. In this case the response of output and in ation is
+more muted and welfare is higher relative to scenario (i). This results from the fact that, in a
+ oor system, the central bank has more policy space for conventional interest-rate policy, since the
+associated steady-state level of the DFR is higher than under a lean balance sheet (Proposition 5).
+F or our calibration, the additional stimulus a¤ orded by the larger policy rate cut is actually enough
+to prevent the ELB from binding. This results in higher output, in ation and welfare. As shown
+in T able 3, the percentage drop on impact in output and (annualized) in ation is, respectively, 1.2
+37
+===== PAGE 38 =====
+lean balance sheet (i) vs ... Output In ation
+large balance sheet (ii) 1.2 ppt 2.1 ppt
+lean balance sheet with temporary asset purchases (iii) 1.2 ppt 2.1 ppt
+lean balance sheet with delayed temporary asset purchases (iv) 0.8 ppt 1.6 ppt
+T able 3: Di¤ erences between the lean balance sheet and the other three scenarios (on impact)
+and 2.1 percentage points smaller than in scenario (i).
+The yellow lines in Figure 6 display responses in scenario (iii), where the economy starts from
+the same lean balance sheet as in scenario (i), but the central bank engages in temporary asset
+purchases. This scenario illustrates in general equilibrium our  interbank transmission channelof
+temporary QE policies. As the central bank purchases bonds, the supply of funds to the interbank
+market increases, lowering its tightness and hence the interbank interest rate (for given interest on
+reserves). The lower interbank rate is passed through to householdsdeposit rate, thus stimulating
+their consumption. A temporary QE program thus allows the central bank to add further stimulus
+during a binding-ELB episode by pushing interbank interest rates, and all other market rates across
+the economy, towards the bottom of the interest rate corridor. In fact, under our calibration the
+expansionary e¤ ect is strong enough that the DFR stays above the ELB. 52 As shown in T able 3,
+the stabilization gains from this temporary QE are the same (up to the  rst decimal) as those of
+the  oor regime.
+Finally, scenario (iv) deviates from scenario (iii) in that the balance sheet expansion starts
+with an (anticipated) delay of 4 quarters relative to the crisis shock. While the central bank s
+intervention is successful in lifting the economy from the ELB once it eventually comes into force,
+the economy stays at the ELB for the  rst 4 quarters. Output, in ation and welfare are hence
+higher than under the lean balance sheet scenario (i) but lower than under scenarios (ii) and
+(iii). Indeed, these di¤ erences are signi cant as table 3 highlights: On impact, the delay causes
+additional drops of output and in ation of 0.4 and 0.5 ppt. 53
+Comparing the latter three scenarios highlights an important result of our model: temporary
+QE  i.e. temporary excess liquidity provision  and a permanently large balance sheet  i.e.
+permanent excess liquidity provision are close substitutes, provided the former is implemented in
+a timely manner. In that case, both regimes are able to compress the spread between market rates
+and the DFR when it is most needed, i.e. during a ELB episode, or at least (as in our simulations)
+at times when the ELB would otherwise bind. If however QE is not implemented promptly enough
+(e.g. because of operational complexities or institutional constraints), then the lean-balance-sheet
+52 Notice that QE is only really e¤ective at the ELB, when conventional monetary policy looses control over the
+interbank rate RIB . During normal times conventional monetary policy (as described by the taylor rule) undoes
+the e¤ect of quantitative measures.
+53 In scenario (iv) the delayed QE is announced and anticipated in the impact quarter ( t = 1 ). The paths for
+output, in ation and welfare would be even lower if the QE program were to come as a surprise in t = 5.
+38
+===== PAGE 39 =====
+regime underperforms compared to the case of a permanently large balance sheet.
+6 F urther analysis
+6.1 On the marginal e¤ ectiveness of balance sheet expansions
+In section 3 we showed analytically that bond purchases are subject to (a weak form of) decreasing
+marginal e¤ ects on market rates. In this subsection we analyze numerically the marginal e¤ ective-
+ness of balance sheet policies, not only on market rates but also on macroeconomic outcomes. T o
+this end we compare the response of the economy in scenario (iii) above with three alternative
+scenarios where the path of bond purchases is as in the former scenario but scaled up or down. In
+particular, these scenarios feature bond purchases worth 1/3%, 2/3%, 1% and 4/3% of steady-state
+GDP for 2 quarters. 54 Figure 7 compares the responses of key variables. The variables in the  rst
+row are expressed in percent deviations from the path of the corresponding variable in the fourth
+scenario, i.e. the one that features the largest balance sheet expansion.
+Comparing the four scenarios we observe how the marginal e¤ ect of the central banks balance
+sheet expansion declines as the balance sheet increases. While extending purchases from 1/3%
+of GDP to 2/3% of GDP increases GDP by 0.4% at the peak, expending purchases to 1% of
+GDP only results in an additional increase of roughly 0.05%. Any further expansion is essentially
+irrelevant for output. A similar pattern holds for in ation. This numerical general equilibrium
+result complements proposition 2, which showed that the marginal e¤ ect of QE on the interbank
+rate exhibits decreasing returns to scale and converges towards 0 as the balance sheet size is
+expanded.
+This feature of the model is consistent with the empirical  nding by Reis (2016) that only the
+ rst QE announcement in the US had a signi cant e¤ ect on in ation expectations, while for later
+QE announcements, when the F ed s balance sheet was already large, little to no e¤ ect can be found
+in the data. 55
+6.2 Central bank asset composition
+So far we have assumed that balance sheet policies take the exclusive form of bond purchases. In
+reality, central banks have also implemented programs aimed at providing large amounts of credit
+to the banking sector under more favorable conditions (in terms e.g. of pricing) than those of their
+54 Unlike in the previous section, we now simulate a larger crisis shock, so that none of the four scenarios avoids
+hitting the ELB.
+55 The  rst round of QE in the US, "QE1", already resulted in excess reserves of 6% of GDP, which was su¢ cient
+to drive the Fed Funds rate to the bottom of the corridor. Hence, for a reasonable US calibration, our model would
+predict no e¤ect of later rounds of QE.
+39
+===== PAGE 40 =====
+Figure 7: The panels in the  rst row of this  gure compare the responses of key variables to a
+time preference shock under di¤ erent assumptions about unconventional monetary policy. Output,
+in ation and welfare are expressed in deviations from the respective paths under the most aggresive
+balance sheet expansion. Each panel in the second row shows the evolution of the corridor and
+the interbank rates for one of the 4 scenarios.
+lending facilities. In this section, we extend the model to allow the central bank to engage in this
+kind of program. W e show that all our previous results go through: What matters in our model is
+how much excess liquidity is created through balance-sheet policies, not which assets are  nanced
+with it.
+Assume in particular that, once banks draw their idiosyncratic shock !j
+t , they can obtain credit
+Bj;CB
+t from the central bank at the administered rate RCF
+t .56 This rate is lies within the corridor,
+but it is lower than the lending facility rate, RLF
+t , so it is e¤ ectively subsidized. In equilibrium the
+e¤ ective borrowing rate equates this credit rateRCF
+t =RB
+t .57 It is trivial to show that the demand
+and supply for interbank loans in Lemma 1 now becomes
+56 Central banks large-scale credit operations typically took place only at certain dates and hence lacked the
+standing nature of lending facilities. To capture the latter feature in our model, we assume that, after each period s
+interbank trading round, those borrowing orders that have failed to  nd a lending bank can no longer be funded
+with central bank subsidized credit.
+57 We focus here on equilibria where the constraint Bj;CB
+t  0 is slack. In any such equilibria borrowing banks
+must be indi¤erent between going to the interbank market or directly to this credit facility.
+40
+===== PAGE 41 =====
+B+;j
+t =
+(
+(  1)Nj
+t Dj
+t Bj;CB
+t ; if!j
+t >! B
+t ;
+0; if!j
+t <! B
+t ; (41)
+De ningBCB
+t 
+R 1
+0 Bj;CB
+t dj the aggregate amount of such credit operations, aggregate interbank
+borrowing orders are now given by
+B
+t = [(  1)Nt Dt]
+
+1 F
+ 
+!B
+t
+
+ BCB
+t :
+The central bank s balance sheet constraint now includes the new asset class,
+BCB
+t +bG;CB
+t + B
+t
+ 
+1   B
+t
+
+= L
+t
+ 
+1   L
+t
+
+;
+Banks equity now evolves as
+Nt
+& =RA
+t 
+t 1QK
+t 1Kt 1 + RL
+t 1
+1 +t
+L
+t 1 + RG
+t
+1 +t
+bG
+t 1  RD
+t 1
+1 +t
+Dt 1  RB
+t 1
+1 +t
+B
+t 1  RB
+t 1
+1 +t
+BCB
+t 1:
+All other equilibrium conditions remain unchanged.
+In our model, the main di¤ erence between central bank s bond purchases and subsidized credit
+operations is that, ceteris paribus, the former increases the supply of funds to the interbank market,
+L
+t , whereas the latter reduces the demand for interbank funds, B
+t :58 As it turns out, any equi-
+librium allocation that can be sustained with bond purchases can also alternatively be sustained
+with subsidized credit operations, as the following result establishes:
+Proposition 6 (Equivalence of loan and bond programs) Assuming perfect foresight, letX
+be the set of equilibrium sequences for all t (prices, quantities and exogenous processes). Consider
+a particular sequencefx
+tg1
+t=02X which satis es the following conditions:
+1. The central bank holds some government bonds: bG;CB
+t > 0 for some t.
+2. The central bank never extends any subsidized loans to banks: BCB
+t = 0;8t 0.
+Then there exists another sequence
+
+x+
+t
+	1
+t=02 X with identical initial conditions x+
+0 = x
+0;
+which satis es:
+1. The central bank purchases no bonds: bG;CB+
+t = 0;8t 1:
+58 A second, comparatively minor di¤erence is that the maximum size of the lending program is given by borrowing
+bankstotal demand for funds, [(  1)Nt Dt]
+
+1 F
+ 
+!B
+t
+
+; whereas bond purchases are limited by the size of
+the bond market, bt:
+41
+===== PAGE 42 =====
+2. At eacht at which the central bank holds bonds in x
+t , it extends a positive but smaller amount
+of subsidized loans to banks in x+
+t . In particular
+BCB+
+t =bG;CB
+t  L
+t bG;CB
+t ;8t 1:
+3. The sequences of all equilibrium variables besides BCB+
+t , bG;CB+
+t , B+
+t , bG+
+t and L+
+t are
+equal in both sequences.
+The proof can be found in Appendix A. This proposition states that it is essentially irrelevant
+which of the two instruments the central bank uses to a¤ ect the liquidity conditions in the interbank
+market. The intuition is that, by purchasing bonds, the central bank increases the supply of funds
+to the interbank market, while by providing loans to banks it reduces the demand of interbank
+funds. Both interventions can equally increase the ratio of interbank borrowing over lending
+orders, which in turn a¤ ects each side s matching probabilities and surplus share. 59 Importantly,
+this proposition implies that all previous propositions, relative to the e¤ ect of bond purchases,
+have counterparts relative to the e¤ ects of credit operations.
+The proposition entails an interesting detail. The central bank can obtain the allocation associ-
+ated with a certain level of public bond purchases by alternatively issuing a smaller level of credit
+operations (BCB+
+t  bG;CB
+t ). Figure 8 shows this relationship in steady state for the calibrated
+model. As the  gure shows, the larger the balance sheet is, the larger is the di¤ erence between the
+amounts required in the two cases. F or instance, to obtain the same steady state allocation asso-
+ciated to a balance sheet size of 15% of GDP achieved by expanding bonds holdings, the central
+bank would alternatively need to expand credit operations until achieving a balance sheet size of
+about 13% of GDP .
+W e have also repeated the dynamic simulations in the previous section assuming that, instead
+of purchasing bonds, the central bank implements credit operations in the same amounts. W e  nd
+the di¤ erences to be quantitatively negligible. 60 This is in line with the fact that the empirical
+relationship between volume and return spread of excess reserves seen in Figure 4 seems not to be
+a¤ ected by the fact that the ECB s balance sheet policies went through two di¤ erentiated phases,
+with credit operations dominating until 2015 and asset purchases largely taking over from there
+on (see again Figure 1).
+59 Due to the di¤erent (long-term) government bonds and (one-period) credit operations, our equivalence result
+holds only under perfect foresight. With aggregate uncertainty, interest rate risk would matter and the result would
+hold exactly only if government bonds had the same maturity as credit operations; the result would still holds up
+to a  rst order approximation in the  rst period of the implementation of either program.
+60 These simulations are not shown here for brevity but are available upon request.
+42
+===== PAGE 43 =====
+Figure 8: This  gure shows by how much the central bank needs to expand its balance sheet by
+issuing bonds in order to obtain the allocation associated with the amount of governemnet bond
+purchases on the x axis. On both axis, the excess reserves are expressed as fraction of steady state
+GDP . The dashed line is the 45 degree line.
+7 Conclusion
+The quantitative easing (QE) policies implemented by central banks across many advanced economies
+in order to combat the e¤ ect of the recent crisis has given rise to an unprecedented increase in
+the size of their balance sheets and the volume of excess reserves, which in parallel has pushed
+interbank and other money market rates towards their  oor: the interest on excess reserves (  oor
+system ). With macroeconomic fundamentals gradually improving, such central banks now face
+the dilemma as to whether to keep this large balance sheet/ oor regime, or else to return to the
+relatively small pre-crisis balance sheets with low levels of excess reserves and interbank rates
+trading in the middle of the corridor formed by central bankslending and deposit facility rates
+( corridor system ). This paper has proposed a New Keynesian model with a banking sector and
+an interbank market characterized by search and matching friction with the aim of comparing the
+stabilization and welfare properties of the  oor and corridor regimes.
+Our analysis has  rst uncovered a novel mechanism through which QE can be e¤ ective, over-
+turning the famous irrelevance result of W allace (1981) and Eggertsson and W oodford (2003).
+Because of matching frictions in the interbank market, the position of the equilibrium interbank
+rate  and of other market rates relevant for private spending  inside the corridor depends on
+the relative volumes of lending and borrowing orders, i.e. on interbank market tightness. By
+purchasing government bonds or run credit operations with banks, the central bank can make the
+interbank market more slack and thus push the interbank rate down towards the bottom of the
+corridor, thus stimulating economic activity. Our model replicates well the observed relationship
+between the quantity of excess reserves and the spread between money market rates and the de-
+posit facility rate in the euro area. It also speaks to empirical evidence in studies such as Reis
+(2016) where the  rst QE program in the US is found to be more e¤ ective than subsequent ones
+43
+===== PAGE 44 =====
+ and Christensen and Krogstrup (2018)  where the reserves expansion produced by QE a¤ ects
+the economy through banksportfolios, regardless of the type of assets being purchased.
+Comparing lean vs. large balance sheet regimes, we  nd that the latter provides the central
+bank with more policy space for conventional interest rate policy vis-à-vis the e¤ ective lower
+bound (ELB). At the same time, we show that a regime that combines a lean balance sheet with
+temporary but quick balance sheet expansions at the ZLB provides a very similar degree of policy
+accommodation. In practice, though, such quick adjustments of the central bank balance sheet
+might be di¢ cult for operational or institutional reasons. In those cases, our model provides a
+rationale for choosing a  oor over a corridor system, even for normal times. Such a  oor system
+requires the central bank to hold an amount of assets large enough to drive the spread between
+the interbank and the deposit facility rate to (close to) zero.
+Some caveats are in order. Our model ignores a number of factors that are potentially relevant
+for the design of central banks balance sheet size (and composition), such as the potential for
+operating losses and the resulting implications for their intertemporal insolvency and ultimately
+their independence from  scal authorities (see e.g. Hall and Reis 2015 and Del Negro and Sims
+2015), as well as  nancial stability concerns (Greenwood et al. 2016). Hence, our analysis should
+be viewed as suggesting an additional, complementary argument to be considered in this debate.
+Finally, our results depend on the central bank charging a positive spread between its deposit
+and lending facility rates. This policy has a centuries old tradition going back to Bagehot, is
+ubiquitous until today, and the size of the spread is typically non-negligible. However, we did
+not explicitly model a reason for why such a spread exists. Instead, we assumed the existence
+of an interest rate corridor (with an exogenous width) and then assessed the implications of our
+framework for the stabilization properties of small- and large-balance-sheet regimes. In fact, the
+modern academic literature is largely silent on the question as to why and how to set such a
+spread. Understanding this issue better, and especially integrating the resulting insights into
+DSGE environments like the one proposed here, is an important task that we leave for future
+research.
+44
+===== PAGE 45 =====
+References
+[1] Afonso, Gara and Lagos, Ricardo (2015). "T rade Dynamics in the Market for F ederal F unds,"
+Econometrica, 83 (1), 263-313.
+[2] Armenter, Roc and Lester, Benjamin (2017). "Excess Reserves and Monetary Policy Imple-
+mentation," Review of Economic Dynamics, 23, 212-235.
+[3] Atkeson, Andrew, Eisfeldt, Andrea L. and W eill, Pierre-Olivier (2015). Entry and Exit in
+OTC Derivatives Markets , Econometrica, 83 (6), 2231-2292.
+[4] Bech, Morten and Monnet, Cyril (2016). "A search-based model of the interbank money
+market and monetary policy implementation," Journal of Economic Theory, 164(C), 32-67.
+[5] Bernanke, Ben (2016). Should the F ed keep its balance sheet large? , September 2, Blog
+entry.
+[6] Bianchi, Javier and Bigio, Saki (2017). "Banks, Liquidity Management, and Monetary Policy,"
+W orking paper.
+[7] Christensen, Jens and Krogstrup, Signe (2017). "A Portfolio Model of Quantitative Easing"
+F ederal Reserve Bank of San F rancisco W orking Paper 2016-12.
+[8] Christensen, Jens and Krogstrup, Signe (2018). "T ransmission of Quantitative Easing: The
+Role of Central Bank Reserves", Economic Journal, forthcoming.
+[9] Buera, F rancisco and Moll, Benjamin (2015). Aggregate Implications of a Credit Crunch: The
+Importance of Heterogeneity, American Economic Journal: Macroeconomics, 7(3), 1-42.
+[10] Bullard, James (2017). "The Role of the F ed s Balance Sheet for
+the U.S. Monetary Policy Outlook in 2017", GWU Alumni Lec-
+ture in Economics, George W ashington University, F ebruary 28. Link:
+https://www.stlouisfed.org/~/media/Files/PDFs/Bullard/remarks/2017/Bullard_GWU_Alumni_Lecture_F eb_28_2017.pdf
+[11] Carlstrom, Charles, F uerst, Timothy and Paustian, Matthias (2015). "In ation and output in
+New Keynesian models with a transient interest rate peg," Journal of Monetary Economics,
+76(C), 230-243.
+[12] Chen, Han, Cúrdia, V asco and F errero, Andrea (2012). "The Macroeconomic E¤ ects of Large-
+scale Asset Purchase Programmes", The Economic Journal, 122, 289-315.
+[13] Cúrdia, V asco and W oodford, Michael (2011). "The central-bank balance sheet as an instru-
+ment of monetarypolicy", Journal of Monetary Economics, Elsevier, 58(1), 54-79.
+45
+===== PAGE 46 =====
+[14] Calvo, Guillermo, (1983). "Staggered prices in a utility-maximizing framework", Journal of
+Monetary Economics, 12(3), 383-398.
+[15] Chen, Han , Clouse, Jim , Ihrig, Jane and Klee, Elisabeth (2016). "The F ederal Reserve s
+T ools for Policy Normalization in a Preferred Habitat Model of Financial Markets." Journal
+of Money, Credit and Banking, 48, 921-955.
+[16] Del Negro, Marco, Giannoni, Marc and Patterson, Christina (2015). "The forward guidance
+puzzle," F ederal Reserve Bank of New Y ork Sta¤ Report 574.
+[17] Del Negro, Marco and Sims, Christopher (2015). "When does a central bank s balance sheet
+require  scal support?," Journal of Monetary Economics, 73(C), 1-19.
+[18] Eggertsson, Gauti and W oodford, Michael (2003). "The Zero Bound on Interest Rates and
+Optimal Monetary Policy." Brookings Papers on Economic Activity, 2003(1), 139-211.
+[19] den Haan, W outer, Ramey, Garey and W atson, Joel (2000). "Job Destruction and Propagation
+of Shocks," American Economic Review, 90(3), 482-498.
+[20] Gertler, Mark and Karadi, Peter (2011). "A model of unconventional monetary policy," Jour-
+nal of Monetary Economics, 58(1), 17-34.
+[21] Gertler, Mark and Karadi, Peter (2013). "QE 1 vs. 2 vs. 3. . . : A F ramework for Analyzing
+Large-Scale Asset Purchases as a Monetary Policy T ool," International Journal of Central
+Banking, 9(1), 5-53.
+[22] Gertler, Mark and Kiyotaki, Nobuhiro (2010). "Financial Intermediation and Credit Policy
+in Business Cycle Analysis," Handbook of Monetary Economics, in: Benjamin M. F riedman
+& Michael W oodford (ed.), Handbook of Monetary Economics, edition 1, volume 3, chapter
+11, pages 547-599.
+[23] Greenwood, Robin, Hanson, Samuel and Stein, Jeremy (2016). The F ederal Reserve s Balance
+Sheet as a Financial-Stability T ool.2016 Economic Policy Symposium Proceedings. Jackson
+Hole: F ederal Reserve Bank of Kansas City.
+[24] Hall, Robert and Reis, Ricardo (2015). "Maintaining Central-Bank Financial Stability under
+New-Style Central Banking," NBER W orking Papers 21173, National Bureau of Economic
+Research.
+[25] Ireland, Peter (2014). "The Macroeconomic E¤ ects Of Interest On Reserves," Macroeconomic
+Dynamics, 18(6), 1271-1312.
+46
+===== PAGE 47 =====
+[26] Moen, Espen (1997). "Competitive Search Equilibrium", Journal of Political Economy, 105(2),
+385-411.
+[27] Mortensen, Dale and Pissarides, Christopher (1999). "Job reallocation, employment  uctu-
+ations and unemployment," Handbook of Macroeconomics,in: J. B. T aylor & M. W oodford
+(ed.), Handbook of Macroeconomics, edition 1, volume 1, chapter 18, pages 1171-1228 Else-
+vier.
+[28] Nuño, Galo, and Thomas, Carlos (2017). "Bank Leverage Cycles." American Economic Jour-
+nal: Macroeconomics, 9(2), 32-72.
+[29] Poole, William. (1968). "Commercial bank reserve management in a stochastic model: impli-
+cations for monetary policy", The Journal of Finance, 23, 769-791.
+[30] Primiceri, Giorio, Schaumburg, Ernst and T ambalotti, Andrea (2006). "Intertemporal distur-
+bances", NBER WP12243.
+[31] Reis, Ricardo (2016). "F unding Quantitative Easing to T arget In ation," in: Designing Re-
+silient Monetary Policy F rameworks for the F uture, Jackson Hole Economic Policy Sympo-
+sium: F ederal Reserve Bank of Kansas City.
+[32] W allace, Neil (1981). "A Modigliani-Miller Theorem for Open-Market Operations," The Amer-
+ican Economic Review, 71(3), 267-74
+[33] W oodford, Michael (2001). "Fiscal Requirements for Price Stability," Journal of Money, Credit
+and Banking, 33(3), 669-728.
+47
+===== PAGE 48 =====
+Appendix
+A Proofs
+A.1 Proof of Lemma 1 (Bank s problem)
+Bankj s problem at the beginning of period t is the following,
+Vt(Nj
+t ) = max
+Dj
+t
+Z
+Vt(Nj
+t;Dj
+t;! )dF (!);
+Vt(Nj
+t;Dj
+t;!j
+t) = max
+Aj
+t0;bG;j
+t 0;B+;j
+t 0;B ;j
+t 0
+Ett;t+1
+
+(1 &)Ej
+t+1 +Vt+1(&Ej
+t+1)
+
+;
+subject to
+QK
+t Aj
+t +bG;j
+t +B ;j
+t =Nj
+t +B+;j
+t +Dj
+t; (42)
+QK
+t Aj
+tNj
+t; (43)
+where
+Ej
+t+1 =RA
+t+1!j
+tQK
+t Aj
+t + RG
+t+1bj;G
+t +RL
+tB ;j
+t
+1 +t+1
+  RD
+t Dj
+t +RB
+t B+;j
+t
+1 +t+1
+: (44)
+W e use (42) to substitute for Bj;+
+t in the above problem. Let j
+At;j
+Gt; +;j
+Bt ; ;j
+Bt ;j
+t denote the
+Lagrange multipliers associated toAj
+t 0;bG;j
+t  0;B +;j
+t  0;B ;j
+t  0 and the leverage constraint
+(43), respectively. A solution to the banks problem must satisfy both the FOC with respect to
+Dj
+t;Aj
+t;bG;j
+t ;B ;j
+t ; given respectively by
+Z @ Vt
+@Dj
+t
+(Nj
+t;Dj
+t;! )dF (!) = 0 ; (45)
+Ett;t+1
+
+1 & +&V0
+t+1(Nj
+t+1)
+
+RA
+t+1!j
+t  RB
+t
+1 +t+1
+
++ j
+At
+QK
+t
+++;j
+Bt  j
+t = 0 ; (46)
+Ett;t+1
+
+1 & +&V0
+t+1(Nj
+t+1)
+RG
+t+1 RB
+t
+1 +t+1
+
++j
+Gt ++;j
+Bt = 0 ; (47)
+Ett;t+1
+
+1 & +&V0
+t+1(Nj
+t+1)
+RL
+t RB
+t
+1 +t+1
+
++ ;j
+Bt ++;j
+Bt = 0 (48)
+and the Kuhn T ucker conditions
+48
+===== PAGE 49 =====
+min
+ 
+Aj
+t ; j
+At
+
+= 0 ; (49)
+min
+
+bG;j
+t ; j
+Gt
+
+= 0 ; (50)
+min
+ 
+B ;j
+t ; +;j
+Bt
+
+= 0 whereB ;j
+t =QK
+t Aj
+t +bG;j
+t +B ;j
+t  Nj
+t Dj
+t; (51)
+min
+ 
+B ;j
+t ;  ;j
+Bt
+
+= 0 ; (52)
+min
+ 
+Nj
+t QK
+t Aj
+t ; j
+t
+
+= 0 : (53)
+Using the envelope condition
+@ Vt
+@Dj
+t
+(Nj
+t;Dj
+t;!j
+t) = Ett;t+1
+
+1 & +&V0
+t+1(Nj
+t+1)
+RB
+t  RD
+t
+1 +t+1
+
+ +;j
+Bt (54)
+usingNj
+t+1 =&Ej
+t+1 we can express the FOC with respect to deposits (45) as 61
+Z
+Ett;t+1
+
+1 & +&V0
+t+1(Nj
+t+1)
+RB
+t  RD
+t
+1 +t+1
+
+dF (!) 
+Z
++;j
+Bt dF (!) = 0: (55)
+The marginal value of equity is given by the envelope condition
+V0
+t (Nj
+t ) =
+Z @ Vt
+@Nj
+t
+(Nj
+t;Dj
+t;! )dF (!); (56)
+where
+@ Vt
+@Nj
+t
+(Nj
+t;Dj
+t;!j
+t) = Ett;t+1
+
+1 & +&V0
+t+1(Nj
+t+1)
+ RB
+t
+1 +t+1
+ +;j
+Bt +j
+t: (57)
+W e guess that in equilibriumV0
+t (Nj
+t )N
+t is equalized across banks. Let ~t;t+1 t;t+1
+ 
+1 & +&N
+t+1
+
+.
+W e also make use of the fact that in equilibrium RB
+t  RL
+t , as shown in Section 2.7 in the main
+text.
+Conjectured solution. W e conjecture the following solution for the bank s problem. F or
+some thresholds !B
+t ;!L
+t to be derived below:
+ Banks with !j
+t >! B
+t borrow in the interbank market up to the leverage constraint,
+Aj
+t =Nj
+t=QK
+t ;
+B+;j
+t = (  1)Nj
+t Dj
+t;
+61 Notice that the  rst integrand in equation (55) depends on !j
+t through the term Nj
+t+1 =&Ej
+t+1, where in turn
+Ej
+t+1 is given by equation (44).
+49
+===== PAGE 50 =====
+bG;j
+t =B ;j
+t = 0;
+together with j
+At =+;j
+Bt = 0< j
+t; andj
+Gt; ;j
+Bt  0;
+ Banks with !j
+t2 [!L
+t;!B
+t ] invest their equity and deposits in real assets,
+Aj
+t = (Nj
+t +Dj
+t )=QK
+t Nj
+t=QK
+t ;
+bG;j
+t =B ;j
+t =B+;j
+t = 0;
+together withj
+At =j
+t = 0 ;j
+Bt ;j
+Gt; +;j
+Bt , the latter with strict inequality if!j
+t2 (!L
+t;!B
+t );
+ Banks with !j
+t <! L
+t invest their equity and deposits in the interbank and government bond
+markets,
+Aj
+t =B+;j
+t = 0;
+bG;j
+t +B ;j
+t =Nj
+t +Dj
+t;
+together with j
+Gt = ;j
+Bt =j
+t = 0< j
+At and+;j
+Bt  0.
+Also, each bank s deposits Dj
+t are not determined but are only required to be in the range
+[0; (  1)Nj
+t ].
+V erifying the conjecture. W e now use our conjectured solution to evaluate the FOCs
+conditional on !j
+t :
+ FOC with respect to Aj
+t :
+ Case!j
+t >! B
+t :
+j
+t = Et
+
+~t;t+1
+
+RA
+t+1!j
+t  RB
+t
+1 +t+1
+
+> 0,!j
+t >
+Et
+h
+~t;t+1
+RB
+t
+1+t+1
+i
+Et
+h
+~t;t+1RA
+t+1
+i !B
+t : (58)
+ Case!L
+t !j
+t!B
+t :
++;j
+Bt = Et
+
+~t;t+1
+ RB
+t
+1 +t+1
+ RA
+t+1!j
+t
+
+ Et
+
+~t;t+1
+ RB
+t
+1 +t+1
+ RA
+t+1!B
+t
+
+= 0:
+(59)
+ Case!j
+t <! L
+t :
+Et
+
+~t;t+1
+
+RA
+t+1!j
+t  RB
+t
+1 +t+1
+
++ j
+At
+QK
+t
+++;j
+Bt = 0: (60)
+50
+===== PAGE 51 =====
+ FOC with respect to bG;j
+t :
+ Case!j
+t >! B
+t :
+j
+Gt = Et
+
+~t;t+1
+RB
+t  RG
+t+1
+1 +t+1
+
+ 0 (61)
+ Case!L
+t !j
+t!B
+t :
+Et
+
+~t;t+1
+RG
+t+1 RB
+t
+1 +t+1
+
++j
+Gt ++;j
+Bt = 0 (62)
+ Case!j
+t <! L
+t :
++;j
+Bt = Et
+
+~t;t+1
+RB
+t  RG
+t+1
+1 +t+1
+
+ 0; (63)
+where in (61) and (63) we conjecture (and verify below) that
+Et
+
+~t;t+1
+RB
+t
+1 +t+1
+
+ Et
+
+~t;t+1
+RG
+t+1
+1 +t+1
+
+:
+ FOC with respect to B ;j
+t :
+ Case!j
+t >! B
+t :
+ ;j
+Bt = Et
+
+~t;t+1
+RB
+t  RL
+t
+1 +t+1
+
+ 0; (64)
+ Case!L
+t !j
+t!B
+t :
+Et
+
+~t;t+1
+RL
+t RB
+t
+1 +t+1
+
++ ;j
+Bt ++;j
+Bt = 0; (65)
+ Case!j
+t <! L
+t :
++;j
+Bt = Et
+
+~t;t+1
+RB
+t  RL
+t
+1 +t+1
+
+ 0: (66)
+ The Kuhn T ucker conditions (49), (50), (52), (53) are obviously satis ed as well. 51 obviously
+holds for!j
+t!B
+t : F or!j
+t >! B
+t this condition holds since we conjecturedB ;j
+t = (  1)Nj
+t 
+Dj
+t andDj
+t2 [0; (  1)Nj
+t ].
+Equations (63) and (66) imply
+Et
+
+~t;t+1
+RL
+t
+1 +t+1
+
+= Et
+
+~t;t+1
+RG
+t+1
+1 +t+1
+
+51
+===== PAGE 52 =====
+i.e. the (expected risk-adjusted real) return on government bonds equals the (expected risk-
+adjusted real) e¤ ective lending rateRL
+t . The latter condition, together with the equilibrium rela-
+tionshipRB
+t RL
+t , veri es our conjecture that Et
+h
+~t;t+1
+RB
+t
+1+t+1
+i
+ Et
+h
+~t;t+1
+RG
+t+1
+1+t+1
+i
+. Using (66) to
+substitute for +;j
+Bt in (60) yields
+j
+At
+QK
+t
+= Et
+
+~t;t+1
+ RL
+t
+1 +t+1
+ RA
+t+1!j
+t
+
+> 0,!j
+t <
+Et
+h
+~t;t+1
+RL
+t
+1+t+1
+i
+Et
+h
+~t;t+1RA
+t+1
+i !L
+t: (67)
+Thus, the threshold de nitions (58) and (67), together with the equilibrium relationshipRB
+t RL
+t ,
+imply
+!L
+t !B
+t :
+Using (59) to substitute for +;j
+Bt in (65) and (62) yields, respectively,
+ ;j
+Bt = Et
+
+~t;t+1
+
+RA
+t+1!j
+t  RL
+t
+1 +t+1
+
+ Et
+
+~t;t+1
+
+RA
+t+1!L
+t  RL
+t
+1 +t+1
+
+= 0;
+j
+Gt = Et
+
+~t;t+1
+
+RA
+t+1!j
+t  RG
+t+1
+1 +t+1
+
+= Et
+
+~t;t+1
+
+RA
+t+1!j
+t  RL
+t
+1 +t+1
+
+ 0:
+Equilibrium deposit rate. W e can write (55) as
+Et
+" ~t;t+1RD
+t
+1 +t+1
+#
+= Et
+" ~t;t+1RB
+t
+1 +t+1
+#
+ 
+Z
++;j
+Bt dF (!):
+Using the equilibrium values of +;j
+Bt in equations (59) for !j
+t2 [!L
+t;!B
+t ] and (66) for !j
+t < !L
+t , as
+well as the fact that +;j
+Bt = 0 for!j
+t >! B
+t , we  nally obtain
+Et
+~t;t+1RD
+t
+1 +t+1
+= Et
+~t;t+1RB
+t
+1 +t+1
+  Et
+~t;t+1
+ 
+RB
+t  RL
+t
+
+1 +t+1
+F
+ 
+!L
+t
+
+ 
+Z !B
+t
+!L
+t
+Et ~t;t+1
+ RB
+t
+1 +t+1
+ RA
+t+1!j
+t
+
+dF (!)
+=
+
+1 F
+ 
+!B
+t
+
+Et
+" ~t;t+1RB
+t
+1 +t+1
+#
++F
+ 
+!L
+t
+
+Et
+" ~t;t+1RL
+t
+1 +t+1
+#
++
+
+F
+ 
+!B
+t
+
+ F
+ 
+!L
+t
+
+E
+ 
+!j!L
+t !!B
+t
+
+Et
+h
+~t;t+1RA
+t+1
+i
+; (68)
+where E
+ 
+!j!L
+t !!B
+t
+
+
+
+F
+ 
+!B
+t
+
+ F
+ 
+!L
+t
+ 1R!B
+t
+!L
+t
+!dF (!). Therefore, the (expected risk-
+adjusted real) marginal cost of deposits, RD
+t Et
+h ~t;t+1
+1+t+1
+i
+, must equal the (expected risk-adjusted
+real) marginal bene t across realizations of !j
+t after the closing of the deposits market. Condi-
+tional on being a high-pro tability bank that is leveraged up to the maximum ( !j
+t  !B
+t ), an
+52
+===== PAGE 53 =====
+additional unit of deposits will allow it to reduce its interbank funding needs by one unit, thus
+savingRB
+t Et
+h ~t;t+1
+1+t+1
+i
+in expected real risk-adjusted terms. Conditional on being a low-pro tability
+bank (!j
+t!L
+t ), each additional unit of deposits will be invested in interbank lending or govern-
+ment bonds, which yields RL
+t Et
+h ~t;t+1
+1+t+1
+i
+(= Et
+h ~t;t+1
+1+t+1
+RG
+t+1
+i
+). F or intermediate-pro tability banks
+(!L
+t !j
+t!B
+t ), each additional unit of deposits will be invested in real  rm assets, which yields
+Et
+h
+~t;t+1RA
+t+1
+i
+E
+ 
+!j!L
+t !!B
+t
+
+on average.
+T o prove thatRD
+t 2 [RL
+t;RB
+t ], notice that, using the de nition of the borrowing threshold !B
+t
+(see eq. 58), we can express (68) as
+RD
+t =
+
+1 F
+ 
+!B
+t
+
+RB
+t +F
+ 
+!L
+t
+
+RL
+t +
+
+F
+ 
+!B
+t
+
+ F
+ 
+!L
+t
+ E
+ 
+!j!L
+t !!B
+t
+
+!B
+t
+RB
+t
+
+
+1 F
+ 
+!B
+t
+
+RB
+t +F
+ 
+!L
+t
+
+RB
+t +
+
+F
+ 
+!B
+t
+
+ F
+ 
+!L
+t
+
+RB
+t =RB
+t ;
+where the inequality uses both E
+ 
+!j!L
+t !!B
+t
+
+!B
+t and the fact that in equilibrium RL
+t 
+RB
+t . Using instead in equation (68) the de nition of the lending threshold !L
+t (eq. 58) and
+the fact that E
+ 
+!j!L
+t !!B
+t
+
+ !L
+t , one can analogously show that RD
+t  RL
+t . Therefore,
+RL
+t RD
+t RB
+t .
+V alue of net worth. F rom (54) and (57), we learn that
+@ Vt
+@Nj
+t
+(Nj
+t;Dj
+t;!j
+t) = @ Vt
+@Dj
+t
+(Nj
+t;Dj
+t;!j
+t) + Et
+
+~t;t+1
+RD
+t
+1 +t+1
+
++j
+t:
+Averaging across realizations of !j
+t after the closure of the deposits market, and using (56), we
+obtain the marginal value of real net worth,
+N
+t =
+Z @ Vt
+@Dj
+t
+(Nj
+t;Dj
+t;!j
+t)dF (!j
+t) + Et
+
+~t;t+1
+RD
+t
+1 +t+1
+
++
+Z
+j
+tdF (!j
+t)
+= Et ~t;t+1
+"
+RD
+t
+1 +t+1
++
+Z
+!B
+t
+
+RA
+t+1!  RB
+t
+1 +t+1
+
+dF (!)
+#
+> 0:
+where in the second equality we have used (45), together with (58) and the fact j
+t = 0 for
+!j
+t !B
+t . Additional equity allows all banks  regardless of their subsequent realization of !j
+t 
+to economize on deposit  nancing, which has a unit nominal cost of RD
+t . Moreover, equity has an
+additional marginal bene t for banks that draw !j
+t !B
+t later in the period, because it relaxes
+their leverage constraint. Notice  nally that, since !j
+t is iid, N
+t is indeed equalized across banks,
+which veri es our earlier conjecture.
+Deposit allocation across banks. A  nal note is in order. Equation (68) implies that banks
+break even ex ante when taking deposits at the beginning of the period, so they are indi¤ erent
+53
+===== PAGE 54 =====
+between taking one more units of deposits or not. Therefore, as mentioned earlier, individual
+deposit-taking by each bank is not pinned down62 although it will be pinned down in the aggregate
+in general equilibrium by the households deposit supply. The only requirement, implicitly assumed
+in the above conjectured (and veri ed) solution, is that no bank takes more deposits than
+Dj
+t (  1)Nj
+t:
+F or banks that draw !j
+t > !B
+t after the closure of the deposits market, the latter inequality
+guarantees that Bj+
+t  0, i.e. they e¤ ectively need to borrow in the interbank market so as to
+ nance their investment in the local  rm. F or those that draw !j
+t2
+
+!B
+t ;!B
+t
+
+, it guarantees that
+QK
+t Aj
+tNj
+t , i.e. they do not  nd themselves with more funds than they can invest in the local
+ rm while still respecting the leverage constraint. The above condition can only hold for each
+individual bank if it holds in aggregate:
+Dt (  1)Nt
+Assumption 1 makes sure parameters are such that the latter condition holds and our conjecture
+indeed is a solution.
+A.2 Proof of Proposition 1 (Interbank rate)
+Consider a bank with equity Nj
+t , deposits Dj
+t , and an island-speci c return!j
+t for the next period,
+that accesses the interbank market in period t after making its optimal portfolio decision as per
+Lemma 1. W e denote the latter portfolio by Aj
+t ;bG;j
+t ;B +;j
+t ;B ;j
+t . According to Lemma 1, banks
+that draw !j
+t > !B
+t choosebG;j
+t = B ;j
+t = 0 and borrow in the interbank market in the amount
+B+;j
+t = (  1)Nj
+t Dj
+t . Borrowing (and lending) orders are made on a per-unit basis. Let the
+borrowing bank send its orders to a submarket o¤ ering a combination
+ 
+RB
+t ;t
+
+of interest rate and
+(sub)market tightness.63 A fraction  B (t) of orders will be matched to lending orders, in which
+case each of them pays the rate RB
+t ; the remaining fraction fail to be matched and the bank must
+borrow instead from the lending facility at rate RLF
+t . The value of a borrowing bank at the time
+62 Note that the distribution of deposits across banks is irrelevant for aggregate variables since banks are atomistic
+and the idiosynchratic shock !j
+t is iid.
+63 For simplicity, but without loss of generality, for the purpose of this derivation we assume that each bank sends
+all its orders to one interbank submarket only. This is allows us to drop the subscript s relative to the notation in
+the main text.
+54
+===== PAGE 55 =====
+of accessing the interbank market can then be written as
+VB
+t (Nj
+t;Dj
+t;!j
+t) = Ett;t+1
+
+(1 &)Ej
+t+1 +Vt+1(&Ej
+t+1)
+
+; (69)
+where Ej
+t+1 = RA
+t+1!j
+tQK
+t Aj
+t   RD
+t Dj
+t
+1 +t+1
+  B+;j
+t
+1 +t+1
+
+ B (t)RIB
+t +
+ 
+1   B (t)
+
+RLF
+t
+
+:
+Likewise, banks that draw!j
+t <! L
+t chooseB+;j
+t = 0 and lend in the interbank market. F or a bank
+sending its lending orders to the submarket with interest rate-tightness pair
+ 
+RB
+t ;t
+
+, a fraction
+ L (t) of them will be matched to borrowing orders; the remaining fraction will not and those
+funds will be lent to the deposit facility at rate RLD
+t . Their value at the time of accessing the
+interbank market can then be again written as
+VL
+t (Nj
+t;Dj
+t;!j
+t) = Ett;t+1
+
+(1 &)Ej
+t+1 +Vt+1(&Ej
+t+1)
+
+; (70)
+where Ej
+t+1 = RA
+t+1!j
+tQK
+t Aj
+t + RG
+t+1bj;G
+t  RD
+t Dj
+t
+1 +t+1
++ B ;j
+t
+1 +t+1
+
+ L (t)RIB
+t +
+ 
+1   L (t)
+
+RDF
+t
+
+:
+As explained in the text, both lending and borrowing banks choose the submarket that o¤ ers them
+the highest value. Before solving the latter problem, we  rst express value functions in a more
+convenient way. In Appendix A.1 we showed that the (beginning-of-period) value function is linear
+in equity Nj
+t : Vt+1(Nj
+t+1) =N
+t+1Nj
+t+1, where N
+t+1 is the common marginal value of equity at time
+t + 1 across banks. De ning ~t;t+1 t;t+1
+ 
+1 & +&N
+t+1
+
+as in Appendix A.1, we can express
+(69) and (70) as
+VB
+t () = Et ~t;t+1
+(
+RA
+t+1!j
+tQK
+t Aj
+t   RD
+t Dj
+t
+1 +t+1
+  B+;j
+t
+1 +t+1
+
+ B (t)RIB
+t +
+ 
+1   B (t)
+
+RLF
+t
+
+)
+;
+(71)
+VL
+t () = Et ~t;t+1
+(
+RA
+t+1!j
+tQK
+t Aj
+t + RG
+t+1bj;G
+t  RD
+t Dj
+t
+1 +t+1
++ B ;j
+t
+1 +t+1
+
+ L (t)RIB
+t +
+ 
+1   L (t)
+
+RDF
+t
+
+)
+;
+(72)
+respectively. Since the returns to search activity in the interbank market (the terms in square
+brackets in equations 71 and 72) are deterministic from the point of view of period t, it follows
+that value maximization with respect to
+ 
+RB
+t ;t
+
+is equivalent to minimization of
+ B (t)RIB
+t +
+ 
+1   B (t)
+
+RLF
+t RB
+t
+in the case of borrowers, and maximization of
+ L (t)RIB
+t +
+ 
+1   L (t)
+
+RDF
+t RL
+t
+55
+===== PAGE 56 =====
+in the case of lenders. Let RL
+t denote the maximum average return that lenders can obtain. In
+order to attract lenders, any submarket must therefore o¤ er them an average return RL
+t . Subject
+to this, borrowers choose the combination
+ 
+RIB
+t ;t
+
+that minimizes their own average borrowing
+cost, i.e. they solve
+min
+RIB
+t ;t
+ B (t)RIB
+t +
+ 
+1   B (t)
+
+RLF
+t
+s:t:  L (t)RIB
+t +
+ 
+1   L (t)
+
+RDF
+t =RL
+t
+The  rst-order conditions of this problem are
+ B (t) +L
+t  L (t) = 0;
+d B
+d
+ 
+RIB
+t  RLF
+t
+
++L
+t
+d L
+d
+ 
+RIB
+t  RDF
+t
+
+= 0:
+Combining the latter two, and using the fact that  L (t) =  B (t)t and therefore d L
+d = d B
+d t +
+ B, we obtain  
+1 
+d L
+d t
+ L (t)
+!
+ 
+RLF
+t  RIB
+t
+
+=
+d L
+d t
+ L (t)
+ 
+RIB
+t  RDF
+t
+
+:
+Letting d L(t)
+d
+t
+ L(t)' (t) denote the elasticity of lender s matching probability with respect to
+tightness, we obtain
+RIB
+t =' (t)RDF
+t + (1 ' (t))RLF
+t :
+Finally, using  L (t) =
+(L
+t;B
+t )
+L
+t
+=  (1;t), we can also express ' (t) as
+' (t) = @
+@B
+t
+(1;t) B
+t =L
+t
+ (L
+t; B
+t )=L
+t
+= @
+@B
+t
+ 
+L
+t; B
+t
+ B
+t
+ (L
+t; B
+t );
+where the second equality uses the fact that, for any function  (x;y ) with constant returns to
+scale, y (x;y ) = y (1;y=x ). Therefore, ' (t) represents the elasticity of the function function
+with respect to borrowing orders.
+It only remains to show that' (t)2 [0; 1]. Let (x;y )
+ 
+L
+t; B
+t
+
+for ease of notation. Constant
+returns to scale implies  (x;y ) =x (1;y=x ). Di¤ erentiating with respect to x, we get
+@
+@x (x;y ) = 
+
+1;y
+x
+
+  @
+@y
+
+1;y
+x
+y
+x:
+Multiplying both sides by x, using the fact that @
+@y
+ 
+1; y
+x
+
+= @
+@y (x;y ), and rearranging, we obtain
+56
+===== PAGE 57 =====
+@
+@x (x;y )x + @
+@y (x;y )y =  (x;y ), or equivalently
+@
+@x (x;y ) x
+ (x;y ) + @
+@y (x;y ) y
+ (x;y ) = 1:
+Therefore, the two elasticities with respect to each argument add up to one. Since both of them
+must be positive, by virtue of @
+@x; @
+@y;x;y;  0, it follows that each of them must be less than
+one. In particular, @
+@y (x;y ) y
+(x;y)'
+ y
+x
+
+ 1. W e thus have '
+ y
+x
+
+2 [0; 1].
+A.3 Proof of Proposition 2 (E¤ ect of central bank bond purchases)
+Sincet =
+
+ebG;CB
+t + 1
+ 1
+we have that @ t
+@ebG;CB
+t
+< 0: By assumption @'t
+@ t
+< 0: Hence:
+@'t
+@ebG;CB
+t
+= @'t
+@t
+@t
+@ebG;CB
+t
+> 0
+Combining the interbank interest rate equation (21) and the de nition of the corridor (25) we
+get
+RIB
+t =RDF
+t + (1 ' (t)):
+Hence
+@RIB
+t  RDF
+t
+@ebG;CB
+t
+=  @'t
+@ebG;CB
+t
+< 0
+Using the de nitions for the other interest rates (18), (19) and (25) we get
+RB
+t  RDF
+t =  't B
+t ;
+RL
+t RDF
+t = (1  't)  L
+t:
+Using't = @(1;t)
+@ t
+t
+(1;t);  L (t) =  (1;t) and  B (t) =  (1=t; 1); and simplifying we get
+RB
+t  RDF
+t =  @ (1;t)
+@t
+;
+RL
+t RDF
+t = 
+
+ (1;t)  @ (1;t)
+@t
+t
+
+:
+Deriving wrt. t we get
+@RB
+t  RDF
+t
+@t
+=  @2 (1;t)
+@2
+t
+> 0;
+@RL
+t RDF
+t
+@t
+=  @2 (1;t)
+@2
+t
+t > 0:
+57
+===== PAGE 58 =====
+Since @RB
+t RDF
+t
+@ebG;CB
+t
+= @RB
+t RDF
+t
+@ t
+@ t
+@ebG;CB
+t
+and @RL
+t RDF
+t
+@ebG;CB
+t
+= @RL
+t RDF
+t
+@ t
+@ t
+@ebG;CB
+t
+we obtain that@RB
+t RDF
+t
+@ebG;CB
+t
+; @RL
+t RDF
+t
+@ebG;CB
+t
+<
+0:
+F urthermore notice that the elasticity of  is bounded below and above by 0 and 1, by the
+assumption of constant returns to scale:
+0' = 0
+ 1
+By equations (19) , (21) and (18) all rates are bounded between RDF andRLF
+RDFRLRIBRBRLF
+Combining the negative derivative of the distance of the three endogenous rates to the DFR with
+the fact that they are bounded implies the last statement in the proposition.
+A.4 Proof of Proposition 4 (Floor system)
+Our assumptions about the matching function in Section 2.4 (continuity of (), (), (0) =
+0) imply
+lim
+!0
+0() 1:
+T o see this note  rst that (b) =
+R b
+0 0()d since () is continous and (0) = 0.
+By the de nition of the Rieman integral limb!0 (b) = lim b!0
+R b
+0 0()d = 0
+
+b
+
+b: Hence,
+as (b) b for any b including zero then it follows that lim!0 0() 1: F urthermore, by
+assumption 0 0(): Therefore 0() is non-negative and  nite.
+The limit of the bargaining weight '
+lim
+!0
+' = lim
+!0
+0() 
+()
+can be rewritten as
+lim
+!0
+' = lim
+!0
+0() lim
+!0
+
+()
+due to the  niteness oflim!0 0() if the limit lim!0
+
+() exists. By L Hôpital s rulelim!0
+
+() =
+lim!0
+1
+0() , which again must be  nite since lim!0 0() is  nite. Hence we can write
+lim
+!0
+' = lim
+!0
+0() lim
+!0
+1
+0() = 1:
+Combining this expression with the de nitions ofRIB (21) and RL (18) we  nd that these two
+interest rates converge to RDF:
+58
+===== PAGE 59 =====
+If furthermore  is asymptotically match e¢ cient we have that lim!0  B() = 1: T o see this
+note that
+ B () = 
+ 
+L; B
+B = 
+ 
+ 1; 1
+
+where the last equality is due to constant returns to scale. Hence
+lim
+!0
+ B() = lim
+!0
+
+ 
+ 1; 1
+
+= lim
+ 1!1
+
+ 
+ 1
+t ; 1
+
+= 1
+where the last equality followed from the de nition of asymptotic match e¢ ciency. Combining
+the limits of ' and  B with the de nitions ofRL (13) and RD (19) we  nd that these two interest
+rates also converge to RDF:
+A.5 Proof of Proposition 6 (Equivalence of loan and bond programs)
+Consider a particular sequence of prices and quantities and exogenous processes fx
+tg1
+t=0 2 X,
+which constitutes an equilibrium. The sub-sequences
+n
+bG;CB
+t
+o1
+t=0
+,fN
+tg1
+t=0,
+
+!B
+t
+	1
+t=0,
+
+ L
+t
+	1
+t=0,
+... are elements of this set. Similarly, denote the initial conditions by x
+0: Assume that in this
+particular equilibrium the central bank holds some government bonds bG;CB
+t > 0 for some t but
+never holds any loans to banks through direct lending programs BCB
+t = 0;8t 0 . Note that, for
+later use, the ratio of lending and borrowing orders in this equilibrium is given by
+L
+t =B
+t =
+(N
+t +D
+t )F
+ 
+!L
+t
+
+ 
+bG
+t
+z }| {
+b
+G
+t  bG;CB
+t
+
+(N
+t (  1) D
+t ) [1 F (!B
+t )] ; (73)
+Now consider an alternative sequences
+
+x+
+t
+	1
+t=0 , where all sub-sequences are the same as above
+with a few exceptions: in x+
+t the central bank never holds any government bond,
+bG;CB+
+t = 08t 0;
+but sometimes may extend loans to banks through direct lending programs
+BCB+
+t  0 for some t:
+Also allow B+
+t , L+
+t and bG+
+t to di¤ er from their  counterparts. W e will now show (by con-
+struction) that a path for BCB+
+t , bG;CB+
+t , B+
+t , bG+
+t and L+
+t exists that, given the same initial
+conditionsx
+0 =x+
+0; constitutes an equilibrium.
+F or
+
+x+
+t
+	1
+t=0 to be an equilibrium, the equilibrium conditions explicitly stated in appendix
+B1 (augmented by BCB
+t ) must hold together with certain implicit non-negativity constraints on
+59
+===== PAGE 60 =====
+certain variables. However, since most values in
+
+x+
+t
+	1
+t=0 are equal tofx
+tg1
+t=0, all those equilibrium
+conditions that only include values that are equal for
+
+x+
+t
+	1
+t=0 andfx
+tg1
+t=0 are obviously satis ed.
+There are only 8 equilibrium conditions, where the non-identical sequences BCB+
+t , bG;CB+
+t , B+
+t ,
+bG+
+t and L+
+t show up. Replacing those +-sequences, which are identical to their -counterparts,
+by the latter, these 8 conditions read: 64
+B+
+t = ( N
+t (  1) D
+t )
+
+1 F
+ 
+!B
+t
+
+ BCB+
+t (74)
+L+
+t = ( N
+t +D
+t )F
+ 
+!L
+t
+
+ bG+
+t (75)
+L+
+t
+ 
+1   L
+t
+
+= BCB+
+t + B+
+t
+ 
+1   B
+t
+
+(76)
+N
+t = &
+RA
+t QK
+t 1
+
+t 1K
+t 1 +
+RL
+t 1
+1+
+t
+L
+t 1 + RG
+t
+1+
+t
+bG+
+t 1
+  RD
+t
+1+
+t
+D
+t 1 
+RB
+t 1
+1+
+t
+B
+t 1 
+RB
+t 1
+1+
+t
+BCB+
+t
+
+(77)
+b
+G
+t = bG;CB+
+t +bG+
+t (78)
+ B
+t = 
+ L+
+t
+B+
+t
+; 1
+
+(79)
+ L
+t = 
+
+1; B+
+t
+L+
+t
+
+(80)
+'
+t = @ L 
+B+
+t =L
+t +
+
+@(B+
+t =L+
+t )
+B+
+t =L+
+t
+ L 
+B+
+t =L+
+t
+ (81)
+Notice  rst that as bG;CB+
+t = 0; equation (78) requires that bG+
+t = b
+G
+t : F urthermore, notice
+that equation (77), after subsituting for B+
+t and  using (74) and (75) reads
+N
+t =&
+ RA
+t QK
+t 1
+
+t 1K
+t 1 +
+RL
+t 1
+1+
+t
+
+(N
+t +D
+t )F
+ 
+!L
+t
+
+ bG+
+t
+
++ RG
+t
+1+
+t
+bG+
+t 1
+  RD
+t
+1+
+t
+D
+t 1 
+RB
+t 1
+1+
+t
+
+(N
+t (  1) D
+t ) [1 F (!B
+t )] BCB+
+t
+
+ 
+RB
+t 1
+1+
+t
+BCB+
+t
+
+64 Note that (77) can be derived by combining the law of motion of equity
+Nt
+& =RA
+t 
+t 1QK
+t 1Kt 1 + RL
+t 1
+1 +t
+L
+t 1 + RG
+t
+1 +t
+bG
+t 1  RD
+t 1
+1 +t
+Dt 1  RB
+t 1
+1 +t
+B
+t 1  RB
+t 1
+1 +t
+BCB
+t 1;
+with equations (74) and (75) to get
+Nt
+& =
+ RA
+t QK
+t 1
+
+t 1K
+t 1 
+RB
+t 1
+1+
+t
+
+1 F
+ 
+!B
+t 1
+ 
+N
+t 1 (  1) D
+t 1
+
+ BCB +
+t
+
++
+RL
+t 1
+1+
+t
+ 
+F
+ 
+!L
+t 1
+
+(N
+t 1 +D
+t 1) bG+
+t 1
+
++ RG
+t
+1+
+t
+bG+
+t 1  RD
+t
+1+
+t
+D
+t 1 
+RB
+t 1
+1+
+t
+BCB +
+t
+
+and the eliminating BCB +
+t :
+60
+===== PAGE 61 =====
+W e can eliminateBCB+
+t and rearrange to get
+N
+t =&
+RA
+t QK
+t 1
+
+t 1K
+t 1 +
+RL
+t 1
+1+
+t
+
+(N
+t +D
+t )F
+ 
+!L
+t
+
++
+RG
+t  RL
+t 1
+1+
+t
+bG+
+t 1
+  RD
+t
+1+
+t
+D
+t 1 
+RB
+t 1
+1+
+t
+[(N
+t (  1) D
+t ) [1 F (!B
+t )]]
+
+This condition satis ed for allt> 0 since in equilibrium under perfect forsight the no-arbitrage
+condition (12) becomes RL
+t 1 = RG
+t ; so that all references to +-variables can be cancelled out .
+F ort = 0 equation (77) holds because RL
+t 1 =RL+
+t 1 andbG+
+t 1 =bG
+t 1 (since we start from the same
+initial conditions) and RG+
+t =RG
+t (by construction).
+Next, we make the guess that L+
+t and B+
+t are such that
+L
+t =B
+t = L+
+t =B+
+t : (82)
+This immediatley implies that equations (79) - (81) are satis ed. Using equations (74,75,78) to
+replace L+
+t and B+
+t and equation 73 to replace L
+t =B
+t in (82) we get:
+(N
+t +D
+t )F
+ 
+!L
+t
+
+ 
+
+b
+G
+t  bG;CB
+t
+
+(N
+t (  1) D
+t ) [1 F (!B
+t )] = (N
+t +D
+t )F
+ 
+!L
+t
+
+ b
+G
+t
+(N
+t (  1) D
+t ) [1 F (!B
+t )] BCB+
+t
+:
+After rearranging terms, we obtain:
+BCB+
+t =bG;CB
+t
+ 
+(N
+t (  1) D
+t )
+
+1 F
+ 
+!B
+t
+
+(N
+t +D
+t )F (!L
+t ) b
+G
+t +bG;CB
+t
+!
+=bG;CB
+t
+B
+t
+L
+t
+: (83)
+Plugging (74) and (75) into (76) we get
+BCB+
+t +
+
+(N
+t (  1) D
+t )
+
+1 F
+ 
+!B
+t
+
+ BCB+
+t
+ 
+1   B
+t
+
+=
+
+(N
+t +D
+t )F
+ 
+!L
+t
+
+ bG+
+t
+ 
+1   L
+t
+
+;
+and then taking into account the value of BCB+
+t in (83)
+bG;CB
+t
+B
+t
+L
+t
+ B
+t +
+
+(N
+t (  1) D
+t )
+
+1 F
+ 
+!B
+t
+ 
+1   B
+t
+
+=
+
+(N
+t +D
+t )F
+ 
+!L
+t
+
+ bG+
+t
+ 
+1   L
+t
+
+;
+Using the fact that by interbank market clearing  L
+t = B
+t
+L
+t
+ B
+t we can write:
+bG;CB
+t  L
+t +
+
+(N
+t (  1) D
+t )
+
+1 F
+ 
+!B
+t
+ 
+1   B
+t
+
+=
+h
+(N
+t +D
+t )F
+ 
+!L
+t
+
+ b
+G
+t
+i 
+1   L
+t
+
+;
+(84)
+Since the sequence constituted an equilibrium, the counterpart of equations (74-78) must
+61
+===== PAGE 62 =====
+hold. If we again plug the values of L
+t and B
+t in (the counterpart of) equations (74-75) into
+(the counterpart of) equation (76) we get
+=0
+z}|{
+BCB
+t +bG;CB
+t + B
+t
+ 
+1   B
+t
+
+=  L
+t
+ 
+1   L
+t
+
+;
+bG;CB
+t +
+
+[N
+t (  1) +D
+t ]
+
+1 F
+ 
+!B
+t
+
+ bG
+t
+	 
+1   B
+t
+
+=
+
+(N
+t +D
+t )F
+ 
+!L
+t
+
+ bG
+t
+ 
+1   L
+t
+
+;
+ L
+t bG;CB
+t +
+
+[N
+t (  1) +D
+t ]
+
+1 F
+ 
+!B
+t
+
+ bG
+t
+	 
+1   B
+t
+
+=
+h
+(N
+t +D
+t )F
+ 
+!L
+t
+
+ b
+G
+t
+i 
+1   L
+t
+
+;(85)
+where in the last equation we have applied the market clearing condition (78).Since equations (84)
+and (85) are the same, we have shown that all of the 8 equations above hold for
+
+x+
+t
+	1
+t=1. Hence,
+under the condition that the paths B+
+t , bG+
+t and L+
+t are feasible, i.e. non-negative, any equilib-
+rium with bond purchases can be reproduced by an adequate path of lending to banks.F easibility
+requires that BCB+
+t ,bG;CB+
+t ; bG+
+t , B+
+t and L+
+t are all non-negative. This condition holds for the
+former three sequences as BCB+
+t =bG;CB
+t  L
+t  0, bG;CB+
+t = 0 andbG+
+t =b
+G
+t > 0, which again is
+an exogenous process. F or the latter two this means that the following must hold:
+L+
+t = ( N
+t +D
+t )F
+ 
+!L
+t
+
+  bG
+t  0 (86)
+B+
+t = [ N
+t (  1) D
+t ]
+
+1 F
+ 
+!B
+t
+
+ BCB+
+t  0 (87)
+Substituting for BCB+
+t in (83), the latter condition (87) reduces to
+[N
+t (  1) D
+t ]
+
+1 F
+ 
+!B
+t
+
+ bG;CB
+t
+ 
+[N
+t (  1) D
+t ]
+
+1 F
+ 
+!B
+t
+
+(N
+t +D
+t )F (!L
+t ) b
+G
+t +bG;CB
+t
+!
+ 0;
+(N
+t +D
+t )F
+ 
+!L
+t
+
+  bG
+t  0; (88)
+which is identical to (86). So its su¢ cient to show that (86) holds.Using the  counterpart of
+equation (76)
+bG;CB
+t + B
+t
+ 
+1   B
+t
+
+= L
+t
+ 
+1   L
+t
+
+and using the fact that by interbank market clearing B+
+t  B
+t = L+
+t  L
+t we obtain
+B
+t = L
+t  bG;CB
+t
+F urthermore, using the counterpart of equation (75) and (78)
+B
+t = (N
+t +D
+t )F
+ 
+!L
+t
+
+ b
+G
+t
+Since B
+t forms part of an equilibrium it must be that B
+t  0. Hence L+
+t > 0: (86) holds.
+62
+===== PAGE 63 =====
+Hence feasibility is always guaranteed.
+Finally, notice that this path satis es the condition that bCB+
+t = 0 if bG;CB
+t = 0 andbG;CB
+t 
+bCB+
+t =bG;CB
+t  L
+t > 0 if bG;CB
+t > 0:
+B. Complete set of equations
+W e display below the complete set of equations of the model. W e de ne p
+tP
+t=Pt.
+B.1 T ransitional dynamics
+ Households
+1 =  t;t+1
+RD
+t
+1 +t+1
+; (89)
+Wt = v0(Lt)
+u0(Ct); (90)
+t;t+1 = u0(Ct+1)
+u0(Ct) (91)
+1 = QK
+t
+
+1 S
+ It
+It 1
+
+ S0
+ It
+It 1
+ It
+It 1
+
++ t;t+1QK
+t+1S0
+It+1
+It
+It+1
+It
+2
+; (92)
+Kt =
+
+1 S
+ It
+It 1
+
+It + (1 ) 
+t 1Kt 1: (93)
+ Firms
+Yt = Zt
+t
+L1 
+t (
+t 1Kt 1); (94)
+1 =  (1 +t) 1 + (1 ) (p
+t )1 ; (95)
+p
+t = 1
+t
+2
+t
+; (96)
+1
+t = 
+  1MtYt +Ett;t+1 (1 +t+1) 1
+t+1; (97)
+2
+t = Yt +Ett;t+1 (1 +t+1) 1 2
+t+1; (98)
+t = (1  ) (p
+t )  + (1 +t) t 1; (99)
+RA
+t = Rk
+t + (1 )QK
+t
+QK
+t 1
+; (100)
+Rk
+t = MtZt
+(1 )MtZt
+Wt
+(1 )=
+; (101)
+Lt =
+(1 )ZtMt
+Wt
+1=
+
+t 1Kt 1: (102)
+63
+===== PAGE 64 =====
+ Banks
+QK
+t Kt =
+
+Nt
+
+1 F
+ 
+!B
+t
+
++ (Nt +Dt)
+
+F
+ 
+!B
+t
+
+ F
+ 
+!L
+t
+	
+; (103)
+Nt = &
+"
+RA
+t QK
+t 1
+t 1Kt 1 
+RB
+t 1
+1+t
+B
+t 1+
+RL
+t 1
+1+t
+L
+t 1 + RG
+t
+(1+t)bG
+t 1 
+RD
+t 1
+(1+t)Dt 1
+#
+; (104)
+!B
+t = RB
+t
+RA
+t+1 (1 +t+1); (105)
+!L
+t = RL
+t
+RA
+t+1 (1 +t+1); (106)
+RG
+t+1 = RL
+t: (107)
+RD
+t =
+ 
+1 F
+ 
+!B
+t
+
+RB
+t +F
+ 
+!L
+t
+
+RL
+t + 
+F
+ 
+!B
+t
+
+ F
+ 
+!L
+t
+ 
+RA
+t+1 (1 +t+1) E
+
+!tj!B
+t >! t >! L
+t
+ : (108)
+ Interbank market
+B
+t = ( Nt (  1) Dt)
+
+1 F
+ 
+!B
+t
+
+; (109)
+L
+t = ( Nt +Dt)F
+ 
+!L
+t
+
+ bG
+t ; (110)
+ B
+t = 
+ L
+t
+B
+t
+; 1
+
+; (111)
+ L
+t = 
+
+1; B
+t
+L
+t
+
+; (112)
+RB
+t = 't B
+t RDF
+t +
+
+1 't B
+t
+
+RLF
+t ; (113)
+RL
+t = (1  't)  L
+tRLF
+t +
+ 
+1  (1 't) L
+t
+
+RDF
+t ; (114)
+'t = 1
+(B
+t =L
+t )
+
++ 1
+(115)
+ Central bank
+RLF
+t = RDF
+t + (116)
+RDF
+t = max
+
+(RDF
+t 1) + (1 )
+ R + (t  )
+
+; 1 
+	
+; (117)
+bG;CB
+t + B
+t
+ 
+1   B
+t
+
+=  L
+t
+ 
+1   L
+t
+
+; (118)
+bG;CB
+t = (1  )bG;CB
+t 1 +b
+G;CB
++npt +(bG;CB
+t 1  b
+G;CB
+)rit; (119)
+64
+===== PAGE 65 =====
+ Government
+b = bG;CB
+t +bG
+t ; (120)
+RG
+t =  + (1 )QG
+t
+QG
+t 1
+: (121)
+ Aggregate constraint
+
+t  
+
+1 F
+ 
+!B
+t
+
+E
+ 
+!j!!B
+t
+
+ [1 F (!B
+t )] + Nt+Dt
+Nt
+[F (!B
+t ) F (!L
+t )] +
+Nt+Dt
+Nt
+
+F
+ 
+!B
+t
+
+ F
+ 
+!L
+t
+
+E
+ 
+!j!L
+t ! <!B
+t
+
+ [1 F (!B
+t )] + Nt+Dt
+Nt
+[F (!B
+t ) F (!L
+t )] ;(122)
+Yt = Ct +It (123)
+There are 35 equations and 35 endogenous variables: Yt; QK
+t ; It; Ct; Kt; Nt; Wt; Lt; t;t+1; Mt;
+t; p
+t; 1
+t; 2
+t; t; RA
+t ; Rk
+t; RL
+t; RB
+t ; RDF
+t ; RLF
+t ; RG
+t ; RD
+t ;  B
+t ;  L
+t; L
+t; B
+t ;'t; !B
+t ; !L
+t; bG;CB
+t ; bG
+t ;
+Dt; 
+t; QG
+t :
+B.2 Steady-state with zero in ation
+ Households
+RD = 1
+;
+ = ;
+W = v0(L)
+u0(C);
+Q = 1 ;
+I = K [1  (1 ) 
+]:
+65
+===== PAGE 66 =====
+ Firms
+Yt = (
+ K)L1 ;
+ = 1 ;
+p = 1 ;
+1 = 
+(  1) (1 )MY;
+2 = Y
+(1 );
+M = (  1)
+ ;
+Rk = MZ
+(1 ) (  1)Z
+W
+(1 )=
+;
+RA = Rk + (1 );
+L =
+(1 )Z (  1)
+W
+1=
+
+K:
+ Banks
+K =
+
+N
+
+1 F
+ 
+!B
++ (N +D)
+
+F
+ 
+!B
+ F
+ 
+!L	
+;
+Nt = &
+"
+RA
+K RBB+
+RLL +RGbG RDD
+#
+;
+!B = RB
+RA;
+!L = RL
+RA;
+RG = RL;
+RD
+t =
+ 
+1 F
+ 
+!B
+RB +F
+ 
+!L
+RL+ 
+F
+ 
+!B
+ F
+ 
+!L 
+RA (1 +) E
+
+!j!B >! >! L :
+66
+===== PAGE 67 =====
+ Interbank market
+B = ( N (  1) D)
+ 
+1 F
+ 
+!B
+;
+L = ( N +D)F
+ 
+!L
+ bG
+ B = 
+ L
+B; 1
+
+;
+ L = 
+
+1; B
+L
+
+;
+RB = R   B';
+RL = R 
+ 
+1  (1 ') L
+;
+' = 1
+(B=L) + 1
+ Central bank
+RLF = R;
+RDF = R ;
+bG;CB +bCB + B 
+1   B
+=  L 
+1   L
+;
+bG;CB = b
+G;CB
+:
+ Government
+b = bG;CB +bG;
+QG = 
+(RL +  1):
+ Aggregate constraint
+
+ =
+[1 F (!)]E(!j!!B)
+[1 F (!B)]+[F (!B) F (!L)](1+D=N)+
+[F(!B) F(!L)]E(!j!L!<!B)(1+D=N)
+[1 F (!B)]+[F (!B) F (!L)](1+D=N)
+;
+Y = C +I:
+67
+===== PAGE 68 =====
+C. Additional  gures
+Figure 9: This  gure shows the evolution of further variables in the experiments illustrated in  gure
+6. The purpose of this  gure is to show that by controlling nominal bond holdings the central
+bank can implicitly control real bond holdings and the ratio bG;CB
+t =B
+t . In fact, movements in
+nominal bond holdingsbG;CB
+t Pt are translated almost proportionally into movements inbG;CB
+t =B
+t .
+Notice that for this ratio the price level plays no role. Hence any deviation from a proportional
+adjustement is due to movements in B
+t : However, for our calibration the movements of B
+t ; which
+arise in general equilibrium, are relatively small.
+68
+===== PAGE 69 =====
+Figure 10: This  gure shows the relationship between the interbank-deposit facility rate spread and
+the amount of excess reserves for 4 major currency areas. It documents that similar relationships
+between excess reserves and the interbank-DFR spread hold in the Eurozone, the US, Japan and
+the UK. The plot for Japan is cut at 25% (2009) for better visual comparability. F or the US we
+report the spread between the F ed funds rate and the interest rate on excess reserves. Note that
+the F ed did not pay any interest on excess reserves prior to 2008. W e plot data since 1999. F or
+Japan we show the spread between the Japan Uncollateralized Overnight rate and the interest
+on excess reserves, which was introduced only in 2008. W e use data from 1997 untill 2016, when
+the BoJ changed its operational framework and introduced a 3 tier reserve remuneration system.
+This sample includes Japans  rst experiement with balance sheet expansion 2002-2006. The plot
+for Japan is cut at 25% (2009) for better visual comparability. F or the UK we report the spread
+between the SONIA and the interest rate on reserves (there is no reserve requirement). W e plot
+data since the monetary policy framework change of 2006. The data is weekly and is taken from
+datastream. GDP is linearly interpolated based on quarterly data. Reserves for Japan before 2006
+are interpolated based on monthly data. Colours indicate time from the beginning of each sample
+(blue) to the end (red). Notice that for all countries but the Euro zone the interbank-DFR spread
+did actually become slightly negative due to the fact that there are some agents in the respective
+money markets that do not have access to the deposit facility, a detail that we abstacted from in
+the model.
+69
+===== PAGE 70 =====
+D. Data
+T o derive the stylized balance sheet structure, which serves as a target in our calibration, we
+use public data from the ECB on the "aggregate balance sheet of the MFI sector". This data set
+documents the aggregate composition of the balance sheet of all monetary and  nancial institutions
+in the euro area at monthly frequency. F urthermore, we added data on reserves from the ECB s
+"daily liquidity conditions" dataset. W e focus on post-euro pre-crisis data (1999-2007) and average
+the monthly data across time.
+T o derive our stylized balance sheet, we treat the di¤ erent asset and liability classes as follows:
+On the asset side we abstract from 0.7% of reserves (most of which arerequired reserves). Claims
+on the private sector are the sum of loans and securities with private, non-MFI counterparties
+plus investment fund shares, equity, non nancial assets and remaining liabilities (for the latter 4
+categories there is no information about counterparties). Claims on the government are loans and
+securities with the government counterparties. T o calculate interbank claims we use loans and
+securities with the MFI non central bank counterparties. However this series includes intra-group
+positions. A series net of intra-group positions is available only from 2014, but not for our sample
+period. Therefore we adjust the series including intra-group positions by a factor re ecting the
+average share of non-intra-group claims from 2014 till 2018. On the liabilities side we abstract
+from 1.3% liabilities to the central bank, mainly MROs and from 10% of "remaining liabilities"
+which we can t clasify. As deposits we de ne the sum of deposits with counterparts other than
+MFIs, plus securities, which are not liabilities to other MFIs, according to information from the
+asset side. Equity corresponds to capital and reserves. The remaining types of liabilities should
+correspond to interbank liabilities, however, since they do not add up exactly to the same number
+as for the asset side, we disregard them. T o arrive to the liabilities side of the balance sheet in the
+text, we set the interbank liabilities equal to interbank assets, and divide the rest of the liabilities
+side such as to match the ratio of equity to deposits, as de ned above.
+F or  gures 1 and 4, we combine the "daily liquidity conditions" dataset with quartely data on
+Euro area GDP and daily policy and EUREPO rates. All data are from the ECB. The data is
+aggregated at weekly frequency. GDP is interpolated for this purpose.
+70

@@ -1,0 +1,523 @@
+
+
+Options for reducing the size of the Fed’s balance sheet - Dallasfed.org
+
+Skip to main content
+
+Home
+Economy
+Dallas Fed Economics
+
+In Depth
+
+Options for reducing the size of the Fed’s balance sheet
+
+Lorie Logan and Sam Schulhofer-Wohl
+
+April 02, 2026
+
+Observers periodically debate whether the Federal Reserve’s $6.7 trillion balance sheet is too large. Demand for the Fed’s liabilities determines the minimum size of the balance sheet. To shrink it, policymakers would need to reduce the demand. This essay catalogs options for reducing the Fed’s major liabilities and provides a framework for assessing the options’ costs and benefits.
+
+This essay was published in conjunction with a speech delivered by Dallas Fed President Lorie Logan. | 
+Read the speech
+
+Some observers argue that large central bank balance sheets may  challenge monetary policy independence, complicate communications or entangle  central banks in fiscal policy.
+[1]
+ Reducing the balance sheet could mitigate these difficulties. Against that  potential benefit, however, policymakers must weigh at least four fundamental  tradeoffs:
+
+Private value of Fed liabilities:
+ The  Fed’s liabilities are safe and liquid assets that serve as a store of value  and, often, a means of payment for households, businesses, financial  institutions, and the U.S. and foreign governments. (In this context,  liabilities are the central bank’s obligations to its counterparties.) The  central bank has a unique ability, relative to the private sector, to ensure  its liabilities are safe and liquid. Meeting the country’s need for safe and  liquid assets has been part of the Fed’s mission since its founding, when the  Federal Reserve Act of 1913 established the institution to, among other goals,  “furnish an elastic currency.”
+[2]
+ Shrinking the Fed’s balance sheet would reduce these benefits to the holders of  Fed liabilities.
+
+Externalities from Fed liabilities: 
+Because  the Fed’s liabilities are safe and liquid, their availability reduces liquidity  risk in the financial system and speeds the flow of payments, beyond the  private benefits to those who hold the liabilities. Shrinking the Fed’s balance  sheet would reduce these positive externalities. Some approaches to balance  sheet reduction could also mitigate certain negative externalities, such as  excessive risk taking or illicit currency use.
+[3]
+ 
+
+Fixed versus contingent liabilities: 
+The  Fed can reduce market participants’ demand for Fed liabilities in normal times  by committing to expand its liabilities during stress. The perceived costs of a  large balance sheet are sometimes associated with the central bank’s  “footprint” in financial markets. A central bank’s footprint can be defined in  terms of the outright size of its balance sheet or in terms of the extent of  its trading activity, such as the volume of its transactions with the private  sector or the number of counterparties with which it transacts. Reducing fixed  liabilities by committing to more contingent liabilities trades one form of  footprint for another. Logan (2025) argues that “How best to define footprint  depends on a country’s economic, financial and institutional context.”  Accordingly, policymakers’ views on how best to define footprint could shape  their preferences for fixed versus contingent liabilities.
+
+Taxpayer costs:
+ The Fed’s liabilities are  also liabilities on the consolidated U.S. government balance sheet, and the Fed  remits its net income to the Treasury. When the Fed pays less interest on a  liability than the Treasury pays on its comparable-duration debt, reducing the  Fed liability would raise the government’s net interest expense. 
+
+All these tradeoffs are muted if the central bank is not  employing its balance sheet and policy tools as efficiently and effectively as  possible. In such cases, the central bank may be able to reduce its balance  sheet at lower cost by operating more efficiently and effectively. Some options  we identify would increase the Fed’s efficiency and effectiveness, while others  amount to choices about where to operate along the efficient frontier.
+
+Before proceeding, we want to explain why this essay does not  discuss the asset side of the Fed’s balance sheet, even though changing the  size of Fed liabilities would also change the quantity of assets that the Fed  holds to back its liabilities. Fed asset holdings can influence both term  premiums in financial markets (by changing the amount of duration risk that  remains in the hands of private investors) and the duration risk facing  taxpayers (by changing the consolidated government balance sheet). The appropriate  composition of Fed asset holdings is, therefore, an important policy question.  We view it, though, as a question that can be separated from that of balance  sheet size.
+
+The separation is possible because, in principle, the Fed could  back each liability with assets of equivalent duration. In this case, the  durations of the Fed’s assets and liabilities would net out on the consolidated  government balance sheet. The size of the Fed’s balance sheet would then have  no effect on the duration risk facing taxpayers, nor on term premiums and the  amount of duration risk held by private investors.
+[4]
+ Of course, the Fed in practice sometimes backs its liabilities with assets of  longer or shorter duration. However, the Treasury Department can neutralize the  effects of that mismatch over time by gradually adjusting the composition of  government debt issuance. From the perspective of the Fed’s long-run balance  sheet, then, asset composition remains a distinct policy question from balance  sheet size. Our analysis of taxpayer costs thus treats each Fed liability as if  it were backed by assets of equivalent duration. The composition of Fed assets  is more impactful over shorter horizons when the Fed conducts programs to buy  specific assets to provide economic stimulus or support smooth market  functioning. Those programs tend to be temporary, however, and the Fed has  historically allowed such assets to run off when the need for the program ends.
+
+We previously cataloged options for balance sheet reduction in a  2018 memo to the Federal Open Market Committee (FOMC).
+[5]
+ This essay builds on the memo by providing a framework for evaluating the  options and marking to market the available options. Since 2018, the Fed has  implemented some options identified in our earlier memo, such as setting bank  reserve requirements to zero and establishing standing operations to monetize  Treasury securities.
+[6]
+ 
+[7]
+ Meanwhile, novel ideas have emerged for improving Fed liquidity tools, and  developments in payments technology and geopolitics influence other options.
+
+Two recent papers, Anderson et al. (2026) and Duffie (2026), also  examine options for reducing the Fed’s balance sheet. Those papers focus  primarily on reserves and on the mechanics of certain policy options, while we  take a comprehensive approach to the Fed’s liabilities and provide a high-level  framework for assessing the key policy tradeoffs relevant to all of them.
+
+The catalog and tradeoffs identified here can guide choices about  which options merit deeper study, but we do not quantify potential balance  sheet reductions or prioritize the options. Estimating the potential balance  sheet reduction from any given policy action would require extensive additional  analysis for at least two reasons.
+
+First, while short-run effects are sometimes straightforward to  estimate, long-run effects can be larger or smaller because market participants  can respond dynamically to policy actions by adjusting their business models or  the ways that they use Fed liabilities. Second, policy steps can interact, so  the total effect of multiple steps can be larger or smaller than the sum of the  estimated effects of each step on its own.
+
+The Fed could implement some options on its own. Other options  might require action by other banking regulators, the Treasury Department or  Congress. We do not attempt a comprehensive analysis of which parts of  government have authority to take particular actions. Other parts of government  may also face considerations and tradeoffs beyond those visible at the Fed.  This essay should not be taken as a recommendation for any part of government  to follow any particular course of action.
+
+The essay proceeds as follows. Section 1 reviews the evolution of the  Fed’s major liabilities: currency, bank reserves, the Treasury general account (TGA),  and liabilities to foreign official institutions and designated financial  market utilities (DFMUs). The remaining sections examine options for reducing  the liabilities in light of the four fundamental tradeoffs. Section 2 begins  with currency demand. We believe current policies balance well the tradeoffs  around currency and do not anticipate serious efforts to reduce currency  demand; however, the unique characteristics of currency make it helpful for  clarifying the tradeoffs relevant to all liabilities.
+
+Sections 3 through 5 consider  options for reducing bank reserves, within the confines of the Fed’s ample-reserves  monetary policy implementation framework that pays interest on reserve balances  (IORB) at close to money market rates. Specifically, Section 3 examines ways to  shift individual banks’ reserve demand curves inward so a smaller quantity of  reserves would keep market rates near IORB. Section 4 considers options for  lubricating the redistribution of reserves across banks so a smaller aggregate  quantity of reserves could satisfy the sum of individual banks’ demands. Section  5 then describes options for reducing the aggregate buffer of additional  reserves that ensures shocks to reserve supply and demand do not bring reserves  below the ample level. Section 6 departs from the ample-reserves implementation  framework and examines implications of moving along banks’ reserve demand curve  to a regime with scarce reserves and money market rates above IORB. We  emphasize that moving to scarce reserves would generally be materially more  costly than shifting the demand curve inward while continuing to meet demand  with market rates near IORB. Turning to the remaining non-reserve liabilities, Section  7 describes approaches for reducing the size and variability of the TGA, which  could also allow for lower bank reserves in either the ample or scarce reserves  regimes, and Section 8 discusses liabilities to foreign official institutions  and DFMUs. Section 9 concludes.
+
+1. The recent evolution of Federal Reserve liabilities
+
+The Fed’s liabilities consist primarily of safe  and liquid assets held by the public, financial institutions, and the U.S. and  foreign governments. Chart 1 displays the evolution of the Fed’s main  liabilities over recent decades.
+
+ 
+
+ 
+Chart data
+ 
+
+Federal Reserve notes
+, or currency in circulation, have  grown steadily to $2.4 trillion, compared with $1.8 trillion on the eve of the  pandemic in February 2020 and around $800 billion just before the Global  Financial Crisis (GFC) in 2008. People and businesses use currency as a means  of payment and store of value. An estimated 60 percent of U.S. currency,  including 70 percent of $100 bills, is held abroad.
+[8]
+ In addition to widespread legitimate uses, U.S. paper currency can facilitate  illicit activity.
+[9]
+ Low interest rates and geopolitical and financial instability tend to raise  currency demand. Currency dominated Fed liabilities until the GFC, when the  Fed’s crisis response expanded other liabilities.
+
+Depository institution (DI) balances
+, primarily reserves  held by banks and credit unions, currently total about $3 trillion.
+[10]
+ DIs hold reserves to make payments, to buffer against unexpected payment  shocks, to meet regulatory and supervisory requirements and potentially as  investments if IORB is attractive relative to alternatives. Reserve balances  were minimal before the GFC because the Fed did not pay interest on reserves,  motivating banks to economize. Since 2008, the Fed has conducted successive  asset purchase programs to provide economic stimulus and support market  functioning in response to the GFC and the pandemic. These programs expanded  the Fed’s balance sheet and reserve supply. At the same time, the introduction  of IORB and changes in regulations and the risk environment increased banks’  reserve demand. The FOMC confirmed in 2019 that it would continue to implement  monetary policy in a regime of ample reserves. In this regime, the Fed supplies  enough reserves to reach a relatively flat part of banks’ aggregate demand  curve for reserves and then controls money market interest rates primarily by  changing administered interest rates, such as IORB. To maintain the regime, the  Fed must ensure reserves do not fall below the minimum that banks demand with  market rates close to IORB, because at lower reserve quantities the reserve  demand curve steepens and market rates can spike. Asset purchase programs have  sometimes created significantly more reserves than the minimum ample level;  when the need for economic stimulus has abated, the FOMC has allowed assets to  mature and reserves to fall back to the ample level. Aggregate reserve balances  in the ample reserves regime on most days also include a buffer above banks’  apparent minimum demand to absorb supply and demand shocks.
+
+Besides DIs, financial institutions with Fed accounts include designated  financial market utilities (
+DFMUs
+), identified as systemically important  by the Financial Stability Oversight Council, and government-sponsored  enterprises (
+GSEs
+) such as Fannie Mae, Freddie Mac and the Federal Home  Loan Banks (FHLBs). DFMUs and GSEs hold balances at the Fed for the same  reasons as DIs: payments, liquidity risk management and regulatory compliance.  DFMUs receive interest; by law, GSEs cannot. These accounts currently exceed  $200 billion. DFMUs became eligible for Fed accounts in 2010 through the  Dodd-Frank Act (DFA).
+[11]
+ Increases in market risk and trading volumes have caused the accounts to grow  as DFMUs collect more collateral from participants.
+
+The FOMC stood up the 
+overnight reverse repurchase agreement  (ON RRP) facility
+ in 2015 to strengthen the interest rate floor provided by  IORB. Because GSEs do not receive interest on reserves and other financial  intermediaries such as money market funds do not have Fed accounts, money  market interest rates can trade below IORB even though DIs would not lend at  such a rate. The ON RRP facility offers eligible non-DIs an investment option  at a rate modestly below IORB. ON RRP balances tend to grow when the Fed’s  asset purchases expand reserve supply beyond the ample level and shrink when  asset maturities reduce reserve supply. ON RRP balances peaked at $2.4 trillion  in 2022. They are now minimal except on statement dates such as quarter-ends,  when borrowers in the market for repurchase agreements (repos) often pull back  and leave cash investors with fewer private-market options.
+
+The Treasury Department uses the TGA, currently approaching $1  trillion, to receive revenue and pay expenses. Before the GFC,  Treasury kept these funds mainly in commercial banks. Interest on reserves made  TGA balances less costly for taxpayers than bank deposits.
+[12]
+ In 2015, Treasury began holding the equivalent of one week of expected outflows  as a buffer against potential disruptions in market access. When the government  debt limit binds, Treasury typically drains this buffer, rebuilding it once  Congress raises the limit.
+
+Foreign official institutions
+, such as central banks and  finance ministries, hold Fed accounts currently exceeding $300 billion. These  accounts let foreign governments keep dollar reserves with maximum safety and  liquidity. Foreign official balances are primarily invested in the Fed’s  foreign and international monetary authorities (FIMA) reverse repo pool, on  which the Fed pays interest at the same rate as the ON RRP facility, but also  include foreign governments’ Fed deposits.
+
+Fed liabilities tend to grow with nominal GDP because a larger economy  generates more liquidity needs. Chart 2 shows that even though the FOMC ended  asset runoff in December 2025, the Fed’s balance sheet has not returned to  prepandemic levels as a share of nominal GDP. The major liabilities now total 22  percent of GDP versus 17 percent in late August 2019, driven by depository  institution balances (10 percent versus 7 percent) and the TGA (2.7 percent  versus 0.7 percent).
+
+ 
+
+ 
+Chart data
+ 
+
+Reducing nominal GDP growth would likely reduce growth in demand for the Fed’s liabilities but would have other obvious drawbacks. This essay therefore considers options for reducing liabilities relative to nominal GDP.
+
+2. Options for reducing currency demand
+
+Currency has two unique features that bring the tradeoffs into  sharper relief than for other liabilities. First, currency pays no interest,  making it expensive for users to hold and profitable for the taxpayer to issue.  Second, households and businesses of all kinds use currency ubiquitously in  daily life, making the private benefits and externalities from currency more  intuitive. We do not anticipate or recommend serious efforts to deliberately  reduce currency demand as an end in itself, although developments in payments  technology could reduce currency demand as a side effect. Still, the  theoretical options for reducing currency demand demonstrate how the tradeoffs  for all liabilities operate.
+
+Decreasing currency outstanding could be difficult. The United  States has never demonetized Federal Reserve notes. However, in principle,  policymakers could seek to slow the growth of currency demand and reduce  currency outstanding relative to nominal GDP. Two approaches exist: making  alternatives to cash more attractive or making cash less convenient. Options  along these lines would affect private benefits and externalities and pose  costs for taxpayers.
+
+2a. Foster electronic payments
+: 
+The Fed’s FedNow  service, private-sector competitors and stablecoins can allow households and  businesses to make instantaneous, final payments conveniently, inexpensively  and without cash. Policies to promote wider adoption of electronic payments  could slow currency growth while potentially reinforcing the dollar’s role in  international payments.
+
+Expanded electronic payments might also raise banks’ demand for  reserves, but to the extent that did not occur, total Fed liabilities would  fall. In December 2025, the Federal Reserve Board requested public input on a  potential Fed “payment account” that eligible firms could use to process  payments.
+[13]
+ The prototype account would be subject to overnight balance limits and earn no  interest. If such accounts met payment providers’ needs, electronic payments  might grow without proportionally increasing reserve balances.
+
+Still, electronic payments do not replicate all the private and  systemic benefits of cash. Cash protects privacy, is more accessible for some  households and businesses, and cannot be disrupted by cyberattacks or power and  telecommunications outages.
+[14]
+
+Sweden’s experience with very broad adoption of electronic  payments illustrates both the potential for change and the tradeoffs. Cash in  circulation in Sweden fell from 4 percent to 1 percent of GDP from 2002 to 2023,  as digital payments spread. According to the Swedish central bank’s 2026 annual  payments report, “… the payments market is almost entirely digital.” This  transition brought significant benefits for Sweden’s economy: “For the vast  majority of people, digitalisation has made it faster and easier to pay,” the  report finds. However, the report also expresses concern that digitalization  has made payments more vulnerable to cyberattacks and outages, while excluding  people who cannot open a bank account.
+[15]
+ A government civil defense pamphlet now advises all Swedish households to keep  enough cash for one week of payments on hand at all times.
+[16]
+
+2b. Discontinue the issuance of large-denomination currency: 
+Large  denominations are particularly useful abroad and in illicit activities because  they reduce the volume and weight needed to move or store a given dollar value.  Discontinuing the issuance of $100 bills might reduce the growth of foreign and  illicit demand for U.S. currency.
+
+Policymakers could judge that foreigners’ private benefits from  using U.S. currency should not enter the domestic policy calculus. Policymakers  could also wish to increase financial frictions for illicit actors. However,  reducing U.S. currency availability might do little to combat crime if  criminals switched to digital assets—an increasingly viable option—or other  currencies. In addition, because currency does not pay interest, it is costly  to hold whenever market interest rates exceed zero. Policymakers might judge  that this cost already sufficiently offsets any negative externalities from  currency. Moreover, reducing the availability of dollar currency abroad could  weaken the United States’ geopolitical and cultural influence.
+
+Potential taxpayer costs of reduced growth in currency demand:
+ Currency is a non-interest-bearing government liability. All else equal,  reduced currency issuance would require increased issuance to the private  sector of interest-bearing Treasury debt, raising the government’s net interest  expense.
+[17]
+ The cost depends on the assumed duration of currency (and hence the relevant  duration of debt that would replace it) and on average interest rates. De Vere  et al. (2025) estimate that if nominal short-term rates average 3 percent—roughly  in line with recent median long-run projections in the FOMC’s Summary of  Economic Projections—each dollar of currency creates 61 cents of economic  present value to taxpayers over 30 years. Because the majority of U.S. currency  is held overseas, much of this economic value is a transfer to U.S. taxpayers  from the rest of the world.
+
+3. Options for reducing individual DIs’ reserve demand, within the ample reserves framework
+
+The ample-reserves monetary policy implementation regime supplies  enough reserves to meet DIs’ demand with money market interest rates close to  the interest rate that the Fed pays on reserves. The Fed could reduce reserve  supply while remaining within this implementation regime by taking actions to  shift individual DIs’ reserve demand curves inward, reducing the quantity  demanded at any given spread between market rates and IORB. (Such actions would  also reduce the reserves needed in a scarce-reserves regime; see Section 6.)  Many of these options operate by increasing DIs’ willingness to rely on  contingent Fed liquidity rather than outright reserve holdings, thus trading  fixed for contingent liabilities.
+
+3a. Communicate encouragement for DIs to use Fed liquidity  tools: 
+DIs typically hold some reserves as buffers so they can meet  unexpected withdrawals without first selling or borrowing against other assets.  The size of these buffers may depend on the potential size of payment shocks,  the spread between IORB and market rates, and DIs’ ability and willingness to  quickly monetize non-reserve assets.
+
+The Fed stands ready to lend to DIs against good collateral both  during the day (through the intraday credit program) and overnight (at the  discount window and in the FOMC’s Standing Repo (SRP) operations). The Fed and  other banking regulators view these liquidity tools as appropriate contingent  funding sources for healthy banks. Nevertheless, some DIs report that they  hesitate to borrow from the Fed because they fear examiners may criticize use  of Federal Reserve funding. The banking agencies could redouble communications  about the acceptability of borrowing, increase training to ensure examiners  follow the policy or communicate otherwise to encourage DIs’ use of the  liquidity tools.
+
+However, official communications could be ineffective if banks  also fear reactions from depositors, investors, credit rating agencies or the  public.
+
+3b. Reduce public disclosures of discount window borrowing:
+ Some DIs express concern that if their discount window borrowing became public,  investors or depositors could withdraw funding. Reducing the risk of disclosure  could increase willingness to borrow and reduce reserve demand. DFA requires  the disclosure of individual discount window loans after two years.
+[18]
+ The Fed also reports aggregate discount window lending weekly, and market  participants sometimes seek to use these reports to infer the identities of the  DIs that borrowed. (Intraday credit is disclosed only in aggregate and with a  lag.) The Fed could adjust its weekly reports to reveal less detail on discount  window lending, and Congress could relax mandatory disclosure.
+
+Reduced disclosure could limit public accountability and increase  risks to investors but might also reduce the risk of bank runs. This option  could complement communications to encourage discount window borrowing.
+
+3c. Create new liquidity tools designed to reduce  stigma:
+ DIs can access the Fed’s existing liquidity tools for a  variety of purposes, some of which may be related to stress at the borrower. If  the Fed offered liquidity tools that were clearly intended only for DIs not  facing stress, the use of such tools might be less likely to create a negative  signal to the market. Conceivably, for example, the Fed could create intraday  or overnight liquidity tools that accept a narrower range of collateral or  impose stricter limits on the financial condition of a borrowing DI. In effect,  the design of such tools would itself be intended to communicate encouragement  for their use and reduce the consequences of public disclosure.
+
+However, the creation of such tools would pose a financial  stability tradeoff. Timely central bank lending to distressed DIs helps prevent  pressures from spreading to healthy banks. If new tools targeted clearly  healthy DIs, borrowing from the existing tools could become a clearer signal of  distress. DIs facing stress might then become even more reluctant to borrow,  and the banking system could be more vulnerable to contagion.
+
+3d. Address operational barriers to obtaining Federal Reserve  liquidity:
+ Some DIs report that documentation requirements, lack of  timely information on the lendable value of collateral, and frictions in  transferring collateral from other funding sources limit their ability or  willingness to rely on the discount window. In 2024, the Federal Reserve Board  gathered DIs’ and others’ views on these frictions through a public Request for  Information.
+[19]
+ The Fed has already taken substantial steps to address the identified  frictions, for example by creating the Discount Window Direct service to allow  DIs to request loans online and by reducing timelines for approving  documentation. The Fed is actively seeking to address the remaining identified  frictions. In addition, the Fed could consider repeating the public comment  process to identify further opportunities for improvement.
+
+DIs can also be eligible to participate in the SRP, but some also  cite technical barriers to accessing those operations. For example, the SRP  operates only at two fixed times each day, while a DI may need liquidity at  other times, and there can be frictions in moving collateral between the  triparty repo platform where the SRP settles and the Fed’s infrastructure for  the discount window and intraday credit. The Fed has also worked to enhance SRP  operations. We examine operational enhancements to the SRP in more detail in Section  5 in the context of the SRP’s role in rate control.
+
+Reduced stigma would increase the likelihood that operational  improvements would increase borrowing, and vice versa: A DI is more likely to  borrow when it is both willing and able to do so. Thus, this option would  complement efforts to encourage discount window borrowing through  communications and reduced disclosure.
+
+3e. Review the influence of supervision and regulation on the  bank-level demand for reserves: 
+Besides reserves that DIs hold based  on their own liquidity risk management decisions, they may hold additional  reserves to satisfy supervisory and regulatory requirements. Such requirements  typically aim to address liquidity risk externalities to which DIs might  otherwise give insufficient weight, such as contagion across banks or costs to  the deposit insurance fund if a bank fails. However, some policymakers and  observers argue that some aspects of supervision and regulation may increase  reserve demand without reducing risk, such as if DIs must hold liquidity  buffers that they cannot spend when shocks occur. In these cases, the Fed’s  balance sheet is not used efficiently because reserves that will not be spent  provide neither a private benefit nor a positive externality. In addition, some  regulations encourage banks to self-insure against liquidity risk rather than  turn to Fed liquidity sources. The Fed and other bank regulators could relax  requirements that are viewed as increasing reserve holdings without reducing  risk and could credit banks in liquidity regulations for demonstrating  readiness to draw on the discount window. Bowman (2026) describes options along  these lines.
+
+This option could complement communications and technical changes  to encourage discount window use.
+
+3f. Redesign the payments system to use reserves more  efficiently:
+ DIs’ reserve demand depends in part on the expected  size and timing of payment flows. The more outgoing payments a DI expects to  make before incoming funds arrive, the larger the buffer of reserves it will  want (holding fixed its access to intraday credit). The Fed’s large-value  payments system, Fedwire, uses real-time gross settlement, processing each  payment immediately and without netting against other payments. DIs’ potential  peak outflows in this system exceed those in alternative systems that identify  offsetting outgoing and incoming payments and settle them simultaneously.
+[20]
+ Levy (2025) and Duffie (2026) argue that a more efficient payment system could  reduce DIs’ reserve demand.
+
+A more efficient payments system would also decrease DIs’  potential need to borrow and their estimated intraday liquidity risk. Thus,  this approach might partly substitute for efforts to encourage discount window  and intraday credit borrowing or to relax liquidity regulations.
+
+However, building a liquidity saving mechanism for Fedwire could  require significant investment and time. Fedwire operates with a very high  degree of reliability, serving thousands of DIs nearly around the clock on  operating days and processing an average of nearly 1 million transactions per  day.
+[21]
+ The programming of the liquidity saving mechanism would need to meet similarly  high standards for reliability and throughput.
+
+Improvements in intraday liquidity tools, whether through reduced  stigma or reduced operational frictions, could be a substitute for making the  payments system more efficient. If DIs could more easily access funds intraday  when needed, they could hold smaller reserve buffers even if potential peak  intraday outflows remained high.
+
+4. Options for lubricating the redistribution of  reserves
+
+Payment and deposit flows sometimes result in a DI holding more  reserves than it desires. Yet it is not always easy for a DI to shed excess  reserves. Temporarily lending unwanted reserves to other banks can be costly,  while permanently reducing reserves may require changes in deposit pricing and  other parameters that take time to show results. These frictions can  temporarily trap reserves at DIs that do not value them as highly as other DIs  would. An inefficient distribution of reserves increases the aggregate quantity  needed to satisfy all DIs’ demands.
+
+Policymakers could reduce aggregate reserves within the ample  reserves regime by mitigating distributional frictions. These steps use the  balance sheet more efficiently but can pose tradeoffs related to contingent Fed  liabilities, financial stability externalities and taxpayer costs. These steps  could also help shift individual DIs’ demands inward or reduce the necessary  buffer of reserves above the ample level.
+
+4a. Review the influence of regulation on the unsecured  interbank market: 
+Post-GFC regulations increased the cost of short-term  unsecured interbank lending for lenders and borrowers. A lender must hold  capital against the risk that the borrower does not repay, while a borrower  must hold a liquidity buffer against the risk that the lender refuses to renew  the loan. When a bank temporarily has excess reserves, these costs may make it  uneconomical to lend to another bank that would value the reserves more highly.  The Fed and other bank regulators could review the risk and liquidity weights  attached to unsecured short-term interbank lending. Lower costs of interbank  lending could allow reserves to redistribute more efficiently and might also  reduce individual DIs’ precautionary demand for reserves. However, changing the  regulations could allow banks to take more risk, which could increase  vulnerabilities for individual banks and the banking system.
+
+4b. Supply reserves directly to DIs through a competitive  mechanism:
+ The Fed currently increases reserves primarily by buying  securities from or conducting repos with primary dealers. Primary dealers are  mostly broker-dealers, not banks. The Fed pays a primary dealer by crediting  the reserve account of the DI the dealer uses, typically a large money-center  bank. Open-market operations thus directly deliver reserves mainly to a small  number of large banks. Moving reserves to other DIs that may value them more  requires interbank transactions or payment flows, potentially subject to the  frictions described above. The Fed could develop operations to directly move  reserves to the DIs that value them most through a competitive mechanism. For  example, Logan (2025) suggests the Fed could auction a fixed daily quantity of  discount window loans, in addition to discount window loans that DIs request.  Competitive bidding in the auction would automatically move reserves to the DIs  that valued them the most.
+
+Besides improving the distribution of reserves, this approach  could reduce discount window stigma and the associated precautionary demand for  reserves by making discount window borrowing a routine daily activity. However,  if the market-clearing interest rate in the auction fell below IORB, the  auction would cost taxpayers money, while setting a floor on the interest rate  could reduce DIs’ interest in bidding. 
+
+Another way to lubricate the distribution of reserves is through price  incentives. If banks earned a below-market interest rate on the marginal dollar  of reserves, they could be more motivated to lend excess reserves to other  firms. Section 6 discusses such approaches in the context of options for moving  along the demand curve to an environment of scarce reserves.
+
+5. Options for reducing the buffer of reserves above the ample level
+
+Rate control in the ample reserves regime requires the Fed to  supply at least as many reserves as banks demand with market rates close to  IORB. The aggregate reserve demand curve is relatively flat above the ample  level, so additional reserves exert only modest downward pressure on rates.  Below the ample level, the demand curve steepens, causing rates to rise rapidly  if reserves fall too low.
+
+Increases in non-reserve liabilities or reserve demand can bring  reserves below the ample level and cause rate spikes if the Fed takes no  offsetting action. One way the Fed can mitigate this risk is to supply a  reserve buffer that can absorb large or unexpected increases in other  liabilities or in reserve demand. For example, Perli (2026) describes how the  Fed built a buffer of reserves over several months ahead of the anticipated  reserve drain during the April 2026 tax season. Chart 3 illustrates the buffer  by plotting aggregate reserves since early December 2025, when the FOMC judged  that reserves had declined to the ample level and stopped allowing its assets  to run off. Reserves since then have fluctuated in a range of more than $200  billion. Assuming the true ample level each day was no higher than the minimum  of the range, on some days there was a buffer of at least $200 billion of  reserves.
+
+ 
+
+ 
+Chart data
+ 
+
+The Fed could reduce the buffer by managing shocks differently.  Some of these changes could also improve the flow of liquidity to individual  DIs and potentially shift their demand curves inward by reducing precautionary  demands. In addition to tradeoffs associated with specific policy options,  reducing the buffer would modestly reduce taxpayer costs because the buffer  tends to push money market rates modestly below IORB. Hammack (2025) also  argues that supplying more than ample reserves suppresses money market  volatility and thereby encourages market participants to take more risk.  Reducing the buffer would reduce this negative externality from supplying excessive  reserves.
+
+5a. Tolerate more volatility in the target rate:
+ The  FOMC could allow occasional, moderate increases in the fed funds rate and other  money market rates on days when reserves fall, rebuilding reserve supply to the  ample level thereafter. The discount window and SRP should limit the potential  for severe rate spikes because DIs and primary dealers can use these tools to  borrow from the Fed at a rate currently set only 10 basis points above the  policy target.
+
+The FOMC would need to communicate that occasional, moderate  volatility did not represent a tightening of monetary policy or a failure of  the implementation regime to operate as intended. However, excessive volatility  could create financial market stress or undermine public confidence in monetary  policy.
+
+5b. Conduct larger or more frequent discretionary open market  operations (OMOs):
+ Many increases in non-reserve liabilities, such  as the increase in the TGA around the April 15 tax payment deadline, are  relatively predictable. Instead of building large buffers of reserves ahead of  these events, the Fed could conduct large temporary open market operations  close to the event to offset the drop in reserves. This approach would  essentially replace fixed Fed liabilities with contingent ones.
+
+5c. Strengthen the SRP as a ceiling on money market rates: 
+Even  at current reserve levels, repo rates sometimes exceed the SRP offering rate.  Some repo market participants lack SRP access, and SRP counterparties face  balance sheet costs when lending funds onward. The SRP also operates at only  two fixed times daily, but participants may need funds or have opportunities to  arbitrage rate fluctuations at other times. The Fed enhanced the SRP in 2025 by  adding the second daily operation and removing the aggregate cap on usage,  after launching the tool with a single operation each day and a limit on  aggregate usage. The Fed could further strengthen the rate ceiling by operating  the SRP even more frequently, centrally clearing the SRP so counterparties  could net down borrowings and reduce balance sheet costs of onward lending, or  expanding counterparty eligibility beyond banks and primary dealers. A stronger  ceiling would reduce the risk of large rate spikes from drops in reserves,  permitting the Fed to maintain rate control with a smaller buffer.
+
+Improving the flow of funding from the SRP to the broad market  presents complex financial stability tradeoffs. If market participants’  behavior did not change, better funding availability from the SRP would enhance  financial stability by reducing the risk that liquidity shocks somewhere in the  system could cause widespread funding stress. However, better funding  availability might also increase systemic vulnerabilities if it encouraged  risk-taking at less-regulated firms.
+
+This approach would replace fixed Fed liabilities with contingent  ones.
+
+5d. Supply reserves mainly in response to DIs’ demands rather  than at the Fed’s initiative: 
+The Fed currently estimates the  quantity of reserves needed to maintain ample conditions and conducts asset  purchases to create at least that quantity of reserves. This approach produces  a buffer above the ample level on most days by design. The Fed could instead  create reserves mainly in response to DIs’ demands by offering overnight or  short-term loans against good collateral at an interest rate equal or very  close to IORB. These loans could be implemented by reducing the rate on the  current primary credit program at the discount window, by reducing the rate on  the SRP or by creating a new tool at a rate close to IORB under either discount  window or OMO authority.
+
+Some other central banks have termed such a system a  “demand-driven floor.” In this system, reserves would rise and fall in line  with banks’ demand. Aggregate reserves would not be likely to substantially  exceed the ample level because banks would not borrow more reserves than they  wanted to hold at a rate equal or very close to IORB.
+
+This approach would rely critically on DIs’ ability and  willingness to borrow from the Fed. As discussed in Section 3, DIs are  sometimes reluctant to borrow from the Fed because they view borrowing as  stigmatized. Reluctance to borrow would function as an additional cost for  reserves and raise the effective cost of reserves above market rates even if  the Fed offered to lend at market rates. Thus, this approach might not succeed  unless it were coupled with effective measures to reduce stigma. On the other  hand, this approach might help reduce stigma by making borrowing more routine.
+
+This approach would set the Fed’s lending rate equal or very  close to IORB. If the lending rate meaningfully exceeded IORB, reserves would  be scarce, as discussed in Section 6. 
+
+The choice of eligible collateral for lending can create  financial stability tradeoffs. The Fed’s discount window currently lends at the  same interest rate against a wide range of collateral, from Treasury securities  to home mortgages and commercial loans. The Fed applies different haircuts to  different collateral types to ensure loans are fully secured even when  collateral is risky. Accepting a wide range of collateral makes Fed lending  accessible to DIs with a diversity of business models. However, if the haircuts  are not set appropriately, there can be an incentive for DIs to transfer risks  to the Fed, effectively involving the central bank in credit allocation. The  primary credit rate is currently 10 basis points above IORB, which limits  discount window borrowing. If the Fed began lending more actively at a rate  equal or very close to IORB, either at the discount window or through another  tool, the importance of appropriate haircuts would increase.
+
+Limiting eligible collateral would mitigate the challenge of  setting haircuts at the expense of making the lending program less accessible  and potentially less effective. The safest collateral, such as Treasury  securities, resides disproportionately at larger banks. Banks that focus on  community and regional lending could face a higher effective cost of borrowing  reserves if eligible collateral were limited.
+
+This approach would replace fixed Fed liabilities with contingent  ones.
+
+5e. Invest the TGA in short-dated assets to limit its  influence on reserve supply:
+ Fluctuations in the TGA are a major  source of the volatility in reserve supply that motivates the need for a buffer.  Vissing-Jorgensen (2025) observes that the Fed could sterilize the TGA’s effect  on reserve supply by changing the assets backing the TGA. If the Fed backed the  TGA with short-term investments such as reverse repo investments or T-bills,  these investments could grow and shrink rapidly to keep pace with changes in  the TGA. The Fed would need to obtain precise same-day TGA forecasts from the  Treasury Department or tolerate at least one-day mismatches between the TGA  balance and the short-term assets designated to offset it. As an alternative to  changing the assets that back the TGA, Section 7 describes options for directly  reducing the TGA’s volatility.
+
+Potential taxpayer savings from reducing the buffer of additional  reserves:
+ Supplying reserves  above the ample level pushes market interest rates modestly below IORB. From  the perspective of the consolidated government balance sheet, reserves then  become a more expensive liability than short-term Treasury debt. The  government’s net interest expense is reduced if the Fed brings reserves down  toward the ample level and Treasury issues more short-term debt to the private  sector. This effect is likely to be modest relative to total government  interest expense because the reserve demand curve slopes only gently downward  when reserves exceed the ample level. For example, when reserve balances  exceeded $4 trillion in 2021, the Secured Overnight Financing Rate averaged  about 10 basis points below IORB. An interest expense of 10 basis points on an  additional $1 trillion in reserves raises the consolidated government’s net  interest expense by $1 billion per year, compared with Treasury’s total  annualized interest expense of more than $1 trillion per year. The approaches  that supply contingent rather than fixed liabilities avoid the taxpayer cost of  the buffer by supplying liabilities only when they are needed and, therefore,  only when they would not push money market rates below IORB.
+
+6. Options for moving to a scarce-reserves regime
+
+The ample reserves monetary policy implementation framework  requires supplying as many reserves as banks demand with market rates near  IORB. The Fed could further reduce reserves by implementing monetary policy  with market rates persistently and materially above the interest rate on the  marginal dollar of reserves—a regime of scarce reserves. (Options for moving  below ample reserves could combine with the options in Section 3 for shifting  DIs’ reserve demand curves inward. A scarce-reserves regime could also help to  overcome the distributional frictions described in Section 4 by increasing the  price incentive for interbank lending.)
+
+Moving to scarce reserves would represent a fundamental change in  the monetary policy implementation regime. Over many years, most recently in  2018 and 2019, Federal Reserve staff have formally analyzed and FOMC  participants have debated the pros and cons of regimes with ample or scarce  reserves. In a memo to the FOMC, Schulhofer-Wohl, Senyuz and Zobel (2018)  observed that interest rate control could be more difficult to achieve in the  scarce-reserves regime, especially in circumstances where the Fed was injecting  liquidity in response to economic or financial stress, and that scarce reserves  could reduce banks’ ability to rely on reserves for precautionary liquidity or  could cause banks to delay payment flows until later in the day. On the other  hand, scarce reserves could promote interbank money market trading and reduce  the magnitude of the Fed’s interest payments on reserves (though with little  effect on net taxpayer costs). In their November 2018 and January 2019  meetings, FOMC participants cited similar benefits to ample rather than scarce  reserves, leading to the FOMC’s January 2019 selection of the ample reserves  framework as its long-run implementation regime.
+[22]
+
+Although these considerations touch on a broad array of policy  issues, we can largely analyze them through the four tradeoffs outlined in the  introduction because they relate to the supply of a Fed liability. Some  tradeoffs arise in any implementation regime that pays a below-market rate on  the marginal dollar of reserves, while other tradeoffs are specific to  particular ways of implementing monetary policy with scarce reserves.
+
+Any scarce-reserves regime reduces private benefits from Fed  liquidity and, for related reasons, changes financial stability externalities.  Any scarce-reserves regime also reshapes tax burdens and requires heavier use  of contingent Fed liabilities to maintain a given degree of rate control.
+
+Private benefits and externalities from Fed liquidity under  scarce reserves:
+ If the Fed remunerated the marginal dollar of reserves at a rate meaningfully below market interest rates, DIs would face incentives to  economize on reserves at the margin. DIs could respond in many ways. They could  raise prices for customers whose loans or deposits generate the largest  liquidity needs. They could delay outgoing payments until incoming payments  arrive. They could reduce precautionary reserve buffers and more frequently  meet outflows by drawing on contingent funding or selling assets. They could  lend unneeded reserves to other banks, making the distribution of reserves more  efficient and reducing aggregate demand. DIs could also choose to accept more  liquidity risk.
+
+Taken together, these responses would mean banks and their  customers were counterbalancing the lack of interest on the marginal dollar of  reserves by incurring private costs to avoid liquidity risk. While interest  payments on reserves flow initially to banks, bank shareholders do not retain  all this value. Reserves are an input to banking services. Raising the marginal  cost of this input would require banks to raise the price of services such as  loans and deposits or trim profit margins. The incidence of the cost on  shareholders and customers would depend on banks’ market power, the elasticity  of demand for banking services and reserves’ role in providing those services.
+[23]
+
+These responses could also increase the banking system’s exposure  to liquidity risk, reducing the positive externalities from ample provision of  reserves. However, the changes could foster a more vibrant overnight interbank  market. Policymakers and observers have debated whether an active interbank  market fosters systemic resiliency.
+[24]
+ In addition, when a bank delays payments to reduce its reserve needs, it  imposes a negative externality on the payments’ recipients.
+
+Potential taxpayer implications of scarce reserves:
+ Reserves  are a liability on the consolidated government balance sheet. When short-term  Treasury rates exceed the interest rate on the marginal dollar of reserves, the  Fed could reduce the government’s net interest expense by supplying an  additional dollar of reserves backed with short-term Treasury debt. (This  transaction would increase Fed remittances to Treasury by the rate spread  between Treasury debt and marginal reserves, without changing Treasury’s gross  interest expense.) Thus, starting from a position of scarce reserves—where  market rates by definition exceed interest on reserves—moving toward ample  reserves while holding IORB constant would decrease net interest expense to  taxpayers. Importantly, though, an increase in reserve supply can push market  rates down, so if the Fed increases reserves, it may also need to raise the  interest rate on marginal reserves to keep market rates at the policy target.  The higher interest rate on reserves can offset the savings from exchanging  reserves for Treasury debt. When comparing scarce-reserves and ample-reserves  regimes, therefore, the cost difference for taxpayers depends on the elasticity  of market rates to reserve supply. In addition, if banks hold some reserves  that are remunerated at below-market rates, the rate spread on those reserves  functions as a tax on banks that reduces the government’s need for other taxes.  This tax can ultimately raise customers’ costs for banking services. Taxing  banks in this way can be optimal from a public finance perspective if the supply and demand for banking services  are less elastic than the supply and demand for other goods and services or if  banks create negative externalities.
+[25]
+
+Contingent liabilities under scarce reserves:
+ The  reserve demand curve is steeper when market interest rates materially exceed  the interest rate on the marginal dollar of reserves. Market rates in the  scarce-reserves regime could therefore respond more to shocks to reserve demand  and non-reserve liabilities. To maintain rate control, the Fed would need to  conduct more frequent operations to offset shocks and adjust reserve supply to  the necessary level. Those operations could consist of discretionary open market  operations or standing facilities that market participants would access to  obtain or shed reserves. In either case, the regime would make heavier use of  contingent liabilities to prevent rate volatility.
+[26]
+
+There are two primary ways to move to a regime of scarce  reserves, distinguished by whether interest payments are reduced only on DIs’  marginal reserve holdings or on all reserves:
+
+6a. Impose quotas or tiered remuneration for reserves:
+ In  this system, reserves up to some threshold at each DI would earn interest at  close to the policy target rate, while reserves above the threshold would earn  less or no interest. Banks would have incentives to economize on reserves above  their quotas. However, the remuneration of reserves up to the quotas would  limit the effective tax on banks and their customers. The quotas could also  stabilize reserve demand and make it easier for the Fed to determine the  quantity of reserves needed to bring market rates to the policy target.
+
+A primary challenge involves how to set the quotas and adjust  them over time. Duffie (2026) argues for an approach in which the Fed or  another arm of government would set the quotas. An alternative operated by the  Bank of England from 2006 to 2009 and studied by Baughman and Carapella (2020,  2023) would allow banks to establish their own voluntary reserve targets.
+
+If the government set the quotas, it would need to determine how  to allocate an important input across private firms. Policies would need to  address how quotas would or would not vary across bank characteristics such as  size and business model and how quotas would or would not evolve with changes  in individual bank characteristics and the banking system. Miscalibrated or  overly rigid quotas could discourage the growth of innovative or efficient DIs,  prop up unhealthy ones, and reduce competition and dynamism in the banking  system. However, overly flexible quotas would reduce incentives to economize on  reserves. Even if quotas were set efficiently, the public could perceive them  as picking winners and losers.
+
+Alternatively, with voluntary reserve targets, banks would  periodically choose their own quotas that would apply over coming weeks or  months. To deter banks from simply choosing extremely high quotas, the system  would need to include a penalty for any bank whose reserves fell significantly  below its self-assessed target. In this system, it would not be costly for a  bank to increase its average reserve holdings, because it could select a  corresponding increase in its target. Thus, the system would not create  disincentives for using liquidity in ways that require steady reserve holdings  over time. This feature could mitigate some of the private and systemic costs  that arise with scarce reserves. However, the private and systemic costs would  not be eliminated. A bank would still pay a cost for volatility in its reserve  balances—a penalty when reserves fell below the voluntary target and reduced  interest on reserves above the voluntary target—and hence would face  disincentives for providing services that make reserves more volatile or  unpredictable or for temporarily holding more liquidity to manage risk. In  addition, a bank’s incentive would be to choose the voluntary target based on its  private benefits and costs of using reserves; targets in the aggregate might not  take into account the systemic benefits of reduced liquidity risk.
+
+6b. Set the interest rate on all reserves  meaningfully below the FOMC’s target interest rate:
+ In this system, the government would not need to set quotas or ask banks  to do so, and the potential drawbacks of quotas would be avoided. However, if  banks continued to hold material quantities of reserves to meet their liquidity  needs, the implied tax burden on banks and their customers would be higher,  while consolidated government net interest costs would be lower. Reserve demand  might also be less predictable, increasing rate volatility.
+
+7. Options for reducing the size and variability of the TGA
+
+The TGA expands the Fed’s balance sheet through two channels.  First, the 
+size 
+of the TGA directly adds to the balance sheet. Second,  because TGA inflows drain reserves, 
+volatility 
+in the TGA drives  volatility in reserves. The Fed on most days maintains a reserve buffer that  can absorb TGA growth, as well as other shocks to reserve supply and demand,  without bringing reserves below the ample level. Lower TGA volatility would  allow a smaller buffer.
+
+The TGA’s size and volatility are closely linked because Treasury  drains the TGA when the debt limit binds (increasing reserves) and rebuilds it  afterward (drawing down reserves). Reducing the TGA’s size would also reduce  its variability and shrink the Fed’s balance sheet through both channels. These  options mainly present tradeoffs related to taxpayer costs and fixed versus  contingent liabilities. In general, though, the tradeoffs appear modest, and it  appears possible to more efficiently manage Treasury’s liquidity needs without  incurring the costs of reserve volatility that result from a large and variable  TGA balance. Instead of reducing the TGA’s variability, the Fed could change  its approach to managing that variability, as discussed in Section 5.
+
+7a. Invest Treasury funds in reverse repos with private-sector  counterparties rather than the TGA:
+ The law authorizes Treasury to  invest its cash in “repurchase agreements with parties acceptable to the  Secretary.”
+[27]
+ If Treasury invested in the repo market, the funds would not appear on the  Fed’s balance sheet. Treasury repo investments could increase reserve demand to  some degree if banks held reserves to prepare for Treasury to unwind its  investments. However, several factors would likely keep reserve demand from  rising by as much as the decrease in the TGA: Many of Treasury’s counterparties  would not be banks. Treasury would not be expected to unwind all its repos in a  single day, and repo counterparties could source funding from other investors.  On the other hand, if Treasury repo investments crowded out private cash  investors’ access to dealer balance sheets, ON RRP balances could increase.  Still, investing Treasury funds in the repo market rather than TGA would likely  reduce Fed liabilities on net.
+
+With ample reserves, repo rates are close to the interest rate on  reserves. Investing Treasury funds in repo rather than the TGA would therefore  pose minimal net cost to taxpayers. (Treasury would receive the repo interest  rate, instead of earning zero interest on the TGA; however, the Fed would shed  the assets that back the TGA and no longer receive the interest on those  assets.) The counterparty credit risk on appropriately collateralized repos is  also minimal.
+
+7b. Invest Treasury funds in bank deposits rather than the  TGA: 
+Treasury has held commercial bank deposits in the past and  could do so again. Leaving the funds in commercial banks would keep them off  the Fed’s balance sheet. Additionally, depending on the number of banks where the  Treasury kept deposits, this approach could spread funds broadly across the  banking system and help overcome the interbank distributional frictions  discussed in Section 4 that increase the aggregate demand for reserves.
+
+Treasury bank deposits would likely increase individual banks’ reserve  demand because banks would need to be prepared for Treasury to make  withdrawals. Because all the deposits would be at banks, the effect on reserve  demand might be larger than if Treasury invested in the repo market. The net  reduction in Fed liabilities might therefore be smaller than with the previous  option. The effect on reserve demand could also depend on potential changes in  liquidity regulations discussed in Section 3, which influence banks’  calculations of the amount of reserves needed to back deposits.
+
+If banks increased reserves close to one for one with Treasury  deposits, this option would likely be costly for taxpayers. The banks would  receive interest at the IORB rate while typically paying lower rates on the  deposits. If the Fed eliminated interest on reserves, an option discussed in Section  6, the cost of bank deposits would diminish. Deposits would also expose  Treasury to the risk of a bank failure, requiring Treasury to choose banks  carefully.
+
+7c. Reduce the minimum cash balance in the TGA:
+ Treasury  could operate with a smaller cash buffer than the current minimum of five days  of outflows. 
+
+A smaller buffer could increase the risk of operational disruptions to  Treasury payments. However, Treasury, the Fed and Congress could consider  alternative mitigants, such as legal authority for Fed lending to Treasury in  exigent circumstances or tools for Fed lending to the private sector against  disrupted Treasury securities. Such tools would substitute contingent for fixed  liabilities and might blur the fiscal-monetary boundary.
+
+8. Options for reducing liabilities to foreign official institutions and DFMUs
+
+The Fed could reduce demand for its liabilities to foreign  official institutions and DFMUs by making these liabilities less attractive or the  alternatives more attractive. The Fed could also limit some liabilities’ size.  These options primarily present tradeoffs related to financial stability  externalities and fixed versus contingent liabilities.
+
+8a. Limit liabilities to foreign official institutions or make  them less attractive: 
+The Fed could reduce foreign official balances  by imposing formal limits, informally discouraging large balances or reducing  the FIMA repo pool’s interest rate.
+
+Policymakers might judge that foreign governments’ private  benefits from holding Fed balances should not enter the domestic policy  calculus. However, if foreign governments sought to reduce their balances at  the Fed, they would have two alternatives, both potentially costly for the U.S.  financial system.
+
+Foreign official institutions could invest more of their U.S.  dollar reserves in commercial bank deposits or Treasury securities. But if they  did so, financial and geopolitical shocks might force these official investors  to withdraw funds rapidly from U.S. banks or to rapidly sell or borrow against  Treasuries. Those actions could amplify the propagation of stress to U.S.  markets that can already occur when foreign private investors need dollar  liquidity. The Fed’s FIMA repo facility and dollar swap lines with foreign  central banks partly mitigate this risk by allowing eligible foreign  institutions to borrow dollars against Treasuries and foreign currency.  However, these tools replace fixed liabilities with contingent ones. A shift of  foreign official balances to commercial banks could also raise reserve demand  if banks saw these deposits as flighty.
+
+Alternatively, foreign official investors could shift their  dollar reserves to other currencies. If so, the dollar’s foreign exchange value  could fall, and the dollar’s role in global finance and trade could diminish.
+
+In addition, if the Fed sought to limit foreign official  investors’ access to its balance sheet, other governments could respond by  limiting U.S. authorities’ ability to keep non-dollar reserves at foreign  central banks.
+
+8b. Introduce a tool to allow DFMUs to monetize Treasury  securities in appropriate circumstances:
+ DFMUs operate critical  payment, clearing and settlement systems that must reliably fulfill their  obligations to participants at all times, including during stress episodes. As  such, DFMUs and their regulators especially value central bank balances’ unique  safety and liquidity relative to all other assets.
+[28]
+ Enhancing DFMUs’ ability to monetize Treasuries could change this tradeoff.
+
+DFA allows the Fed to make secured loans to DFMUs under unusual  or exigent circumstances and subject to certain other requirements.
+[29]
+ Developing and testing a reliable tool for executing the loans allowed by DFA  could enhance DFMUs’ confidence in their ability to monetize Treasuries in  stress episodes and reduce their demand for Fed balances.
+
+DFMUs’ demand for Fed balances might further decrease if they  were allowed to participate in SRP operations. The Principles for Financial  Market Infrastructures, an international regulatory standard, allow financial  market infrastructures to consider routine central bank credit, but not  emergency credit, toward meeting minimum liquidity requirements.
+[30]
+
+DFMUs’ Fed balances make the economy and financial system more  resilient to operational and financial shocks at critical market  infrastructures. A reliable lending tool would also foster resilience by  ensuring the Fed can successfully lend to DFMUs when policymakers deem it  appropriate.
+
+However, like the FIMA repo facility, this option would replace fixed  Fed liabilities with contingent ones. The availability of a lending tool might  also prompt DFMUs to take more risk, calling for continued strong supervision  and regulation. Limiting the collateral to Treasuries could partly mitigate  this risk.
+
+9. Conclusion
+
+This essay reviews the Fed’s major liabilities and policy options  for reducing them. The Fed’s liabilities provide both private benefits and positive  systemic externalities. Reducing liabilities would reduce those benefits.  However, liabilities can also create negative externalities, which a smaller  Fed balance sheet could decrease.
+
+Many approaches to reducing liabilities in normal times would  require committing to expand the balance sheet in stress episodes, suggesting  that policymakers could weigh the relative costs and benefits of fixed versus  contingent liabilities. Moreover, the Fed’s liabilities are also liabilities of  the consolidated government, whose size can have costs or benefits for  taxpayers.
+
+When it comes to bank reserves, there is a fundamental  distinction between two ways of reducing demand. Many of the private and  systemic benefits of ample reserves can be preserved under policies that shift  the reserve demand curve inward while still amply meeting banks’ demands. By  contrast, there would be larger costs from moving along the reserve demand  curve to a point where reserves are scarce and market interest rates materially  exceed the interest rate paid on the marginal dollar of reserves.
+
+The effects of reducing Fed liabilities would depend on the  details of how any changes were implemented and, especially, the speed of  implementation. If policymakers viewed any changes as desirable, thoughtful  planning and advance communication would support a smooth transition; abrupt  changes would be more likely to have adverse or unexpected consequences.
+
+The authors thank Rosie Levy, Matthew McCormick, Srini Ramaswamy,  Seth Searls and 
+Zeynep Senyuz
+ for helpful comments.
+
+References
+
+Notes
+
+Click on the arrow (
+) at the end of the note to return to the reference in the text.
+
+See, for example, Borio (2023) and Sims (2016). 
+
+Federal Reserve Act (1913). 
+
+See Hammack (2025) on risk-taking and Rogoff (2017, chapter 5) on illicit currency use. 
+
+See Schulhofer-Wohl (2025).
+
+See Logan and Schulhofer-Wohl (2018). 
+
+Board of Governors of the Federal Reserve System (2020). 
+
+Board of Governors of the Federal Reserve System (2021). As implemented, the operation also allows counterparties to monetize agency debt and agency mortgage-backed securities. 
+
+Judson (2024). 
+
+Rogoff (2017, chapter 5). 
+
+At times, though not currently, depository institutions have also held term deposits at the Fed. 
+
+Dodd–Frank Wall Street Reform and Consumer Protection Act (2010), section 806(a). 
+
+Banks typically paid Treasury a lower interest rate on its deposits than they received on the reserves backing those deposits, creating a net interest expense for the government. See Santoro (2012). 
+
+Board of Governors of the Federal Reserve System (2025b). 
+
+On the privacy-protecting role of cash, see Kahn et al. (2005). 
+
+See Sveriges Riksbank (2026). 
+
+Swedish Civil Contingencies Agency (2024). 
+
+If the Fed issued less currency, it would reduce holdings of Treasury securities or other assets, and the private sector would hold those assets instead. The Fed remits interest income on its assets to the Treasury, while the private sector does not. The Treasury’s interest expense net of Fed remittances would therefore increase. 
+
+Dodd-Frank Wall Street Reform and Consumer Protection Act (2010), section 1103(b). 
+
+Board of Governors of the Federal Reserve System (2024). 
+
+Levy (2025) describes how liquidity-savings mechanisms in other jurisdictions allow banks to use liquidity more efficiently. 
+
+Fedwire operates 22 hours per day, five days per week, with an extension to six days per week planned for 2028 or 2029. See Board of Governors of the Federal Reserve System (2025a). For volume data, see 
+Fedwire Funds Service – Annual Statistics.
+ 
+
+See Federal Open Market Committee (2018, 2019a, 2019b). 
+
+Hughes and Younger (2026) estimate that banks pass through 65 percent of interest rate changes to depositors. Hughes and Younger assume the remaining economic value from interest on reserves flows to shareholders, but do not seek to estimate the degree to which value from interest on reserves flows to bank customers other than depositors by reducing the cost of non-deposit services such as loans. 
+
+Compare Logan (2023) (“One criticism that has been leveled against floor systems is that when liquidity is ample, interbank trading may dry up and banks may become less practiced at sourcing funds when needed. To the extent this happens, I don’t see it as a reason to criticize floor systems. That would be like criticizing modern building codes for reducing the risk of fire.”) with Nelson (2025) (“In the face of unexpected payment shocks, an active interbank market helps the private sector redistribute funds across banks. By comparison, without an interbank market, the institutional expertise needed for such borrowing and lending decays.”). 
+
+Schulhofer-Wohl (2025) analyzes the fiscal implications of reserve supply. 
+
+Duygan-Bump and Kahn (2026) provide a related discussion of a trilemma of tradeoffs among central bank balance sheet size, rate volatility, and frequency of market interventions. 
+
+31 U.S.C. § 323(a)(3). 
+
+See Committee on Payment and Settlement Systems and Technical Committee of the International Organization of Securities Commissions (2012), explanatory note 3.7.14. 
+
+Dodd-Frank Wall Street Reform and Consumer Protection Act (2010), section 806(b). 
+
+See Committee on Payment and Settlement Systems and Technical Committee of the International Organization of Securities Commissions (2012), principle 7, key considerations 5 and 6. 
+
+Share this
+
+About the author
+
+Lorie Logan
+
+                         is president and CEO of the Federal Reserve Bank of Dallas.
+                    
+
+Sam Schulhofer-Wohl
+
+                         is senior vice president and senior advisor to the president of the Federal Reserve Bank of Dallas.
+                    
+
+The views expressed are those of the authors and should not be attributed to the Federal Reserve Bank of Dallas or the Federal Reserve System.
+
+Monetary policy
+
+Banking and finance
+
+Options for reducing the size of the Fed’s balance sheet
+
+Article
+
+References
+
+Dallas Fed Economics
+
+Research and analysis of economic trends and developments
+
+Home
+
+Archive
+
+By Topic
+
+ 
+ 
+ 
+
+Subscribe for
+email alerts
+
+Related Articles
+
+ 
+
+Rig count no longer a reliable bellwether for risk in oil and gas services lending
+
+Read more
+
+ 
+
+Tokenized deposits use blockchain structure in traditional banking framework
+
+Read more
+
+Discussion of 'An Efficient Liquidity Savings Mechanism' by Darrell Duffie, Srisht Fateh Singh and Chaojun Wang
+
+Read more
+
+ 
+
+Bankers report robust increases in loan volume and demand
+
+Read more
+

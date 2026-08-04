@@ -1,0 +1,2218 @@
+
+===== PAGE 1 =====
+Finance and Economics Discussion Series
+Federal Reserve Board, Washington, D.C.
+ISSN 1936-2854 (Print)
+ISSN 2767-3898 (Online)
+A User’s Guide to Reducing the Federal Reserve’s Balance Sheet
+Alyssa G. Anderson, Alessandro Barbarino, Anthony M. Diercks, Stephen
+Miran
+2026-019
+Please cite this paper as:
+Anderson, Alyssa G., Alessandro Barbarino, Anthony M. Diercks, and Stephen Miran
+(2026). “A User’s Guide to Reducing the Federal Reserve’s Balance Sheet,” Finance and
+Economics Discussion Series 2026-019. Washington: Board of Governors of the Federal
+Reserve System, https://doi.org/10.17016/FEDS.2026.019.
+NOTE: Staﬀ working papers in the Finance and Economics Discussion Series (FEDS) are preliminary
+materials circulated to stimulate discussion and critical comment. The analysis and conclusions set forth
+are those of the authors and do not indicate concurrence by other members of the research staﬀ or the
+Board of Governors. References in publications to the Finance and Economics Discussion Series (other than
+acknowledgement) should be cleared with the author(s) to protect the tentative character of these papers.
+===== PAGE 2 =====
+A User’s Guide to Reducing
+the Federal Reserve’s Balance Sheet ∗
+Alyssa Anderson † Alessandro Barbarino ‡ Anthony M. Diercks § Stephen Miran ¶
+March 2026
+Abstract
+For the avoidance of doubt: 1) This catalog presents and analyzes a variety of options for
+reducing the Federal Reserve’s balance sheet. Nothing here is an endorsement of any
+specific policy option; this is a menu of options. Combined, we estimate these options open
+the door to balance sheet reduction of$1.2 to$2.1 trillion within the Fed’s current ample reserves
+framework. While we do not advocate for or against a return to a scarce reserves regime, further
+reductions would be possible with a return to scarce reserves. 2) The process of materially
+shrinking the balance sheet would require a great deal of implementation and rulemaking work
+in advance and would take time, at least a year and quite possibly several, before the
+Fed can begin shrinking its balance sheet. If undertaken, there are good reasons for
+moving slowly and gingerly, and to take steps to ensure financial markets are able to absorb the
+reissue of securities that roll off the Federal Reserve’s balance sheet.
+JEL Codes:E52, E58, G21, G28.
+Keywords:Federal Reserve Balance Sheet, Quantitative Tightening, Reserve Management, Mon-
+etary Policy Implementation
+∗Preliminary draft. The views expressed are those of the authors and do not necessarily reflect those of the Federal
+Reserve System. The authors are highly indebted to Eric Wallerstein and Jay Schwarz, who contributed heavily to
+ideation and without whom this paper would be much less than it is. Sriya Anbil of the Board’s Division of Monetary
+Affairs made highly valuable contributions as well. The authors are further grateful to Akos Horvath, Anna Lee
+Hewko, Annette Vissing-Jorgensen, Beth Klee, Burcu Duygan-Bump, Francisco Covas, Jane Ihrig, Jay Kahn, Mark
+Carlson, Mark van der Weide, and Trevor Reeve for helpful comments. Ethan Murinson provided excellent research
+assistance.
+†Division of Monetary Affairs, Federal Reserve Board
+‡Division of Research and Statistics, Federal Reserve Board
+§Division of Monetary Affairs, Federal Reserve Board. Corresponding author: Anthony.M.Diercks@frb.gov
+¶Federal Reserve Board
+===== PAGE 3 =====
+Contents
+1 Introduction 2
+2 How We Got Here 4
+2.1 Federal Reserve Balance Sheet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.2 Evolution to the Current Implementation Framework . . . . . . . . . . . . . . . . . . 5
+2.3 Fluctuations in Reserve Demand . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.3.1 Pre-Crisis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.3.2 Post-Crisis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+2.3.3 Indicators of reserve ampleness . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+3 Motivating a Smaller Balance Sheet 14
+3.1 Why Shrink the Balance Sheet? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+3.2 What Does It Mean to Shrink the Balance Sheet? . . . . . . . . . . . . . . . . . . . 16
+3.3 How Far to Shrink the Balance Sheet? . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+4 Options for Reducing the Balance Sheet 18
+4.1 Options for Reducing Equilibrium Reserve Demand . . . . . . . . . . . . . . . . . . . 18
+4.1.1 Regulatory Changes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+4.1.2 Supervisory Changes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+4.1.3 Decrease Profitability of Holding Reserves . . . . . . . . . . . . . . . . . . . . 25
+4.1.4 Increase Attractiveness of Substitutes for Reserves . . . . . . . . . . . . . . . 28
+4.1.5 Decrease Precautionary Reserve Holdings . . . . . . . . . . . . . . . . . . . . 29
+4.2 Options for Reducing Liabilities Outside the Domestic Banking System . . . . . . . 32
+5 Adding It All Up 34
+6 Making Sure the Financial System Can Absorb Securities the Fed Sheds 37
+7 Implications for Monetary Policy 38
+8 Conclusion 38
+References 39
+A Data Sources 50
+1
+===== PAGE 4 =====
+1 Introduction
+Standard economics considers the supply of bank reserves to be set by the central bank, for purposes
+related to monetary policy implementation or targeting certain levels of overnight borrowing rates.
+In classic models like Poole (1968), reserve demand reflects the regulatory environment, economic
+activity, and longer-run trends like currency growth. However, traditional approaches typically
+treat the regulatory environment as fixed: an exogenous constraint rather than a policy instrument
+available to the central bank. The central bank adjusts reserve supply given demand to achieve its
+monetary policy objectives.
+This traditional interpretation has given rise to a common view that the Federal Reserve is
+unable to reduce its balance sheet materially from current levels, given a demand curve that becomes
+steeper at lower levels of reserves. 1 After all, the Fed has tried to shrink its balance sheet before
+and each time ends up ceasing balance sheet reduction and abruptly reversing itself, expanding the
+balance sheet through reserve management purchases.
+Challenges to this view have emerged in recent years, for instance in Logan and Schulhofer-
+Wohl (2018), Beckworth (2025), Miran (2025), Nelson (2026a) and Duffie (2026). 2 These papers
+argue that the demand for reserves is in large part, but not entirely, a function of the regulatory
+environment: banks are required by various regulations to hold certain levels of high-quality liq-
+uid assets, which can include reserves or Treasury securities. Of course, banks would naturally
+demand some level of reserves given their role in providing liquidity and processing payments, but
+the regulatory framework—both formal requirements and supervisory expectations—substantially
+amplifies baseline reserve demand. Miran (2025) dubs this “regulatory dominance” of the Fed’s
+balance sheet. This view challenges the traditional one because it recognizes that central bank
+policy can affect not only the supply of reserves but also demand for reserves through its regulation
+and implementation policies. This recognition opens up the door to policies which aim explicitly
+at tamping that demand through regulatory and other tools.
+Modern monetary policy implementation is defined by the boundaries between scarce, ample
+and abundant reserves, and those boundaries are in turn a function of the regulatory environment,
+precautionary demand for reserves, and other sources of reserve demand. Policy choices can shift
+those boundaries down, reducing demand for reserves. 3 Reductions in demand for reserves would
+allow further reductions in supply of reserves without unwanted stresses in short-term funding
+markets.
+1See, for instance, Cecchetti and Schoenholtz (2026).
+2Duffie (2026) covers a number of items similar to what we do in this paper, was developed independently, and
+is coincidentally being released on the same day as this paper. We learned of Duffie’s paper a few weeks before its
+release, scheduled to coincide with the Brookings Papers on Economic Activity conference. This paper was scheduled
+to be published to coincide with Governor Miran’s speaking event at the Miami Economic Forum on the same day.
+Readers of this paper are highly encouraged to read Duffie’s as well and should view them as complements. Logan
+and Schulhofer-Wohl (2018) provide another complementary and worthwhile analysis of a number of similar policy
+options.
+3To be clear, we recognize the effects of these policy choices can extend well beyond the balance sheet. We touch
+on some of the broader implications later in the paper.
+2
+===== PAGE 5 =====
+The purpose of this paper is to present a suite of policy options for reducing the size of the Fed’s
+balance sheet, many of which aim to reduce the demand for reserves and shift those boundaries
+down. Nothing here should be considered advocacy or endorsement of any particular option. This
+paper is a catalog, and future Federal Reserve leadership will decide which, if any, options to pursue.
+To be clear, we are not advocating for or against a return to scarce reserves. We are instead
+challenging the widespread assumption that further balance sheet reduction requires a return to
+scarcity. Either regime could support a smaller balance sheet based on the changes in policy we
+analyze in this study.
+Policy Options Min Mid Max
+1Recognize Discount Window Capacity in the LCR50 250 450
+2Recalibrate LCR Requirements During Stress Periods50 125 200
+3Reform ILST Expectations to Recognize DW Capacity50 125 200
+4Revise Resolution Liquidity Requirements0 50 100
+5SLR Relief for Dealer Intermediation– – –
+6Equalize Supervisory T reatment of T reasury Bills and Reserves25 38 50
+7Conducting Policy with EFFR Above IORB150 350 550
+8Tiering Reserves – – –
+9Expand Access to FIMA Repo F acility25 112 200
+10Address FBO Reserve Demand w Swap Lines, F oreign Reg. Coord.– – –
+11aUsing Communication to Reduce Stigma of SRP– – –
+11bExtending the SRP Borrowing Window and Central Clearing– – –
+12Sterilize TGA Fluctuations with T-Bills50 125 200
+13Implement a Liquidity Savings Mechanism for F edwire100 112 125
+Total Reduction in Reserve Demand (Na¨ ıve Sum) 500 1287 2075
+T otal Reduction in Reserve Demand (Monte Carlo Simulation Based) 825 1287 1750
+14Recalibrate T reasury General Account (TGA) Management200 300 400
+15Discourage Use of the F oreign Reverse Repo Pool0 50 100
+Total Estimated Reduction of Balance Sheet (Na¨ ıve Sum) 700 1637 2575
+T otal Estimated Reduction of Balance Sheet (Monte Carlo Simulation Based) 1150 1637 2125
+Table 1:Policy Options and Estimated Effects
+Note:Estimates are in billions of dollars. Options with no numerical estimates reflect combinations with other
+options or were unable to be estimated with sufficient precision. The totals are computed based on Monte Carlo
+simulations of 1,000,000 draws and follow the standards set forth by OMB Circular A-4. The minimum of the totals
+reflects the 2.5 th percentile and the maximum of the totals reflects the 97.5 th percentile.
+To evaluate the combined effect of the options presented in this study, we follow widely-adopted
+standards for federal policy analysis as outlined in the Office of Management and Budget (OMB)
+3
+===== PAGE 6 =====
+Circular A-4. In particular, we employ Monte Carlo simulations for each policy’s estimated range
+and calculate upper and lower bounds of the aggregate effects based on this approach. This proba-
+bilistic methodology yields an expected balance sheet reduction in the range of$1.2 to$2.1 trillion
+based on a 95% confidence interval. Table 1 is a preview of the breakdown of our estimates.
+These numbers reflect a downward shift in the zone that characterizes ample reserves; further
+reductions could be achieved by a return to scarce reserves.
+2 How We Got Here
+2.1 Federal Reserve Balance Sheet
+Before considering the paths available for balance sheet reduction, it is useful to briefly lay out
+the structure of the Federal Reserve’s balance sheet. Table 2 provides a stylized version of the
+Fed’s balance sheet. On the asset side, the Fed holds primarily Treasury securities and agency
+mortgage-backed securities. On the liabilities side, the balance sheet can be divided into two
+broad categories: reserve balances held by depository institutions, and non-reserve liabilities such
+as currency in circulation, the Treasury General Account (TGA), the foreign reverse repo pool
+and other liabilities. As shown in Table 2 and Figure 2, these non-reserve liabilities are currently
+comparable in size to reserves.
+Thus, policy options for reducing the balance sheet either involve reducing the demand for
+reserves or reducing other liabilities outside the domestic banking system. This section explains
+how we arrived at current balance sheet levels, with emphasis on the evolution of reserve demand.
+Assets Value
+(Billions) Liabilities & Capital Value
+(Billions)
+U.S. Treasury Securities$4,352 Reserve Balances$3,073
+Agency Securities (MBS)$2,010 Currency$2,390
+Other Assets$284 Treasury General Account (TGA)$806
+(incl. discount window, Foreign Reverse Repo Pool$325
+SRP, and FIMA repo) Other Liabilities & Capital$52
+(incl. ON RRP)
+T otal Assets$6,646 T otal Liabilities & Capital$6,646
+Table 2:Federal Reserve Balance Sheet
+Note:This table is based on data from the Federal Reserve’s H.4.1 release for the week ending March 11, 2026.
+4
+===== PAGE 7 =====
+2.2 Evolution to the Current Implementation Framework
+There are three possible characterizations of modern monetary policy implementation: scarce re-
+serves, ample reserves, or abundant reserves. Scarce reserves policy requires frequent intervention
+from the central bank if it is to make sure policy rates are where they ought to be, while abundant
+reserves is governed by administered rates that create arbitrage opportunities and keep the policy
+rate where the central bank wants without any active intervention. As seen in Figure 1, when
+reserves are scarce, the market is on a steeply downward sloping part of the demand curve for re-
+serves, and short rates are highly sensitive to fluctuations. When reserves are abundant, the market
+is on a flat part of the demand curve for reserves, and short rates are unresponsive to fluctuations.
+Figure 1:Demand and Supply Curve for Reserves
+Note: Pre-GFC corresponds to the period prior to the Global Financial Crisis in 2008. ELB stands for the effective lower
+bound. The flat portion of the demand curve corresponds to an abundant reserves framework, the middle portion corresponds
+to the current environment of ample reserves, and the steepest portion reflects a scarce reserves regime.
+Defining ample reserves.Ample reserves is more difficult to define, but most people accept
+that ample reserves are at a high enough level that short rates are minimally responsive to typical
+day-to-day fluctuations, but rates do respond to sharper fluctuations. Ample is the band that
+separates scarce from abundant, and the demand curve for reserves is modestly downward sloping.4
+The EFFR-IORB spread.We can also conceive these categories in terms of prices. The Federal
+Reserve’s target rate, the effective fed funds rate (EFFR), is the rate at which banks borrow reserves
+from each other. With ample reserves, EFFR is close to the interest rate on reserve balances (IORB)
+4See Afonso, Kim, Martin, Nosal, Potter and Schulhofer-Wohl (2020), Ihrig, Senyuz and Weinbach (2020), Logan
+(2019), Haubrich (2025), Hammack (2025), Powell (2025), Perli (2025), Remache (2025), Waller (2025), and Williams
+(2025) for some useful discussions of the ample reserves framework.
+5
+===== PAGE 8 =====
+2005 2010 2015 2020 20250
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000Billions of USD
+Other
+TGA
+ON RRP
+Reserves
+Currency
+2005 2010 2015 2020 20250
+5
+10
+15
+20
+25
+30
+35Percent of GDP (%)
+Other
+TGA
+ON RRP
+Reserves
+Currency
+(a) Balance Sheet (Billions of USD)
+2005 2010 2015 2020 20250
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000Billions of USD
+Other
+TGA
+ON RRP
+Reserves
+Currency
+2005 2010 2015 2020 20250
+5
+10
+15
+20
+25
+30
+35Percent of GDP (%)
+Other
+TGA
+ON RRP
+Reserves
+Currency (b) Balance Sheet (Percent of GDP)
+Figure 2:Balance Sheet Liabilities Decomposition
+Note:Panel (a) shows a decomposition of the balance sheet liabilities from 2003 to present in billions of USD. Panel (b) shows
+the same decomposition but as a ratio of nominal GDP. The individual components are from the St. Louis FRED database and
+are averaged at a weekly frequency. Source: Federal Reserve Bank of St. Louis FRED: WCURCIR, WRESBAL, WREPODEL,
+WTREGEN, WLTLECL, GDP.
+as the marginal value of additional reserves is close to zero. When reserves are scarce, EFFR trades
+above IORB, as lenders require higher yield to loan out their reserves. When reserves are abundant,
+EFFR trades below IORB, as few need to pay high yields to borrow reserves.
+After the pandemic-era asset purchases, reserves were abundant, with large volumes of overnight
+reverse repo (ON RRP) take-up—that is, non-banks lending excess cash to the Fed—and EFFR
+regularly clearing roughly 7 basis points below IORB for several years. Now, we’ve returned to
+ample reserves, with EFFR trading just one basis point below IORB.
+Scarce reserves.Prior to the Global Financial Crisis (GFC), the Federal Reserve operated under
+a scarce-reserves regime, and the Fed’s balance sheet was about$900 billion, or 6% of GDP (see
+Figure 2). Depository institutions were required to hold a certain level of reserves against certain
+of their liabilities, and borrowed and loaned reserves in the federal funds market to hit those
+requirements. The Fed manipulated aggregate reserve balances to keep the fed funds rate at a
+target rate consistent with its monetary policy objectives.
+The shift to abundant reserves.In response to the GFC, the Fed embarked on a dramatic
+course of balance sheet expansion. This boosted reserves above the level required by banks moving
+the supply of reserves on the flatter portion of the demand for reserves away from the scarce
+reserves region, and the balance sheet reached 15% of GDP after the conclusion of the first round
+of quantitative easing and emergency liquidity operations (see Figure 2). Reserves had become
+abundant. As a consequence, without additional tools, the Fed would have been unable to achieve
+a fed funds rate consistent with its monetary policy objectives if it subsequently desired to tighten
+policy.
+6
+===== PAGE 9 =====
+Floor system.To help control the fed funds rate, the Fed introduced a floor system of adminis-
+tered rates, as had been done by a number of other central banks around the world. IORB provides
+an imperfect floor on the policy rate and the rate on overnight reverse repurchase agreements (ON
+RRP) serves as a subfloor. The primary credit rate of the discount window and the rate on standing
+repurchase agreements (SRP) provide ceiling support. This creates a complex system of arbitrage
+opportunities that arise if EFFR deviates from where the Fed wishes it to be, effectively keeping
+the policy rate near IORB and preventing loss of interest rate control.
+The return to ample reserves.Since the GFC, the Fed expands its balance sheet when it
+needs to stimulate the economy if policy rates are stuck at the zero lower bound, then shrinks
+the balance sheet when the economy has recovered. The FOMC ends the process of balance sheet
+reduction when indications of reserve scarcity emerge, because the Fed has chosen to maintain an
+ample reserves framework.
+The Fed’s first experience with balance sheet reduction was from 2017 to 2019. Quantitative
+tightening ended in August 2019, at which point the asset side of the balance sheet stopped declin-
+ing. However, non-reserve liabilities such as currency continued to grow, causing reserves to decline
+further despite the ending of asset runoff. 5 This decline culminated in the money market stress
+episode of mid-September 2019 when repo rates and EFFR spiked (see Figure 4). 6 In response,
+the Fed conducted large repo operations and later began purchasing Treasury bills to maintain an
+ample supply of reserves.
+Following the aftermath of the pandemic, the balance sheet reached a high of 36% of GDP, and
+the Federal Reserve subsequently began allowing securities to roll off its balance sheet. 7 In late
+2025, after quantitative tightening had been underway for about three years, trillions of dollars
+of Treasury repo transacted more than ten basis points above the SRP rate on high-pressure
+days, indicating that the Federal Reserve’s control over short-term rates was becoming looser and
+that reserves were verging on scarcity. 8 The Fed subsequently began purchasing Treasury bills to
+increase the supply of reserves and restore proper system functioning, lest it be forced into the
+types of direct interventions that would have been typical under a scarce-reserves regime. These
+actions were taken to ensure that reserves remained ample.
+5For instance, the Federal Reserve introduces currency into circulation by ordering new notes from the Bureau of
+Engraving and Printing and purchasing coins from the U.S. Mint, then distributing them to depository institutions
+(commercial banks, credit unions) to meet public demand. The Fed swaps this cash for funds in the banks’ reserve
+accounts thereby reducing reserves.
+6For analysis of developments in money markets around September 2019, see Anbil, Anderson and Senyuz (2020)
+and Afonso, Cipriani, Copeland, Kovner, La Spada and Martin (2021).
+7Eyal, Na and Skaperdas (2026) decompose the roughly 15 percentage point decline from the pandemic peak
+to current levels, finding that active reductions in securities holdings account for the majority of this decline, with
+inflation and real GDP growth playing a secondary role.
+8High-pressure days are those with high payment flows due to Treasury settlement, tax payments, or temporarily
+tighter balance sheet constraints that limit dealer intermediation, resulting in temporarily higher short-term rates
+and greater rate volatility.
+7
+===== PAGE 10 =====
+Not purely quantities.With these considerations in mind, there are clear distinctions between
+the level of reserves, the frequency of interventions, and the sensitivity of interest rates to the supply
+of reserves. With a high demand for reserves for a given EFFR, effective reserves in the system
+can appear to be large but still be “scarce” so that interest rate volatility is high and frequent
+interventions by the central bank are necessary. The reverse can also be true. This dynamic is key
+to the mechanisms we propose for reducing the quantity of reserves necessary for an ample reserves
+implementation framework.
+2.3 Fluctuations in Reserve Demand
+Attractive features of reserves.Banks hold reserves for precautionary reasons, self-insuring
+against states of the world in which their reserves fall and bring HQLA below levels required by
+regulations.9 Several fundamental features make reserves particularly attractive for this purpose
+compared to alternative forms of high-quality liquid assets. First, they provide an immediate store
+of value which is stable over time. Second, reserves eliminate settlement dependency risk. Unlike
+daylight overdrafts, they do not carry operational risk if offsetting trades fail to settle. Third, they
+have no interest rate risk and require no selling of securities to monetize. This makes them ideal
+for managing stress scenarios and payment outflows and settlement needs.
+Cyclical and Seasonal Liquidity Needs.Banks’ demand for reserves fluctuates with pre-
+dictable economic patterns. Banks experience notable deposit outflows during predictable events
+like the April 15 tax season and year-end when customers withdraw funds for tax obligations or
+corporations make cash management decisions. These outflows temporarily increase banks’ pre-
+cautionary demand for reserves to ensure adequate liquidity buffers, as unexpected shortfalls could
+necessitate costly overnight borrowing or use of Federal Reserve lending facilities with their associ-
+ated stigma.
+The velocity of money amplifies these dynamics. During periods of higher economic activity
+and faster payment turnover, banks require additional reserve buffers to manage increased trans-
+action volumes. Conversely, when economic activity slows, precautionary demand may moderate
+as payment flows become more predictable.
+2.3.1 Pre-Crisis
+Demand for reserves has changed dramatically over the past 20 years. Prior to the GFC, demand
+for reserves was mainly a function of banks fulfilling their statutory reserve requirements (Judson
+and Klee, 2009). Banks faced high opportunity costs of holding reserves as they received no interest
+at the time, and this incentivized banks to allocate available funds toward interest-bearing activities
+and securities. While the amount of reserves on the Federal Reserve’s balance sheet was often less
+9See Afonso and Lagos (2015) for further analysis of the precautionary motive to hold reserves in the federal
+funds market.
+8
+===== PAGE 11 =====
+than$10 billion, this likely understated how much banks demanded reserves for operational needs
+like intraday payments or transactions.
+Daylight overdrafts.Prior to 2009, when reserves were scarce, banks made heavy use of daylight
+overdrafts to fulfill their payment obligations, as seen in Figure 3 panel (a). Daylight overdrafts
+occur when a bank’s reserves fall below zero temporarily. The intraday peak quantity of overdrafts
+reached as high as$200 billion (a non-trivial amount at close to 2% of GDP) in the first half of
+2008, at a time when bank reserves still averaged around$10 billion. This stark contrast—$200
+billion in intraday overdrafts versus$10 billion in reserves—reveals that banks’ true liquidity needs
+far exceeded their end-of-day reserve holdings.
+2.3.2 Post-Crisis
+Interest on reserves.While the above features make reserves attractive, they cannot explain
+why demand surged after the GFC. Instead, the landscape for reserve demand fundamentally
+changed when the Federal Reserve began paying interest on reserve balances (IORB) in October
+2008. This decision was necessary to implement monetary policy more effectively, as paying IORB
+helped set a floor on the federal funds rate. Critically, the introduction of IORB transformed
+reserves from a non-interest-bearing operational necessity into a portfolio asset that could compete
+with other safe investments on a risk-adjusted return basis.
+Portfolio perspective.Paying interest on reserves opened up entirely new demand from a port-
+folio optimization perspective. 10 For instance, for much of 2013 to 2018, the IORB rate exceeded
+the 1-month and 3-month Treasury bill rate, as shown in Figure 3 panel (b). From a risk/return
+perspective, reserves during this period were superior to T-bills along both dimensions—they had
+lower volatility and higher expected returns. Ihrig, Kim, Vojtech and Weinbach (2018) formalize
+this intuition using portfolio theory, showing that risk-averse banks would rationally hold reserves
+well beyond regulatory requirements depending on financial market volatility and their risk toler-
+ance.
+Relative pricing dynamics.The spread between IORB and alternative short-term rates has
+become a key driver of reserve demand. When alternative rates exceed IORB, banks have strong
+incentives to shift funds out of reserves. At times in 2019 when repo rates exceeded IORB, Jamie
+Dimon, the CEO of the nation’s largest bank, suggested that it might make financial sense to move
+away from reserves to repo.
+This dynamic has played out over longer time horizons as well. Nelson (2026a) documents that
+JPMorgan Chase has reduced its reserve balances by 75 percent—approximately$300 billion—over
+the past few years as persistent shifts in market conditions have made alternative investments more
+10See Rezende, Temesvary and Zarutskie (2019) and Hendrickson (2017) for empirical evidence on how IORB
+affects reserve demand and daylight overdrafts, respectively.
+9
+===== PAGE 12 =====
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 20120
+2
+4
+6
+8
+10
+12Percent of Nominal GDP (%)
+Reserves
+Daylight Overdrafts
+2013 2014 2015 2016 2017 20180
+0.5
+1
+1.5
+2
+2.5IORR and Treasury Bill Rates (%)
+IORR
+1-Month Treasury
+3-Month Treasury
+(a) Daylight Overdrafts
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 20120
+2
+4
+6
+8
+10
+12Percent of Nominal GDP (%)
+Reserves
+Daylight Overdrafts
+2013 2014 2015 2016 2017 20180
+0.5
+1
+1.5
+2
+2.5IORR and Treasury Bill Rates (%)
+IORR
+1-Month Treasury
+3-Month Treasury (b) IORR vs T-Bill Rates
+Figure 3:Daylight Overdrafts versus Reserves and Relative Pricing Dynamics
+Note:Panel (a) shows the daylight overdrafts as a percent of GDP (blue line) along with the level of reserves as a percent of
+GDP (red line) for 2002 to 2012. In panel (b), the interest on required reserves (red line) is plotted against the 1-month and
+3-month Treasury bill rates for 2013 to 2019. IORR denotes interest on required reserves, the historical predecessor to today’s
+interest on reserve balances (IORB); the figure uses the earlier term because it refers to that historical period. Source: Federal
+Reserve Bank of St. Louis FRED: WRESBAL, IORR, DGS1MO, DGS3MO; Federal Reserve Board of Governors, “Peak and
+Average Daylight Overdrafts and Related Fees”
+attractive relative to IORB. The importance of these relative pricing dynamics has been widely
+recognized in the literature as a key driver of bank reserve demand (e.g., see Lopez-Salido and
+Vissing-Jorgensen (2025); Anderson and Na (2024); Nelson (2024)).
+Regulations.Following the GFC, banks have been subject to a number of new liquidity and
+capital regulations that have increased or otherwise influenced the demand for reserves (see Ihrig
+(2019) for a nice overview). The six main regulations that drive this dynamic are (1) the liquidity
+coverage ratio (LCR), (2) internal liquidity stress tests (ILSTs), (3) resolution plans and their
+related liquidity expectations, (4) the net stable funding ratio (NSFR), (5) the supplementary
+leverage ratio, and (6) the global systemically important bank (GSIB) surcharge.
+While we will go into more detail about each of these items in the following section, these
+regulations were designed to improve bank resiliency in the face of financial market volatility.
+Banks have responded to these regulations by holding significantly larger quantities of reserves
+than they did prior to the GFC. Reserves provide immediate liquidity in times of stress and do
+not face the stigma associated with tapping Federal Reserve lending facilities such as the discount
+window, standing repo operations, and daylight overdrafts.
+Stigma of lending facilities.Banks tend to treat the discount window as a last resort due to
+persistent stigma (see Carlson and Rose (2017)). This dynamic has recently been highlighted in
+considerations for liquidity regulation (see Bowman (2026b)). This stigma stems from multiple
+sources. The discount window has an above market rate, suggesting that banks would only use
+it if they have no other options. Further, discount window borrowing has been associated with
+10
+===== PAGE 13 =====
+previously failing banks. Finally, banks fear that discount window usage may trigger heightened
+supervisory scrutiny, signal weakness to examiners, or lead to deposit outflows, even if the borrowing
+is purely precautionary. 11 This stigma makes banks reluctant to access the window even when
+genuinely needed, leading them to hold larger precautionary reserve buffers rather than rely on the
+discount window as intended.
+This stigma discourages banks from using the discount window since their usage may be re-
+vealed through several channels. First, weekly aggregate data published by each Reserve Bank can
+allow market participants to infer which institutions are borrowing (see Kelly (2024)). Second,
+Dodd-Frank mandates disclosure of individual borrower names with a two-year lag. Even these
+delayed disclosures create concerns about future reputational damage. Third, market participants
+and counterparties may detect discount window usage through trading patterns or balance sheet
+changes, generating rumors that a bank is experiencing distress.
+The stigma of using Federal Reserve lending facilities has played a meaningful role in driving up
+demand for reserves. As previously noted, daylight overdrafts used to be a common way for banks
+to meet their intraday obligations, but now some banks view their usage as undesirable (Levy,
+2025).12 According to the latest survey conducted by the Bank Policy Institute, avoiding daylight
+overdrafts and avoiding borrowing from the discount window were among the top reasons for the
+demand of reserve balances. Stigma has also been associated with the use of the standing repo
+operations, as has been highlighted by Nelson and Parkinson (2022).
+Fragmentation.As also highlighted in ˚Aberg, Corsi, Grossmann-Wirth, Hudepohl, Mudde,
+Rosolin and Schobert (2021), during periods of market stress, financial “fragmentation”—where
+banks face unequal access to funding—drives up the demand for bank reserves. First, a ”flight to
+safety” prompts healthy banks to hoard highly secure reserve balances instead of lending them to
+other institutions. Simultaneously, distressed banks are frozen out of private interbank markets due
+to perceived risks, forcing them to borrow directly from the Fed to survive. Together, this hoard-
+ing by safe banks and emergency borrowing by vulnerable banks causes overall reserve demand to
+surge.
+Uninsured bank deposits.Acharya, Chauhan, Rajan and Steffen (2024) find that banks tend
+to offer more credit lines and uninsured deposits when the supply of reserves becomes large. With
+these new products in place, it incentivizes banks to hold even larger supplies of reserves to offset
+any potential liquidity risks associated with subsequent withdrawals. These changes in bank be-
+havior make it difficult for banks to reduce their quantity of reserves, and this issue has also been
+highlighted in Copeland, Duffie and Yang (2025).
+11See, among others, Armantier, Ghysels, Sarkar and Shrader (2015), Ennis and Klee (2025) and Anbil (2018) for
+more details.
+12Daylight overdrafts may increase the likelihood that the bank ends the day in a deficit and has to go to the
+discount window or pay a very high overnight overdraft fee.
+11
+===== PAGE 14 =====
+2.3.3 Indicators of reserve ampleness
+Understanding the binding constraint on balance sheet reduction requires examining how depository
+institutions’ demand for reserves has evolved. When the Fed initially shrinks its balance sheet, the
+ON RRP is the first liability to fall.13 Once the ON RRP declines to minimal levels, further balance
+sheet reduction directly reduces bank reserves, all else equal. The constraint emerges (along with
+the associated volatility) when reserve supply approaches the minimum level banks collectively need
+for operational, regulatory, and precautionary reasons. Afonso, Clark, Gowen, La Spada, Martinez,
+Miu and Riordan (2024), Clouse, Infante and Senyuz (2025), and Gissler, Hempel, Kahn, McCabe
+and Narajabad (2025) have highlighted a number of measures that can indicate when reserves are
+becoming relatively more scarce:
+1.Elasticity– Measures the response of EFFR to changes in reserves. 14 If this is close to zero,
+it indicates there may be room to lower reserves without affecting EFFR. See Figure 5 panel
+(a).
+2.Late Payments– Share of interbank payments settled after 5 p.m. As the share of late
+payments increases, this indicates that banks are delaying payments due to more constrained
+liquidity.15
+3.Daylight Overdrafts– Dollar value of banks’ intraday overdrafts. If this increases, it
+indicates depository institutions need to borrow more to meet liquidity needs.
+4.Share of Fed Funds Purchased by U.S. DIs– If domestic banks are borrowing more in
+the fed funds market, it could indicate they may be liquidity-constrained and seeking reserves.
+5.Share of Repo Volume at or above IORB– Repo is a close substitute to fed funds.
+Increases in the share of repo volume at or above IORB could reflect liquidity constraints of
+large bank intermediaries due to lower reserve levels.
+During the volatility of September 2019, spreads such as the EFFR-IORB and TGCR-IORB
+skyrocketed (see Figure 4). Moreover, each of the indicators listed above implied that reserve
+demand was on the downward-sloping portion of the demand curve, meaning reserves were becoming
+increasingly scarce (see Afonso, Clark, Gowen, La Spada, Martinez, Miu and Riordan (2024)).
+The end of the second quantitative tightening episode in late 2025 showed a somewhat different
+pattern. The share of repo volume at or above IORB emerged as the primary signal of tightness,
+while other measures of depository institution reserve demand showed less pronounced changes.
+The December 2025 FOMC minutes also emphasized the repo market dimension, noting that repo
+rate volatility and sensitivity to Treasury coupon issuance pointed to reserves becoming less ample.
+13The ON RRP declines first because it is the most rate sensitive liability. As the rates on other investments, such
+as Treasury repo, become more competitive, investors shift out of the ON RRP.
+14Some additional elasticity indicators can be found athttps://j-kahn.com/repoelasticity/.
+15Ferris, Rose and Tase (2025) presents a similar indicator based on a bank’s ratio of reserves to payments.
+12
+===== PAGE 15 =====
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+-0.2
+-0.15
+-0.1
+-0.05
+0
+0.05
+0.1
+0.15
+0.2
+Percentage Points
+EFFR - IORB
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+Percentage Points
+TGCR - IORB
+(a) EFFR - IORB
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+-0.2
+-0.15
+-0.1
+-0.05
+0
+0.05
+0.1
+0.15
+0.2
+Percentage Points
+EFFR - IORB
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+Percentage Points
+TGCR - IORB (b) TGCR - IORB
+Figure 4:Overnight Spreads to Interest on Reserve Balances
+Note:Panel (a) shows the spread between the effective federal funds rate (EFFR) and the interest on reserve balances (IORB).
+Panel (b) shows the spread between the Tri-Party General Collateral Rate (TGCR) and IORB. Source: Federal Reserve Bank
+of St. Louis FRED: EFFR, IORB RATE, IOER RATE, TGCRRATE
+The repo market channel.This pattern suggests, in the most recent episode, constraints in the
+repo market’s capacity to absorb Treasury securities rolling off the Fed’s balance sheet was a key
+limiting factor in how far the Fed could shrink its balance sheet (see Anbil, Anderson, Cohen and
+Ruprecht (2024)). As Treasury securities shift from the Fed to the private sector, dealers require
+more financing in the repo market to hold and intermediate these securities. This increased demand
+puts upward pressure on repo rates and amplifies their volatility (see Figure 5 panels b and c).
+When repo rates rise or become sufficiently volatile, they can transmit pressure to the fed
+funds market and push the EFFR higher, consistent with the dynamics observed last fall. That
+said, banks’ unwillingness to arbitrage elevated repo rates—even when profitable—could reflect
+underlying reserve demand, complicating the distinction between these two channels. We cannot
+conclude from repo volatility alone that the Fed’s balance sheet was unable to be reduced further.
+If precautionary demand for reserves were lower, it would allow less constrained banks to neutralize
+shocks by lending into the repo market, which would lower the level of the balance sheet at which
+repo volatility manifested.
+While distinguishing between reserve demand and intermediation bottlenecks may seem like a
+minor detail, it highlights a critical point: the potential policy changes discussed in subsequent
+sections must apply not only to depository institutions but also to bank holding companies and
+their dealer affiliates. These affiliated dealers play the dominant role in providing capacity to the
+repo market. Excluding them from policy adjustments could severely limit the effectiveness of
+broader efforts to reduce the balance sheet.
+13
+===== PAGE 16 =====
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026-2.5
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+1
+Elasticity
+95% Confidence Band
+50th Percentile
+2017 2018 2019 2020 2021 2022 2023 2024 2025 20260
+0.01
+0.02
+0.03
+0.04
+0.05
+0.06
+0.07
+0.08EFFR - IORB 15-Day Vol. (pp)
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+TGCR - IORB 15-Day Vol. (pp)
+EFFR - IORB 15-Day Vol.
+TGCR - IORB 15-Day Vol.
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026-0.4
+-0.2
+0
+0.2
+0.4
+0.6
+0.8
+1
+Spread (Percentage Points)
+SOFR 75th - SRP
+(a) Elasticity
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+1
+Elasticity
+95% Confidence Band
+50th Percentile
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+0
+0.01
+0.02
+0.03
+0.04
+0.05
+0.06
+0.07
+0.08EFFR - IORB 15-Day Vol. (pp)
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+TGCR - IORB 15-Day Vol. (pp)
+EFFR - IORB 15-Day Vol.
+TGCR - IORB 15-Day Vol.
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+-0.4
+-0.2
+0
+0.2
+0.4
+0.6
+0.8
+1
+Spread (Percentage Points)
+SOFR 75th - SRP (b) V ols. of Spreads
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+1
+Elasticity
+95% Confidence Band
+50th Percentile
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+0
+0.01
+0.02
+0.03
+0.04
+0.05
+0.06
+0.07
+0.08EFFR - IORB 15-Day Vol. (pp)
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+TGCR - IORB 15-Day Vol. (pp)
+EFFR - IORB 15-Day Vol.
+TGCR - IORB 15-Day Vol.
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+-0.4
+-0.2
+0
+0.2
+0.4
+0.6
+0.8
+1
+Spread (Percentage Points)
+SOFR 75th - SRP (c) SOFR 75th percentile - SRP
+Figure 5:Spreads with Interest on Reserve Balances
+Note:Panel (a) shows the elasticity of the federal funds rate with respect to reserve demand as estimated by FRBNY.
+Panel (b) shows the 15-day rolling standard deviation of the EFFR-IORB and TGCR-IORB spreads. Panel (c) shows the
+75th percentile of the SOFR distribution minus the SRP rate. Source: Federal Reserve Bank of New York, Reserve Demand
+Elasticity,https://newyorkfed.org/research/reserve-demand-elasticity/. Daily data on reserves and the fed funds rate
+are collected by the Federal Reserve Bank of New York; the daily interest rate on reserve balances is available from FRED
+(“IOER” and “IORB”). Panel (b): Source: Federal Reserve Bank of St. Louis FRED: EFFR, IORB, IOER, TGCR. Panel (c):
+Federal Reserve Bank of New York, SOFR 75th percentile fromhttps://www.newyorkfed.org/markets/reference-rates/sofr
+and SRP rate fromhttps://www.newyorkfed.org/markets/desk-operations/repo.
+3 Motivating a Smaller Balance Sheet
+3.1 Why Shrink the Balance Sheet?
+Reducing the Fed’s footprint.There have been many reasons proposed for shrinking the bal-
+ance sheet. First, it would reduce the Fed’s footprint in the economy. 16 By buying a large quantity
+of outstanding securities, the Fed modifies the market pricing of such securities and the availability
+of those securities in the market. Further, a large balance sheet can lead to disintermediation in
+money markets including the near disappearance of interbank markets. 17 There aren’t convincing
+arguments that money markets, with appropriate policy changes, would require a larger steady-state
+balance sheet to provide sufficient liquidity. Markets are better than central planners at allocating
+resources. Accordingly, a larger Fed footprint in markets likely leads to larger, welfare-reducing
+distortions.
+Policy space.Second, a smaller balance sheet provides more policy space in the future to expand
+the balance sheet.18 There may come a time when policy rates are again at the effective lower bound
+and the Fed needs to expand the balance sheet to avert dire outcomes. In such a contingency and
+16See Duffie et al. (2016), Bailey (2024), and Duygan-Bump and Kahn (2026) for further discussion.
+17See Kim, Martin and Nosal (2020) for a discussion of how a large Fed balance sheet reduced interbank trading.
+18For recent discussions highlighting the benefits of “policy space” see Bullard (2017), Laubach and Potter (2018)
+and Bowman (2025). Officials from other central banks such as the BIS and ECB have made similar arguments, see
+Borio (2018) and Schnabel (2023).
+14
+===== PAGE 17 =====
+given likely diminishing returns, balance sheet expansions will be more effective if they start from
+lower levels of holdings. They’ll also be politically easier. Finally, there will be a greater universe
+of securities available for purchase. Critically, this “dry powder” argument requires offsetting any
+contractionary effects of balance sheet policy with changes to interest rates; this is not an argument
+for running tighter monetary policy in the short-run.
+Maintaining the monetary-fiscal boundary.Third, it would mitigate concerns associated
+with Fed independence and firm up the boundary between monetary and fiscal policy. 19 Since the
+provision of public debt and the choice of its maturity structure is the responsibility of the fiscal
+authority and not the monetary authority, some view the Fed as stepping out of its lane when it
+begins taking steps that alter the results of those decisions. That potential interference requires, to
+an extent, cooperation with the fiscal authority, which could corrode the independence of monetary
+policy from the rest of the government. Less monetary intervention in the maturity structure of
+public debt will strengthen the wall between monetary and fiscal policy and help preserve monetary
+independence.
+Preserving neutrality across sectors.Relatedly, the purchase of mortgage-backed and other
+asset-backed securities involves the Fed in credit allocation across sectors. When housing and
+credit were the center of the GFC, there was a strong financial stability and market functioning
+argument for buying mortgage-backed and asset-backed securities. 20 But in subsequent large scale
+asset purchases, this was not the case, and the justification offered for buying mortgage-backed
+securities was largely the dual mandate. 21
+Credit was preferably injected into the housing sector relative to other sectors of the economy
+at a time when financial stability concerns in the housing sector had largely subsided, giving the
+appearance that the central bank was involved in central planning of the economy. Shrinking the
+Fed’s holdings of mortgage-backed securities would undo this credit allocation and minimize Fed-
+induced, welfare-reducing distortions. 22 For the Fed to remain nonpolitical and independent, it is
+preferable to avoid the subsidization of credit for one particular sector of the economy when there
+is little financial stability reason for doing so. Elected officials, not central banks, typically make
+such choices.
+Additionally, a smaller balance sheet will mean smaller IORB payments to banks, which some in
+Congress perceive as a subsidy to the banking system. A return to scarce reserves could eliminate
+19For some previous acknowledgments of this issue, see Allison et al. (2013), Dudley (2013), Leonard, L´ opez-Salido
+and Natalucci (2016), and Labonte (2023).
+20Non-mortgage ABS were bought in emergency facilities under section 13(3) of the Federal Reserve Act, but
+nevertheless contributed to a larger balance sheet. These no longer exist on the balance sheet, but the avoidance of
+such assets remains a general good principle. Of course, emergencies sometimes occur which justify deviation from
+this principle.
+21Market functioning played a large role in purchases in early 2020, but these concerns dissipated shortly thereafter.
+22The Fed has stated its goal to hold primarily Treasury securities in the long run and is currently reducing its
+agency mortgage-backed securities holdings by reinvesting them into Treasuries. However, this compositional shift
+will take many years to complete (see Na, Newman and Schlusche (2024)).
+15
+===== PAGE 18 =====
+the need for IORB payments altogether.
+Limiting exposure to losses.Finally, balance sheet reduction will limit the scope for losses
+for the Fed in the future. With a large balance sheet, modest deviations between the interest the
+Fed pays on reserves and the interest the Fed receives on its securities can lead to large unrealized
+losses, as they did in the aftermath of the hiking cycle which began in 2022. 23 While a central
+bank can in theory operate with an infinitely negative capital position, those losses may impugn
+the Fed’s credibility and competence in the public mind and thereby threaten its independence
+and scope for effective action. They also induce volatility in the remittance of operating profits to
+the Treasury, since those profits are delayed until the Fed recoups its losses. Volatility in profit
+remittance induces additional volatility in fiscal deficits, which has its own set of consequences.
+Indeed, operating profits may also be less frequent with a smaller balance sheet. 24
+3.2 What Does It Mean to Shrink the Balance Sheet?
+Typically, when people discuss further reductions in the balance sheet, they contemplate a return
+to scarce reserves. This of course is possible, but would require the Fed and markets to return
+to daily or near-daily open market operations, daylight overdrafts, active intervention in markets,
+and, critically, increased volatility of short rates around the Fed’s targets. Moreover, a return to
+scarce reserves may not actually accomplish much balance sheet reduction as long as the demand
+for reserves is steep and fixed by regulations at a high level; there is a chance that scarce may not
+be so far away.
+Boundaries defining ample can shift.Consistent with the view that steady-state reserve
+demand is determined in large part but not entirely by regulation and other policy choices, a
+return to scarce reserves is not the only way to resume balance sheet runoff. Modern monetary
+policy implementation is defined by the boundaries between scarce, ample and abundant reserves.
+Those boundaries can be shifted down by modifying the policy landscape, reducing demand for
+reserves.
+With appropriate regulatory and implementation adjustments, ample—or even abundant—
+reserves could support asmallerbalance sheet than the upper bound of the pre-adjustment scarce
+reserves regime. Indeed, it ought to be quite possible to meaningfully shrink the balance sheet while
+maintaining an ample reserves framework. At the same time, in the event that scarce ends up being
+not so far away after all, even a return to scarce reserves may require significant deregulatory actions
+to facilitate that transition.
+23See Anderson, Na, Schlusche and Senyuz (2022) for a discussion of what it means for the Fed to be operating
+with an unrealized loss.
+24Operating profits may also be smaller by shifting SOMA holdings toward T-Bills, which is another proposal for
+reducing exposure to losses (see Waller (2025) and Sengupta and Smith (2024)).
+16
+===== PAGE 19 =====
+Ample is a range.Separately, within the boundaries of ample, there is a range of feasible reserves
+levels. The balance sheet could also be reduced further within the ample reserves framework if the
+Fed were willing to operate at “less ample” levels within that range. On that note, scarce reserves
+also exists within a range. In other words, the relationship between reserve regimes and balance
+sheet size is far more flexible than commonly assumed.
+To repeat, we are not advocating for or against a return to scarce reserves. We are instead
+challenging the widespread assumption that further balance sheet reduction requires a return to
+scarcity. Either regime could support a smaller balance sheet based on the changes in policy we
+analyze in this study.
+3.3 How Far to Shrink the Balance Sheet?
+In a post-GFC world where the Dodd-Frank Act and post-GFC Basel standards govern the regula-
+tory framework, as a practical matter it is unlikely that the Federal Reserve will be able to return
+to a balance sheet that is 6% of GDP. 25 To satisfy the regulatory demands that respond to the
+Basel standards and Dodd-Frank, reserves will have to be more plentiful than they were before the
+GFC.
+The optimal level of the balance sheet conditional on Dodd-Frank and Basel being in place
+is a complex and important question that will appropriately be studied for years. However, two
+possible benchmarks come to mind:
+2009 benchmark.First, right after the first instance of quantitative easing in 2009, the balance
+sheet was about 15% of GDP. Possibly, this reflects a level of balance sheet that was needed to
+accommodate the liquidity requirements of the financial sector before QE2 and subsequent large-
+scale asset purchases that were performed largely for dual mandate rather than financial stability
+purposes.
+2012/2019 benchmark.Second, both in 2012 before the start of open-ended quantitative easing,
+and in 2019 after the Fed stopped shedding securities but before the pandemic, the balance sheet
+stood at roughly 17.5% of GDP. This number could reflect the liquidity needs of the banking sector
+after the scope of Dodd-Frank requirements had become clear, but would also include some of the
+“ratchet effects” due to earlier balance sheet expansions (Acharya, Chauhan, Rajan and Steffen,
+2022).
+It’s not clear that either of these is the optimal level of the balance sheet, but they may prove
+to be useful benchmarks, and either is a meaningful decline from current balance sheet levels near
+21% of GDP. Moreover, scaling the balance sheet by GDP may not be the right approach; it may
+be more appropriate to scale it by bank deposits or other measures. Debate over the optimal size
+of the balance sheet will be a fruitful subject for future research, and it is not our ambition to settle
+it in this paper.
+25Indeed, currency liabilities alone exceed this level at present.
+17
+===== PAGE 20 =====
+4 Options for Reducing the Balance Sheet
+The following subsections lay out a myriad of options for reducing the Fed’s balance sheet. Most
+of them are related to reducing equilibrium reserve demand. We discuss reducing regulatory re-
+serve demand, enhancing dealer capacity for repo, reducing supervisory demand, decreasing the
+profitability of holding reserves, increasing the attractiveness of substitutes for reserves, and de-
+creasing precautionary reserve demand. Finally, we discuss several options for reducing non-reserve
+liabilities.
+4.1 Options for Reducing Equilibrium Reserve Demand
+4.1.1 Regulatory Changes
+Regulatory requirements are a key driver of banks’ demand for reserve balances and can play a
+crucial role in determining the minimum size of the Federal Reserve’s balance sheet. Many of the
+most binding regulations were established in the immediate aftermath of the GFC, at a time when
+bank resolution frameworks were still being developed and memories of systemic failure were fresh.
+The fundamental question now is whether the right balance was struck in reducing the risk of bank
+failures and financial crises versus the costs of requiring banks to hold large HQLA balances rather
+than circulating their liquidity more broadly. With over a decade of experience and significantly
+more robust resolution tools currently in place, it seems sensible to reassess whether the crisis-era
+calibration remains appropriate.
+Striking the right balance.Economists often quip that if you never miss a flight, you’re arriving
+at the airport too early. One could apply this to banking: if there never is a bank failure, there’s
+likely been an excessive amount of regulation. On that note, the critical questions seem to be: (1)
+what’s the appropriate frequency of bank failures, and (2) are the right resolution tools in place to
+prevent individual failures from metastasizing into systemic events?
+Broader considerations of changes to regulations.Any recalibration of regulatory require-
+ments must account for impacts that extend well beyond the Fed’s balance sheet size. A regulatory
+recalibration could affect banks’ competitive position relative to non-bank lenders—particularly
+relevant given the explosive growth of private credit markets, which now exceed$1.5 trillion and
+face no comparable liquidity requirements. There are also implications for individual banks’ ability
+to navigate stress events: overly restrictive requirements could create a “use it and lose it” dynamic
+where banks are reluctant to draw down buffers even when appropriate. That said, requirements
+that are too lax may not provide adequate buffers when stress materializes, potentially necessitating
+destabilizing emergency interventions.
+From a financial stability perspective, while concentrating liquidity in reserves can create
+procyclical dynamics—with banks scrambling for reserves precisely when they’re most scarce—
+insufficient reserve buffers can generate even more severe procyclical effects through fire sales and
+18
+===== PAGE 21 =====
+credit crunches. These competing considerations highlight why calibration is so challenging: re-
+quirements must provide meaningful buffers against stress while avoiding unintended constraints
+that limit banks’ ability to deploy liquidity when most needed.
+Liquidity Coverage Ratio (LCR).The LCR is one of the more consequential drivers of reserve
+demand.26 The LCR applies to banks with more than$100 billion in assets and requires them to
+hold an amount of High-Quality Liquid Assets (HQLA) sufficient to cover their projected net
+cash outflows over a 30-day stress period. 27 This requirement is typically set at 100%, though the
+requirement is tailored down to 85% or 70% depending on the bank’s size and reliance on short-term
+wholesale funding.
+High-Quality Liquid Assets (HQLA)
+Projected 30-day Net Cash Outflow ≥100%,85%,or 70%
+As of 2025, banks subject to the LCR held$4.1 trillion in HQLA at the consolidated holding
+company level. The numerator—HQLA—consists primarily of reserve balances, Treasury securities,
+and agency MBS. 28 The denominator uses mechanical run-off rates fixed by regulation: 10% of
+uninsured retail deposits, 40% of certain wholesale deposits, 100% of unsecured wholesale funding
+maturing within 30 days, etc.
+Critically, discount window borrowing capacity is not currently included in the numerator.
+Banks must pre-fund all projected outflows with HQLA already on the balance sheet.
+Policy Option 1: Recognize Discount Window Capacity in the LCR
+One option is to allow banks to count pre-positioned discount window borrowing capacity secured
+by non-HQLA collateral (primarily loans) toward the LCR, subject to a cap. Policymakers have
+recently discussed such a framework (see Bessent (2026) and Hill (2026), as well as discussion in
+Beckworth (2026)), with industry discussions centering on a cap equal to 20% of a bank’s total
+HQLA. Given that LCR-subject banks currently hold approximately$4.1 trillion in HQLA, a 20%
+threshold would provide a theoretical maximum of$820 billion reduction in demand for reserves
+(Nelson, 2026b). Importantly, there is already more than double this amount in available discount
+window capacity (after haircuts) against loan collateral, as shown by Gorton, Ross and Ross (2025),
+26Rezende, Styczynski and Vojtech (2021) provide direct empirical evidence that LCR requirements causally affect
+demand for bank reserves. For broader discussions of the effects of liquidity regulations, see Berger and Bouwman
+(2009), Bai, Krishnamurthy and Weymuller (2018), Banerjee and Mio (2018), Roberts, Sarkar and Shachar (2018),
+Gete and Reher (2021), Macchiavelli and Pettit (2021), Gorton, Laarits and Muir (2022), Anderson and Tase (2023),
+Sundaresan and Xiao (2024), and Anderson and Tase (2024).
+27While the LCR can apply at the$100 billion threshold if certain conditions are met, most banks to which the
+LCR applies have more than$250 billion in assets.
+28Specifically, bank reserves and U.S. Treasuries qualify as Level 1 assets, which are counted at 100% of their
+value. Agency MBS generally qualify as Level 2A assets, which are subject to a 15% haircut and can comprise no
+more than 40% of the total HQLA pool.
+19
+===== PAGE 22 =====
+meaning this proposal would not require any additional pre-positioning of collateral at the discount
+window.
+The calibration of this cap doesn’t necessarily need to be static. For example, Waxman (2025)
+has proposed a dynamic cap based on actual recent usage, allowing banks to count discount win-
+dow capacity equal to some percent of their maximum borrowing over the preceding 12 months. A
+dynamic approach would theoretically incentivize regular testing, potentially every month, and nor-
+malization of the facility. Carlson and Styczynski (2025) show that pre-pledged collateral increases
+the likelihood of discount window use.
+There are many ways such a cap could be structured that would merit further discussion if it were
+pursued. Other approaches might factor in a multiple based on the amount of pre-pledged collateral
+or some other relevant consideration. In any case, by scaling the regulatory benefit directly to a
+bank’s demonstrated willingness or ability to utilize the discount window, such approaches would
+automatically adjust to market conditions while directly attacking the persistent issue of discount
+window stigma.
+Estimated effect.While the 20% static cap yields a maximum theoretical regulatory relief of
+$820 billion, the actual realized reduction in aggregate reserve demand would likely be more muted.
+Depository institutions must still hold substantial reserve balances to satisfy intraday clearing and
+settlement requirements. Moreover, banks do not meet their LCR HQLA requirement strictly with
+reserves (reserves make up roughly a third of their total HQLA). Therefore, we center our estimate
+around a third of the$820 billion in potential relief. Given these facts along with the uncertainty
+and potential binding constraints of other regulations that may go unchanged:
+- Estimated reduction in reserve demand is$50 billion to$450 billion.
+Comparison to Other Studies.The estimated reduction listed above aligns closely with previ-
+ous studies. Nicolae (2020) estimates the LCR’s introduction shifted U.S. reserve demand outward
+by 1.5% of GDP, translating to roughly$500 billion today. Similarly, Kedan and Ventula Vidal
+(2021) found the LCR increased Eurozone reserve demand by€200 billion—about 10% of the Eu-
+ropean Central Bank’s balance sheet at the time. Scaling this 10% impact to today’s Fed balance
+sheet implies a roughly$600 billion decline, consistent with our estimates.
+Policy Option 2: Recalibrate LCR Requirements During Stress Periods
+Another option is to recalibrate the minimum LCR threshold during stress periods to explicitly
+signal to bank management and market participants that liquidity buffers are designed to be drawn
+down when needed. The current LCR framework requires banks to hold enough High-Quality
+Liquid Assets (HQLA) to cover 30 days of projected outflows while maintaining a ratio above
+100%. However, because breaching this 100% floor triggers immediate supervisory scrutiny and
+20
+===== PAGE 23 =====
+intense market stigma, the required liquidity effectively becomes trapped.
+Unusable buffer.In practice, banks hold substantial management buffers—often targeting an
+LCR of 115% to 120%——in part to ensure they never approach the regulatory minimum. As
+highlighted by Macchiavelli (2026), this creates an “upside-down world” of liquidity regulation.
+Because the LCR is an unusable buffer, banks experiencing a stress event are perversely incentivized
+to fire-sell illiquid assets or hoard cash to keep their LCR artificially elevated, thereby exacerbating
+the exact financial fragility the rule was intended to prevent. 29
+Dynamically adjusting the LCR threshold lower during stress periods, including, for example
+by allowing consideration of discount window access during such periods, could incentivize banks
+to use their High-Quality Liquid Assets (HQLA) to meet outflows rather than hold them to avoid
+triggering regulatory scrutiny. To quantify the potential impact of destigmatizing LCR buffers,
+we can establish a baseline using the approximately$4.1 trillion in HQLA currently held by LCR-
+subject banks. Assuming an aggregate average LCR of 118%, the implied Net Cash Outflows (NCO)
+for these institutions sit at roughly$3.47 trillion, which translates to a management ”stigma buffer”
+of approximately$630 billion held strictly above the 100% regulatory floor.
+Estimated effect.If regulators implement a stress-period adjustment that successfully encour-
+ages bank treasurers to optimize their balance sheets and lower their internal LCR targets by 10
+percentage points (for example, from 118% to 108%), it would free up roughly$350 billion in
+HQLA. Given that reserves make up roughly a third of HQLA along with the uncertainty and
+potential binding constraints of other regulations that may go unchanged:
+- Estimated reduction in reserve demand is$50 billion to$200 billion.
+Interaction with Net Stable Funding Ratio.Note that for both policy options 1 and 2,
+simply changing the LCR could cause the Net Stable Funding Ratio (NSFR) to become the binding
+constraint. The NSFR requires banks to maintain a stable funding profile in relation to their assets
+and off-balance sheet activities over a one-year horizon, mathematically expressed as:
+Available Stable Funding (ASF)
+Required Stable Funding (RSF) ≥100%
+Reserve balances receive 0% RSF treatment (they require no stable funding) while loans require
+65-85% RSF. If banks shift their asset mix from reserves to loans to establish discount window ca-
+pacity, their NSFR denominator increases, which pushes their NSFR downward. 30 To prevent the
+29The analysis in Macchiavelli (2026) indicates that it is better to be liquid than solvent, if you cannot be both.
+30Under the U.S. implementation of the NSFR, the Available Stable Funding (ASF) numerator applies standard-
+ized weights reflecting the presumed stability of a bank’s liabilities over a one-year horizon. Regulatory capital and
+long-term debt (maturing in>1 year) receive a 100% ASF factor; stable (fully insured) retail deposits receive 95%;
+less stable retail deposits receive 90%; and short-term unsecured wholesale funding from non-financial sector counter-
+parties generally receives 50%. Crucially, short-term funding from financial sector entities or central banks—including
+21
+===== PAGE 24 =====
+NSFR from simply replacing the LCR as the binding constraint, regulators would need to adjust
+the NSFR as well, potentially by using the same approaches that were applied to the LCR.
+Policy Option 3: Reform ILST Expectations to Recognize Discount Window Capacity
+and Other Public Sector Liquidity Sources
+Although the LCR sets the public baseline for liquidity requirements, Internal Liquidity Stress
+Tests (ILSTs) are frequently cited as the primary binding constraint dictating day-to-day cash
+management. Under the ILST framework, banks are required to demonstrate sufficient liquidity to
+meet projected cash needs across overnight, 30-day, 90-day, and one-year horizons under various
+idiosyncratic stress scenarios (in contrast to the LCR’s single 30-day horizon).
+According to a recent BPI survey, bank treasurers explicitly identified ILST passage as the
+second-most important driver of reserve holdings (Nelson, Bristow and Waxman, 2026). They
+indicated that formally recognizing discount window capacity in ILSTs would significantly reduce
+their required reserve balances. To prevent LCR relief from remaining purely cosmetic, regulators
+could allow banks to explicitly project cash inflows from discount window borrowing against pre-
+positioned collateral in their internal overnight and 30-day stress scenarios, rather than limiting
+this recognition to 90-day and one-year horizons. They could also be clear that intraday credit is a
+viable source of funding during the 30-day horizon. They could also recognize public monetization
+channels as a viable means for firms to demonstrate their ability to monetize liquid assets.
+Shorter horizons dictate larger reserve buffer.Modifying the ILST framework would likely
+unlock reductions in reserve demand above and beyond LCR adjustments because internal models
+dictate a fundamentally larger baseline reserve buffer. Since these models often force banks to
+survive severe, immediate overnight shocks rather than a smoothed 30-day average, they generate
+an acute preference for immediately monetizable assets, such as bank reserves. Easing this specific
+short-horizon constraint could realistically contribute an additional 5% to 10% reduction in reserve
+demand among the largest banks, equating to roughly$50 billion to$100 billion.
+Category IV banks.Furthermore, ILST reform uniquely affects large regional banks (Category
+IV institutions with assets between$100 billion and$250 billion). These institutions are largely
+exempt from the LCR. Extending ILST relief to this cohort—which holds roughly$300 billion to
+$450 billion in aggregate reserves but lacks the massive intraday clearing constraints of the Global
+Systemically Important Banks (G-SIBs)—could structurally reduce reserve demand by an addi-
+tional$50 billion to$100 billion.
+- Estimated reduction in reserve demand from ILST reform (above and beyond
+standard discount window borrowing with a maturity of less than six months—receives a 0% ASF factor, thereby
+adding no capacity to the numerator. See Covas and Nelson (2016) for a useful overview of the NSFR.
+22
+===== PAGE 25 =====
+LCR changes):$50 billion to$200 billion.
+Policy Option 4: Revise Resolution Liquidity Requirements
+Under the Single Point of Entry (SPOE) resolution strategy, Global Systemically Important Banks
+(G-SIBs) must maintain sufficient liquidity to allow their material operating subsidiaries to continue
+to operate following the parent company’s bankruptcy. These resources must be balanced between
+being prepositioned at the subsidiary and held by the parent. However, because excess resources
+at subsidiaries cannot be used to offset needs at other subsidiaries, this structure fundamentally
+limits centralized cash management, trapping significant levels of excess reserves at the subsidiary
+level.
+Few days of discount window access.A further antagonist to this trapped cash is the Res-
+olution Liquidity Execution Need (RLEN) assumption set forth in resolution plan guidance that a
+successfully recapitalized subsidiary would lose discount window access after only a ”few days.” It
+seems difficult to rationalize why the Federal Reserve would cut off a solvent, adequately capitalized
+entity—an operational friction extensively highlighted by Nelson (2023). Regulators could revise
+RLEN to assume extended, gradually declining discount window access against pre-positioned col-
+lateral. A realistic runway might assume full access for days 1–30 post-resolution, declining to 75%
+capacity for days 31–60, 50% for days 61–90, and requiring full market funding thereafter.
+Implementing this 90-day runway could yield a highly targeted reduction in aggregate reserve
+demand among G-SIBs. By allowing these institutions to substitute centralized, pre-positioned
+loan collateral for the physical cash currently trapped at the subsidiary level, this reform could un-
+lock up to an additional 5 percent in reserve capacity, depending to what extent this is actually a
+binding constraint for banks. Because resolution requirements are distinct ”gone-concern” metrics,
+this relief could be additive to “going-concern” reforms for the LCR and ILST.
+- Estimated reduction in reserve demand from RLEN reform:$0 billion to$100
+billion.
+Enhance dealer capacity.The late 2025 episode highlighted that repo market capacity con-
+straints may have prevented further balance sheet reduction. This diagnosis suggests a targeted
+set of interventions focused on expanding dealers’ ability to intermediate in Treasury cash and
+repo markets. By increasing dealer balance sheet capacity, the private sector could absorb more
+Treasury securities as they roll off the Fed’s balance sheet, potentially enabling further quantitative
+tightening without triggering destabilizing repo rate volatility.
+Policy Option 5: SLR Relief for Dealer Intermediation
+23
+===== PAGE 26 =====
+The Supplementary Leverage Ratio (SLR) requires bank holding companies to hold capital
+against all assets, including low-risk Treasury securities. This constraint binds particularly tightly
+for dealer subsidiaries during periods of elevated Treasury supply, limiting their ability to warehouse
+securities and provide market liquidity. Alleviating this constraint increases dealers’ and banks’
+capacity to hold Treasury securities and intermediate in the repo market, which would enhance the
+smooth absorption by the private market of securities the Fed is no longer holding.
+One policy option would exempt Treasury securities from SLR calculations for bank holding
+companies and their dealer affiliates—similar to a temporary measure successfully implemented
+during the pandemic for both Treasuries and reserves. Similar relief could extend to the enhanced
+SLR (eSLR) that applies to Global Systemically Important Banks (G-SIBs). That said, the banking
+agencies’ recent amendments to the leverage requirements significantly reduced the likelihood that
+they will bind in the near term. However, over time, if these constraints were to become more
+binding, this policy would eventually have a larger effect.
+Summing up regulatory effects.To aggregate, we use Monte Carlo simulations to estimate
+an upper and lower bound of the regulatory effects based on a 95% confidence interval. Our
+estimates imply that this combination of regulatory reforms could yield a$200 billion to$900
+billion reduction in structural reserve demand, centering on a midpoint of roughly$550 billion.
+Naively summing up the minima and maxima would entail a range of$150 billion to$950 billion.
+It is crucial to note, however, that these estimates are subject to considerable uncertainty due to
+the interactive nature of liquidity regulations. Because these frameworks act somewhat as a series
+of overlapping constraints, failing to adopt the full suite of proposed policy options could severely
+limit the aggregate impact, as any unchanged rules would likely become the constraint that binds.
+4.1.2 Supervisory Changes
+Supervision, or the ways in which regulations are enforced, can also affect reserve demand behavior.
+In this subsection we explore various pathways it does so.
+Policy Option 6: Equalize Supervisory Treatment of Treasury Bills and Reserves.
+A critical, yet often uncodified, driver of outsized reserve demand is the informal supervisory
+preference for reserves. In practice, banks sometimes perceive examiners as discounting the utility
+of other Level 1 liquid assets—such as Treasury bills—in favor of bank reserves (see Nelson (2022)).
+This potential bias reflects a persistent skepticism regarding the friction of monetizing securities
+during severe stress and differences in settlement speed, alongside a lack of institutional comfort
+with the discount window as a backstop facility and the Federal Home Loan Banks (FHLBs) as
+reliable contingent funding sources.
+24
+===== PAGE 27 =====
+This approach not only reduces balance sheet efficiency but undermines the very contingency
+funding infrastructure designed to support the banking system. To resolve this, regulators could
+explicitly instruct examination teams to treat Treasury bills and reserves strictly on par in all in-
+ternal and supervisory liquidity stress exercises, granting bank treasurers the flexibility to optimize
+their portfolios without fear of examiner penalization.
+Quantifying the exact cost of uncodified practices is inherently difficult. Assuming bank trea-
+surers hold even a marginal 1 to 2 percent management buffer specifically to appease examiner
+preferences for reserves over Treasuries, this change could unlock a nontrivial amount of aggregate
+reserve demand.
+- Estimated reduction in reserve demand from supervisory equalization reform:
+$25 billion to$50 billion.
+4.1.3 Decrease Profitability of Holding Reserves
+Policy Option 7: Conducting Policy with EFFR Above IORB
+Currently, banks have little incentive to lend in the unsecured interbank market because the Ef-
+fective Federal Funds Rate (EFFR) remains below the Interest on Reserve Balances (IORB) rate.
+Banks maximize returns by borrowing in fed funds and other wholesale funding markets and then
+parking reserves at the Federal Reserve to earn IORB. If EFFR exceeded IORB, banks would
+reduce their reserve demand and the interbank market would likely revive. Interbank trading is
+currently less than 10% of the fed funds market and typically occurs at rates above IORB.
+Foreign bank arbitrage.A portion of reserve demand stems from an arbitrage exploited pri-
+marily by foreign banking organizations (FBOs), which borrow at EFFR and lend to the Federal
+Reserve at IORB, capturing a risk-free spread of several basis points. 31 Some consider this tan-
+tamount to subsidization of foreign banks with U.S. taxpayer funds: the Federal Reserve pays
+above-market rates for reserves that FBOs source from the wholesale market. Conducting policy
+with EFFR above IORB would eliminate this arbitrage and reduce associated reserve demand. 32
+To quantify how much reserve demand might decline if EFFR were to exceed IORB, we can
+look to the structural reserve demand framework developed by Lopez-Salido and Vissing-Jorgensen
+(2025).33 They derive reserve demand from a bank optimization problem where the marginal
+benefit of holding reserves equals IORB plus a convenience yield, net of marginal balance sheet
+costs. This convenience yield is modeled as a function of both the aggregate level of reserves and
+31See Anderson, Du and Schlusche (2025) and Banegas and Tase (2020) for in-depth analyses of IORB arbitrage
+and the role of foreign banks.
+32An alternative way of addressing FBO arbitrage of the spread between EFFR and IORB is simply to stop paying
+IORB on reserves held by FBOs. This would induce substitution away from reserves and toward Treasury bills on
+behalf of foreign banks. It is unclear whether such a change can be implemented under current law.
+33See Afonso, Giannone, La Spada and Williams (2022), Lagos and Navarro (2023), and Lagos and Navarro (2026)
+for additional approaches for estimating reserve demand.
+25
+===== PAGE 28 =====
+the aggregate level of liquid deposits (which dictate banks’ liquidity management and regulatory
+needs). The bank’s first-order condition for borrowing in the federal funds market yields the
+following theoretical relationship:
+EF F R=IORB+vR(Reserves,Liquid Deposits)−φ
+WherevRrepresents the marginal liquidity and regulatory value of reserves, andφrepresents the
+marginal balance sheet cost.
+Empirical estimate of demand.To estimate this empirically, the authors assume a semi-log
+functional form and account for the lower bound imposed by the Overnight Reverse Repurchase
+(ON RRP) facility. Their baseline estimation models the EFFR-IORB spread as:
+EF F R−IORB= max
+ 
+B+Cln(Reserves+ON RRP) +
+Dln(Liquid Deposits),ON RRP rate−IORB+A
+
++U
+Using weekly data through March 2025, their estimations confirm that reserve demand is highly
+sensitive to the EFFR-IORB spread and shifts outward as liquid deposits grow. Figure 6 panel (a)
+shows a robust negative relationship between the spread and reserves, which is strongly confirmed
+by the regressions.
+Updating the estimates.Fortunately, all the underlying inputs for this specification are pub-
+licly available, allowing us to update the estimation through the present day. Figure 6 panel (b)
+plots these latest estimates. Compared to the curve estimated a year ago, the updated reserve
+demand curve has shifted further to the right with the slope little changed. The rightward shift is
+highly intuitive, reflecting the continued structural increase in banks’ baseline demand for reserves
+driven by the persistent growth in liquid deposits. Meanwhile, the stability of the slope confirms
+that the recent upward pressure on the EFFR-IORB spread driven by declining aggregate reserves
+is broadly consistent with the historical elasticity estimates.
+Estimated effect.The estimates show that the level of reserves consistent with an EFFR-IORB
+spread of 2 basis points is$2.65 trillion, or about a$350 billion decline. 34 That said, the confidence
+bands are large. The potential decline ranges from$150 billion to$550 billion. 35
+342 basis points was chosen since the EFFR-IORB spread was just above this level in mid-September 2019 when
+there was significant stress in money markets. A larger spread would likely allow for even more reduction in reserve
+demand. Having an EFFR-IORB spread above zero will likely lead to more volatility in money markets. However,
+tools put in place since September 2019, such as the SRP, as well as implementing some of the proposals herein would
+likely greatly reduce the probability of an extreme event such as that of mid-September 2019.
+35Ample reserves is a range around IORB, since markets naturally fluctuate with flows and prices rarely stay
+absolutely still. EFFR trading 2 basis points above IORB does not imply a return to scarce reserves, since that is
+still close enough to be considered ample. EFFR trading meaningfully further away from IORB would.
+26
+===== PAGE 29 =====
+201020122014201620182020202220242026Date
+-20
+-15
+-10
+-5
+0
+5
+10EFFR-IOR (basis points)
+0.04
+0.06
+0.08
+0.1
+0.12
+0.14
+0.16
+0.18
+0.2
+0.22
+0.24
+(Reserves+ONRRP)/GDP
+EFFR-IOR (bps)(Reserves+ONRRP)/GDP
+(a) EFFR-IORB Spread vs Reserves
+2 bps
+1500 2000 2500 3000 3500Reserves + ON RRP (USD billion)
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20EFFR - IOR spread (basis points)
+Mar 2025  $3590B
+Mar 2026  $3013B
+LVJ (2025) (Thru Mar 2025)  LD=$16.3TUpdated Estimates (Mar 2026)  LD=$17.3T68% CI (updated) (b) Estimated EFFR-IORB Spread
+Figure 6:Spreads, Reserves, and Reserve Demand Curves
+Note:Panel (a) shows the EFFR-IORB spread (blue) in basis points from 2009 to 2026 and reserves divided by GDP (red).
+Panel (b) shows estimates of the reserve demand curves based on Lopez-Salido and Vissing-Jorgensen (2025) (blue) along with
+our updates of their estimates (red). Source: Federal Reserve Bank of St. Louis FRED: EFFR, IORB, IOER, WRESBAL,
+WREPODEL, GDP
+- Estimated reduction in reserve demand from conducting policy with a 2 bps
+EFFR-IORB spread:$150 billion to$550 billion.
+Of course, such a policy would likely involve further increases in the volatility of money markets,
+such as repo. This greater volatility could potentially offset some of the declines in reserve demand,
+instead pushing up demand due to precautionary motives. In a later section, we will highlight
+some operational policies—such as temporary open market operations (TOMOs) and changes to
+the SRP—that could mitigate this friction and support the transition. Nonetheless, a major con-
+clusion of this portion of the analysis is that even if none of the other policy options are adopted,
+the balance sheet can be meaningfully reduced if one allows a tolerance for higher overnight rates
+with more volatility.
+Policy Option 8: Tiering Reserves
+The Federal Reserve could replace its flat Interest on Reserve Balances (IORB) rate with a
+tiered schedule that penalizes excess reserves with a lower yield. 36 Provided the spread offsets the
+frictional costs of lending, tiering discourages liquidity hoarding and pushes reserve-rich banks to
+lend to constrained peers. As demonstrated in Norway, this framework can effectively stimulate
+interbank trading and enable the banking system to operate efficiently with lower aggregate reserve
+levels without sacrificing interest rate control (see Boucinha et al. (2022) for more discussion).
+36Duffie (2026) provides an excellent overview of this policy option.
+27
+===== PAGE 30 =====
+A number of complexities.Despite its theoretical appeal, transitioning to a tiered remuner-
+ation system would introduce severe operational and structural complexities. First, determining
+exactly how to set the high-tier quotas for each type of bank is fraught with challenges. Banks would
+inevitably lobby for higher, customized thresholds, arguing that their specific business models or
+risk profiles necessitate larger protected reserve buffers.
+Second, tiering could fundamentally alter the mechanics of interest rate control. If excess
+reserves are remunerated at a substantially lower penalty rate, the Effective Federal Funds Rate
+(EFFR) might clear much lower than it does today, potentially requiring the FOMC to completely
+redefine its target range or alter its target or how it communicates its policy stance.
+Finally, tiering creates cascading complications across the Fed’s other liability facilities, such as
+the Overnight Reverse Repurchase (ON RRP) facility and the foreign reverse repo pool. If the Fed
+tiers reserve remuneration for commercial banks but leaves a flat, untiered rate for money market
+funds at the ON RRP, it risks triggering massive arbitrage opportunities and shifting liquidity
+away from the banking sector. Deciding whether and how to tier these parallel facilities could
+add a daunting layer of institutional friction to an already challenging implementation. That said,
+the Fed’s current system of administered rates already offers different rates to different types of
+financial institutions, while still maintaining adequate rate control.
+4.1.4 Increase Attractiveness of Substitutes for Reserves
+Another way of reducing aggregate reserve demand is to enhance the attractiveness of close substi-
+tutes for reserves, inducing substitution by reserve holders into other assets.
+Policy Option 9: Expand Access to FIMA repo facility
+On the international front, the Federal Reserve could significantly expand the Foreign and
+International Monetary Authorities (FIMA) repo facility. Access could be broadened beyond tradi-
+tional central banks to include sovereign wealth funds and a flexibly defined set of quasi-sovereign
+or public entities.
+To make the facility more practically useful, the Fed could extend the operation term to 84
+days and boost counterparty limits, while simultaneously implementing higher collateral haircuts
+to ensure strict credit and taxpayer protection. By guaranteeing that longer-duration Treasuries
+can be instantly converted to reserves in times of stress, this expansion could prevent disruptive fire
+sales. A side effect of improving the convenience yield of long-duration Treasuries could incentivize
+holders of massive global capital pools to increase their allocations, structurally reinforcing U.S.
+dollar dominance and U.S. reserve currency status. Making Treasuries more liquid will make them
+more attractive assets.
+Another benefit of expanding FIMA could involve reducing foreign repo pool usage (see Alquist,
+Kahn and Stedman (2025)). On the other hand, such a change may induce a larger Fed balance
+28
+===== PAGE 31 =====
+sheet during stress periods since there will be more uptake of these facilities.
+Policy Option 10: Address FBO Reserve Demand with Swap Lines and Foreign
+Regulator Coordination
+Policy coordination may be required to address the precautionary demand for reserves by Foreign
+Banking Organizations (FBOs). U.S. authorities could work closely with foreign regulators to align
+supervisory expectations, explicitly incentivizing FBOs to rely on Treasury bills rather than Fed
+reserves for their liquidity buffers. Because FBO precautionary reserve demand is largely driven
+by a fear of losing access to dollar funding during crisis events, policymakers could alleviate this
+anxiety directly.37
+The Federal Reserve could publicly and unequivocally commit to the permanence and longevity
+of the central bank liquidity swap lines. Reassuring foreign institutions that emergency dollar liq-
+uidity will be readily available when needed reduces their structural incentive to demand reserves
+during normal market conditions. Given that foreign banks hold close to$1 trillion in reserves, the
+above policies could potentially reduce reserve demand by up to 20%. 38
+- Estimated effect of the above policy options:$25 billion to$200 billion
+4.1.5 Decrease Precautionary Reserve Holdings
+As previously mentioned, banks hold reserves for precautionary reasons, self-insuring against states
+of the world in which their reserves fall below required levels. Precautionary holdings can be affected
+by changing the frequency or severity of shocks to reserve supply or demand.
+Smoothing Predictable Volatility with TOMOs.Targeted temporary open market oper-
+ations (TOMOs) could smooth predictable repo rate spikes around high-pressure days, reducing
+both market stress and the need for banks to hoard precautionary cash. 39 This would likely only
+be necessary if SRPs were not regularly used as intended.
+SRP Enhancements.The SRP provides a natural ceiling for repo rates by allowing eligible
+counterparties to borrow reserves against Treasury and agency securities collateral. Andolfatto
+and Ihrig (2019) document that this can reduce demand for reserves. However, operational con-
+straints and persistent stigma limit its effectiveness.
+37FBOs also hold significant reserves due to IORB arbitrage. Anderson, Du and Schlusche (2025) show that FBOs
+reduce reserves in response to a wholesale funding shock, suggesting that these reserves are held for arbitrage rather
+than as a liquidity buffer. Policy Option 7 of conducting policy with EFFR above IORB would reduce this demand.
+38This estimated reserve reduction amount is not the same necessarily as the US Treasury increase that would
+occur. US Treasuries holdings may increase by more than reserves are reduced.
+39Relatedly, some of the regulatory policy options above would reduce window dressing and therefore ameliorate
+the rate pressures seen on these days as well so there would be less volatility for the Fed to smooth via TOMOs.
+29
+===== PAGE 32 =====
+Policy Option 11 (a): Using Communication to Reduce Stigma of SRP
+Perhaps most importantly, clear communication from the Federal Reserve that the SRP repre-
+sents a routine liquidity tool—rather than an emergency lifeline—is essential to reduce stigma and
+improve transmission to broader repo markets. The December 2025 changes—changing the name
+from “standing repo facility” to “standing repo operations” and removing the aggregate cap—went
+a step in this direction, but more could be done. This public messaging should be directly rein-
+forced by supervisory guidance, making it clear that regulators and examiners view regular SRP
+borrowing as a sign of healthy, active liquidity management.
+Reducing stigma of other Fed facilities.Relatedly, as discussed above, the discount window
+and daylight overdrafts are also subject to stigma. While the Fed took some steps in 2020 to reduce
+the stigma of the discount window, continued communications and improvements could further en-
+courage routine use of these facilities for liquidity management. Other policies listed here, such as
+including borrowing capacity from Fed liquidity facilities in the LCR and ILST, may also help with
+reducing the stigma.
+Policy Option 11 (b): Extending the SRP Borrowing Window and Central Clearing
+Extending the SRP borrowing window to permit more frequent access would allow dealers to
+manage unexpected intraday volatility more flexibly. Central clearing of SRP transactions would
+enable dealers to net these borrowings against other positions, effectively expanding intermediation
+capacity without increasing gross balance sheet footprints. Although central clearing has down-
+sides, such as introducing a single point of failure, this could be mitigated by requiring multiple
+clearinghouses.
+While the precise impact is difficult to model, the late October 2025 episode—where dealers
+drew just$50 billion from the SRP despite$750 billion clearing above its rate—highlights the cost
+of trapped intermediation capacity. Following the December 2025 changes, SRP usage at the 2025
+year-end reached$75 billion and repo rate pressures were lower, suggesting some improvement.
+Destigmatizing the SRP would unlock this capacity, allowing the Fed to rely on an elastic market
+backstop rather than a massive static reserve buffer to absorb liquidity shocks.
+Policy Option 12: Sterilize TGA Fluctuations with T-Bills
+Another driver of precautionary reserve demand is fluctuations in reserves due to the Treasury
+General Account (TGA). The TGA can vary significantly, especially during debt limit episodes and
+tax season. In recent periods, the TGA typically has been around$800 billion with peaks of up to
+30
+===== PAGE 33 =====
+$1 trillion. All else equal, an increase in the TGA leads to a corresponding decrease in reserves. To
+reduce or eliminate these fluctuations, the Fed could back the TGA by Treasury bills, an approach
+explored by Vissing-Jorgensen (2025) and Vissing-Jorgensen (2026). She estimates that backing
+the full TGA with Treasury bills could reduce precautionary reserve demand by approximately
+$400 billion based on post-pandemic dynamics.
+We also employ an alternative methodology that isolates the effect of TGA volatility. Specifi-
+cally, we extend the EFFR-IORB spread regression framework of Lopez-Salido and Vissing-Jorgensen
+(2025) by incorporating a measure of weekly realized TGA flow volatility. We find the coefficient
+on TGA volatility is economically meaningful and statistically significant, implying that fully stabi-
+lizing TGA fluctuations could reduce precautionary reserve demand by approximately$75 billion.
+The magnitude of the effect of this policy would depend on whether the entire TGA is backed
+by Treasury bills, as in Vissing-Jorgensen (2026), or only fluctuations, as in our analysis. To deter-
+mine our estimated range, we account for a complementary policy considered below under Policy
+Option 14: reducing the TGA buffer from 5 days to 2 days, which would effectively halve the TGA’s
+size. Since sterilization benefits tend to scale with TGA size, we set our upper bound at half of
+Vissing-Jorgensen’s$400 billion estimate ($200 billion). We set our lower bound near our$75 bil-
+lion volatility-based estimate, adjusted to$50 billion to reflect implementation uncertainty. If this
+option is undertaken in isolation without option 14, it could yield the full$400 billion estimated
+by Vissing-Jorgensen.
+- Estimated effect of the above policy options:$50 billion to$200 billion
+Of course, such a policy may have countervailing implications for the relationship between the
+Federal Reserve and the Treasury Department that would need to be evaluated in considering this
+option.
+Policy Option 13: Implement a Liquidity Savings Mechanism for Fedwire
+As emphasized in Duffie (2026), the Federal Reserve could reduce reserve demand through an
+upgrade to the payment system. Augmenting Fedwire with a Liquidity Savings Mechanism (LSM)
+would allow banks to queue non-urgent payments.40 Advanced algorithms would then continuously
+scan this queue to bilaterally or multilaterally net these outgoing transfers against incoming flows.
+By systematically offsetting these transactions, an LSM enables banks to settle large volumes
+using only a fraction of their pre-loaded reserves. This directly mitigates the coordination failures
+that cause banks to defensively delay payments and hoard liquidity. Norman (2010) finds that the
+introduction of such a system reduced liquidity buffers by 20% in South Korea and 15% in Japan.
+Davey and Gray (2014) find a 20% reduction in the UK.
+40Destigmatizing the discount window and intraday credit might conceivably have a similar impact, but these
+options could be more costly for banks to pursue.
+31
+===== PAGE 34 =====
+Estimated effect.According to Alexandrova-Kabadjova et al. (2023), the U.S. Fedwire system
+collectively used an average of$630 billion of liquidity every business day for payment obligations
+from 2008 to 2018. Given this level, a 15 to 20% efficiency gain could imply a meaningful decrease
+in bank liquidity buffers.
+- Estimated reduction in reserve demand of upgraded payment system:$100 billion
+to$125 billion.
+4.2 Options for Reducing Liabilities Outside the Domestic Banking System
+The Treasury General Account (TGA) at the Federal Reserve represents a meaningful portion of
+the Fed’s balance sheet, currently accounting for around$800 billion or almost 15 percent of to-
+tal liabilities. One policy option to facilitate balance sheet reduction involves reconsidering where
+Treasury maintains its cash balances. The question is not whether Treasury should hold substantial
+liquidity reserves, but rather whether all of these balances need to reside at the Federal Reserve.
+To be clear, these decisions would need to be taken by the Treasury Department, as they are not
+the Fed’s to make.
+Policy Option 14: Reforms to Treasury General Account (TGA) Management
+An alternative would involve shifting a portion of the TGA back to commercial banks—
+effectively reviving a modernized version of the historical Treasury Tax and Loan (TT&L) program
+(see Santoro (2012), Huther, Pettit and Wilkinson (2019), and Nelson (2019) for discussion of the
+TT&L). See Figure 7 for the historical size of the TGA and TT&L. This arrangement would offer
+several systemic benefits: the Treasury could earn a return on these deposits, banks would gain a
+source of funding, and the Treasury would re-establish stronger operational relationships with the
+banking sector. From a central banking perspective, shifting TGA balances to commercial banks
+would likely allow the Federal Reserve to shrink its total asset footprint and shrink the volatility
+of reserves. However, these additional Treasury deposits held at banks would also likely increase
+bank demand for reserves, so the reduction would be less than one-for-one.
+The extent of this shift would require careful calibration. One approach would be to reduce the
+Treasury’s buffer at the Fed from its current target of approximately five days of operating needs—a
+policy adopted in the wake of Hurricane Sandy—to a smaller two-day buffer, with the remainder
+placed at commercial banks. This would roughly halve the TGA at the Fed while maintaining the
+Treasury’s overall liquidity position. Given that the reduction may not translate into a one-for-
+one reduction in the balance sheet due to the additional deposits at banks and associated reserve
+demand, we estimate a lower bound effect at half of the overall decline in the TGA.
+Obviously, any decisions on this subject will ultimately be the Treasury Department’s to make.
+32
+===== PAGE 35 =====
+2005 2010 2015 2020 2025
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000Billions of USD
+Treasury General Account
+Treasury Tax and Loan Note Accounts
+2005 2010 2015 2020 2025
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9Percent of GDP
+Treasury General Account
+Treasury Tax and Loan Note Accounts
+(a) TGA and TT&L (Billions of USD)
+2005 2010 2015 2020 2025
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000Billions of USD
+Treasury General Account
+Treasury Tax and Loan Note Accounts
+2005 2010 2015 2020 2025
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9Percent of GDP
+Treasury General Account
+Treasury Tax and Loan Note Accounts (b) TGA and TT&L (Percent of GDP)
+Figure 7:Treasury General Account and TT&L Accounts
+Note:Panel (a) shows the Treasury General Account balance (blue) and the balances in the Treasury Tax and Loan Note
+Accounts (red). Panel (b) shows the equivalent balances as a percent of nominal GDP. Source: U.S. Treasury, Daily Treasury
+Statement, Items: “Treasury General Account” (post-October, 2021), “Federal Reserve Account” (pre-October, 2021), “Tax
+and Loan Note Accounts (Table V)”; FRED: GDP
+- Estimated reduction in balance sheet size:$200 billion to$400 billion.
+However, this approach presents operational challenges for the receiving institutions. TGA
+balances fluctuate significantly—particularly around quarterly tax payment dates and Treasury
+auction settlements—creating substantial volatility in bank deposits. Banks would need to actively
+manage these chunky, unpredictable deposit swings, which could complicate their internal liquidity
+and balance sheet planning, and correspondingly increase their reserve demand.
+One way to partially address this friction is for the Fed to engage in temporary open market
+operations (TOMOs) to sterilize TGA volatility with T-bill purchases. We discuss this specific
+operational mechanism in an earlier section of this paper. Alternatively, Treasury could manage
+that chunky volatility out of the TGA balance left with the Fed, rather than that in the refreshed
+TT&L banks.
+Policy Option 15: Discourage Use of the Foreign Reverse Repo Pool
+Other significant liabilities on the Fed’s balance sheet include the ON RRP and the foreign
+reverse repo (RP) pool. Both allow eligible counterparties—money funds, FHLBs, and other do-
+mestic financial institutions in the case of the ON RRP and foreign central banks in the case of
+the foreign reverse repo pool—to park cash at the Fed collateralized by Treasury securities. As
+seen in Figure 8, the ON RRP reduced from about$2 trillion to close to zero between 2022 and
+33
+===== PAGE 36 =====
+2010 2015 2020 20250
+500
+1000
+1500
+2000
+2500Billions of USD
+Foreign Reverse Repo Pool
+ON RRP
+2010 2015 2020 20250
+1
+2
+3
+4
+5
+6
+7
+8
+9Percent of GDP
+Foreign Reverse Repo Pool
+ON RRP
+(a) F oreign Reverse Repo Pool and ON RRP
+(Billions of USD)
+2010 2015 2020 20250
+500
+1000
+1500
+2000
+2500Billions of USD
+Foreign Reverse Repo Pool
+ON RRP
+2010 2015 2020 20250
+1
+2
+3
+4
+5
+6
+7
+8
+9Percent of GDP
+Foreign Reverse Repo Pool
+ON RRP
+(b) F oreign Reverse Repo Pool and ON RRP
+(Percent of GDP)
+Figure 8:Foreign Reverse Repo Pool and ON RRP Balances
+Note:Panel (a) shows the foreign repo pool and ON RRP balances in billions of US dollars. Panel (b) shows the same series
+as percent of GDP. Source: Federal Reserve Bank of St. Louis FRED: WREPOFOR, WREPODEL, GDP.
+2025 as repo rates and Treasury bill issuance increased, giving ON RRP investors more attractive
+alternatives.41
+The foreign reverse repo pool, on the other hand, has remained stable at around$300 to$400
+billion over the last several years (see Figure 8). Foreign central banks typically use this as a store
+of dollar liquidity. The Fed could discourage its use by reducing the interest rate it pays (although
+it is already below the ON RRP rate), capping usage, or otherwise making the pool less attractive
+relative to Treasury bills or other alternative investments. 42
+- Estimated reduction in balance sheet size:$0 billion to$100 billion.
+5 Adding It All Up
+The preceding analysis examined 15 policy options. The table below summarizes the estimated
+effects, showing the minimum, midpoint, and maximum for each option. These estimates carry
+considerable uncertainty, which likely compounds when aggregating across policies. Moreover,
+these effects may not be strictly additive, as interactions between policies could either amplify or
+offset individual impacts.
+41The surge and subsequent decline in ON RRP take-up over the last several years indicates the success of the
+design of these operations. The ON RRP absorbed excess liquidity that banks did not want to hold when reserves
+were abundant. But then as the Fed shrank its balance sheet, the ON RRP naturally drained as other market
+investments became more attractive.
+42Part of the increase in usage over the last decade or so was a result of Fed changes in 2015 that made the
+pool more attractive including reduced constraints on use. See the Federal Reserve Bank of New Yorks’s 2015 OMO
+Report for more detailshttps://www.newyorkfed.org/medialibrary/media/markets/omo/omo2015-pdf.pdf.
+34
+===== PAGE 37 =====
+Frameworks for policy analysis.To address compounding uncertainties and policy interac-
+tions, we follow established best practices outlined in OMB Circulars A-4 and A-94, and the GAO’s
+Cost Estimating and Assessment Guide (GAO-20-195G). These guidelines are used extensively
+across federal agencies to ensure analytical rigor when evaluating complex policy portfolios. 43
+These frameworks recommend formal probabilistic modeling, specifically Monte Carlo simu-
+lation, to aggregate effects. Rather than deterministically adding point estimates, this approach
+simulates thousands of scenarios using probability distributions to generate expected values and
+plausible confidence intervals. Crucially, this prevents the statistical trap of naively summing the
+maxima, which would imply the extreme upper bound occurs simultaneously for all of the options.44
+Assume uniform distributions for ranges.Given the high baseline uncertainty, we assume
+continuous uniform distributions for each policy range, though sensitivity testing confirms the
+aggregated results are robust to an assumption of normality. Finally, we incorporate a degree of
+positive dependence (correlation) among the regulatory policies. This reflects the possibility that
+these policy shifts would likely occur concurrently and ensures we do not artificially understate the
+width of the aggregate confidence intervals.
+Table 3 organizes the policy effects into two categories: policies affecting reserve demand and
+policies affecting other balance sheet liabilities. The first panel shows the estimated reduction
+in reserve demand. Based on our Monte Carlo simulations, these policies would reduce reserve
+demand by approximately$1.3 trillion, with a 95% confidence interval of$825 billion to$1.75
+trillion. In the context of a balance sheet currently holding$3 trillion in reserves, this represents a
+substantial reduction. Based on the midpoint estimate, approximately$1.7 trillion in reserves would
+remain—still considerably elevated relative to pre-Global Financial Crisis levels, when reserves
+averaged under$50 billion, but more aligned with post-2020 norms when reserve demand appears
+structurally higher due to regulatory and operational changes.
+The second panel shows the estimated effects of policies targeting non-reserve liabilities. Specif-
+ically, recalibrating the Treasury General Account management (Policy 14) and reducing use of the
+Foreign Repo Pool (Policy 15). Together, these policies would contribute an additional reduction
+of approximately$350 billion to the overall balance sheet.
+Adding it all up.Combining all policies, our Monte Carlo simulations indicate a total balance
+sheet reduction of$1.2 to$2.1 trillion (95% confidence interval). Given the current balance sheet of
+$6.6 trillion (21% of GDP), this range would bring the balance sheet closer to levels observed during
+the 2009 (15% of GDP) and 2012/2019 (17.5% of GDP) periods that we previously mentioned. The
+43Specific instructions on probabilistic modeling, Monte Carlo simulations, and avoiding the naive summation of
+ranges can be found in OMB Circular A-4, Section 11; OMB Circular A-94, Section 9; and GAO-20-195G, Chapter
+12. For an example of how these guidelines are operationalized, see Baxter, Raich and Dillon-Merrill (2021). Special
+thanks to Aaron Kearsley for directing us to these sources.
+44If evaluated as independent events, the probability of all the options landing in the top 10 percent of their
+respective ranges is 1 in 100 billion (10 11), which is why we do not focus on the na¨ ıve sums.
+35
+===== PAGE 38 =====
+Policy Options Min Mid Max
+1Recognize Discount Window Capacity in the LCR50 250 450
+2Recalibrate LCR Requirements During Stress Periods50 125 200
+3Reform ILST Expectations to Recognize DW Capacity50 125 200
+4Revise Resolution Liquidity Requirements0 50 100
+5SLR Relief for Dealer Intermediation– – –
+6Equalize Supervisory T reatment of T reasury Bills and Reserves25 38 50
+7Conducting Policy with EFFR Above IORB150 350 550
+8Tiering Reserves – – –
+9Expand Access to FIMA Repo F acility25 112 200
+10Address FBO Reserve Demand w Swap Lines, F oreign Reg. Coord.– – –
+11aUsing Communication to Reduce Stigma of SRP– – –
+11bExtending the SRP Borrowing Window and Central Clearing– – –
+12Sterilize TGA Fluctuations with T-Bills50 125 200
+13Implement a Liquidity Savings Mechanism for F edwire100 112 125
+Total Reduction in Reserve Demand (Na¨ ıve Sum) 500 1287 2075
+T otal Reduction in Reserve Demand (Monte Carlo Simulation Based) 825 1287 1750
+14Recalibrate T reasury General Account (TGA) Management200 300 400
+15Discourage Use of the F oreign Reverse Repo Pool0 50 100
+Total Estimated Reduction of Balance Sheet (Na¨ ıve Sum) 700 1637 2575
+T otal Estimated Reduction of Balance Sheet (Monte Carlo Simulation Based) 1150 1637 2125
+Table 3:Policy Options and Estimated Effects
+Note:Estimates are in billions of dollars. Options with no numerical estimates reflect combinations with other
+options or were unable to be estimated with sufficient precision. The totals are computed based on Monte Carlo
+simulations of 1,000,000 draws and follow the standards set forth by OMB Circular A-4. The minimum of the totals
+reflects the 2.5 th percentile and the maximum of the totals reflects the 97.5 th percentile.
+midpoint of our estimated range, around$1.65 trillion, would position the balance sheet at 16% of
+GDP, within the 15-17.5% of GDP range observed during those periods.
+It is important to note that these ranges reflect the capacity to reduce the balance sheet by
+shifting down the range that characterizes ample reserves; further reductions would be possible
+with a return to scarce reserves.
+36
+===== PAGE 39 =====
+6 Making Sure the Financial System Can Absorb Securities the
+Fed Sheds
+If securities mature off the Fed’s balance sheet and are reissued, the public will have to absorb
+the reissues. Therefore, it makes sense to take additional steps to make it easier for the public to
+absorb securities shed from the Fed’s balance sheet.
+First, it will be important for the Fed to go slowly. The most obvious thing to do is not
+overwhelm the market with more securities than it can absorb in a short period of time. That
+means not going materially faster than previous rates of balance sheet reduction, and also avoiding
+asset sales as opposed to allowing maturing securities to roll off. Going slowly may also increase
+the likelihood that banks feel comfortable operating with lower levels of reserves which would in
+turn allow greater reductions in reserve supply.
+Second, there are regulatory constraints that can be eased to expand the volume of Treasury
+securities banks can hold. Changes to the G-SIB surcharge to better accommodate Treasury se-
+curities and repo transactions that are secured by them could allow greater engagement by the
+largest banks. In addition, Miran (2025) proposed removing Treasury securities from the denomi-
+nator in calculations of the supplementary leverage ratio and the enhanced supplementary leverage
+ratio, actions that would allow banks to absorb additional Treasuries with reduced regulatory or
+balance sheet cost. That said, the banking agencies’ recent amendments to the leverage require-
+ments significantly reduced the likelihood that they will bind in the near term. Over time, if these
+constraints were to become more binding, this policy would eventually have a larger effect. Such
+an action, combined with shedding securities, would signal to markets that the Fed will not allow
+balance sheet reduction to cause unwanted tightening of financial conditions. Proactively removing
+constraints before they bind can be a powerful signal.
+Third, finalizing central clearing of Treasury repo will also help. Centralized clearing allows
+banks to net across counterparties, which can often reduce their net exposure that must be capital-
+ized against. Central clearing may have some drawbacks that will have to be weighed or, if possible,
+ameliorated. For instance, concerns that central clearing introduces a single point of failure vul-
+nerability can be mitigated by ensuring central clearing only begins with multiple clearinghouses
+participating.
+Fourth, some of the policy options described above will help the market absorb securities by
+making Treasury securities more attractive. For instance, SRP enhancements or the FIMA ex-
+pansion will improve the liquidity characteristics of Treasuries for some investors, making them
+marginally more attractive.
+Finally, Bowman (2026a) has suggested a variety of means to make it easier for banks to
+participate in the mortgage market. Further reforms to help banks absorb the increased mortgage
+risk supplied to the public could allow greater balance sheet reduction.
+37
+===== PAGE 40 =====
+7 Implications for Monetary Policy
+Many of these options will have consequences for the stance of monetary policy. It is difficult to
+analyze them without concrete details about what implementation might look like, but we will
+offer some general comments about interactions between bank regulations and monetary policy
+that may or may not apply to each specific measure. Generally speaking, bank deregulation that
+eases the supply of credit will result in additional credit growth. That credit growth will boost
+actual economic activity in the short run relative to economic potential, creating a positive output
+gap that, all else equal, requires tighter monetary policy to offset.
+At the same time, permanently increasing the supply of credit will weigh on the so-called neutral
+rate of monetary policy, the rate that is neither stimulative nor accommodative. This is because
+the neutral rate is the outcome of equilibrium in the market for loanable funds in the long run, and
+steps to permanently ease credit supply will, all else equal, reduce the equilibrium interest rate on
+loanable funds in the long run. The net effect of these two forces is ambiguous and will depend on
+many other factors.
+However, there are some policy options above that, unlike general bank deregulation, have
+unambiguous effects. For instance, expanding FIMA access is likely to make Treasury securities
+more attractive and draw loanable funds into the American financial system and economy. New
+international flows into dollar-denominated savings unambiguously imply a reduction in the neutral
+rate which would appropriately be offset by lower policy rates, though whether the magnitude would
+end up being meaningful is an open question.
+Moreover, the course of balance sheet reduction may itself have implications for the stance
+of monetary policy as the money supply shrinks and the amount of duration risk that has to be
+absorbed by the public increases. All else equal, balance sheet reduction tightens the stance of
+monetary policy and, so long as the fed funds rate is not constrained by the zero lower bound, war-
+rants lower policy rates to offset. However, these implications will depend on which—if any—steps
+outlined in this paper are taken, and their magnitude will depend on the speed at which the Fed’s
+balance sheet declines. 45
+8 Conclusion
+There are a variety of means for further reducing the Fed’s balance sheet. If reserve demand and
+not just supply can be affected by policy choices, then those choices can open the door to a smaller
+Federal Reserve footprint. If it so desired, the Federal Reserve could return to a scarce reserves
+operating framework, or it could retain an ample reserves framework while taking steps to lower
+45There remain many open questions about the role of the money supply in a system of administered rates. By
+contrast, a return to scarce reserves would restore the money supply to the center of monetary policy. Even in an
+environment of administered rates, some studies, such as Belongia and Ireland (2015), conclude that interest rates do
+not offer a full picture of the stance of monetary policy. A decline in the balance sheet may hence imply a contraction
+of money supply affecting the stance of monetary policy above and beyond the setting of administered rates.
+38
+===== PAGE 41 =====
+the boundaries that separate ample from scarce and by operating in the lower part of the ample
+range, i.e. “less ample.” Even a choice to return to scarce reserves will likely require some of the
+steps described in this paper to facilitate that transition.
+A combination of steps to reduce demand for reserves, make alternatives to reserves more
+attractive, and increase the market’s capacity to absorb securities, can yield significant reductions.
+Summing up the ranges we estimate, it should plausibly be possible to shrink the balance sheet
+by$1.2 to$2.1 trillion, if all these steps were ultimately implemented. These numbers reflect a
+reduction in the zone that characterizes ample reserves; further reductions could be accomplished
+by returning to scarce reserves.
+While many of these policy options will allow reduction of the Fed’s balance sheet, we acknowl-
+edge that they may raise the risk of greater Fed exposures as backstops are utilized during tail
+events. Therefore, a deeper analysis of the trade-offs implied by the given mix of policy options
+that might be chosen is necessary before policymakers take action.
+Shrinking the balance sheet, if it is undertaken, will take time to implement. There will first have
+to be a great deal of research, planning, structuring and rulemaking before any commencement.
+The combination of such activity is likely to take at least a year and quite possibly several. And
+even upon commencement, there are strong reasons for going slowly so as not to overwhelm the
+market with more securities than it can absorb, and taking additional steps to ease the market’s
+absorption of securities.
+References
+˚Aberg, Pontus, Marco Corsi, Vincent Grossmann-Wirth, Tom Hudepohl, Yvo Mudde, Tiziana
+Rosolin, and Franziska Schobert (2021) “Demand for Central Bank Reserves and Monetary Pol-
+icy Implementation Frameworks: The Case of the Eurosystem,” Occasional Paper Series 282,
+European Central Bank,https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op282 ~6017392
+312.en.pdf.
+Acharya, Viral V., Rahul S. Chauhan, Raghuram G. Rajan, and Sascha Steffen (2022) “Liquidity
+Dependence: Why Shrinking Central Bank Balance Sheets Is an Uphill Task,” inReassessing
+Constraints on the Economy and Policy: Proceedings of the Jackson Hole Economic Policy Sym-
+posium: Federal Reserve Bank of Kansas City,https://www.kansascityfed.org/Jackson%20
+Hole/documents/9666/JH2022_Acharya.pdf.
+(2024) “Liquidity Dependence and the Waxing and Waning of Central Bank Balance
+Sheets,” NBER Working Paper 31050, National Bureau of Economic Research, 10.3386/w31050.
+Afonso, Gara, Marco Cipriani, Adam Copeland, Anna Kovner, Gabriele La Spada, and Antoine
+Martin (2021) “The Market Events of Mid-September 2019,”Economic Policy Review, 27 (2),
+1–26,https://www.newyorkfed.org/medialibrary/media/research/epr/2021/epr_2021_m
+arket-events_afonso.pdf.
+39
+===== PAGE 42 =====
+Afonso, Gara, K. Clark, B. Gowen, Gabriele La Spada, J. C. Martinez, J. Miu, and W. Riordan
+(2024) “A New Set of Indicators of Reserve Ampleness,” Liberty Street Economics, Federal
+Reserve Bank of New York,https://libertystreeteconomics.newyorkfed.org/2024/08/
+a-new-set-of-indicators-of-reserve-ampleness/.
+Afonso, Gara, Domenico Giannone, Gabriele La Spada, and John C. Williams (2022) “Scarce,
+Abundant, or Ample? A Time-Varying Model of the Reserve Demand Curve,” Staff Reports
+1019, Federal Reserve Bank of New York,https://www.newyorkfed.org/research/staff_re
+ports/sr1019.html, Revised November 2025.
+Afonso, Gara, Kyungmin Kim, Antoine Martin, Ed Nosal, Simon Potter, and Sam Schulhofer-
+Wohl (2020) “Monetary Policy Implementation with an Ample Supply of Reserves,” Finance
+and Economics Discussion Series 2020-020, Board of Governors of the Federal Reserve System,
+10.17016/FEDS.2020.020.
+Afonso, Gara and Ricardo Lagos (2015) “Trade Dynamics in the Market for Federal Funds,”Econo-
+metrica, 83 (1), 263–313, 10.3982/ECTA10586.
+Alexandrova-Kabadjova, B., A. Badev, S. Benchimol Bastos et al. (2023) “Intraday Liquidity
+Around the World,” BIS Working Papers 1089, Bank for International Settlements,https:
+//www.bis.org/publ/work1089.htm.
+Allison, Sophia, Seth Carpenter, Jim Clouse et al. (2013) “Alternatives for Federal Reserve Remit-
+tance Policy,” Memo to the Federal Open Market Committee, Board of Governors of the Federal
+Reserve System,https://www.federalreserve.gov/monetarypolicy/files/FOMC20130308
+memo08.pdf.
+Alquist, Ron, R Jay Kahn, and Karlye Dilts Stedman (2025) “Central banker to the world: For-
+eign reserve management and US money market liquidity,”Journal of International Economics,
+104203.
+Anbil, Sriya (2018) “Managing stigma during a financial crisis,”Journal of Financial Economics,
+130 (1), 166–181, https://doi.org/10.1016/j.jfineco.2017.05.014.
+Anbil, Sriya, Alyssa G. Anderson, E. Cohen, and R. Ruprecht (2024) “Stop Believing in Reserves,”
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4834559, SSRN Working Paper.
+Anbil, Sriya, Alyssa G. Anderson, and Zeynep Senyuz (2020) “What Happened in Money Markets
+in September 2019,” FEDS Notes, Board of Governors of the Federal Reserve System,https:
+//www.federalreserve.gov/econres/notes/feds-notes/what-happened-in-money-marke
+ts-in-september-2019-20200227.htm.
+Anderson, Alyssa G., Wenxin Du, and Bernd Schlusche (2025) “Arbitrage capital of global banks,”
+The Journal of Finance, 80 (5), 2591–2638.
+40
+===== PAGE 43 =====
+Anderson, Alyssa G. and Dave Na (2024) “The Recent Evolution of the Federal Funds Market and
+Its Dynamics during Reductions of the Federal Reserve’s Balance Sheet,” FEDS Notes, Board of
+Governors of the Federal Reserve System,https://www.federalreserve.gov/econres/notes
+/feds-notes/the-recent-evolution-of-the-federal-funds-market-20240112.html.
+Anderson, Alyssa G., Dave Na, Bernd Schlusche, and Zeynep Senyuz (2022) “An Analysis of the
+Interest Rate Risk of the Federal Reserve’s Balance Sheet, Part 1: Background and Historical
+Perspective,” FEDS Notes, Board of Governors of the Federal Reserve System,https://www.fe
+deralreserve.gov/econres/notes/feds-notes/an-analysis-of-the-interest-rate-ris
+k-of-the-federal-reserves-balance-sheet-part-1-20220715.html.
+Anderson, Alyssa and Manjola Tase (2023) “LCR Premium in the Federal Funds Market,” Finance
+and Economics Discussion Series 2023-071, Board of Governors of the Federal Reserve System,
+10.17016/FEDS.2023.071.
+(2024) “Monetary policy pass-through after the LCR,”Economics Letters, 234, 111483.
+Andolfatto, David and Jane E. Ihrig (2019) “Why the Fed Should Create a Standing Repo Facility,”
+St. Louis Fed On the Economy,https://www.stlouisfed.org/on-the-economy/2019/march/
+why-fed-create-standing-repo-facility.
+Armantier, Olivier, Eric Ghysels, Asani Sarkar, and Jeffrey Shrader (2015) “Discount window
+stigma during the 2007–2008 financial crisis,”Journal of Financial Economics, 118 (2), 317–335,
+https://doi.org/10.1016/j.jfineco.2015.08.006.
+Bai, Jennie, Arvind Krishnamurthy, and Charles-Henri Weymuller (2018) “Measuring liquidity
+mismatch in the banking sector,”The journal of Finance, 73 (1), 51–93.
+Bailey, Andrew (2024) “The Importance of Central Bank Reserves,” Speech, Bank of England,
+https://www.bankofengland.co.uk/speech/2024/june/andrew-bailey-remarks-at-the-b
+ank-of-englands-watchers-conference.
+Banegas, Ayelen and Manjola Tase (2020) “Reserve Balances, the Federal Funds Market and
+Arbitrage in the New Regulatory Framework,”Journal of Banking & Finance, 118, 105893,
+https://doi.org/10.1016/j.jbankfin.2020.105893.
+Banerjee, Ryan N and Hitoshi Mio (2018) “The impact of liquidity regulation on banks,”Journal
+of Financial intermediation, 35, 30–44.
+Baxter, Jennifer, William Raich, and Robin Dillon-Merrill (2021) “Addressing Uncertainty in Reg-
+ulatory Impact Analysis,” white paper, Office of the Assistant Secretary for Planning and Eval-
+uation, U.S. Department of Health and Human Services,https://aspe.hhs.gov/sites/def
+ault/files/documents/21240d1e084da25b0cdb7348bc53203a/uncertainty-analysis-dra
+41
+===== PAGE 44 =====
+ft-white-paper.pdf, Prepared by Industrial Economics, Incorporated and ITA International,
+LLC.
+Beckworth, David (2025) “From Floors to Ceilings: The Fed’s Quiet Turning Point?,” Macroeco-
+nomic Policy Nexus, Substack, October,https://macroeconomicpolicynexus.substack.com/
+p/from-floors-to-ceilings-the-feds.
+(2026) “More Buffer, Less Stigma: The Case for Discount Window Reform,” Macroeco-
+nomic Policy Nexus, Substack, March,https://macroeconomicpolicynexus.substack.com/
+p/more-buffer-less-stigma-the-case.
+Belongia, Michael T. and Peter N. Ireland (2015) “Interest Rates and Money in the Measurement
+of Monetary Policy,”Journal of Business & Economic Statistics, 33 (2), 255–269, 10.1080/0735
+0015.2014.946132.
+Berger, Allen N and Christa HS Bouwman (2009) “Bank liquidity creation,”The review of financial
+studies, 22 (9), 3779–3837.
+Bessent, Scott (2026) “A Reset on Liquidity Regulation,” Remarks prepared for the Roundtable on
+Liquidity and Lender of Last Resort sponsored by the Committee on Capital Markets Regulation,
+Washington, D.C. As prepared by Secretary Bessent; delivered by Under Secretary for Domestic
+Finance Jonathan McKernan. U.S. Department of the Treasury, March,https://home.treas
+ury.gov/news/press-releases/sb0412.
+Borio, Claudio (2018) “Interview with Market News International,” Interview conducted by Chris-
+tian Vits, published March 23, 2018. BIS Speech, Bank for International Settlements, March,
+https://www.bis.org/speeches/sp180327.htm.
+Boucinha, Miguel, Lorenzo Burlon, Marco Corsi et al. (2022) “Two-Tier System for Remunerating
+Excess Reserve Holdings,” Occasional Paper Series 302, European Central Bank,https://www.
+ecb.europa.eu/pub/pdf/scpops/ecb.op302~4963a079cf.en.pdf.
+Bowman, Michelle W. (2025) “Approach to Monetary Policy Decision-Making,” Speech at the
+Forecasters Club of New York Luncheon, New York, New York, September,https://www.fede
+ralreserve.gov/newsevents/speech/bowman20250926a.htm.
+(2026a) “Revitalizing Bank Mortgage Lending, One Step with Basel,” Speech at the Amer-
+ican Bankers Association 2026 Conference for Community Bankers, Orlando, FL, February,
+https://www.federalreserve.gov/newsevents/speech/bowman20260216a.htm.
+(2026b) “Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve,”
+Speech at the Roundtable on Liquidity and Lender of Last Resort sponsored by the Committee
+on Capital Markets Regulation, Washington, D.C. March,https://www.federalreserve.gov
+/newsevents/speech/bowman20260303a.htm.
+42
+===== PAGE 45 =====
+Bullard, James (2017) “A Case for Shrinking the Fed’s Balance Sheet,”Regional Economist, 25
+(2),https://www.stlouisfed.org/publications/regional-economist/second-quarter-2
+017/a-case-for-shrinking-the-feds-balance-sheet, Second Quarter 2017.
+Carlson, Mark and Jonathan Rose (2017) “Stigma and the Discount Window,” FEDS Notes, Board
+of Governors of the Federal Reserve System,https://www.federalreserve.gov/econres/not
+es/feds-notes/stigma-and-the-discount-window-20171219.htm.
+Carlson, Mark and Mary-Frances Styczynski (2025) “Pre-Pledged Collateral and Likelihood of
+Discount Window Use,” FEDS Notes, Board of Governors of the Federal Reserve System,
+10.17016/2380-7172.3906.
+Cecchetti, Stephen G. and Kermit L. Schoenholtz (2026) “Warsh’s War on the Fed Balance Sheet,”
+Financial Times,https://www.ft.com/content/9b0c3d50-f397-4879-9161-75d0042370c1.
+Clouse, James A., Sebastian Infante, and Zeynep Senyuz (2025) “Market-Based Indicators on the
+Road to Ample Reserves,” FEDS Notes, Board of Governors of the Federal Reserve System,
+https://www.federalreserve.gov/econres/notes/feds-notes/market-based-indicator
+s-on-the-road-to-ample-reserves-20250131.html.
+Copeland, Adam, Darrell Duffie, and Yilin Yang (2025) “Reserves Were Not So Ample After All,”
+Quarterly Journal of Economics, 140 (1), 239–281, 10.1093/qje/qjae029.
+Covas, Francisco and Bill Nelson (2016) “The Net Stable Funding Ratio: Neither Necessary nor
+Harmless,” research note, The Clearing House,https://www.theclearinghouse.org/-/medi
+a/TCH/Documents/Research/Articles/2016/07/20160705_tch_nsfr_note.pdf.
+Davey, Nick and Daniel Gray (2014) “How Has the Liquidity Saving Mechanism Reduced Banks’
+Intraday Liquidity Costs in CHAPS?”Bank of England Quarterly Bulletin, 54 (2), 180–189,
+https://www.bankofengland.co.uk/quarterly-bulletin/2014/q2/how-has-the-liquidi
+ty-saving-mechanism-reduced-banks-intraday-liquidity-costs-in-chaps.
+Dudley, William C. (2013) “Unconventional Monetary Policies and Central Bank Independence,”
+Speech at the Central Bank Independence Conference—Progress and Challenges in Mexico, Mex-
+ico City, Mexico. Federal Reserve Bank of New York, October,https://www.newyorkfed.org
+/newsevents/speeches/2013/dud131015.
+Duffie, Darrell (2026) “The Payment System Puts a Floor on the Fed’s Balance Sheet,”Brookings
+Papers on Economic Activity,https://www.brookings.edu/events/bpea-spring-2026-con
+ference/, Presented at the Spring 2026 BPEA Conference, March 26–27, 2026. Forthcoming in
+the journal.
+Duffie, Darrell, Miles Kimball, Jeffrey Lacker, Carmen Reinhart, and Kristin J. Forbes (2016)
+“General Discussion: The Federal Reserve’s Balance Sheet as a Financial-Stability Tool,” in
+43
+===== PAGE 46 =====
+Designing Resilient Monetary Policy Frameworks for the Future: Proceedings of the Jackson
+Hole Economic Policy Symposium, 411–413: Federal Reserve Bank of Kansas City,https:
+//www.kansascityfed.org/documents/7043/Forbes_GD4_JH2016.pdf.
+Duygan-Bump, Burcu and R. Jay Kahn (2026) “The Central Bank Balance-Sheet Trilemma,”
+FEDS Notes, Board of Governors of the Federal Reserve System, 10.17016/2380-7172.3979.
+Ennis, Huberto M. and Elizabeth Klee (2025) “The Fed’s Discount Window in “Normal” Times,”
+International Economic Review, 66 (4), 1459–1485, https://doi.org/10.1111/iere.12772.
+Eyal, Benjamin, Dave Na, and Arsenios Skaperdas (2026) “A Decomposition of Balance Sheet
+Reduction,” FEDS Notes, Board of Governors of the Federal Reserve System, 10.17016/2380-7
+172.3968.
+Ferris, Erin, Amy Rose, and Manjola Tase (2025) “What Can Public Fedwire Payments Data Tell
+Us About Ample Reserves?,” FEDS Notes, Board of Governors of the Federal Reserve System,
+https://doi.org/10.17016/2380-7172.3807.
+Gete, Pedro and Michael Reher (2021) “Mortgage securitization and shadow bank lending,”The
+Review of Financial Studies, 34 (5), 2236–2274.
+Gissler, Stefan, Sam Hempel, R. Jay Kahn, Patrick McCabe, and Borghan Narajabad (2025) “Mon-
+itoring Reserve Scarcity Through Nonbank Cash Lenders,” FEDS Notes, Board of Governors of
+the Federal Reserve System, 10.17016/2380-7172.3699.
+Gorton, Gary B, Chase P Ross, and Sharon Y Ross (2025) “Where Collateral Sleeps,”NBER
+Working Paper(w34266).
+Gorton, Gary, Toomas Laarits, and Tyler Muir (2022) “Mobile collateral versus immobile collat-
+eral,”Journal of Money, Credit and Banking, 54 (6), 1673–1703.
+Hammack, Beth M. (2025) “The Federal Reserve’s Balance Sheet: Some Major League Questions,”
+Speech at the Money Marketeers of New York University, Federal Reserve Bank of Cleveland,
+April, 10.26509/sp-20250423.
+Haubrich, Joseph G. (2025) “QT, Ample Reserves, and the Changing Fed Balance Sheet,”Economic
+Commentary(2025-05), 1–9, https://doi.org/10.26509/frbc-ec-202505.
+Hendrickson, Joshua R. (2017) “Interest on reserves, settlement, and the effectiveness of monetary
+policy,”Journal of Macroeconomics, 54, 208–216, https://doi.org/10.1016/j.jmacro.2017.05.010.
+Hill, Travis (2026) “An Update on Reforms to the Regulatory Toolkit,” Speech at the American
+Bankers Association Washington Summit, Federal Deposit Insurance Corporation, March,http
+s://www.fdic.gov/news/speeches/2026/update-reforms-regulatory-toolkit.
+44
+===== PAGE 47 =====
+Huther, Jeffrey W., L. Pettit, and M. Wilkinson (2019) “Fiscal Flow Volatility and Reserves,” FEDS
+Notes, Board of Governors of the Federal Reserve System,https://www.federalreserve.gov
+/econres/notes/feds-notes/fiscal-flow-volatility-and-reserves-20191025.htm.
+Ihrig, Jane (2019) “Banks’ Demand for Reserves in the Face of Liquidity Regulations,” On the
+Economy (blog), Federal Reserve Bank of St. Louis,https://www.stlouisfed.org/on-the-e
+conomy/2019/august/banks-demand-reserves-liquidity-regulations.
+Ihrig, Jane E., E. Kim, Cindy M. Vojtech, and Gretchen C. Weinbach (2018) “How Have Banks Been
+Managing the Composition of High-Quality Liquid Assets?” FEDS Notes, Board of Governors
+of the Federal Reserve System,https://www.federalreserve.gov/econres/notes/feds-n
+otes/how-have-banks-been-managing-the-composition-of-high-quality-liquid-asset
+s-20180228.htm.
+Ihrig, Jane, Zeynep Senyuz, and Gretchen C. Weinbach (2020) “The Fed’s “Ample-Reserves” Ap-
+proach to Implementing Monetary Policy,” Finance and Economics Discussion Series 2020-022,
+Board of Governors of the Federal Reserve System, 10.17016/FEDS.2020.022.
+Judson, Ruth A. and Elizabeth C. Klee (2009) “A Study of U.S. Monetary Policy Implementation:
+Demand for Reserves on a Period Average Basis,” feds paper, Board of Governors of the Federal
+Reserve System,https://www.federalreserve.gov/pubs/feds/2009/200922/200922pap.p
+df.
+Kedan, D. and A. Ventula Vidal (2021) “The Implications of Liquidity Regulation for Monetary
+Policy Implementation and the Central Bank Balance Sheet Size,” ECB Working Paper Series
+2611, European Central Bank,https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2611 ~4
+3a0a3b2b8.en.pdf.
+Kelly, Steven (2024) “Policy Note — Weekly Fed Report Still Drives Discount Window Stigma,”
+Journal of Financial Crises, 6 (3), 597–610,https://elischolar.library.yale.edu/journa
+l-of-financial-crises/vol6/iss3/27.
+Kim, Kyungmin, Antoine Martin, and Ed Nosal (2020) “Can the U.S. Interbank Market Be Re-
+vived?,”Journal of Money, Credit and Banking, 52 (7), 1645–1689, 10.1111/jmcb.12693.
+Labonte, Marc (2023) “Why Is the Federal Reserve Operating at a Loss?” CRS Insight IN12081,
+Congressional Research Service,https://www.congress.gov/crs_external_products/IN/PD
+F/IN12081/IN12081.1.pdf.
+Lagos, Ricardo and Gast´ on Navarro (2023) “Monetary Policy Operations: Theory, Evidence, and
+Tools for Quantitative Analysis,” Working Paper 31370, National Bureau of Economic Research,
+10.3386/w31370.
+45
+===== PAGE 48 =====
+(2026) “Reserve Demand Estimation with Minimal Theory,” Working Paper 34972, Na-
+tional Bureau of Economic Research, 10.3386/w34972.
+Laubach, Thomas and Simon Potter (2018) “Additional Background Materials for FOMC Discus-
+sion of Long-Run Monetary Policy Implementation Frameworks,” Memo to the Federal Open
+Market Committee, Board of Governors of the Federal Reserve System,https://www.federalr
+eserve.gov/monetarypolicy/files/FOMC20181030memo01.pdf.
+Leonard, Deborah, David L´ opez-Salido, and Fabio Natalucci (2016) “Balance Sheet Considerations
+for the Federal Reserve’s Long-Run Framework,” memo to the federal open market committee,
+Board of Governors of the Federal Reserve System,https://www.federalreserve.gov/monet
+arypolicy/files/FOMC20161014memo03.pdf.
+Levy, Rosie (2025) “Payment System Design Can Encourage Intraday Liquidity Efficiency,” Dallas
+Fed Economics, Federal Reserve Bank of Dallas, October,https://www.dallasfed.org/rese
+arch/economics/2025/1002.
+Logan, Lorie K. (2019) “Observations on Implementing Monetary Policy in an Ample-Reserves
+Regime,” Remarks before the Money Marketeers of New York University, Federal Reserve Bank
+of New York, April,https://www.newyorkfed.org/newsevents/speeches/2019/log190417.
+Logan, Lorie and Sam Schulhofer-Wohl (2018) “Possibilities for Reducing the Long-Run Size of
+the Federal Reserve’s Balance Sheet,” memo to the federal open market committee, Board of
+Governors of the Federal Reserve System,https://www.federalreserve.gov/monetarypolic
+y/files/FOMC20181207memo05.pdf.
+Lopez-Salido, David and Annette Vissing-Jorgensen (2025) “Reserve Demand, Interest Rate Con-
+trol, and Quantitative Tightening,”https://drive.google.com/file/d/1CAF3X4pgSH0xcAV
+GfyyaBmm8TgCB_tEY/view.
+Macchiavelli, Marco (2026) “The Upside-Down World of the Liquidity Coverage Ratio: Some Un-
+pleasant Arithmetic,” Bank Policy Institute, February,https://bpi.com/the-upside-down-w
+orld-of-the-liquidity-coverage-ratio-some-unpleasant-arithmetic/.
+Macchiavelli, Marco and Luke Pettit (2021) “Liquidity regulation and financial intermediaries,”
+Journal of Financial and Quantitative Analysis, 56 (6), 2237–2271.
+Miran, Stephen I. (2025) “Regulatory Dominance of the Federal Reserve’s Balance Sheet,” Speech
+at the Bank Policy Institute and Small Business & Entrepreneurship Council, Washington, D.C.
+November,https://www.federalreserve.gov/newsevents/speech/miran20251119a.htm.
+Na, Dave, Ellie Newman, and Bernd Schlusche (2024) “The Evolution of the Federal Reserve’s
+Agency MBS Holdings,” feds notes, Board of Governors of the Federal Reserve System, 10.170
+16/2380-7172.3612.
+46
+===== PAGE 49 =====
+Nelson, Bill (2019) “Two Little-Noticed and Self-Inflicted Causes of the Fed’s Current Monetary
+Policy Implementation Predicament,” Bank Policy Institute,https://bpi.com/two-little-n
+oticed-and-self-inflicted-causes-of-the-feds-current-monetary-policy-implement
+ation-predicament/.
+(2022) “Bank Examiner Preferences Are Obstructing Monetary Policy,”Bank Policy Insti-
+tute,https://bpi.com/bank-examiner-preferences-are-obstructing-monetary-policy/.
+(2023) “Central Bank Contingency Funding in Resolution Plans,” Bank Policy Institute,
+https://bpi.com/central-bank-contingency-funding-in-resolution-plans/.
+(2024) “How the Federal Reserve Got So Huge, and Why and How It Can Shrink,” BPI
+Staff Working Paper 2024-1, Bank Policy Institute,https://bpi.com/wp-content/uploads/2
+024/02/How-the-Federal-Reserve-Got-So-Huge-and-Why-and-How-It-Can-Shrink.pdf.
+(2026a) “BPI’s Bill Nelson Testifies at House Hearing on Fed Balance Sheet,” Bank Policy
+Institute,https://bpi.com/bpis-bill-nelson-testifies-at-house-hearing-on-fed-bal
+ance-sheet/.
+(2026b) “Forward Guidance: Two Speeches on Tuesday Open the Door to Shrinking the
+Fed by$2 Trillion,” Email newsletter, Bank Policy Institute, March.
+Nelson, Bill, Laurence Bristow, and Brett Waxman (2026) “What Determines Banks’ Demand for
+Reserve Balances?,” Bank Policy Institute, January,https://bpi.com/what-determines-ban
+ks-demand-for-reserve-balances/.
+Nelson, Bill and Pat Parkinson (2022) “A Major Limit on the Fed’s Crisis Toolkit: Shame,” Bank
+Policy Institute,https://bpi.com/a-major-limit-on-the-feds-crisis-toolkit-shame/.
+Nicolae, A. (2020) “The Effects of Liquidity Regulation on Bank Demand for Reserves and Federal
+Reserve Balance Sheet Size,”https://www.hks.harvard.edu/sites/default/files/center
+s/mrcbg/files/FInal_AWP_140.pdf.
+Norman, B. (2010) “Liquidity Saving in Real-Time Gross Settlement Systems: An Overview,”
+Financial Stability Paper 7, Bank of England,https://www.bankofengland.co.uk/financia
+l-stability-paper/2010/liquidity-saving-in-real-time-gross-settlement-systems
+-an-overview.
+Perli, Roberto (2025) “Money Market Conditions and the Federal Reserve’s Balance Sheet,” Re-
+marks at the 2025 U.S. Treasury Market Conference, Federal Reserve Bank of New York, Novem-
+ber,https://www.newyorkfed.org/newsevents/speeches/2025/per251112.
+Poole, William (1968) “Commercial Bank Reserve Management in a Stochastic Model: Implications
+for Monetary Policy,”The Journal of Finance, 23 (5), 769–791, https://doi.org/10.2307/2325
+906.
+47
+===== PAGE 50 =====
+Powell, Jerome H. (2025) “The Economic Outlook and Monetary Policy,” Speech at the 67th Annual
+Meeting of the National Association for Business Economics, Philadelphia, Pennsylvania, Board
+of Governors of the Federal Reserve System, October,https://www.federalreserve.gov/new
+sevents/speech/powell20251014a.htm.
+Remache, Julie (2025) “Balance Sheet Reduction and Ample Reserves,” Remarks at the 2025
+Annual Primary Dealer Meeting, Federal Reserve Bank of New York, September,https://www.
+newyorkfed.org/newsevents/speeches/2025/rem250929.
+Rezende, Marcelo, Mary-Frances Styczynski, and Cindy M. Vojtech (2021) “The Effects of Liquidity
+Regulation on Bank Demand in Monetary Policy Operations,”Journal of Financial Intermedi-
+ation, 46, 100860, 10.1016/j.jfi.2020.100860.
+Rezende, Marcelo, Judit Temesvary, and Rebecca Zarutskie (2019) “Interest on Excess Reserves
+and U.S. Commercial Bank Lending,” FEDS Notes, Board of Governors of the Federal Reserve
+System, 10.17016/2380-7172.2453.
+Roberts, Daniel, Asani Sarkar, and Or Shachar (2018) “Bank liquidity provision and basel liquidity
+regulations,”Technical report, Staff Report.
+Santoro, Paul J. (2012) “The Evolution of Treasury Cash Management During the Financial Crisis,”
+Current Issues in Economics and Finance, 18 (3),https://www.newyorkfed.org/medialibr
+ary/media/research/current_issues/ci18-3.pdf.
+Schnabel, Isabel (2023) “Quantitative Tightening: Rationale and Market Impact,” Speech at the
+Money Market Contact Group meeting, Frankfurt am Main. European Central Bank, March,
+https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230302 ~41273ad467.en.h
+tml.
+Sengupta, Rajdeep and A. Lee Smith (2024) “Considerations for the Longer-Run Maturity Com-
+position of the Federal Reserve’s Treasury Portfolio,”Economic Bulletin, 1–4,https://www.ka
+nsascityfed.org/research/economic-bulletin/considerations-for-the-longer-run-m
+aturity-composition-of-the-federal-reserves-treasury-portfolio/.
+Sundaresan, Suresh and Kairong Xiao (2024) “Liquidity regulation and banks: Theory and evi-
+dence,”Journal of Financial Economics, 151, 103747, https://doi.org/10.1016/j.jfineco.2023.1
+03747.
+Vissing-Jorgensen, Annette (2025) “Fluctuations in the Treasury General Account and Their Effect
+on the Fed’s Balance Sheet,” FEDS Notes, Board of Governors of the Federal Reserve System,
+10.17016/2380-7172.3873.
+(2026) “Fluctuations in the Treasury General Account and Their Effect on the Fed’s Bal-
+ance Sheet,” March,https://drive.google.com/file/d/12hJ-0CPoCj3kaT6GaekKjysRh-Not
+L33/view.
+48
+===== PAGE 51 =====
+Waller, Christopher J. (2025) “Demystifying the Federal Reserve’s Balance Sheet,” Speech at the
+Federal Reserve Bank of Dallas, Dallas, Texas, July,https://www.federalreserve.gov/newse
+vents/speech/waller20250710a.htm.
+Waxman, Brett (2025) “Unlocking the Discount Window,” Bank Policy Institute, October,https:
+//bpi.com/unlocking-the-discount-window/.
+Williams, John C. (2025) “On the Optimal Supply of Reserves,” Speech, Federal Reserve Bank of
+New York, May,https://www.newyorkfed.org/newsevents/speeches/2025/wil250522.
+49
+===== PAGE 52 =====
+Appendix
+A Data Sources
+In this section, we provide the precise sources for the data in the figures.
+Figure 2
+Source: Federal Reserve Bank of St. Louis FRED, “Liabilities and Capital: Other Factors
+Draining Reserve Balances: Currency in Circulation: Week Average (WCURCIR)” , “Liabilities
+and Capital: Other Factors Draining Reserve Balances: Reserve Balances with Federal Reserve
+Banks: Week Average (WRESBAL)”, “Liabilities and Capital: Liabilities: Reverse Repurchase
+Agreements: Others: Week Average (WREPODEL)”, “Liabilities and Capital: Liabilities: De-
+posits with F.R. Banks, Other Than Reserve Balances: U.S. Treasury, General Account: Week
+Average (WTREGEN)”, “Liabilities and Capital: Liabilities: Total Liabilities (Less Eliminations
+from Consolidation): Wednesday Level (WLTLECL)”, “Gross Domestic Product (GDP)”
+Figure 3
+Source: Federal Reserve Bank of St. Louis FRED: “Liabilities and Capital: Other Factors
+Draining Reserve Balances: Reserve Balances with Federal Reserve Banks: Week Average (WRES-
+BAL)”, “Interest Rate on Required Reserves (IORR Rate) (DISCONTINUED) (IORR)”, “Market
+Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis
+(DGS1MO)”, “Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted
+on an Investment Basis (DGS3MO)”; Federal Reserve Board of Governors, ”Peak and Average
+Daylight Overdrafts and Related Fees”
+Figure 4
+Panel (a): Source: Federal Reserve Bank of St. Louis FRED: “Effective Federal Funds Rate
+(EFFR)”, “Interest Rate on Reserve Balances (IORB Rate) (IORB)”, “Interest Rate on Excess
+Reserves (IOER Rate) (DISCONTINUED) (IOER)”
+Panel (b): Source: Federal Reserve Bank of St. Louis FRED: “Interest Rate on Reserve Bal-
+ances (IORB Rate) (IORB)”, “Tri-Party General Collateral Rate (TGCRRATE)”, “Interest Rate
+on Excess Reserves (IOER Rate) (DISCONTINUED) (IOER)
+Figure 5
+50
+===== PAGE 53 =====
+Panel (a): Source: Federal Reserve Bank of New York, Reserve Demand Elasticity,https:
+//newyorkfed.org/research/reserve-demand-elasticity/. Daily data on reserves and the
+fed funds rate are collected by the Federal Reserve Bank of New York; the daily interest rate on
+reserve balances is available from FRED (“IOER” and “IORB”).
+Panel (b): Source: Federal Reserve Bank of St. Louis FRED: “Effective Federal Funds Rate
+(EFFR)”, “Tri-Party General Collateral Rate (TGCRRATE)”, “Interest Rate on Reserve Bal-
+ances (IORB Rate) (IORB)”, “Interest Rate on Excess Reserves (IOER Rate) (DISCONTINUED)
+(IOER)”
+Panel (c): Source: Federal Reserve Bank of New York, SOFR 75th percentile fromhttps:
+//www.newyorkfed.org/markets/reference-rates/sofrand SRP rate fromhttps://www.ne
+wyorkfed.org/markets/desk-operations/repo.
+Figure 6
+Source: Federal Reserve Bank of St. Louis FRED: “Effective Federal Funds Rate (EFFR)”, “In-
+terest Rate on Reserve Balances (IORB Rate) (IORB)”, “Interest Rate on Excess Reserves (IOER
+Rate) (DISCONTINUED) (IOER)”, “Liabilities and Capital: Other Factors Draining Reserve Bal-
+ances: Reserve Balances with Federal Reserve Banks: Week Average (WRESBAL)”, “Liabilities
+and Capital: Liabilities: Reverse Repurchase Agreements: Others: Week Average (WREPODEL)”,
+“Gross Domestic Product (GDP)”
+Figure 7
+Source: U.S. Treasury, Daily Treasury Statement, Items: “Treasury General Account”(post-
+October, 2021), “Federal Reserve Account”(pre-October, 2021), “Tax and Loan Note Accounts
+(Table V)”; FRED: GDP
+Figure 8
+Source: Federal Reserve Bank of St. Louis FRED, “Liabilities and Capital: Liabilities: Re-
+verse Repurchase Agreements: Foreign Official and International Accounts: Week Average (WRE-
+POFOR)”, “Liabilities and Capital: Liabilities: Reverse Repurchase Agreements: Others: Week
+Average (WREPODEL)”, “Gross Domestic Product (GDP)”
+51

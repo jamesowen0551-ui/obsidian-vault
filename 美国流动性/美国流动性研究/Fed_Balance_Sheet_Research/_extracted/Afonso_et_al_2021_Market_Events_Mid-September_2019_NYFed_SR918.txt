@@ -1,0 +1,887 @@
+
+===== PAGE 1 =====
+This paper presents preliminary findings and is being distributed to economists 
+and other interested readers solely to stimulate discussion and elicit comments. 
+The views expressed in this paper are those of the authors and do not necessarily 
+reflect the position of the Federal Reserve Bank of New York or the Federal 
+Reserve System. Any errors or omissions are the responsibility of the authors. 
+Federal Reserve Bank of New York 
+Staff Reports 
+The Market Events of Mid-September 2019
+Gara Afonso 
+Marco Cipriani 
+Adam Copeland 
+Anna Kovner 
+Gabriele La Spada 
+Antoine Martin 
+Staff Report No. 918 
+March 2020 
+===== PAGE 2 =====
+The Market Events of Mid-September 2019 
+Gara Afonso, Marco Cipriani, Adam Copeland, Anna Kovner, Gabriele La Spada, and 
+Antoine Martin 
+Federal Reserve Bank of New York Staff Reports, no. 918 
+March 2020 
+JEL classification: E42, E58, G14 
+Abstract 
+This paper studies the mid-September 2019 stress in U.S. money markets: On September 16 and 
+17, unsecured and secured funding rates spiked up and, on September 17, the effective federal 
+funds rate broke the ceiling of the Federal Open Market Committee (FOMC) target range. We 
+highlight two factors that may have contributed to these events. First, reserves may have become 
+scarce for at least some depository institutions, in the sense that these institutions’ reserve 
+holdings may have been close to, or lower than, their desired level. Moreover, frictions in the 
+interbank market may have prevented the efficient allocation of reserves across institutions, so 
+that although aggregate reserves may have been higher than the sum of reserves demanded by 
+each institution, they were still scarce given the market’s inability to allocate reserves efficiently. 
+Second, we provide evidence that some large domestic dealers likely experienced an increase in 
+intermediation costs, which led them to charge higher spreads to ultimate cash borrowers. This 
+increase was due to a temporary reduction in lending from money market mutual funds, including 
+through the Fixed Income Clearing Corporation’s (FICC’s) sponsored repo program.  
+Key words: federal funds market, repo market, central bank reserves, regulation, monetary policy 
+_________________ 
+Afonso, Cipriani, Copeland, Kovner, La Spada, and Martin: Federal Reserve Bank of New York 
+(emails: gara.afonso@ny.frb.org, marco.cipriani@ny.frb.org, anna.kovner@ny.frb.org, 
+gabriele.laspada@ny.frb.org, antoine.martin@ny.frb.org). We thank Vic Chakrian, Caren Cox, 
+Josh Frost, Lorie Logan, Rebecca McCaughrin, Marcus Petersen, Will Riordan, Sam Schulhofer-
+Wohl, Tim Wessel, and Nate Wuerffel for useful comments. The views expressed in this paper 
+are those of the authors and do not necessarily reflect the position of the Federal Reserve Bank of 
+New York or the Federal Reserve System.  
+To view the authors’ disclosure statements, visit 
+https://www.newyorkfed.org/research/staff_reports/sr918.html. 
+===== PAGE 3 =====
+1 
+1. I
+ntroduction
+U
+.S. money markets unexpectedly experienced severe upward rate pressures on September 16 and 17, 
+2019. Several money market rates increased significantly. Notably, the secured overnight financing rate 
+(SOFR), a measured of overnight funding cost in the Treasury repo market, increased by approximately 3 
+percent, printing over 5 percent and with its 99th percentile reaching 9 percent. The effective federal 
+funds rate (EFFR) increased by a more modest amount, but there was a wide dispersion of rates in that 
+market, and the EFFR exceeded the top of the FOMC’s target range on September 17 (see Figure 1). 
+Fig
+ure 1 
+Thi
+s episode attracted considerable attention among market practitioners, academics and policy 
+makers, in part because it was unexpected.  On September 16, two transitory shocks hit money markets: 
+the quarterly corporate tax payment and the settlement of the mid-month Treasury coupon auction.  
+Money market observers were well aware that the occurrence of both events on the same day would 
+lead to a drop in the supply of reserves, a reduction in cash available to be lent in the repo market, and 
+an increase in the demand for cash in that market. On their own, however, these two shocks do not 
+provide a compelling explanation for what happened both because they were well anticipated and 
+1.00
+2.00
+3.00
+4.00
+5.00
+6.00
+7.00
+8.00
+9.00
+10.00
+9-Sep-1911-Sep-1913-Sep-1917-Sep-1919-Sep-19
+SOFR (Median) p99
+1.8
+2.3
+2.8
+3.3
+3.8
+4.3
+9-Sep-19 11-Sep-1913-Sep-1917-Sep-1919-Sep-19
+Target Range EFFR (Median) p99
+===== PAGE 4 =====
+2 
+because shocks of a similar type and magnitude had happened before without significant rate 
+pressures.2  
+A
+nalysts have pointed to long-lasting factors that could have interacted with the shocks mentioned 
+above, or potentially with other shocks, to produce high rates. One notable example is the post-crisis 
+Basel III regulation and the changes that such regulation, and the associated supervisory programs, 
+caused to banks’ risk management frameworks (see, for example, Covas and Nelson, 2019).  
+L
+ong-lasting factors are not particularly helpful in explaining the events of mid-September 2019, unless 
+it is possible to explain why they might have interacted with anticipated shocks in a manner that 
+produces unexpected outcomes. Since Basel III regulation had been in place for some time, it is not clear 
+why its effects on money markets would have been exacerbated in mid-September.  
+S
+o what happened? In this paper, we highlight two factors that could have contributed to the mid-
+September stress in money markets. First, we argue that reserves may have become scarce, even 
+though the overall supply of reserves was still large by historical standards. By reserves scarcity, we 
+mean that reserve holdings of at least some depository institutions may have been close to, or lower 
+than, their desired levels at rates near the interest on excess reserves (IOER) rate. Frictions that make it 
+difficult or costly for banks to redistribute reserves among themselves can contribute to reserve scarcity. 
+We show how reserves scarcity can help explain both the increase in the fed funds rate, directly, and the 
+increase in the repo rate, indirectly.
+3  
+Se
+cond, we provide evidence that some large domestic dealers— who play an important intermediation 
+role in the repo market— likely experienced a sharp increase of their intermediation costs in mid-
+September, leading them to increase the spread at which they intermediate. This cost increase was due 
+to the temporary withdrawal of money market mutual funds from the Fixed Income Clearing 
+Corporation’s (FICC) sponsored repo program and may have led to an increase in repo rates more 
+2 We use the term “shock” in the sense of a transient change in demand and/or supply that is unrelated to today’s 
+market conditions (“predetermined” in a time series analogy). In other words, something that is not affected by 
+the actions of market participants today. This is different from the use of the term “shocks” as unexpected errors. 
+3 Schulhofer-Wohl (2019) also highlight the declining level of reserves as having likely contributed the observed 
+rate pressures.  
+===== PAGE 5 =====
+3 
+generally. We also briefly discuss other factors that may have contributed to the stress in money 
+markets.  
+T
+he remainder of the paper proceeds as follows: Section 2 provides an overview of the federal funds 
+and the repo market. For each market, we describe the main participants and their relationships. We 
+also describe how some participants are active in both markets and therefore provide a link between 
+the two. Section 3 describes the anticipated shocks that hit money markets in mid-September. Section 4 
+explains how reserves scarcity and repo market frictions may have contributed to the stress. Section 5 
+describes the Fed’s response to these events and Section 6 concludes.  
+2. A
+ brief overview of the federal funds and repo markets
+2.
+1. The federal funds market 
+Pa
+rticipants in the federal funds market trade uncollateralized loans, typically of overnight maturity, on 
+a bilateral basis.4 Only institutions eligible to have a Federal Reserve account can trade fed funds. The 
+main participants in this market are U.S. depository institutions (DIs), or “banks” for simplicity, U.S. 
+branches and agencies of a foreign bank, and Federal Home Loan Banks (FHLBs). The EFFR is the 
+weighted median of the interest rates on fed fund loans on a given day. The Federal Open Market 
+Committee (FOMC) sets a target range for the EFFR to communicate the stance of monetary policy. 
+B
+efore the crisis, the level of total reserves was in the tens of billions and the amount of reserves 
+needed to meet reserve requirements constituted around 80% of total reserves (Figure 2). The fed funds 
+market was mainly a market in which banks traded with each other in order to end the day with an 
+amount of reserve just sufficient to satisfy their reserve requirements.5 Banks were careful not to hold 
+more reserves than required so as not to lose the income from lending reserves. Hence, a bank holding 
+fewer reserves than required would borrow from a bank holding more reserves than required.6  
+4 We use the terms federal funds and fed funds interchangeably. 
+5 Reserve requirements are the amount of funds that a depository institution is the required to hold against 
+specified deposit liabilities. For more detail see https://www.federalreserve.gov/monetarypolicy/reservereq.htm.  
+6 There is a rich literature that studies the fed funds market in the environment of scarce reserves as the one prior 
+to the financial crisis. See Poole (1968), Furfine (1999), Martin et al. (2013), Ennis (2014), and Bech and Keister 
+(2017) for models of the fed funds market as a centralized market; and Ashcraft and Duffie (2007), Berentsen and 
+===== PAGE 6 =====
+4 
+Fig
+ure 2 
+Sinc
+e the crisis, the level of reserves has increased massively, reaching $2.8 trillion in 2014. This increase 
+was mainly due to large-scale asset purchases by the Federal Reserve designed to stimulate the 
+economy when short-term interest rates were very close to zero (Gagnon et al., 2011). As a result, most 
+banks now hold more reserves than needed to satisfy reserve requirements, reducing the incentives for 
+banks to trade with each other.7 Because of the high level of reserve and the reduced need to 
+redistribute them across reserve-holding institutions, fed funds volume decreased from over $100 
+billion on an average day in 2007 to under $40 billion per day in 2015. The type of market activity 
+underpinning fed funds transactions has changed too: in 2015, for example, in terms of dollar value, 
+most fed funds transactions consisted of FHLBs lending to branches of foreign banks. The Federal 
+Reserve has been able to maintain control of interest rates despite the large increase in reserves 
+because Congress authorized it to pay interest on reserves in October 2008.8 
+Monnet (2008), Ennis and Weinberg (2013), and Afonso and Lagos (2015), among others, for models that capture 
+the over-the-counter nature of the fed funds market. 
+7 Bech and Klee (2011), Armenter and Lester (2017), and Williamson (2018) study models of the fed funds market 
+in an environment of abundant reserves. Afonso, Armenter, and Lester (2019) as well as Kim, Martin, Nosal 
+(forthcoming) present a framework to study this market under both scarce and abundant reserves. 
+8 The Financial Services Regulatory Relief Act of 2006 authorized the Federal Reserve Banks to pay interest on 
+balances held by or on behalf of depository institutions at Reserve Banks, subject to regulations of the Board of 
+Governors, effective October 1, 2011. The effective date of this authority was advanced to October 1, 2008, by the 
+Emergency Economic Stabilization Act of 2008. 
+
+===== PAGE 7 =====
+5 
+A
+s the FOMC began normalizing the stance of monetary policy, aggregate reserves declined to $1.6tn in 
+January 2019. As a result, fed funds volumes slowly increased to the current level of $70-80 billion per 
+day. The amount of interbank activity, however, remains low, at around 5% of total fed funds borrowing. 
+2.
+2. The repo market 
+R
+epo transactions are, in many respects, similar to collateralized loans. In this paper, we focus on 
+overnight repo transactions collateralized by Treasuries, because it is the largest segment of the repo 
+market and was central to the mid-Septembre events.9  
+Fig
+ure 3 
+In
+ the U.S., the repo market allows the transfer of cash from cash lenders, such as money market funds 
+(MMFs), to cash borrowers such as hedge funds. As shown in Figure 3, broker-dealers (or dealers, for 
+short) play a key role in that market as they intermediate between the ultimate cash lenders and 
+borrowers. Dealers may be subsidiaries of bank holding companies with commercial banking 
+subsidiaries that are DIs or may be stand-alone entities without affiliated commercial banks. 10 Bank 
+holding companies are supervised by the Federal Reserve, while stand-alone investment banks and 
+broker dealers are not.  
+9 More specifically, we focus on general collateral (GC) repo transactions. In a GC repo, the lender does not require 
+a specific security but is willing to accept any security within a predefined set.  
+10 Prior to the repeal of the Glass-Steagall Act, the activities of investment banks, such as broker-dealers, were 
+separated from those of commercial banks. After the financial crisis of 2008, many of the largest investment banks 
+became bank holding companies with a commercial banking subsidiary.  
+
+===== PAGE 8 =====
+6 
+A
+ significant share of dealers’ intermediation activity is called “matched-book” intermediation.  Strictly 
+speaking, a dealer’s book is “matched” if the maturity and collateral of a dealer’s repo borrowing is the 
+same as the maturity and collateral of its repo lending. In practice, dealers sometimes engage in 
+maturity transformation— by lending at a longer term than the one at which they borrow—a s well as 
+collateral transformation— by lending against collateral of lower quality than the one against which they 
+borrow. By intermediating, dealers earn the spread between their borrowing rate and their lending rate. 
+In addition, some dealers can be net cash borrowers. This happens, for example, when they fund their 
+proprietary inventory of securities in the repo market.  
+The 
+market in which dealers primarily borrow cash from ultimate cash lender is the tri-party repo 
+market. This market owes its name to the role played by a third party agent, Bank of New York Mellon 
+(BNYM). BNYM provides a number services to market participants, including asset servicing, collateral 
+management, and facilitating settlement.11 In contrast, ultimate cash borrowers typically obtain cash in 
+the bilateral repo market.  In that market, cash investors and collateral providers perform a direct 
+exchange, without the benefits of the settlement services of a third party.12  Several institutions that 
+borrow from dealers using repo contracts have few alternative options for funding; for this reason, their 
+demand for repo funding is very inelastic, at least in the short run.  
+Fig
+ure 4 expands on Figure 3 by including a representation of the interdealer market. Interdealer repos 
+backed by government securities are cleared by the FICC, which plays the role of central counterparty 
+(CCP). CCPs reduce risk in the markets they clear by “novating” trades, becoming the buyer to every 
+seller and the seller to every buyer.  For example, if two members of a CCP, A and B, trade with each 
+other, the CCP will replace the trade between A and B with two trades, one between A and the CCP and 
+the other between the CCP and C.  
+The i
+nterdealer market has two components: the GCF Repo® market, which settles on the book of 
+BNYM, like the tri-party repo market, and a bilateral market called the FICC DvP market, where DvP 
+11 See Copeland et al. (2012) for more detail on the tri-party repo market. In 2017, J.P. Morgan stopped serving the 
+market as a tri-party clearing bank.  
+12 Another difference between tri-party and bilateral repo markets is that the tri-party repo market is only used to 
+finance general collateral (that is, any securities within a predefined set are accepted as collateral). Bilateral repo 
+transactions, by contrast, allow for narrow restrictions on the securities eligible as collateral.  
+===== PAGE 9 =====
+7 
+stands for “delivery versus payment.”13,14 Small dealers that borrow from large dealers in the interdealer 
+market often on-lend to ultimate cash borrowers in the bilateral repo market. 
+The
+ FICC sponsored program represents another way to lend or borrow cash in the interdealer repo 
+market. The program started in 2005 but remained small until 2017, when it was expanded for the first 
+time. Prior to the 2017 expansion, sponsored entities could only lend cash in the interdealer market; the 
+expansion allowed these entities to borrow or lend cash. The program was expanded further in April 
+2019: whereas prior to that expansion, only custodial banks with $5 billion in equity capital could be 
+sponsors, the expansion created a second tier of potential sponsors, including broker dealers. 
+Fig
+ure 4 
+U
+nder this service, a FICC member can sponsor institutions that satisfy the Qualified Institutional Buyer 
+(QIB) standard.15 A sponsored institution, e.g., a MMF or a hedge fund, can access the interdealer 
+market through their FICC member sponsor.16 In other words, the sponsored program extends access to 
+clearing by FICC to a much larger set of financial institutions.  
+A
+n important benefit of the sponsored program for dealers is that it increases trades’ eligibility for 
+balance-sheet netting. For regulatory capital purposes, if a dealer lends and borrows through repos that 
+13 Like Tri-party, GCF Repo is a market for general collateral, whereas FICC DvP also allows for specific securities to 
+be traded.   
+14 Because GCF repo settles on the book of BNYM, it is sometimes considered to be part of the tri-party repo 
+market. For the purpose of this paper, it is more appropriate to exclude GCF repo from the tri-party market and 
+consider it as part of the interdealer market. 
+15 A QIB is a purchaser of securities that is deemed financially sophisticated and is legally recognized by securities 
+market regulators. The SEC sets requirements to qualify as a QIB.  
+16 The sponsor is responsible for guaranteeing the sponsored members’ activity to the FICC. 
+
+===== PAGE 10 =====
+8 
+have the same maturity and the same counterparty, these exposures can be netted, even though the 
+obligations between these participants have not been eliminated. This is however often not possible for 
+a dealer running a matching book. Figure 5a illustrates a traditional matched-book trade, where B 
+represents a dealer. The entity from which dealer B borrows cash, A, is different from the entity to 
+which it lends cash, C; as a result, the two trades cannot be netted for regulatory capital.  
+B
+y expanding access to FICC and allowing non-dealers to borrow or lend in the interdealer FICC DvP 
+market, the sponsored program makes balance-sheet netting possible even when the cash lender or the 
+cash borrower is not a dealer. This is illustrated in Figure 5b, where A and C represent entities sponsored 
+by B, and the FICC is the CCP. After novation, A lends to FICC, C borrows from FICC, and B both borrows 
+from and lends to FICC. The two transactions between B and the FICC can be netted from the balance 
+sheet of B, reducing its regulatory burden.  
+Fig
+ure 5a. Figure 5b. 
+The r
+eduction in intermediation cost faced by the dealers is likely to also benefit ultimate borrowers and 
+lenders, as competition between dealers provides incentives for them to borrow at higher rates and 
+lend at lower rates narrowing the bid-ask spread, to attract more business.  
+U
+nder most circumstances, the sponsored program would support smooth repo-market functioning by 
+reducing intermediation costs. This should be particularly true at quarter-ends, when some dealers must 
+report a snapshot of their regulatory ratios. These dealers typically retreat from intermediating in the 
+repo market because of the increased regulatory costs they face on these days. In principle, the 
+sponsored program could reduce the need for these dealers to reduce their intermediation activity or 
+could reduce the cost of other dealers’ stepping in. Indeed, there is some evidence that a surge of 
+
+===== PAGE 11 =====
+9 
+lending through the sponsored repo program helped mitigate repo market volatility at year-end 2019 
+(see Spratt, 2020). This surge is clearly visible in Figure 11 below.  
+2.
+3. Links between the federal funds and the repo markets 
+W
+hile fed funds and repo are separate markets, with distinct features, there are several links between 
+the two. First, some lenders participate in both markets. For example, FHLBs have been the main 
+lenders in the fed funds market since the 2007-2009 financial crisis. In the last few years, they have 
+expanded their lending in the repo market. Hence, they can shift funds from one market to the other 
+when rates in the two markets diverge. While MMFs cannot participate in the fed funds market, they 
+can lend in the closely related Eurodollar market; hence, MMFs can also shift funds between secured 
+and unsecured funding markets. 
+Fig
+ure 6 
+S
+econd, some banks also participate in both markets.  DIs, which are borrowers in the fed funds market, 
+are typically not very active in the repo market. However, since April 2019, when repo rates increased 
+consistently above IOER, an increasing number of  DIs have been lending in the repo market to take 
+advantage of attractive rates when the amount of reserves they hold is above their desired level (see 
+
+===== PAGE 12 =====
+10 
+Avalos, Ehlers, and Eren 2019).17 Since some DIs and broker-dealers are both part of the same bank 
+holding company, a DI could transfer funds to its dealer affiliate to lend in the repo market.  
+Fig
+ure 6 illustrates these particular interactions between the two markets. FHLBs can lend in both the 
+fed funds and the repo market. Some DIs also have the capability to be active in both markets, either 
+directly or through their dealer affiliate. The presence of these linkages is a channel through which 
+shocks in one market can transmit themselves to the other. 
+3. W
+hat happened on September 16 and 17, 2019? – Two shocks
+The 
+events of September 16 and 17 coincided with payment of corporate taxes and the settlement of 
+large Treasury issuance. In this section, we describe how corporate tax payments and Treasury issuance 
+affect the fed funds and the repo markets and why that matters.  
+As
+ noted earlier, fed funds borrowing transfers reserves to the borrowing banks. For that reason, 
+changes to the supply of reserves affect conditions in the fed funds market. When a corporation makes 
+a tax payment, cash balances move from the Fed account of a commercial bank to the Treasury General 
+Account (TGA). For example, suppose corporation ABC holds cash in a deposit account at bank XYZ. To 
+pay its taxes, corporation ABC instructs bank XYZ to make a payment on its behalf to the Treasury. Bank 
+XYZ would do that by initiating a Fedwire® Funds transfer from its Fed account to the TGA. Balances in 
+the TGA are not reserves. So, any transfer of balances from a bank’s Fed account to the TGA results in a 
+decrease in the aggregate level of reserves.  
+I
+f corporation ABC holds its cash with an MMF, as is often the case, it would instruct the MMF to make 
+the tax payment. The MMF, in turn, would instruct its custodial bank to make the payment try Treasury, 
+similarly resulting in a decline in reserves.  
+A
+ similar process occurs when the Treasury issues new securities. When newly issued securities are 
+created, the vast majority are initially transferred to the securities account of Bank of New York Mellon 
+(BNYM), the “clearing bank,” on Fedwire® Securities. As securities are transferred to BNYM’s securities 
+17 More generally, some DIs borrow in the fed funds market and lend onwards in repo or FX swaps when these 
+rates are sufficiently above rates in the fed funds market. 
+===== PAGE 13 =====
+11 
+account, balances are transferred from BNYM’s Fed account to the TGA. For the same reason mentioned 
+above, this increases the balance of the TGA and deceases the aggregate level of reserves.18 The newly 
+issued securities are subsequently transferred to the institutions and the individuals who purchased 
+them, leading to movement of reserves between the Fed accounts of these institutions, or their 
+custodians, and BNYM. These movements redistribute reserves among bank but, in contrast to transfers 
+to the TGA, do not change the aggregate supply of reserves.  
+F
+urthermore, the payment of corporate taxes can affect the repo market by reducing MMF assets. Many 
+corporate entities hold cash in the form of MMF shares. MMFs, in turn, lend this cash in the repo 
+market. If a corporation pays its taxes by reducing its holdings of MMF shares, MMFs have less cash to 
+invest in the repo market, which reduces the supply of cash available. Indeed, in Section 4.2, we show 
+that MMFs respond to redemptions and subscriptions by adjusting their repo lending, which is to a large 
+extent overnight. Moreover, the relationship between changes in MMF AUM and their repo lending has 
+become stronger since the implementation of the SEC MMF reform in October 2016.
+ 19 
+Sim
+ilarly, issuance of new Treasury securities affects the repo market by increasing the demand for cash 
+by borrowers in that market. When Treasury issues new securities, dealers typically hold some amount 
+of these securities in their inventories before they are able to sell them. During that time, dealers 
+finance the securities in the repo market.  
+To
+ summarize, while payment of corporate taxes and new Treasury issuance affect both the fed funds 
+and the repo market, the effects are different in each market. In the fed funds market, both payment of 
+corporate taxes and net Treasury issuance decrease the level of reserves. In the repo market, payment 
+of corporate taxes decreases the supply of cash and new Treasury issuance increases the demand for 
+cash.  
+It
+ is worth noting that not all shocks affect both the repo and the fed funds market. Indeed, some shocks 
+that influence the repo market may not affect the fed funds market and vice versa. If, for example, 
+MMFs decide to hold more repos and fewer Treasury securities outright this would increase the amount 
+18 Maturing Treasury securities have the opposite effect and increase the supply of reserves. The overall effect on 
+reserves is determined by the difference between new issuance and maturing securities.  
+19 For a description of the SEC reform and its impact on the MMF industry, see Cipriani and La Spada (2018). 
+===== PAGE 14 =====
+12 
+of cash supplied in the repo market but would not affect the supply of reserves. Conversely, the 
+decrease in the Fed’s balance sheet reduced the level of reserves but did not necessarily change the 
+supply of cash to the repo market. Specifically, as long as repo rates were below the interest paid on 
+reserves, banks had no incentives to lend surplus reserves in the repo market; for that reason, any 
+change in the reserve supply would have had no effect on the supply of cash in the repo market.  
+4. I
+nterpreting what happened on September 16 and 17
+One striking aspect of the events of mid-September is that the two shocks described above were 
+anticipated and not exceptionally large. In this section, we discuss two potential factors that could help 
+explain the unusually large response of interest rates: 1) reserve scarcity and 2) the increase in the 
+intermediation cost of some large domestic dealers due to the outflow of funds supplied by MMFs from 
+the sponsored repo program. 
+4.
+1. The role of reserve scarcity 
+In
+ this section, we focus on the role that reserve scarcity may have played in the events of mid-
+September 2019. By reserve scarcity, we mean that the reserve holdings of at least some depository 
+institutions may have been close to, or lower than, their desired levels. To understand how reserves 
+scarcity can affect the fed funds and the repo market, it is useful to provide a brief overview of how the 
+Fed implemented monetary policy pre-crisis and how it has done so since the crisis.  
+As
+ we mentioned above, pre-crisis, total reserves were very low, just a few 10s of billions of dollars. At 
+the time, the demand for reserves was mainly determined by banks’ reserve requirements. Since the 
+Fed did not pay interest on reserves, banks would try to hold just enough reserves to satisfy their 
+requirement, but not more, as holding unremunerated excess reserves had a high opportunity cost. This 
+implies that the demand curve for reserves was quite steep around the level of required reserves and, as 
+illustrated in Figure 7, small changes in the supply of reserves would result in significant changes in 
+interest rates. To implement monetary policy, the New York Fed’s Desk would adjust the supply of 
+reserves through open market operations (i.e., by buying or selling governments securities) so that the 
+===== PAGE 15 =====
+13 
+supply of reserves would intersect the demand curve for reserves at the interest rate target chosen by 
+the FOMC.20  
+A
+s we discussed above, the supply of reserves increased dramatically at the end of 2008, as shown on 
+Figure 2. The growth in reserves was mainly the result of large-scale asset purchases aimed at 
+stimulating the economy and reached a peak of $2.8 trillion in 2014. With the supply of reserves being 
+so large, implementing monetary policy by relying on reserves scarcity became impossible, and the 
+Federal Reserve had to think of a different framework.  
+Fig
+ure 7 
+C
+ongress granted the Federal Reserve the authority to pay interest on reserves in October 2008. As 
+illustrated in Figure 8, at very high levels of reserves, the demand curve becomes flat around the level of 
+the IOER rate. Indeed, when the amount of reserves is very high, relative to banks’ needs, the main 
+reason banks borrow reserves is to earn the spread between the borrowing rate and the IOER rate. And, 
+20 Until December 2008, the FOMC would set a point target for the EFFR. Since then, it sets a range. 
+
+===== PAGE 16 =====
+14 
+as banks compete with each other, this spread should become small. As a result, when reserves are 
+high, changes to the supply of reserves have very little impact on the fed funds rate.  
+Fig
+ure 8 
+In
+ June 2017, the FOMC announced its plan to gradually reduce the size of its balance sheet by ceasing 
+the reinvestment of proceeds from its maturing Treasuries and agency mortgage-backed securities, 
+which led to the decrease in the supply of reserves that can be seen on Figure 2.21 Further, in January 
+2019, the FOMC announced that it “intends to continue to implement monetary policy in a regime in 
+which an ample supply of reserves ensures that control over the level of the federal funds rate and 
+other short-term interest rates is exercised primarily through the setting of the Federal Reserve's 
+administered rates.”22 This could be interpreted as stating that that FOMC does not intend the supply of 
+reserves to intersect the demand curve for reserves on the very steep part of the demand curve, as was 
+the case pre-crisis.23 The FOMC has also stated that the SOMA portfolio will hold no more securities than 
+21 For more detail, see https://www.federalreserve.gov/monetarypolicy/policy-normalization-discussions-
+communications-history.htm. The gradual reduction began in October 2017.  
+22 See https://www.federalreserve.gov/newsevents/pressreleases/monetary20190130c.htm. 
+23 This interpretation is our own. For more detail on monetary policy implementation with ample reserves see 
+Afonso et al. (2020).  
+
+===== PAGE 17 =====
+15 
+necessary for efficient and effective policy implementation, which can be interpreted as suggesting that 
+the supply of reserves will remain ample but close to the steep portion of the demand curve. 
+In
+ the pre-crisis regime, the location of the steep part of the demand curve for reserves was well known, 
+because it was mainly determined by banks’ reserve requirements. By contrast, post crisis, the location 
+of the steep part of the demand curve has become more difficult to gauge. The introduction of new 
+liquidity regulations with Basel III and the associated supervisory programs have changed banks’ liquidity 
+management practices, fundamentally altering the banks’ desired level of reserves. In a recent survey 
+conducted by the Federal Reserve, the majority of bank respondents identified meeting routine intraday 
+payments flows and satisfying internal liquidity stress metrics as main drivers of their demand for 
+reserves.24 This means that the level of reserves at which the demand curve becomes flat is likely much 
+higher than it was pre-crisis. That level may also be more variable than pre-crisis, as the cost for DIs to 
+redistribute reserves among themselves has increased and the set of factors driving reserve demand has 
+broadened.25  
+In
+ mid-September 2019, the supply of reserves dipped below $1.4tn, its lowest point since 2011. It is 
+possible that the supply of reserves declined so much that it intersected the steep part of the demand 
+curve for reserves. If that is indeed the case, then the increase in the fed funds rate on September 16 
+and, particularly, September 17 becomes easier to understand.  
+F
+igure 9 shows the supply of reserves during the first 20 days of September. Reserves declined $65 
+billion on Monday, September 16, reaching their lowest level since 2011. While the decline was quickly 
+reversed on September 17, the supply of reserves remained lower than it had been during the first half 
+of September.  
+The f
+act that the EFFR had been above IOER since April 2019 suggests that some banks were on the 
+steep part of their individual demand curves. The sharp decrease in reserves observed in mid-September 
+may have pushed some banks further up the steep part of their demand curves and could also have 
+24 See the August 2019 Senior Financial Officer Survey, https://www.federalreserve.gov/data/sfos/sfos.htm 
+25 Kim, Kyungmin, Antoine Martin, and Ed Nosal (forthcoming) study the impact of regulatory costs on interbank 
+transactions. Afonso et al. (2020) discuss the relation between fed funds rates and reserve levels in the post-crisis 
+period. 
+===== PAGE 18 =====
+16 
+increased the number of banks that were on the steep part of their demand curves, leading to the 
+observed increase in market rates.  
+Fig
+ure 9
+W
+hile reserve scarcity could explain what happened in the fed funds market, it is not immediately clear 
+why lower reserves and higher fed funds rates would create such a steep rate increase in the repo 
+market. After all, the effective fed funds rate increased only by a few basis points, whereas the SOFR 
+spiked by several percentage points.  Additionally, as noted previously, the tax payments and Treasury 
+issuance were not unusually large and similar shocks in the past had not led to large increases in repo 
+rates.  
+On
+e possible channel through which reserve scarcity may impact repo markets is the fact that some DIs 
+lend in the repo market when repo rates are attractive, either directly or through their dealer affiliate. 
+Avalos, Ehlers, and Eren (2019) document the importance of repo cash lending by depository institutions 
+
+===== PAGE 19 =====
+17 
+f.26 DIs, however, lend in the repo market only if they have more reserves than wish to hold minimum
+desired level. In previous instances where the repo market was buffeted by tax or Treasury issuance
+shocks, it is possible that enough DIs had sufficient reserves to lend in the repo market and offset rate
+pressures that would have otherwise happened.
+Und
+er this interpretation, reserve scarcity does not directly cause the spike in repo market. That spike is 
+the result of the relatively small, anticipated shocks described above, namely, the decrease in the supply 
+of cash and the increase in the demand for cash caused by the corporate tax payments and Treasury 
+issuance. If the demand and supply for cash are sufficiently inelastic, even small changes in the supply 
+and demand for cash could result in large interest rate increases. Reserve scarcity would only contribute 
+to the spike in repo rates to the extent that it prevented banks from stepping in that market to mitigate 
+the rate pressures (that is, as long as it renders the supply of repo cash inelastic). Anecdotal evidence 
+suggests that, in September 2019, some banks did not have surplus reserves to lend. For example, 
+during an earnings call on October 15, 2019, Jamie Dimon stated that JPMorgan could not lend more 
+than it did in the repo market because of its internal reserves limits.27 In addition, as we will show 
+below, data on reserve levels and repo activity at banks also provide some evidence supporting the idea 
+that reserves were scarce. 
+4.2. T
+he role of intermediation costs 
+In t
+his section, we describe how some large dealers experienced an increase in their intermediation 
+costs in mid-September that may have contributed to the increase in repo rates. We try to answer three 
+questions: First, abstracting from reserve scarcity, what else could explain the increase in repo rates in 
+mid-September? Second, why were the rate increases so large? And, third, why did fed funds rates 
+increase?  
+One s
+et of circumstances that may have been unique to the mid-September events is the behavior of 
+MMFs. As shown in Figure 10, from April to August 2019, government MMF assets under management 
+(AUM) grew by $264bn, resulting in an increase in Treasury-repo lending by MMFs of $159bn. This AUM 
+26 See also Wrightson (2019). 
+27 A transcript of the call can be found here: https://www.fool.com/earnings/call-
+transcripts/2019/10/16/jpmorgan-chase-jpm-q3-2019-earnings-call-transcrip.aspx. 
+===== PAGE 20 =====
+18 
+growth is primarily due to the relative attractiveness of MMF yields given the low elasticity of banks’ 
+deposit rates to policy rate increases (see Cipriani et al., 2019, and Drechsler et al., 2017).  
+Since
+ the SEC MMF reform was implemented, in October 2016, there has been a tight relationship 
+between MMF AUM and MMF repo investment: the reason is that the reform increased the size of the 
+Government MMF sector, which can only lend to the private sector though repo backed by Treasury or 
+Agency securities. Since the SEC reform took effect, we estimate that on average, for every dollar 
+change in AUM, repo investment changes by 0.69. 
+Figur
+e 10 
+Since
+ early August 2019, MMF repo lending started to decrease as MMFs shifted their portfolio into 
+term instruments, primarily Treasury bills. The shift is related to higher expected returns from holding 
+bills due to MMFs’ expectation of monetary policy loosening at the FOMC’s September meeting. Indeed, 
+MMFs have historically increased weighted-average maturities ahead of expected rate cuts (Di Maggio 
+and Kacperczyk, 2017; La Spada, 2018). 
+
+===== PAGE 21 =====
+19 
+Imp
+ortantly, during 2019, both the increase and subsequent decrease in MMF repo lending were 
+mirrored in changes in the size of the FICC sponsored repo program, as shown in Figure 11, suggesting 
+that the expansion and contraction in MMF repo lending occurred to a great extent in this segment of 
+the repo market. MMFs may have preferred to reduce FICC sponsored repo lending, rather than their 
+tri-party lending with large dealers because established relationships with dealers are important in the 
+tri-party repo market. Sponsored repo, being a relatively new option, may not rely on relationships as 
+much. 
+Fig
+ure 11 
+D
+uring the week of September 13-16, AUM of government and prime MMFs decreased by $34bn, 
+mainly coming from institutional funds, whose investors were affected by the corporate tax day. The 
+decrease was similar to other recent corporate tax dates, both in magnitude and in the fact that it 
+reverted in the following days. That said, repo lending by MMF contracted both on the week of the 16th 
+(by $43bn) and on the following week (by $31bn). MMF repo investments saw a cumulative decline of 
+
+===== PAGE 22 =====
+20 
+about $60bn between August 20th and September 17th, the largest decrease since early 2018. It is 
+important to remark that such decrease in repo lending by MMFs was larger than that implied by the 
+estimated historical relationship between AUM and repo, suggesting that although the shock was 
+expected, the resulting pull back by MMFs from repo lending may have been somewhat larger than 
+anticipated. 
+H
+ow was the demand for cash met in the repo market after MMF retrenchment? Some of the domestic 
+global systemically important banks (US GSIBs) stepped in. As cash lending into FICC coming from 
+sponsored repo decreased due to MMFs pulling back, US GSIBs increased their net lending, essentially 
+making up the shortfall, notably on September 16 and 17.  
+I
+t is difficult to be sure where US GSIBs obtained the cash for their additional net lending. Total net repo 
+borrowing across all repo markets declined for US GSIBs, suggesting that the source of additional cash is 
+not coming from other repo markets. One possibility is that the additional cash lent came from affiliates 
+of the US GSIBs, for example, their DIs, if they had more reserves than their minimum desired level.  
+The r
+etrenchment of MMF funding from the sponsored repo program likely increased the average 
+intermediation costs faced by institutions lending in the interdealer market. Indeed, as explained in 
+section 1.2, funds borrowed through the sponsored program can be netted against fund lent in the FICC-
+cleared interdealer market. In contrast, funds obtained from other sources typically cannot. As a result, 
+the MMF pull back likely increased the average intermediation costs of US GSIBs; that is, the additional 
+regulatory cost of lending due to a loss in the ability to net. Put differently, the rate required for US 
+GSIBs to increase their net lending in the repo market likely rose. We can see evidence of this 
+intermediation-cost increase reflected in the interest rate spread between the rate at which US GSIBs 
+borrowed in tri-party repo and the rate at which they lend in FICC DvP. This spread ticked up in the days 
+leading up to September 17, before skyrocketing on September 17 itself. So, while US GSIBs likely saw 
+they intermediation costs increase, they also were able to increase their intermediation margins.  
+T
+he decrease in sponsored repo would not increase a dealer’s intermediation cost if the dealer were 
+able to redeploy surplus reserves from its DI affiliate. In this case, the repo loan would simply replace 
+reserves on the asset side of the aggregated balance sheet of the bank holding company, leaving its size 
+unchanged. This suggests a possible link between reserve scarcity and the repo channel highlighted in 
+===== PAGE 23 =====
+21 
+this section. If reserves are sufficiently plentiful, institutions like GSIBs could increase their repo lending 
+in the face of an MMF pull back from the sponsored program without seeing their intermediation cost 
+increase.  
+W
+hile the MMF pullback from the sponsored repo program can help explain why repo rates increased 
+more than expected, particularly in a context of scarce reserves, it is unlikely that these facts alone are 
+enough to explain why the repo rates increased as much as they did. We now turn to some potential 
+factors that could have exacerbated the rate movement.  
+Hig
+her intermediation cost can explain an increase in the rate at which dealers lend but not necessarily 
+the rate at which they borrow. So what explains that the rates at which dealers borrowed in the tri-party 
+repo market increased? One possible explanation is the transmission of information across repo-market 
+segments. Because the tri-party repo market is over-the-counter, one of the few sources of pricing 
+information is interdealer screens. An unexpected rise in interdealer rates could have led tri-party 
+lenders to ask for higher rates. Of course, since dealers must earn a spread, they would increase the 
+rates at which they lend as a response to higher tri-party repo rates, leading to a vicious cycle triggered 
+by the increase in intermediation costs described above.  
+Mar
+ket observers have mentioned other factors that may have played a role in the mid-September 
+stress, particularly on September 17, when signs of panic appeared in money markets. We discuss some 
+of these explanations briefly. Some repo market lenders may have chosen to delay their lending in the 
+face of larger-than-expected rate movements, waiting to obtain more information about the cause of 
+the rate increase. For example, some market participants may have been concerned that the rate 
+volatility was due to something other than a mere transient liquidity issue and may have preferred to 
+hold on to their cash in case they might need it later. This type of behavior, not lending because liquidity 
+is scarce and might be needed later, thereby exacerbating the scarcity, is typical of self-fulfilling liquidity 
+panics.  
+F
+rictions related to bank’s risk management framework may also have prevented some firms from 
+reacting fast enough. Banks manage their liquidity more tightly than pre 2008 crisis, which means that 
+they may have become slower or more reluctant in taking advantage of profit opportunities (such a 
+liquidity driven mispricing) Responses the recent survey of Senior Financial Officer conducted by the 
+===== PAGE 24 =====
+22 
+Federal Reserve mentioned above, are broadly consistent with this interpretation. Some form of 
+approval is typically required to exceed a bank’s internal liquidity limits and this may slow banks’ 
+response quickly to changing market condition. This, combined with the fact that the repo market trades 
+very early, typically before 9 AM, could have made it difficult to deploy cash at short notice. We find 
+some evidence suggesting that frictions related to banks’ risk management frameworks and regulation 
+may have played a role: indeed, BHCs that appear more constrained in their regulatory ratios lend at 
+higher rates (and/or spreads).  
+N
+ote that there is a distinction between the effects of regulation itself, the associated supervision, and 
+the effect of the risk-management frameworks put in place by banks, either as a response to the 
+regulation and supervision or based on lessons learned from the 2007-2009 financial crisis. In contrast to 
+the suggestion of some market commentary, it seems unlikely that regulation itself may have been a key 
+contributing factor to the money market stress of mid-September. Banks typically hold considerable 
+buffers above their regulatory minima, which means that the regulatory constraints were, in all 
+likelihood, not binding. However, even is regulatory constraints are not binding, it is possible that 
+internal limits set by the banks themselves and in response to supervisory expectations may have been 
+binding, at least for some banks.  
+Fina
+lly, some observers have suggested that market concentration may have played a role. For example, 
+Smith (2019) interviews repo dealers who express concerns that a small number of cash lenders may 
+have a stronghold on the market.  
+The l
+ast question we attempt to answer in this section is: Did the strains in the repo market outlined 
+above impact the fed funds market? More precisely, if reserves had not been scarce, and the spike in 
+repo rates were only due to the factors mentioned above, would have we observed an increase in fed 
+funds rates?  
+On
+e source of the spillover from repo to fed funds rates could be the behavior of FHLBs, which are the 
+main cash supplier in the fed funds market and also lend in the repo market. Fed funds volumes were 
+unusually low on Monday, September 16, which is consistent with FHLBs increasing their lending in the 
+repo market and, correspondingly, decreasing the amount they lend in the fed funds market.  
+===== PAGE 25 =====
+23 
+In addition, it appears that there was very little fed funds activity early on Tuesday as market 
+participants, including FHLBs, may have delayed their lending, to assess the situation in money markets. 
+FHLBs could also have chosen to wait to find out about potential liquidity draws from their members. 
+This type of behavior could help explain the increase in fed funds rates during those days.  
+5. Th
+e Federal Reserve’s response
+I
+n this section we briefly describe the Federal Reserve’s response to the mid-September 2019 events 
+and describe the effects of the Federal Reserve’s operations on the fed funds and the repo markets.  
+Then, we consider what this episode teaches us about the Federal Reserve’s monetary policy 
+implementation framework.  
+The 
+Federal Reserve responded to elevated rates on September 16 and 17 by adding reserves through 
+lending cash in the repo market, starting from September 17. In addition, starting in October, the 
+Federal Reserved began to purchase Treasury bills outright to maintain a supply of reserve greater than 
+the one that prevailed in early September.  
+In
+ particular, the NY Fed’s Desk announced an overnight repo operation shortly after 9 AM on Tuesday, 
+September 17, as a response to upward pressure on the fed funds rate observed on the prior day, 
+particularly in the afternoon. The operation had a maximum size of $75 billion against Treasury, Agency, 
+and Agency MBS collateral. Rates in the fed funds market and the repo markets decreased following the 
+announcement. Most repo trading occurs early in the morning and was already completed by the time 
+of the announcement. Likely for that reason, the operation was not fully subscribed.  
+D
+espite decreasing from their peak, repo rates for 1-day forward-settling trades remained elevated 
+because market participants were not sure whether the Federal Reserve’s operations would continue on 
+subsequent days. These concerns were allayed on Tuesday afternoon when the Desk announced that it 
+would conduct an overnight operation, at 8:15 AM, on Wednesday, September 18.
+28  
+28 https://www.newyorkfed.org/markets/opolicy/operating_policy_190917a 
+===== PAGE 26 =====
+24 
+On the morning of September 20, the Desk announced a series of operations over the quarter-end, 
+which included three 2-week operations covering the quarter-end and daily overnight operations of $75 
+billion through October 10.29  As a result of these operations, the supply of reserves went up, helping 
+keep the fed funds rate into the target range.  
+C
+onditions in other money markets also improved: rates on forward-settling repo contracts spanning 
+quarter-end and term repo contracts over quarter-end declined following the announcement. This 
+helped reduce market participants’ concerns about funding conditions over the September quarter-end. 
+Indeed, as noted above, some dealers reduce their intermediation activity on quarter-ends because they 
+need to report a snapshot of their regulatory ratios on those days. In addition, pressures in offshore 
+funding markets also abated.  
+On
+ October 11, 2019, the FOMC announced its intention to maintain over time an ample supply of 
+reserves balances at or above the level that prevailed in early September.30 The FOMC instructed the 
+Desk to purchase Treasury bills at least into the second quarter of 2020, and to continue repo 
+operations, to supply reserves and to mitigate money market pressures that might impede policy 
+implementation. The goal of the bill purchases is to ensure the smooth functioning of money markets at 
+the current monetary policy stance, not to change the monetary policy stance.  
+T
+he Federal Reserve’s interventions potentially affect several of the mechanism that generated spikes in 
+the fed funds and repo rates. First, the increase in reserves should alleviate pressures arising from 
+reserve scarcity. Both repo operations and outright purchases increase the level of reserves. Second, to 
+the extent that some of the stress was related to an imbalance between the supply and the demand for 
+cash in the repo market, both the Fed’s repo operations and the outright purchases help. Repo 
+operations increase the supply of cash in the repo market, while outright purchases reduce the supply of 
+securities that are likely to be financed in the repo market, reducing the demand for cash.  
+The
+ Federal Reserve’s operations have helped maintain the supply of reserve above the level that 
+prevailed in early September. The injection of reserves rapidly restored control of the EFFR, which has 
+29 https://www.newyorkfed.org/markets/opolicy/operating_policy_190920. On September 25, the Desk 
+announced that the size of overnight and term repo operations would be increase to $100 billion and $60 billion, 
+respectively. The size of overnight operations returned to $75 billion after the end of the quarter. 
+30 https://www.federalreserve.gov/newsevents/pressreleases/monetary20191011a.htm  
+===== PAGE 27 =====
+25 
+displayed little volatility over the last few month, staying well within the target range and very close to 
+the IOER rate. Trading in other money markets has also been calm.  
+Fr
+om the perspective of the monetary policy implementation framework, one interpretation of the mid-
+September events is that the EFFR, and money market rates more generally, can be unexpectedly 
+volatile when reserves start to become scarce. This experience of the last few months suggests that a 
+small increase in the supply of reserves, back to the level of early September 2019, was enough to 
+restore control of the EFFR. In that sense, the FOMC’s monetary policy implementation framework 
+functions well, provided the supply of reserves is large enough.  
+I
+t would be interesting to better understand the role of the supply of reserves, by itself, and the role of 
+ongoing repo operations. Over the next few month, as the repo operations wind down, it will be 
+possible to get a better sense of the relative importance of these two factors in maintaining smooth 
+conditions in the fed funds market.  
+6. C
+onclusion
+In
+ this paper, we studied factors that may have contributed to the stress in US money markets in mid-
+September 2019. We provided an overview of the two money markets that were primarily affected, the 
+fed funds market and the repo market, and described the links between the two markets.  
+Ou
+r study focused particularly on factors that were important in mid-September 2019 but had not 
+manifested themselves before. Reserves hit their lowest level since the end of the crisis in mid-
+September and may have been close to or lower than the level of reserves desired by depository 
+institutions. A low level of reserves directly explains the increase in fed funds rates, the rate at which 
+depository institutions borrow reserves. In addition, it could help explain the increase in repo rates 
+indirectly. Prior to mid-September some depository institutions with surplus reserves would provide 
+cash to the repo market whenever repo rates were elevated, dampening the effect of cash imbalances 
+in that market. It is possible that these depository institutions did not have surplus reserves to lend in 
+mid-September.  
+===== PAGE 28 =====
+26 
+We also show how a decrease in money market mutual funds lending through the FICC’s sponsored 
+program may have temporarily increased the intermediation cost of US GSIBs who play an important 
+role in the repo market. This increase in intermediation cost could have led to an increase in repo rates 
+more generally. As noted above, this factor may have interacted with reserve scarcity. Indeed, if 
+reserves are ample, it would be possible for repo intermediaries to increase their net lending in the repo 
+market without increasing their intermediation costs by redeploying surplus reserves from their DI 
+affiliate.  
+T
+he Federal Reserve’s response to the mid-September events highlight the importance of maintaining a 
+sufficiently large supply of reserve for the monetary policy implementation framework to operate 
+effectively. In the last few months, with the supply of reserves above the level that prevailed in early 
+September, trading in the fed funds market, and in other money markets, has been smooth.  
+===== PAGE 29 =====
+27 
+7. References
+Afonso, Gara, Kyungmin Kim, Antoine Martin, Ed Nosal, Simon Potter, and Sam Schulhofer-Wohl (2020), 
+“Monetary Policy Implementation with an Ample Supply of Reserves.” Federal Reserve Bank of New 
+York Staff Reports 910. 
+Afonso, Gara, and Ricardo Lagos (2015), “Trade dynamics in the market for federal funds,” Econometrica 
+83 (1), 263–313. 
+Afonso, Gara, Roc Armenter, and Benjamin Lester (2019), “A model of the federal funds market: 
+Yesterday, today, and tomorrow,” Review of Economic Dynamics 33, 177–204. 
+Armenter, Roc, and Benjamin Lester (2017), “Excess reserves and monetary policy implementation,” 
+Review of Economic Dynamics 23, 212–235. 
+Ashcraft, Adam B., and Darrell Duffie (2007), “Systemic illiquidity in the federal funds market,” The 
+American Economic Review 97 (2), 221–225. 
+Avalos, Fernando, Torsten Ehlers, and Egemen Eren (2019), “September stress in dollar repo markets: 
+passing or structural?” BIS Quarterly Review.  
+Bech, Morten, and Todd Keister (2017), “Liquidity regulation and the implementation of monetary 
+policy,” Journal of Monetary Economics 92 (Supplement C), 64–77. 
+Bech, Morten, and Elizabeth L. Klee (2011), “The mechanics of a graceful exit: interest on reserves and 
+segmentation in the federal funds market,” Journal of Monetary Economics 58 (5), 415–431. 
+Berentsen, Aleksander, and Cyril Monnet (2008), “Monetary policy in a channel system,” Journal of 
+Monetary Economics 55 (6), 1067–1080. 
+Cipriani, Marco, Jeff Gortmaker, and Gabriele La Spada, “Monetary Policy Transmission and the Size of 
+the Money Market Fund Industry,” Federal Reserve Bank of New York Liberty Street Economics, 
+November 20, 2019. 
+Cipriani, Marco, and Gabriele La Spada. “Investors’ Appetite for Money-Like Assets: The Money Market 
+Fund Industry after the 2014 Regulatory Reform,” Journal of Financial Economics, forthcoming. 
+Copeland, Adam, Darrell Duffie, Antoine Martin, and Susan McLaughlin (2012), “Key Mechanics of 
+The U.S. Tri-Party Repo Market.” Federal Reserve Bank of New York Economic Policy Review 18 (3), 17-
+28. 
+Covas, Francisco, and Bill Nelson. 2019. “Bank Regulations and Turmoil in Repo Markets.” Bank Policy 
+Institute blog (https://bpi.com/bank-regulations-and-turmoil-in-repo-markets/). 
+Di Maggio, Marco, and Marcin Kacperczyk (2017), “The unintended consequences of the zero lower 
+bound policy,” Journal of Financial Economics 123 (1), 59-80. 
+===== PAGE 30 =====
+28 
+Drechsler, Itamar, Alexi Savov, and Philipp Schnabl (2017), “The Deposit Channel of Monetary Policy,” 
+Quarterly Journal of Economics 132 (4), 1819-1876. 
+E
+nnis, Huberto M. (2018), “A Simple General Equilibrium Model of Large Excess Reserves,” Journal of 
+Monetary Economics 98, 50-65. 
+E
+nnis, Huberto M., and John A. Weinberg (2013), “Over-the-counter loans, adverse selection, and stigma 
+in the interbank market,” Review of Economic Dynamics 16 (4), 601–616. 
+F
+urfine, Craig H. (1999), “The microstructure of the federal funds market.” Financial Markets, 
+Institutions & Instruments 8 (5), 24–44. 
+G
+agnon, Joseph, Matthew Raskin, Julie Remache, and Brian Sack (2011), “Large-scale asset purchases by 
+the Federal Reserve: did they work?” Economic Policy Review, Federal Reserve Bank of New York, issue 
+May, 41-59. 
+K
+im, Kyungmin, Antoine Martin, and Ed Nosal (forthcoming), “Can the U.S. Interbank Market be 
+Revived,” Journal of Money, Credit and Banking.  
+L
+a Spada, Gabriele (2018), “Competition, reach for yield, and money market funds,” Journal of Financial 
+Economics 129 (1), 87-110. 
+M
+artin, Antoine, James McAndrews, Ali Palida, and David Skeie (2019), “Federal Reserve Tools for 
+Managing Rates and Reserves.” Federal Reserve Bank of New York Staff Reports 642. 
+P
+oole, William (1968), “Commercial bank reserve management in a stochastic model: implications for 
+monetary policy,” Journal of Finance 23 (5), 769–791. 
+S
+chulhofer-Wohl. Sam (2019), “Understanding Recent Fluctuations in Short-Term Interest Rates,” 
+Chicago Fed Letter 423.  
+S
+mith, Robert Mackenzie (2019), “All clear? Structural shifts add to repo madness.” Risk.net, November 
+5, 2019.  
+S
+pratt, Stephen (2020), “It Wasn't Just the Fed Keeping Repo Markets Cool at Year-End” Bloomberg. 
+(https://www.bloomberg.com/news/articles/2020-01-16/it-wasn-t-just-the-fed-keeping-repo-markets-
+cool-over-year-end) 
+W
+illiamson, Stephen D. (2019), “Interest on reserves, interbank lending, and monetary policy,” Journal 
+of Monetary Economics 101 (1), 14-30. 
+Wri
+ghtson ICAP. 2019. Money Market Observer, September 30, 2019. 

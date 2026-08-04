@@ -1,0 +1,564 @@
+ 
+ 
+ 
+ 
+Bagehot was a Shadow Banker: 
+  Shadow Banking, Central Banking, and the Future of Global Finance 
+ 
+Perry Mehrling (Barnard College, Columbia University), Zoltan Pozsar (U.S. Treasury), James Sweeney 
+(Credit Suisse), Daniel H. Neilson (Institute for New Economic Thinking)* 
+December 6, 2013 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*The authors are members of the Shadow Banking Colloquium, a project of the Financial Stability 
+Research Program of the Institute for New Economic Thinking.  Thanks to Falk Mazelis for research 
+assistance, and to Phil Prince for searching comments on an earlier draft. 
+Electronic copy available at: https://ssrn.com/abstract=2232016
+1 
+ 
+The modern shadow banking system, at its core, bears a surprising resemblance to the 19th 
+century world that Walter Bagehot helped us to understand in his magisterial book Lombard Street:  A 
+Description of the [London] Money Market (1873).  At the heart of both worlds is the wholesale money 
+market, and operating as the crucial liquidity backstop in both worlds is the central bank.  At the time 
+Bagehot was writing, this backstop function was not yet fully understood, much less accepted; much the 
+same could be said of the central bank’ s backstop of the shadow banking system today (Capie 2012).  
+We are living today in a Bagehot moment, when the outlines of the new are just emerging from the 
+ashes of the old. 
+During crisis, the central banks of Bagehot’s time and our own both dutifully employed their 
+balance sheets to stem th e downturn.  In both his time and ours they did so without much prior theory 
+about why it would work, and with hardly any thought about possible implications for more normal 
+times.  The time for all of that would come later, after the crisis.  Bagehot’s book started the process of 
+necessary rethinking for his own ti
+me by bringing out into the open how the Bank of England had acted 
+during previous crises.  We start the process of necessary rethinking for our own time by using Bagehot 
+as an entry point for understanding the modern shadow banking system, and the Fe d’s  response to the 
+global financial crisis. 
+In doing so, we are conscious of taking a different approach to the subject than does most of the 
+existing literature. For most authors, the important thing about shadow banking is the “shadow”, the 
+distinct whiff of illegitimacy that comes from regulatory evasion in good times combin ed with 
+unauthorized access to the public purse in bad times.  This is the origin of the widespread impulse to 
+frame the question of appropriate oversight and regulation of shadow banking as a matter of how best 
+to extend the existing system of oversight and regulation as it is applied to tradi tional banking.  See for 
+example the much‐cited paper of Gorton and Metrick (2010), as well as the recent overviews by Adrian 
+and Ashcraft (2012) and the Financial Stability Board (2012). 
+Electronic copy available at: https://ssrn.com/abstract=2232016
+2 
+ 
+For us, by contrast, shadow banking is simply “money market funding of capital market lending”, 
+sometimes on the balance sheets of entities called banks and sometimes on other balance sheets.   As 
+such, shadow banking is not some troubling excrescence on the healthy body of traditional banking.   
+Rather, it is the centrally im portant channel of credit for our times, which needs to be understood on its 
+own terms.  From this vantage point, the question of appropriate oversight and regulation requires us to 
+abstract from what we know about traditional banking, and to start instead by imagining a world in 
+which shadow banki ng  is the only banking system.    
+The defining role of markets, both money and capital markets, for our understanding of shadow 
+banking directs attention to the central importance of prices, and also to the central importance of 
+market‐making institutions both for price discovery and for continuing secondary market liquidity.  
+These institutions, relatively unimportant from the perspective of traditional bank loan‐based credit, are 
+both central and essential for modern capital market‐based credit.  When they are working well, the 
+whole system works well; and when they stumble, the whole system stum bles.   In what follows, we 
+place them at the very center of analytical attention. 
+Figure 1 shows an idealized picture of the shadow banking system, which we might more 
+neutrally call the “market‐based credit system”.  The “capital funding bank” is engaged in money market 
+funding of capital market lending, he nce  shadow banking, specifically the funding of residential 
+mortgage backed securities (RMBS).  We imagine the risk in these securities being hedged in various 
+swap markets—generically, credit default swaps, interest rate swaps, and foreign exchange swaps—so 
+that the combined CFB asset position is essentially riskfree.1  We further imagine this asset position 
+being used as security for money market funding.   
+                                                            
+1 To avoid possible confusion, let it be noted that we adopt an “insurance” convention of booking swaps that strip 
+out risk as contingent assets on their ultimate owners balance sheet, and hence also as contingent liabilities on the 
+balance sheet of the counterparty to whom the risk is transferred.   An alternative “inve stment” convention is also 
+possible, which would instead book the risk exposure as an asset on the reasoning that it has positive expected 
+return even if zero net present value at inception.   
+Electronic copy available at: https://ssrn.com/abstract=2232016
+3 
+ 
+The “asset manager” is the mirror image of the capital funding bank, holding its capital in 
+(secured) money form and enhancing the return on that capital by selective risk exposure in various 
+swap markets—again generically credit default swaps, interest rate swaps, and foreign exchange swaps.   
+Standing in between the asset manager and the capi tal funding bank are two types of market‐makers, 
+one the “global money dealer” whose dealing activities establish the price of funding, and the other the 
+“derivative dealer” whose dealing activities establish the price of risk.  These dealers will be the central 
+focus of our analysis. 
+ 
+Figure 1:  A Market‐based Credit System 
+Capital Fu
+nding Bank        Global Money Dealer     Asset Manager 
+Assets  Liabilities  Assets  Liabilities  Assets  Liabilities 
+RMBS 
+CDS 
+IRS 
+FXS 
+MM funding  MM funding  “deposits”  “deposits”  Capital 
+CDS 
+IRS 
+FXS 
+ 
+    Derivative Dealer 
+ 
+Assets  Liabilities 
+CDS 
+IRS 
+FXS 
+CDS 
+IRS 
+FXS 
+ 
+In this stylized model, we abstract from counterparty risk because all funding is secured, and 
+because all derivative positions are matched either by offsetting natural positions (such as RMBS for the 
+CFB) or by reserves sufficient to make good even in the worst case scenario (“deposits” for the AM).  
+Further, our dealers are mat ched‐book dealers, with no net exposure to price risk, and thus with no 
+need for capital reserves.  Because their cash and collateral inflows and outflows are exactly matched, 
+they have no need for liquidity reserves either.  The only capital in the system, and the only deposit 
+holding as we ll,  are both on the balance sheet of the asset manager, which is as it should be since the 
+Electronic copy available at: https://ssrn.com/abstract=2232016
+4 
+ 
+asset manager is the only agent facing any risk.  (We will be relaxing these strong assumptions when we 
+consider boom‐bust dynamics in Section II.) 
+The stylized character of this model means that it cannot be expected to line up exactly with the 
+institutional arrangements of current financial markets.  Indeed, most large investment ba nks probably 
+contain within their walls elements of all four functions.  The value of the model is in helping us to make 
+conceptual distinctions between these functions, both within given institutions and across institutions.  
+Just so, for example, capital funding bank structures can be found on the balance sheets of most 
+European universal banks, but also in off‐balance sheet conduits of various kinds.  Money market mutual 
+funds might be considered global money dealers, bu t  they are not the only ones.  Pension funds might 
+be considered asset managers, but also non‐financial corporate treasurers and even synthetic Exchange‐
+Traded Funds.  Central counterparty clearinghouses might be considered derivative dealers, but so also 
+is anyone running a bespoke swap book.   
+The main purpose of the model is to provide an ove rarching framework to make conceptual 
+sense of the many moving parts of the market‐based credit system.  Most important, the model 
+highlights the central importance of the dealers who make prices in money and capital markets.  In 
+doing so, we also uncover a link to the older Bagehot‐era literature since, in effect, Bageho t’s bill brokers 
+were last century’s version of the model’s Global Money Dealers (Wood 2000).  At the core of the 
+modern‐world credit system lies a bill funding apparatus quite analogous to the one Bagehot and his 
+contemporaries were trying to understand, and to m anage.   For understanding and for managing our 
+own system, we start from Bagehot. 
+ 
+I.  Bagehot and Beyond 
+Reading Bagehot, we enter a world where securities issued by sovereign states are not yet the 
+focal point of trading and prices, as they would come to be in the 20th century.  Instead, the focus of 
+Electronic copy available at: https://ssrn.com/abstract=2232016
+5 
+ 
+attention is the private bill market, which domestic manufacturers tap as a source of working capital, 
+and which traders worldwide tap to finance the movement of tradable goods.  It is a market in short‐
+term private debt, typically collateralized by tradable goods. 
+Supplying funds to the bill market were, among ot hers,  banks that purchased bills at discount 
+from face value using their own deposit liabilities, typically planning to hold to maturity and redeem at 
+par.   The institution of “acceptance”, by which a bank or some other party guaranteed payment of a bill 
+at maturity, was the way non‐prime bills beca me  prime.  Backstopping the whole thing was the Bank of 
+England, whose posted “Bank Rate” in effect put a floor on the price of prime bills; bank rate was usually 
+somewhat higher than the market rate of discount.  Banks whose immediate cash outflow (from deposit 
+withdrawals) outran their immediate cash inflow (fro m  maturing bills) could take their prime bill assets 
+to the Bank of England for rediscount, and get cash for them.  Normally, though, they could get a 
+somewhat higher price by tapping the lively secondary bill market to find a private buyer.  In normal 
+times, the central bank backstop operated to support the market; only in crisis times di d the central 
+bank backstop become the market. 
+What has come down to us as the Bagehot Rule for stemming financial crisis—lend freely but at 
+a high rate of interest—was originally about the Bank of England buying bills freely but at a low price.  It 
+should be em
+phasized, however, that the Bank could and did also make loans (“advances”) against bill 
+collateral, and the Bank’s generous collateral valuations provided further support for market prices.  
+Bagehot famously urged the Bank to accept as collateral “what in ordinary times is reckoned a good 
+security” rather than attending to current market valuation.    The point of all these measures was to 
+prevent troubled banks from being forced to liquidate fundamentally sound assets at fire sale prices. 
+Figure 2 shows a stylized picture of how the discount system worked in Bagehot’s day.  We show 
+the Bank of England as the ulti mate  backstop for the system, rediscounting prime bills by using its own 
+liabilities as a source of funds.  Note well that the Bank of England takes in as assets both the underlying 
+Electronic copy available at: https://ssrn.com/abstract=2232016
+6 
+ 
+bill and the acceptance which guarantees par payment at maturity.  In principle, the Bank of England’s 
+risk exposure was supposed to be about when it would be paid, not about whether it would be paid, 
+thus liquidity risk not solvency risk.  The banks writing acceptances were supposed to be taking the 
+solvency risk, so making up with their own capital any losses on the underlying bill. 
+ 
+Figure 2:  Bagehot’s Lender of Last Resort 
+         Deficit Firm         Bank      Bank of England             Surplus Firm 
+Assets  Liabilities  Assets  Liabilities  Assets  Liabilities  Assets  Liabilities 
+  Bill    
+Acceptance
+Bill  
+Acceptance
+Deposit  Deposit  
+   
+What would Bagehot make of modern shadow banking?   
+On the surface, the modern system looks quite different.  The closest thing we have to the 
+institution of “acceptance” is the credit default swap (Mehrling 2010), but that does not so much 
+guarantee eventual par payment as current par valuation.  Just so, according to standard fina ncial 
+theory, the price of a “risk free” security = price of risky security + price of risk insurance.  Further, the 
+modern system is fundamentally a world of long term debt, which connects to the world of short term 
+bills through the institution of the interest rate swap; in sta ndard  financial theory, the price of a short 
+term security = price of long term security + price of interest rate swap.  Finally, the modern system has 
+dispensed with the gold standard of Bagehot’s day, with the consequence that securities contain 
+currency risk which can be stripped out using the institution of the FX swap; the price of a doll ar security 
+= price of foreign currency security + price of FX swap.    
+These differences from the world of Bagehot are significant but should not distract us from 
+seeing that at the heart of his world, as ours, is the money marke t,  and operating as crucial backstop in 
+Electronic copy available at: https://ssrn.com/abstract=2232016
+7 
+ 
+both worlds is the central bank.   Indeed, it could be said that the whole point of the various swaps is to 
+manufacture prime bills from diverse raw materials.  Putting together all the equations in the previous 
+paragraph, we can distinguish the various stages of manufacture: 
+ 
+Price of “risk‐free” prime bills   = price of risky security  
++ price of risk insurance  
++ price of interest rate swap  
++ price of FX swap.    
+ 
+At its core, modern shadow banki ng  is nothing but a bill funding market, not so different from 
+Bagehot’s.  The crucial difference between his world and ours is the fact that Bagehot’s world was 
+organized as a network of promises to pay in the event that someone else doesn’t pay, whereas our own 
+world is organized as a network of promises to buy in the event that someone else doesn’t buy.   (That’s 
+what the swaps do, in effect.)  Put another way, Bagehot’s world was centrally about funding liquidity, 
+whereas our world is centrally about market liquidity (Brunnermeier and Pederson 2009), also known as 
+“shiftability” (Moulton 1918). 
+What accounts for the shift from Bagehot’s time to our own?  The key reason seems to be that 
+in today’s world so many promised payments lie in the distant future, or in another currency.  As a 
+consequence, mere guarantee of eventual par pay ment at maturity doesn’t do much good.   On any 
+given day, only a very small fraction of outstanding primary debt is coming due, and in a crisis the need 
+for current cash can easily exceed it.  In such a circumstance, the only way to get cash is to sell an asset, 
+or to use the asset as collateral for borr
+owing.  In the private market, the amount of cash you can get for 
+an asset depends on that asset’s current market value.  By buying a guarantee of the market value of 
+Electronic copy available at: https://ssrn.com/abstract=2232016
+8 
+ 
+your assets, in effect you are guaranteeing your access to cash as needed; if no one else will give you 
+cash for them, the guarantor will.   
+That, in effect, is what all the swaps are doing, or at any rate what they are trying to do, because 
+the plain fact of the matter is tha t all the swaps in the world cannot turn a risky asset into a genuine 
+Treasury bill.  What works in standard finance theory works only approximately in actual practice, and 
+the devil is in the details of that approximation.  The weird and wonderful world of derivatives at best 
+creates wh
+at we might call quasi‐Treasury bills, which may well trade nearly at par with genuine 
+Treasury bills during ordinary times, only to gap wide during times of crisis.  Here we identify the 
+fundamental problem of liquidity, from which standard theory abstracts, as well as the reason that 
+central bank backstop is needed.  Promises to buy are no good unl
+ess you have the wherewithal to 
+make good on them; the weak link in the modern system is the primitive character of our network of 
+promises to buy. 
+Just so, consider the situation of a shadow bank that holds both a risky asset and various swaps 
+that re
+ference that risky asset, and then finances the lot in the wholesale money market, as in Figure 1.  
+In principle the combination of assets and swaps is risk‐free (i.e. a quasi‐Treasury bill), but the practical 
+question is whether the shadow bank can finance th e combination in the same way that it could if it 
+were actually risk free (i.e. a genuine Treasury bill).  Suppose that the market value of the asset falls a 
+bit.  Even supposing that the value of the swaps rises pari passu—which it may not, given liquidity 
+issues‐‐there still remains the issue how to use that change in market value to meet the funding gap on 
+the asset itself.   
+If the terms of the swap contracts are mark‐to‐market with speedy cash collateral transfer, then 
+the swap value gain produces i mmediate  cash inflow that might possibly be used to fill the funding gap.  
+However, if the terms are otherwise so that the funding gap persists, then the underlying risky asset 
+position may have to be liquidated, so exacerbating downward price pressure as a liquidity spiral gets 
+Electronic copy available at: https://ssrn.com/abstract=2232016
+9 
+ 
+under way.  And even if the swap terms are favorable there could still be a problem, since what is 
+favorable to one party is unfavorable to its counterparty.  Mark‐to‐market with speedy cash collateral 
+transfer just means that the liquidity troubles of the shadow bank are shifted onto the shoulders of its 
+swap coun
+terparty which now faces its own funding gap.  Even if the shadow bank is fine, its 
+counterparty may be forced to liquidate and so spark its own downward liquidity spiral.    
+To stem these liquidity spirals, what is clearly needed is some entity that is willing and able to 
+use its own balance sheet to provide th
+e necessary funding.  If the funding gap is at the shadow bank, 
+we need an entity that can turn the increased value of swap positions into an actual cash flow.  If the 
+gap is at the swap counterparty, we need an entity th at  can turn whatever assets the counterparty 
+might have into actual cash flow.  Ultimately we need a central bank, but that is just the ultimate 
+backstop.  Well before this, what we need is a dealer system that offers market liquidity by offering to 
+buy whatever the market is selling.  Only in crisis ti me  does the central bank backstop become the 
+market; in normal times, the central bank backstop merely operates to support the market. 
+Thus, just as in Bagehot’s day, the critical infrastructure is an interconnected system of dealers, 
+backstopped by a central bank.  Just as in Bagehot’s day, the required ba ckstop  may involve 
+commitment to outright purchase of some well‐defined set of prime securities (such as Treasury 
+securities).  But it must also involve commitment to accept as collateral a significantly larger set of 
+securities, in order indirectly to put a floor on their price in times of crisis.  In previou s  work, we have 
+called this commitment “dealer of last resort” rather than “lender of last resort” in order to draw 
+attention to the modern importance of market liquidity, and hence the importance of placing bounds on 
+price fluctuation (Grad, Mehrling, and Neilson 2011; Mehrling 2011).2   
+                                                            
+2 The contrast with “lender of last resort” is not meant to be a contrast with Bagehot himself, but rather a contrast 
+with the distorted version of Bagehot that has come to dominate our thinking during the intervening century.   
+Under the bank loan‐based credit system, emphasis came to be placed entirely on the l ending, i.e. funding 
+liquidity, to the neglect of indirect price support of the underlying accepted collateral, i.e. market liquidity.  That 
+happened, so it seems, for two historically contingent reasons.  First, most often the underlying accepted collateral 
+Electronic copy available at: https://ssrn.com/abstract=2232016
+10 
+ 
+The key issue for financial stability, today as in Bagehot’s day, is to find a way to ensure a lower 
+bound on the price of prime bills.  The difference is that today, unlike in Bagehot’s day, prime bills are 
+manufactured by stripping price risks of various sorts out of risky lo ng  term securities.  The consequence 
+is that today, unlike in Bagehot’s day, a lower bound on the price of prime bills requires also some kind 
+of liquidity backstop of the instruments that are used to create the prime bills from riskier raw material. 
+ 
+II.  The Dealer Function, Boom and Bust 
+Dealers suppl
+y market liquidity by quoting a two‐sided market and absorbing the resulting order 
+flow on their balance sheets (Harris 2003).  One important kind of idealized dealer is a “matched‐book” 
+dealer whose long positions exactly match his short positions, so that the dealer is in principle 
+completely hedged against pri ce  risk.  This is the kind of idealized dealer we imagined in our basic model 
+of the shadow banking system (Figure 1).   But a dealer who insisted on matched book at every point in 
+time would not, strictly speaking, be supplying market liquidity at all.  If customers are able to bu y  or sell 
+quickly, in volume, and without moving the price, it is because a dealer is willing to take the other side of 
+that trade without taking the time to look for an offsetting customer trade.  The consequence is 
+inventories, sometimes long and sometimes short depending on the direction of the imbala nce; and the 
+consequence of inventories is exposure to price risk.    
+For Global Money Dealers, matched book means term funding of quasi‐Tbills.  Deviations from 
+matched book involve overnight funding of quasi‐Tbills (long inventory), or overnight investment of 
+term funding (short inventory).  For Derivative Dealers, matched book means of fsetting  swap positions, 
+and deviations from matched book involve net risk exposures (long or short).  In both cases, deviations 
+from matched book involve exposure to risk, so profit‐seeking dealers will insist on positive expected 
+                                                                                                                                                                                                
+was a genuine Treasury security so price support seemed irrelevant.  Second, when the underlying collateral was 
+something other than a Treasury it was typically a collection of illiquid loans that had no real market price that 
+could be supported.   Given the rise of the shadow banking system, neither of these historically co ntingent  reasons 
+any longer applies. 
+Electronic copy available at: https://ssrn.com/abstract=2232016
+11 
+ 
+profit as the price of bearing that risk.  The way that dealers ensure positive expected profit is by shifting 
+the prices they quote in line with the exposures they are bearing. 
+ 
+Figure 3:  The Dealer System (Boom) 
+ 
+ 
+Figure 3 shows a stylized model, adapted from Treynor (1987), of how inventories affect price 
+quotes in money and capital markets.  In money markets, the longer the “inventory” (exposure to 
+liquidity risk) the higher the yield; in risk markets, the longer the “inventory” (exposure to price risk) the 
+higher the ris k  premium.  In both cases, the slope of the quote curve depends on the amount of risk per 
+unit of inventory, and also on the availability of the backstops (which Treynor calls value‐based 
+investors) which determine the outside spread.  The different slopes in the money and capital markets 
+reflect an ass umption  that the outside spread is much tighter in the former than in the latter.  In both 
+cases, observe that dealers move their price quotes to bring buy and sell order flows (quantities) closer 
+into line with each other, and in doing so they move prices farther away from their “fundamental” 
+matched‐book reference point.   
+Electronic copy available at: https://ssrn.com/abstract=2232016
+12 
+ 
+Because dealer inventory pressure determines prices, the economics of the dealer function 
+interact intimately with the economics of shadow banking.  The figure depicts both money dealers and 
+risk dealers as holding net short positions, in effect using their balance sheets to absorb an excess order 
+flow for money and for risk exposure, r espectively.   From a dealer perspective, asset managers are the 
+ultimate buyers of money and risk exposure (see Figure 1), so the figure can be interpreted as the result 
+of net order flow from asset managers.  By absorbing the imbalance, dealers are pushed into short 
+inventory positions, which causes th em  to quote lower money yields and lower risk premia.   
+The key point is that this price distortion makes shadow banking more profitable.  Responding to 
+the price incentive, shadow banks can be expected to spring up, so creating order flow on the other side 
+of the market which allows dealers to run off their po sitions, until the next flow imbalance pushes up 
+inventories again with consequent price distortions that stimulate further expansion.  From this point of 
+view, it is natural to trace the origins of the market‐based credit system to two kinds of net order flow:  
+increased demand for money balances, and in creased demand for derivative risk exposure.  Pozsar’s 
+work on institutional cash pools has emphasized the former (Pozsar 2011); here we emphasize equally 
+the latter idea, which we treat as arising from techniques of modern portfolio management in which 
+invested capital is all held in money form, and risk exposure is a chieved using derivatives (Mehrling 
+2012).  It is this order flow that created conditions favorable for the expansion of shadow banking. 
+In expansion mode, the inventory pressure on dealers is readily taken off by expansion of the 
+private profit‐seeking market‐based credit system.  But in contraction mode, the inventory pressure is 
+all on the other side, and it is also harde
+r to get rid of, as we shall see.  From a dealer perspective, capital 
+funding banks are the ultimate sellers of money and risk exposure, so when order flow from that 
+direction is high, dealers are pushed into long inventory positions, which causes them to quote hig her 
+money yields and higher risk premia.  For money market dealers, a shift to a long inventory position 
+means funding term assets in overnight markets.  Crucially, inventories of quasi‐Tbills serve as collateral 
+Electronic copy available at: https://ssrn.com/abstract=2232016
+13 
+ 
+for secured funding, but inevitably the price of those quasi‐Tbills comes under pressure once there is no 
+longer excess demand for money assets pushing price above fundamental value.  And softening price 
+inevitably raises doubts about fundamental value, even if there is no change in actual fundamentals.  In 
+such a cir cumstance,  the central bank’s willingness to lend against collateral, as also its willingness to 
+buy the underlying, is key to preventing disorderly liquidation.  To a generation raised on Jimmy Stewart 
+banking, it looks like an illegitimate extension of lender of last resort from banks to dealers, but Bagehot 
+would have r ecognized  it as a fully legitimate support of the prime bill market.3 
+Less familiar to Bagehot would have been the capital market side of things.  For risk dealers, 
+contraction is a situation where everyone wants to sell risk exposure and no one wants to buy, even as 
+the price of risky assets continues to fall.  Dealers who dare to accommodate the resulting mismatched 
+order flow find themselves saddled with risk ex
+posure and mark‐to‐market losses that threaten 
+insolvency.  Meanwhile, the prospect of insolvency prevents other dealers from stepping in to buy.  
+Without market‐makers there can be no prices, and no prices means no secured borrowing, because 
+there is no way to evaluate th e  security offered.  Even quasi‐Treasury bills cease to be quasi‐Treasury 
+bills since the operative pricing equation—price of “risk free” security = price of risky security + price of 
+risk insurance—now has unknown values on the right hand side.   In this way, the central bank’s classic 
+role in supporting the pri ce of prime bills logically expands during crisis to include supporting the price of 
+the raw material from which prime bills are manufactured. 
+Figure 4 shows the plight of the dealers during contraction as a matter of position limits that 
+contract beyond realized inventories.  If not for central bank support, dealers would be forced to 
+liquidate for whatever pri
+ce they can get, causing yields to spike and asset prices to plummet.  If instead 
+the central bank steps in as dealer of last resort, taking onto its own balance sheet the excess 
+                                                            
+3 The fact that some of the quasi‐Tbills turned out to be less than prime inevitably cast doubt on all of them.  
+Sloppy, or even fraudulent, underwriting during the boom thus exacerbated the downturn when it inevitably 
+came. 
+Electronic copy available at: https://ssrn.com/abstract=2232016
+14 
+ 
+inventories of the strained dealers, the consequence is to place bounds on the disequilibrium price 
+movement.  Contraction is not so much halted or reversed as it is contained and allowed to proceed in a 
+more orderly fashion.  
+Figure 4:  The Dealer System (in Crisis) 
+ 
+ 
+Figure 5 shows the balance sheet exposures for a central bank that acts in this way as dealer of 
+last resort.  The first line represents the excess inventory of the money dealers (term assets funded with 
+overnight money).  The second line represents the excess inventory of the derivative dealers.  
+Comparison with Figure 1 reveals that the dealer of last resort is in effect fi lling the gap left by the 
+slowing order flow from asset managers.  The key difference however is that the asset manager demand 
+was funded by private capital, whereas central bank demand is funded by reserve expansion.   
+The fact that the cen tral bank can help in this way, by creating money rather than putting up any 
+capital, reflects the maintained assumption of the present paper that the financial crisis is entirely a 
+matter of liquidity and not at all a matter of solvency.  Under this strong (and admittedly unrealistic) 
+assumption, no additional capi
+tal resources are needed to address the crisis because there are no 
+fundamental losses to be absorbed, only temporary price distortions to be capped.  In any real world 
+Electronic copy available at: https://ssrn.com/abstract=2232016
+15 
+ 
+crisis, of course, there are both liquidity and solvency elements at play, so liquidity backstop is 
+insufficient.  Just so, in the US crisis, there was the Treasury standing in the wings to provide capital as 
+needed (e.g. TARP).  In this paper we have abstracted from such matters in order to draw a ttention  to 
+the liquidity dimension, which remains largely unappreciated. 
+ 
+Figure 5:  Dealer of Last Resort 
+Assets  Liabilities 
+Money  Reserves 
+Swaps 
+ 
+ 
+III.  The Inherent Instability of Credit 
+  The boom‐bust expansion and contraction of shadow banking inevitably involves expansion and 
+contraction of the supply of money.  Here we find the link between shadow banking and 
+macroeconomic instability.  This link exists even though, by maintained assumption, the fluctuation in 
+question does not involve any expa
+ nsion or contraction of traditional bank deposits, but rather only 
+various kinds of money substitutes.   Money market mutual fund shares (invested in ABCP) or outright 
+holding of RP are close substitutes for bank deposits because they can be spent on short notice; 
+Treasury bills and quasi‐Treasury bills are close su bstitutes  because they can be used at short notice as 
+collateral to obtain purchasing power.  Either way, the growth of shadow banking can be understood as 
+the elastic supply response to increased demand for money balances. 
+The “boom” character of the resulting expansion is simply the shadow banking version of 
+Hawtrey’s famous “inhere
+nt instability of credit” (Hawtrey 1913), and it arises as a direct consequence 
+of the market‐making activities of dealers.  Simply put, it is easy to make money by making markets 
+Electronic copy available at: https://ssrn.com/abstract=2232016
+16 
+ 
+when you are standing in between powerful sources of ultimate flow supply and flow demand.  As a 
+consequence, during boom times the supply of market liquidity (i.e. dealer balance sheet capacity) is 
+plentiful, and so the effective supply of money increases even more rapidly than the nominal supply of 
+quasi‐Treasury bills (Sweeney 2009).  Not only quasi‐Treasury bills but also the risky assets they finance 
+became unusually liquid.  The consequence is credit inflation, and a boom in the real economy as well. 
+Of course, even at the peak of the boom, governm ent‐issued Treasury bills and Fed‐issued 
+cash/reserve balances remain the ultimate form of collateral and the ultimate form of money 
+respectively.  But both become decreasingly important quantitatively given the growth of private capital 
+markets and private money markets.  Ultimate collateral and ultimate money remain crucial reference 
+points, but the actual instruments are important only in times of crisis when promises to pay are cashed 
+rather than offset with other promises to pay.   Just so, during the recent global financial crisi s, 
+expansion of Fed reserves, Treasury debt, and contingent Treasury debt (deposit insurance) provided 
+crucial levers to prevent the crisis from spiraling out of control.   
+Just as the “boom” character of expansion can be understood as a consequence of the dealer 
+balance sheet expansion producing plentiful market liquidity, so to o  can the “bust” character of 
+contraction be understood as a consequence of dealer balance sheet contraction producing scarce 
+market liquidity.  Simply put, it is hard to survive, much less actually to make money, by continuing to 
+make markets when faced with powerful reversal, so the wisest course of action is simply to hold back.  
+As a conseq
+uence, the supply of money substitutes that was sufficient to meet demand during the boom 
+no longer proved sufficient once contraction began, simply because quasi‐Treasury bills shed their 
+moneylike aspect.  Even without much actual contraction of the money supply broadly measured, and 
+even with qui te  aggressive expansion of base money, the effective money supply plummeted, taking 
+with it real economic activity.    
+ 
+Electronic copy available at: https://ssrn.com/abstract=2232016
+17 
+ 
+ 
+IV.  Conclusion 
+The rise of the market‐based credit system can be seen as the rise of a (largely) private credit 
+system alongside the existing (largely) public credit system, as well as the rise of a (largely) international 
+credit system alongside the existing (largely) national credit system (Ricks 2011).   In creasingly  the dollar 
+has become a private and international currency, and the international dollar money market has 
+become the funding market for all credit needs, private and public, international and national.  From this 
+point of view, the rise of the market‐based credit system is just part of the broader financial 
+globalization that is such a prominent feature of the last thirty yea
+rs. 
+But that new system has yet to show its ability to stand on its own, since it has grown up largely 
+as a parasitical growth on the old system.  Money market dealers were and still are typically divisions of 
+traditional banks that en
+joy traditional governmental backstops.  And risk dealers were and still are 
+typically funded by bank lending of one kind or another, in this way enjoying indirect access to 
+traditional governmental backstops.   The regulatory question now facing us is the apparent 
+impossibility of extending these traditional public backstops to a system that is now increasingly private 
+and internati
+onal. 
+The way out, we suggest, is to shift our intellectual framework in a fundamental way, back to 
+Bagehot in order to step forward to the 21st century.  It is not the shadow bank that requires backstop, 
+but rather the dealer system that makes the markets in which the shadow bank trades.   Central banks 
+have the power, and the responsibility, to support these markets both in times of crisis and in normal 
+times.  That support however must be confined strictly to ma tters of liquidity.  Matters of solvency are 
+for other balance sheets with the capital resources to handle them.   
+Electronic copy available at: https://ssrn.com/abstract=2232016
+18 
+ 
+ 
+References 
+Adrian, Tobias and Adam Ashcraft.  2012.  “Shadow Banking:  A Review of the Literature.”  Federal 
+Reserve Bank of New York Staff Report No. 580 (October). 
+Adrian, Tobias and Hyun Song Shin.  2010.  “Liquidity and Leverage.”  Journal of Financial Intermediation 
+19(3):  418‐37. 
+Brunnermeier, Markus K. and Lasse Heje Pedersen.  2009.  “Market Liquidity and Funding Liquidity.”  
+Review of Financial Studies 22 No. 6:   2201‐2238. 
+Capie, Forrest.  2012.  “200 years of Financial Crises:  Lessons Learned and Forgotten.”  Cass Business 
+School, City University, London. 
+Financial Stability Board.  2012a.  “Securities Lending and Repos:  Market Overview and Financial 
+Stability Issues.”  http://www.financialstabilityboard.org/publica tions/r_120427.pdf 
+Financial Stability Board.  2012b.  “Strengthening Oversight and Regulation of Shadow Banking; an 
+integrated overview of policy recommendations.”  
+http://www.financialstabilityboard.org/publi cations/r_121118.pdf 
+Gorton, Gary and A. Metrick.  2011.  “Regulating the Shadow Banking System.”  Brookings Papers on 
+Economic Activity, 261‐312. 
+Grad, David, Perry Mehrling, and Daniel H. Neilson.  2011.  “The Evolution of Last Resort Operations in 
+the global financial crisis.”  Accessible at ssrn.com/abstract=2232348. 
+Harris, Larry.  2003.  Trading and Exchanges, Market Microstructure for Practitioners.  New York:  Oxford 
+University Press. 
+Hawtrey, Ralph George.  1913.  Good and Bad Trade:  an inquiry into the causes of trade fluctuations.  
+London:  Constable and Company. 
+Mehrling, Perry.  2010.  “Credit Default Swaps:  The Key to Financial Reform.”  In Time for a Visible Hand:  
+Lessons from the 2008 World Financial Crisis, edited by Stephany Griffith‐Jones, Jose Antonio O’Campo, 
+and Joseph E. Stiglitz.  New York:  Oxford University Press. 
+Mehrling, Perry.  2011.  The New Lombard Street, How the Fed became the Dealer of Last Resort.  
+Princeton, New Jersey:  Princeton University Press. 
+Mehrling, Perry.  2012.  “Three Principles for Market‐Based Credit Regulation.” American Economic 
+Review Papers and Proceedings (May 2012). 
+Moulton, Harold G.  1918.  “Commercial Banking and Capital Formation.”  Journal of Political Economy 
+26 (5, 6, 7, 9):  484‐508, 638‐663, 705‐731, 849‐881. 
+Electronic copy available at: https://ssrn.com/abstract=2232016
+19 
+ 
+Pozsar, Zoltan.  2011.  “Institutional Cash Pools and the Triffin Dilemma of the U.S. Banking System.”  
+IMF Working Paper 11/190. 
+Pozsar, Zoltan, Tobias Adrian, Adam Ashcraft, Hayley Boesky.  2010.  “Shadow Banking.”  Federal 
+Reserve Bank of New York Staff Report No. 458. 
+Ricks, Morgan.  2011.  “Regulating Money Creation after the Crisis.”  Harvard Business Law Review 1 No. 
+1:  75‐143. 
+Shin, Hyun Song.  2011.  “Global Banking Glut and Loan Risk Premium.”  Mundell‐Fleming Lecture, 
+International Monetary Fund.  http://www.imf.org/external/np/res/seminars/2011/arc/pdf/hss.pdf 
+Sweeney, James, et al.  2009.  “Long Shadows; Collateral Money, Asset Bubbles, and Inflation.”  Credit 
+Suisse Fixed Income Research (May 5). 
+Sweeney, James, et al.  2012.  “When Collateral is King.”  Credit Suisse Global Strategy Research (March 
+15) 
+Treynor, Jack.  1987.  “The Economics of the Dealer Function.”  Financial Analysts Journal 43 (6):  27‐34. 
+Wood, Geoffrey E .  2000. “Lender of Last Resort Reconsidered.”  Journal of Financial Services Research  
+18 No. 2:  203‐227. 
+Electronic copy available at: https://ssrn.com/abstract=2232016

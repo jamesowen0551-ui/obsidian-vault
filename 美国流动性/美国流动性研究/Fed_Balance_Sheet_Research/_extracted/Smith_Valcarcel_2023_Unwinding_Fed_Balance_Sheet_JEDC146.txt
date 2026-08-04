@@ -1,0 +1,1015 @@
+
+===== PAGE 1 =====
+Journal of Economic Dynamics & Control 146 (2023) 104582 
+Contents lists available at ScienceDirect 
+Journal of Economic Dynamics & Control 
+journal homepage: www.elsevier.com/locate/jedc 
+The ﬁnancial market effects of unwinding the Federal 
+Reserve’s balance sheet /p82 
+A. Lee Smith a , Victor J. Valcarcel b , ∗
+a Federal Reserve Bank of Kansas City 1 Memorial Dr. Kansas City, MO 64198 
+b University of Texas at Dallas 800 W. Campbell Rd. Richardson, TX 75080 
+a r t i c l e i n f o 
+Article history: 
+Received 23 June 2022 
+Revised 24 October 2022 
+Accepted 1 December 2022 
+Available online 5 December 2022 
+JEL classiﬁcation: 
+E3 
+E4 
+E5 
+Keywords: 
+Monetary policy 
+Balance sheet 
+Announcement effect 
+Liquidity effect 
+Event study 
+Structural VAR 
+Financial conditions 
+a b s t r a c t 
+Twice in a brief 12-year period between 2008 and 2020, central banks turned to asset 
+purchase programs to combat a global economic downturn. While balance sheet expan- 
+sions have become familiar and been widely studied, balance sheet normalization is less 
+well understood. This paper provides a ﬁrst analysis of the ﬁnancial market effects of bal- 
+ance sheet normalization based on the U.S. experience between 2017 and 2019. We ﬁnd 
+evidence that unwinding past asset purchases tightens ﬁnancial conditions. However, we 
+show that these effects cannot be merely portrayed as quantitative easing in reverse . In par- 
+ticular, we ﬁnd that balance sheet normalization generally lacked the large announcement 
+effects that characterized quantitative easing. Instead, the effects of normalization man- 
+ifested upon implementation and surfaced, in part, through larger liquidity effects than 
+were evident during various phases of balance sheet expansion. 
+©2 0 2 2 The Authors. Published by Elsevier B.V. 
+This is an open access article under the CC BY-NC-ND license 
+( http://creativecommons.org/licenses/by-nc-nd/4.0/ ) 
+1. Introduction 
+Central bank balance sheets now play a central role in monetary policy. The COVID-19 pandemic serves as a case in point. 
+In March 2020, as the coronavirus spread across the globe, the Federal Open Market Committee (FOMC) initiated Treasury 
+and agency mortgage-backed securities (MBS) purchases at a rapid pace. Other central banks, including the European Central 
+Bank, the Bank of England, and the Bank of Japan, carried out similar actions. While balance sheet reduction has proven less 
+common, several central banks have signaled an intent to eventually reduce their balance sheets (see Bailey, 2020; Powell, 
+2020 ). Thus, knowledge of the effects of unwinding the central bank’s balance sheet is essential for informed decisions 
+regarding the provision and withdrawal of policy accommodation via the central bank’s balance sheet. 
+/p82 We thank Juan F. Rubio-Ramírez, Jun Nie, Brent Bundick, Yuriy Gorodnichenko, and anonymous referees for constructive comments. We also thank 
+participants’ comments at the 2022 North American Summer Meeting of the Econometric Society, the International Association for Applied Econometrics 
+(IAAE) 2022 Annual Conference, and the Society for Economic Measurement (SEM) 2022 Annual Conference. Logan Hotz provided excellent research as- 
+sistance and we thank CADRE for computational support. A portion of this work was completed while Valcarcel was visiting the Federal Reserve Bank of 
+Kansas City. The views expressed herein are solely those of the authors and do not necessarily reﬂect the views of the Federal Reserve Bank of Kansas City 
+or the Federal Reserve System. 
+∗ Corresponding author. 
+E-mail addresses: andrew.smith@kc.frb.org (A.L. Smith), victor.valcarcel@utdallas.edu (V.J. Valcarcel) . 
+https://doi.org/10.1016/j.jedc.2022.104582 
+0165-1889/© 2022 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license 
+( http://creativecommons.org/licenses/by-nc-nd/4.0/ ) 
+===== PAGE 2 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+Fig. 1. The Changing Liquidity Effect Between Reserves and the (FF-IOR) Spread . Note: The (solid) blue line denotes the rolling regression estimate of 
+the liquidity effect obtained by regressing the spread between the federal funds rate and the interest rate paid on reserves on a constant and the natural 
+log of reserve balances. This estimate is ﬂanked by a 90% conﬁdence interval. For this regression estimate, the date on the x-axis denotes the end point 
+of a 208-week rolling window. We choose 208 periods because we have roughly four years of data prior to the onset of the balance sheet normalization 
+period. The ﬁrst vertical (dashed) line corresponds with the end of the QE III period and the beginning of the Full Reinvestment phase of the balance sheet 
+unwind period (2014-Q3). The (dashed-dotted) vertical line in the middle of the chart acts as a line of demarcation between the Full Reinvestment and 
+Asset Runoff phases within the normalization period. The rightmost (dotted) vertical line denotes the end of the balance sheet normalization period. (For 
+interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.) 
+Despite its importance, there is scant empirical analysis of the broad ﬁnancial market effects of unwinding the central 
+bank’s balance sheet. However, such independent investigations may be unnecessary if the process of balance sheet reduc- 
+tion, typically dubbed quantitative tightening (QT), simply works as quantitative easing (QE) in reverse. For instance, based 
+on event study estimates, if the effects of expanding and shrinking the central bank’s balance sheet were symmetric then 
+we could assume that reducing the central bank’s balance sheet has no effect on short-term interest rates but increases 
+longer-term bond yields. Based on the existing QE literature, one may further assume that these yield increases materialize 
+upon the announcement of policymakers’ plans for reducing its balance sheet. 
+We, however, present evidence of strong asymmetries between balance sheet expansions and unwinds based on the 
+Federal Reserve’s 2017–2019 experience with balance sheet reduction. A core source of these asymmetries originates in the 
+market for bank reserves, as is evident by visible changes in the magnitude of the liquidity effects across balance sheet 
+expansion and normalization. Figure 1 superimposes reserve balances on top of a simple estimate of the liquidity effect 
+from a rolling-window regression of the federal funds rate (less the interest rate paid on reserves) on a constant and the log 
+of reserve balances. Liquidity effects appeared relatively muted during the 2009–2014 balance sheet expansion. This period 
+is marked by the natural lower bound that zero placed under short-term interest rates despite rapid growth in reserves. 
+Nevertheless, during the QT period from October 2017 through August 2019 bank reserves declined from more than $2.0 
+trillion toward $1.4 trillion amid a more than $650 billion reduction in the Federal Reserve’s asset holdings. It is during this 
+period that the magnitude of the liquidity effect roughly doubles. 
+In addition to differences in the liquidity effect, we also show that the large announcement effects that accompanied as- 
+set purchases were largely absent from the Federal Reserve’s balance sheet normalization effort. This asymmetry appears 
+to stem in part from the concerted effort of the FOMC to divorce expectations of future rate increases from unwind- 
+ing the balance sheet, especially after the “taper tantrum” episode. This resulted in signaling effects being mostly absent 
+from QT announcements, a sharp contrast from QE announcements that typically contained a large signaling component 
+( Krishnamurthy and Vissing-Jorgensen, 2011 ). Numerous other differences amplify the distinction between the Federal Re- 
+serve’s balance sheet expansion and unwind. Balance sheet reduction ensued at a materially slower pace than balance sheet 
+expansion since assets were not actually sold but rather allowed to mature without replacement. Moreover, balance sheet 
+normalization took place against a backdrop of relative calm, whereas asset purchases were carried out amid severe ﬁnan- 
+cial strains. And, unlike QE episodes where central banks were easing in unison, QT was carried out in isolation in the U.S., 
+while other major central banks were maintaining or expanding the size of their balance sheets ( Dilts-Stedman, 2019 ). 
+2 
+===== PAGE 3 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+In light of the markedly different nature of the Federal Reserve’s balance sheet normalization, this paper aims to provide 
+a ﬁrst quantitative assessment of the ﬁnancial market effects of balance sheet unwind. To assess the importance of an- 
+nouncement effects regarding QT, we ﬁrst carry out a high-frequency event study on the ﬁnancial market impact of Federal 
+Reserve communication related to normalizing its balance sheet. We then employ a novel structural vector autoregression 
+(VAR) identiﬁcation scheme, which leverages weekly Federal Reserve balance sheet data, to detect the effects of balance 
+sheet normalization on ﬁnancial markets that may have manifested upon implementation. The Federal Reserve’s sequencing 
+of policy actions leads us to focus on two distinct periods. From 2014-Q4 through 2017-Q3, the Federal Reserve reinvested 
+proceeds of maturing securities. This Full Reinvestment phase resulted in declining reserves without a commensurate de- 
+cline in asset holdings. Then, beginning in 2017-Q4 until 2019-Q3, the Federal Reserve purchased fewer assets than were 
+maturing. This Asset Runoff phase resulted in declines of both reserves and asset holdings. 
+Time-varying and constant-parameter structural VAR models reveal evidence that during the Asset Runoff sample, reduc- 
+tions in reserve balances and asset holdings led to tighter ﬁnancial conditions. This tightening is characterized by relatively 
+large liquidity effects on short-term rates, higher yields on Treasury notes, mortgage securities, and corporate bonds, as well 
+as an appreciation in the foreign-exchange value of the dollar, which gradually fade over several months. We conclude that—
+even in the absence of announcement effects—unwinding  the Federal Reserve’s balance sheet tightened ﬁnancial conditions. 
+However, this tightening transmits in a different fashion than merely a QE policy in reverse. 
+2. Balance sheet unwind transmission channels 
+A combination of credit and liquidity facilities, together with a sequence of three large-scale asset purchase (LSAP) pro- 
+grams, swelled the Federal Reserve’s balance sheet to nearly $5 trillion in 2014 from less than $1 trillion in the years prior to 
+the Global Financial Crisis. These purchases were largely funded through commensurate increases in bank reserves. Figure 2 a 
+and b show the evolution of the Federal Reserve’s liabilities and assets through these various phases of balance sheet ex- 
+pansion and unwind. While the credit and liquidity facilities unwound rather naturally as the crisis abated, the same cannot 
+be said for the long-duration Treasury and mortgage securities acquired through various QE programs. 
+Further normalization of the balance sheet required adjustments in reserves management and asset reinvestment policy. 
+On the liability side of the balance sheet, normalization took place through decreases in reserve balances. From October 
+2014 through September 2017, reductions in reserves were accompanied by corresponding increases in currency and other 
+non-reserve liabilities. As the FOMC fully reinvested the proceeds of maturing securities, the overall size of the balance sheet 
+remained largely unchanged. Then beginning in October 2017, as a fraction of maturing securities were allowed to runoff
+each month, reserves began to decline along with the size of the balance sheet. These reserve dynamics are illustrated in 
+Fig. 2 a. From October 2017 through August 2019, asset holdings declined by roughly $650 billion with reductions in both 
+Treasury and agency debt as well as MBS holdings, as illustrated in Fig. 2 b. The multiple dimensions across which the 
+balance sheet was evolving during this period suggests ﬁnancial markets could be affected in a number of ways. 
+Reductions in reserves may put upward pressures on short-term interest rates via a classic liquidity effect. The model in 
+Ireland (2014) , however, predicts that the Federal Reserve’s 2008 adoption of interest payments on reserve balances could 
+eliminate liquidity effects. The primary mechanism behind that conclusion is arbitrage incentives, which should drive the 
+federal funds rate toward the interest rate paid on reserves (IOR) regardless of the level of reserve balances. Despite this 
+persuasive intuition, the federal funds market has proven to be fairly segmented. Arbitrage appears to be costly, leading to 
+persistent and sometimes negative spreads between the federal funds rate and the IOR rate. Moreover, Smith (2019) and 
+Martin et al. (2019) ﬁnd evidence that this spread correlates negatively with reserves, indicating that liquidity effects re- 
+mained under the Federal Reserve’s post-2008 operating framework. However, the question remains whether liquidity ef- 
+fects strengthened after reserve balances stopped growing and began to decline. 
+We can explore changes in the strength of the liquidity effect by studying the relationship between (the natural log of) 
+bank reserves ( RES t ) and the opportunity cost of holding reserves—the  federal funds rate less the IOR—using  the reduced- 
+form regression: 
+F F t − IOR t = α+ β∗100 ∗lo g(RES t ) + ε t . (1) 
+The magnitude of the coeﬃcient β in this regression provides a reduced-form measure of the strength of the liquidity 
+effect. 1 During the balance sheet expansion period (2009-Q1 to 2014-Q3), this regression yields a signiﬁcantly negative 
+relationship between reserves and the FF-IOR spread with β = −0 . 086 ( s.e. = 0 . 009 ). Then, during the balance sheet nor- 
+malization period (2014-Q4 to 2019-Q3), we ﬁnd the magnitude of the coeﬃcient on reserves increases to β = −0 . 299 
+( s.e. = 0 . 015 ). This strengthening of the liquidity effect summarizes the salient movements of the rolling window estimates 
+of this regression shown in Fig. 1 . Figure 3 scatters the FF-IOR spread against bank reserves across these two samples and 
+corroborates a visible strengthening of the pass-through from reserves to the federal funds rate spread during balance sheet 
+normalization. 2 
+1 From December 2008 through August 2019, shifts in aggregate reserve balances were not effectively targeting the federal funds rate ( F F t ). Therefore, 
+regressions of this form are unlikely to be biased by endogeneity concerns. 
+2 Importantly, the increases in the liquidity effect that we document here and in our structural VAR models were building well ahead of the visible 
+and highly-publicized liquidity-driven rise in repo rates that occurred in September 2019. Several recent studies have focused on the factors contributing 
+3 
+===== PAGE 4 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+Fig. 2. The Federal Reserve’s Balance Sheet: 2007–2019. Source: Federal Reserve Board. 
+Our reduced-form analysis suggests liquidity effects may have played a more prominent role during the balance sheet 
+normalization period than they played during balance sheet expansion. This asymmetry can perhaps be attributed to the 
+to that episode. Copeland et al. (2021) argue that reserve reductions among the 10 largest bank holding companies created payment timing stresses that 
+contributed to the September 2019 repo rate spike. Anbil et al. (2021) document that market segmentation prevented arbitrage across repo markets, which 
+somewhat accentuated the September 2019 repo rate spike. Finally, Afonso et al. (2020) argue that both lower reserve levels and costly arbitrage led to the 
+September 2019 repo rate spike. We emphasize that our period of study ends ahead of the September 2019 repo rate spike, which we conservatively omit 
+due to endogeneity concerns regarding aggregate reserve dynamics following that episode. 
+4 
+===== PAGE 5 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+Fig. 3. The Liquidity Effect in Balance Sheet Expansions and Unwinds. 
+Federal Reserve’s toolkit for managing short-term interest rates. Amid balance sheet expansion, multiple forces hemmed in 
+the extent to which an explicit liquidity effect could be gleaned. These included the natural lower bound that zero placed 
+under short-term interest rates and the Federal Reserve’s deployment of the reverse-repo facility to support the federal 
+funds rate from below. Throughout the period of balance sheet expansion, these forces limited the amount by which short- 
+term interest rates could decline as reserve balances grew. However, there were no such forces to prevent upward pressure 
+on short-term interest rates from emerging as reserve balances declined throughout the balance sheet unwind period. This 
+allows for a potentially larger degree of pass-through from reserves to interest rates, particularly from a lower base level of 
+reserves, during a QT episode. 
+The reduction of asset holdings that accompanied declining reserve balances during balance sheet normalization could 
+also affect asset prices via similar channels through which asset purchases are thought to primarily work, including signal- 
+ing and duration channels. The signaling channel of asset purchases has been emphasized in Krishnamurthy and Vissing- 
+Jorgensen (2011) , Bauer and Rudebusch (2014) , and Bhattarai et al. (2015) . Krishnamurthy and Vissing-Jorgensen (2011) and 
+Bauer and Rudebusch (2014) , in particular, argue that the predominant factor driving the observed reductions in longer-term 
+yields following QE announcements was downward revisions to expectations for the future path of policy rates. Therefore, 
+shrinking the balance sheet could conversely signal that tighter policy is forthcoming and lead to higher longer-term yields 
+due to upward revisions to expectations of the future path of policy rates. 
+Gagnon et al. (2011) instead interpret the observed reductions in Treasury, mortgage, and corporate yields around LSAP 
+announcements as arising from broad duration effects. By purchasing a large amount of longer-term assets, the Federal 
+Reserve reduced the amount of duration that the private sector was asked to bear. The runoff of assets from the Federal 
+Reserve’s balance sheet effectively transfers that duration back onto investors’ balance sheets, which could increase risk- 
+and term-premiums. Moreover, increasing the public supply of Treasury and mortgage securities could lead to a reversal of 
+any portfolio rebalancing effects, a channel postulated by Vayanos and Vila (2021) in explaining the theoretical underpin- 
+nings for asset purchases. This mechanism was empirically emphasized by D’Amico et al. (2012) , D’Amico and King (2013) , 
+Carpenter et al. (2015) , and Ihrig et al. (2018) . Thus, based on the arguments and evidence in favor of duration-associated 
+portfolio rebalancing effects, reducing the balance sheet and transferring duration back into the private sector could increase 
+longer-term interest rates across a range of assets. 
+However, there is also reason to believe that reductions in asset holdings would have smaller and more limited ef- 
+fects than did asset purchases. For instance, D’Amico and King (2013) predict that rebalancing effects could be attenuated 
+upon normalization, if conducted in an environment of improved market functioning. Moreover, any effects that emerge 
+from unwinding past asset purchases should be conﬁned to those assets that the Federal Reserve purchased. In particular, 
+Krishnamurthy and Vissing-Jorgensen (2013) propose that, aside from signaling effects, the relative transfer of Treasuries 
+and MBS back into the hands of private investors should have concentrated effects on Treasury and MBS rates, with few 
+spillovers to other assets. 
+5
+===== PAGE 6 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+Table 1 
+Quantitative Easing and Tightening Announcement Effects on Yields and 
+Asset Prices. 
+Cumulative Response to QE & QT Announcements (pp) 
+10-yr. Treas. MBS 8-Qtr Eurodollar 
+QE Events [ a ] -1.49 ∗∗∗ -3.70 ∗∗∗ -1.00 ∗∗∗
+(0.20) (0.34) (0.25) 
+QT Events [ b] 0.28 0.46 0.41 
+(0.22) (0.38) (0.28) 
+[a] Coeﬃcients βQE from the regression: /Delta1y t = βQE Q E t + βQT Q T t + ε t , 
+where /Delta1y t is the two-day change in the yield and QE t is a dummy variable, 
+which takes a value of 1/9 on the nine QE dates described in Table 2 . [b] 
+Coeﬃcients βQT from the regression: /Delta1y t = βQE Q E t + βQT Q T t + ε t , where 
+/Delta1y t is the two-day change in the yield and QT t is a dummy variable, which 
+takes a value of 1/11 on the 11 QT dates described in Table 3 . Notes: OLS 
+standard errors are reported in parenthesis. Sample Period: January 2008 –
+December 2018. Observations: 4016. ∗∗∗p < 0 . 01 , ∗∗p < 0 . 05 , ∗p < 0 . 10 . 
+Table 2 
+Quantitative Easing Announcements. 
+Date Announcement Event Source 
+No. 25, 2008 [ a ] QE 1 FOMC Meeting Krishnamurthy and Vissing-Jorgensen (2011) 
+Dec 1, 2008 [ a ] QE 1 Speech Krishnamurthy and Vissing-Jorgensen (2011) 
+Dec 16, 2008 [ a ] QE 1 FOMC Meeting Krishnamurthy and Vissing-Jorgensen (2011) 
+Jan 28, 2009 [ a ] QE 1 FOMC Meeting Krishnamurthy and Vissing-Jorgensen (2011) 
+Mar 18, 2009 [ a ] QE 1 FOMC Meeting Krishnamurthy and Vissing-Jorgensen (2011) 
+Aug 10, 2010 [ a ] QE 2 FOMC Meeting Krishnamurthy and Vissing-Jorgensen (2011) 
+Sep 21, 2010 [ a ] QE 2 FOMC Meeting Krishnamurthy and Vissing-Jorgensen (2011) 
+Sep 21, 2011 [ b] MEP FOMC Meeting Krishnamurthy and Vissing-Jorgensen (2013) 
+Sep 13, 2012 QE 3 FOMC Meeting Krishnamurthy and Vissing-Jorgensen (2013) 
+[a] See also Woodford (2012) for a description of these events. [b] Note: MEP denotes Maturity Extension 
+Program. 
+Our preliminary evidence suggests that the strength of these signaling and duration effects were indeed less pronounced 
+during QT compared with QE. Importantly, both signaling and duration effects em phasize the role of expectations and, 
+therefore, the evidence in favor of these channels primarily stems from event studies around policy announcements. Table 1 
+presents comparative evidence of the response of Treasury, MBS, and Eurodollar-implied interest rate expectations following 
+QE and QT announcements. Consistent with the QE literature discussed above, we ﬁnd QE announcements led to mean- 
+ingful cumulative declines in longer-term Treasury and MBS rates across a select set of nine QE announcements, outlined 
+in Table 2 . Moreover, accompanying declines in Eurodollar futures-implied interest rates also took place around these QE 
+announcements, consistent with prior evidence of signaling effects. 
+Conversely, dynamics surrounding the QT period stand in stark contrast. We select a set of 11 QT announcements in 
+which the Federal Reserve publicized plans and timelines for slowing and ultimately unwinding asset purchases. No signiﬁ- 
+cant cumulative increases—in  longer-term Treasury yields, MBS rates or Eurodollar futures rates—are  observed across these 
+QT dates. This prima-facie evidence of asymmetric effects is striking as it suggests that announcement effects differed mean- 
+ingfully across QE and QT episodes. This is supportive of the notion that QT transmits differently to ﬁnancial markets than 
+merely QE in reverse. 
+While this analysis does not constitute incontrovertible proof, it does provide a strong indication of asymmetry—in  both 
+liquidity and announcement effects—across  expansions and unwind episodes. This observation motivates the rest of our pa- 
+per. We aim to complement the large literature on the effects of central bank asset purchases with an empirical examination 
+of the ﬁnancial market effects of unwinding the Federal Reserve’s balance sheet. 
+3. Were there announcement effects during the balance sheet unwind? 
+We begin our analysis with an event study to detect announcement effects stemming from balance sheet normalization. 
+While the results in Table 1 suggest that announcement effects were absent from the QT episode, our focus on the cumula- 
+tive decline across all QT events could mask some degree of heterogeneity across announcement effects. Therefore, we now 
+proceed with a more detailed analysis of individual QT announcements. We scrutinize possible differences in announcements 
+regarding tapering or slowing purchases as distinct from unwinding past purchases, and provide some narrative interpreta- 
+tion for our ﬁndings. 
+Our event study follows a large literature that isolates the ﬁnancial market effects of the Federal Reserve’s QE programs 
+by studying the responses of asset prices in small windows around Federal Reserve announcements (including Gagnon et al., 
+6 
+===== PAGE 7 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+Table 3 
+Quantitative Tightening Announcements. 
+Date Announcement Description 
+May 22, 2013 [ a ] Taper Bernanke says tapering could begin “in the next few meetings”
+Jun 19, 2013 [ b] Taper Bernanke states that tapering could be appropriate “later this year”
+May 21, 2014 [ c] Unwind Minutes signal beginning of balance sheet normalization planning 
+Jul 9, 2014 [ c] Unwind Minutes discuss gradual approach to ceasing asset reinvestments 
+Aug 20, 2014 [ c] Unwind Minutes offer details on balance sheet normalization planning 
+Sep 17, 2014 [ c] Unwind FOMC releases Policy Normalization Principles and Plan 
+Jan 12, 2017 [ d] Unwind Three Fed speeches discuss normalizing the balance sheet 
+Apr 5, 2017 [ c] Unwind Minutes signal phasing out reinvestments “later this year”
+May 24, 2017 [ c] Unwind Minutes detail plan for phasing out reinvestment 
+Jun 14, 2017 [ b] Unwind FOMC releases asset runoff plan, announces that runoff will 
+begin “this year”
+Sep. 20, 2017 [ b] Unwind FOMC announces that asset runoff will begin next month 
+[a] Source: The Economic Outlook Congressional Hearings, 113th Congress, Joint Economic Committee . [b] 
+Source: FOMC Meeting Meeting calendars, statements, and minutes (2016-2021) . [c] Source: Federal Reserve 
+History of the FOMC ’ s Policy Normalization Discussions and Communications . [d] Source: Ben Bernanke’s Brookings Blog 
+Shrinking the Fed ’ s balance sheet . 
+2011; Krishnamurthy and Vissing-Jorgensen, 2011; 2013; Swanson, 2020 , among others). Identiﬁcation of such announce- 
+ment effects on ﬁnancial markets is premised on the assumption that markets are eﬃcient and forward looking and, thus, 
+expectations of policy are reﬂected in asset prices before policymakers make any announcement. Under this assumption, the 
+change in asset prices following the announcement predominantly reﬂects the revision of policy expectations by investors 
+and, consequently, the change in asset prices around the announcement embodies the surprise component of monetary 
+policy. We speciﬁcally study the announcement effects on Treasury yields, MBS and corporate bond yields, as well as the 
+foreign exchange value of the dollar, the S&P 500 index, and Eurodollar futures-implied interest rates. 
+We follow Krishnamurthy and Vissing-Jorgensen (2011) and study the change in bond yields and other asset prices in a 
+two-day window around Federal Reserve announcements and extend the analysis to communication related to both taper- 
+ing and unwinding asset purchases. The two-day window allows for late-in-the-day announcement effects to fully reﬂect 
+through to asset prices the following trading day. As Hanson and Stein (2015) argue, empirical evidence suggests that it 
+especially takes time for longer-term yields to fully react to FOMC announcements. The set of events we focus on is largely 
+outlined by the Federal Reserve Board’s chronology of Federal Reserve communication related to balance sheet normal- 
+ization. 3 We augment this timeline of events with two key announcements related to the tapering or slowing of asset 
+purchases. Strictly speaking, these two announcements were not necessarily focused on shrinking the balance sheet per 
+se. Nevertheless, they may have shaped expectations about the ultimate normalization effort. Table 3 outlines the 11 dates 
+that constitute our QT event study set. The ﬁrst two events of May 22, 2013 and June 19, 2013 correspond to tapering an- 
+nouncements when the Committee revealed intentions to slow the pace of its asset purchases. The remaining nine events 
+encompass the release of FOMC meeting minutes, FOMC statements, and speeches that publicized the Committee’s discus- 
+sions and plans speciﬁcally related to reducing the balance sheet. 
+In parallel to the results we show in Table 1 , we generally ﬁnd a limited response of Treasury yields to Federal Reserve 
+announcements related to QT. Table 4 shows the two-day change in Treasury yields over the 11 QT event days across the 1-, 
+3-, 5-, 10-, and 30-year sections of the yield curve with the bottom rows registering the cumulative response across different 
+types of events. The cumulative change across all events elicited no signiﬁcant response outside of the 5-year Treasury note. 
+However, the tepid cumulative effect across all events masks considerable heterogeneity across announcement types. The 
+ﬁrst two announcements, which were focused on the tapering of asset purchases, showed much larger responses than did 
+any of the announcements related to normalizing the balance sheet. For some benchmark, over the January 2008 through 
+December 2018 sample, the standard deviation of the two-day change in the 10-year Treasury yield is 0.07 percentage 
+points. This represents a threshold that none of the nine balance sheet unwind dates reach and only the two tapering 
+announcements exceed. The cumulative differences between taper and unwind announcements are clear in the last two 
+rows, which show that taper announcements led to meaningful upward revisions across much of the yield curve. However, 
+the overall effect of unwind announcements is quantitatively small and qualitatively ambiguous across the 1-, 3-, 5-, 10-, 
+and 30-year sections of the yield curve. 
+Additionally, we ﬁnd no signiﬁcant announcement effects of quantitative tightening on broader ﬁnancial markets. Table 5 
+duplicates the analysis of Table 4 , extending it to the two-day change in MBS and corporate bond yields, as well as the 
+foreign exchange value of the dollar, S&P 500 index, and Eurodollar futures-implied interest rates. The cumulative change in 
+all of these yields and asset prices is statistically insigniﬁcant across all 11 events. Notably, just as we saw for the Treasury 
+market, there is considerable heterogeneity in the response across announcement types. The tapering announcements ex- 
+acted higher mortgage and corporate borrowing rates, a stronger dollar, and lower equity prices. These movements were all 
+3 This chronology is available at: https://www.federalreserve.gov/monetarypolicy/policy- normalization- discussions- communications- history.htm . 
+7 
+===== PAGE 8 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+Table 4 
+Quantitative Tightening Announcement Effects on Treasury Yields. 
+Two-Day Change in Yields (pp) 
+Date Announcement 1-yr. 3-yr. 5-yr. 10-yr. 30-yr. 
+May 22, 2013 Taper 0.00 0.03 0.07 0.08 0.06 
+Jun 19, 2013 Taper 0.01 0.14 0.24 0.21 0.15 
+May 21, 2014 Unwind 0.00 0.03 0.04 0.04 0.05 
+Jul 9, 2014 Unwind -0.01 -0.06 -0.04 -0.03 0.00 
+Aug 20, 2014 Unwind -0.01 0.05 0.05 0.01 -0.02 
+Sep 17, 2014 Unwind -0.01 0.06 0.07 0.03 0.00 
+Jan 12, 2017 Unwind 0.00 0.01 0.01 0.02 0.03 
+Apr 5, 2017 Unwind 0.02 -0.02 -0.01 -0.02 0.00 
+May 24, 2017 Unwind 0.02 -0.03 -0.06 -0.04 -0.03 
+Jun 14, 2017 Unwind -0.01 -0.02 -0.03 -0.05 -0.09 
+Sep 20, 2017 Unwind 0.00 0.04 0.05 0.03 -0.01 
+Cumulative Response (pp) 
+Event Study Regressions 1-yr. 3-yr. 5-yr. 10-yr. 30-yr. 
+All Events [ a ] 0.01 0.23 0.39 ∗ 0.28 0.14 
+(0.12) (0.19) (0.22) (0.22) (0.21) 
+Only Taper Events [ b] 0.01 0.17 ∗∗ 0.31 ∗∗∗ 0.29 ∗∗∗ 0.21 ∗∗
+(0.05) (0.08) (0.09) (0.10) (0.09) 
+Only Unwind Events [ c] 0.00 0.06 0.08 -0.01 -0.07 
+(0.11) (0.17) (0.20) (0.20) (0.19) 
+[a] Coeﬃcients βQT from the regression: /Delta1y n 
+t = βQT QT t + ε t , where /Delta1y n 
+t is the two-day change in the n-year constant maturity 
+Treasury yield and QT t is a dummy variable, which takes a value of 1/11 on the dates listed above. [b] Coeﬃcients βQT from 
+the regression: /Delta1y n 
+t = βQT QT t + ε t , where /Delta1y n 
+t is the two-day change in the n-year constant maturity Treasury yield and QT t 
+is a dummy variable, which takes a value of 1/2 on the ﬁrst two dates above that were related to tapering. [c] Coeﬃcients βQT 
+from the regression: /Delta1y n 
+t = βQT QT t + ε t , where /Delta1y n 
+t is the two-day change in the n-year constant maturity Treasury yield and 
+QT t is a dummy variable, which takes a value of 1/9 on the last nine dates above that were related to unwinding past asset 
+purchases. Notes: OLS standard errors are reported in parenthesis. Sample Period: January 2008 – December 2018. Observations: 
+4016. ∗∗∗p < 0 . 01 , ∗∗p < 0 . 05 , ∗p < 0 . 10 . 
+Table 5 
+Quantitative Tightening Announcement Effects on Other Assets. 
+Two-Day Change in Yields (pp) and Asset Prices (%) 
+Date Announcement MBS BBB Dollar Index S&P 500 8-Qtr Eurodollar 
+May 22, 2013 Taper 0.19 0.04 0.05 -1.12 0.05 
+Jun 19, 2013 Taper 0.29 0.20 1.71 -3.85 0.27 
+May 21, 2014 Unwind 0.02 0.05 0.03 1.05 0.03 
+Jul 9, 2014 Unwind -0.05 -0.01 -0.01 0.05 -0.07 
+Aug 20, 2014 Unwind -0.01 -0.03 0.25 0.54 0.05 
+Sep 17, 2014 Unwind 0.02 0.01 0.29 0.62 0.09 
+Jan 12, 2017 Unwind 0.03 0.01 -0.86 -0.03 0.02 
+Apr 5, 2017 Unwind -0.02 -0.01 0.01 -0.11 -0.04 
+May 24, 2017 Unwind -0.04 -0.02 -0.28 0.69 -0.03 
+Jun 14, 2017 Unwind -0.03 -0.08 0.22 -0.32 -0.04 
+Sep 20, 2017 Unwind 0.03 -0.01 0.29 -0.24 0.07 
+Cumulative Response (pp or %) 
+Event Study Regressions MBS BBB Dollar Index S&P 500 8-Qtr Eurodollar 
+All Events [ a ] 0.46 0.21 1.91 -2.72 0.41 
+(0.38) (0.21) (1.46) (4.67) (0.28) 
+Only Taper Events [ b] 0.48 ∗∗∗ 0.30 ∗∗∗ 1.97 ∗∗∗ -4.97 ∗∗ 0.32 ∗∗∗
+(0.16) (0.09) (0.62) (1.99) (0.12) 
+Only Unwind Events [ c] -0.02 -0.09 -0.07 2.25 0.09 
+(0.35) (0.19) (1.32) (4.22) (0.25) 
+[a] Coeﬃcients βQT from the regression: /Delta1y t = βQT QT t + ε t , where /Delta1y t is the two-day change in the yield or percent change 
+in asset price and QT t is a dummy variable, which takes a value of 1/11 on the dates listed above. [b] Coeﬃcients βQT from 
+the regression: /Delta1y t = βQT QT t + ε t , where /Delta1y t is the two-day change in the yield or percent change in asset price and QT t is a 
+dummy variable, which takes a value of 1/2 on the ﬁrst two dates above that were related to tapering. [c] Coeﬃcients βQT from 
+the regression: /Delta1y t = βQT QT t + ε t , where /Delta1y t is the two-day change in the yield or percent change in asset price and QT t is a 
+dummy variable, which takes a value of 1/9 on the last nine dates above that were related to unwinding past asset purchases. 
+Notes: OLS standard errors are reported in parenthesis. Sample Period: January 2008 – December 2018. Observations: 4016. 
+∗∗∗p < 0 . 01 , ∗∗p < 0 . 05 , ∗p < 0 . 10 . 
+8 
+===== PAGE 9 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+statistically signiﬁcant. In contrast, announcements related speciﬁcally to unwinding past asset purchases caused no similar 
+tightening. Changes in mortgage and BBB corporate bond rates were unremarkable around the nine unwind announcements. 
+Turning to MBSs, a market which had the potential to be directly impacted by partially unwinding the Federal Reserve’s MBS 
+holdings, the two-day change in MBS rates around any of the nine unwind events fails to exceed the sample standard de- 
+viation of the two-day change in MBS yields of 0.12 percentage points. More broadly, foreign exchange and equity markets 
+also appeared to be unfazed by the Federal Reserve’s communication around unwinding its balance sheet. 
+This event study reveals that—while  announcements related to tapering asset purchases led to a tightening in ﬁnancial 
+conditions—announcements  related to shrinking the balance sheet and unwinding past purchases had no observable impact 
+on ﬁnancial markets. This disparity appears to be explained, at least in part, by differences in signaling effects. The last 
+column of Table 5 shows the response of expectations for future short-term interest rates, as implied by the 8-Qtr ahead 
+Eurodollar futures contract, to each announcement in our event set. We ﬁnd the taper announcements incited large revisions 
+to the expected path of future policy rates. In fact, the 0.32 percentage point movement in interest-rate futures is similar in 
+magnitude to the 0.29 percentage point movement in 10-year Treasury yields. Therefore, the taper announcements appear 
+to have had large ﬁnancial market effects, in part, because they led to an upward revision to expectations about future 
+policy rates, consistent with the discussion in Bernanke (2017) . In contrast, the unwind announcements had no statistically 
+signiﬁcant effect on interest rate expectations, as evident from the last row of Table 5 . 
+The lack of signaling effects, and more general announcement effects, from communication regarding unwinding the 
+balance sheet appears to have been by design and was largely an objective of Federal Reserve oﬃcials. On June 14, 2017, 
+one of the nine balance sheet unwind event dates we inspect, the Federal Reserve unveiled its plan for shrinking its balance 
+sheet and announced intentions to implement the plan, “this year.” However, in a concerted effort to mitigate any market 
+reaction to this announcement, Federal Reserve Chair Yellen described the Federal Reserve’s balance sheet normalization 
+plan in the post-FOMC meeting press conference as follows (our own emphasis added): 
+[... ] — the plan is one that is consciously intended to avoid creating market strains and to allow the market to 
+adjust to a very gradual and predictable plan. My hope and expectation is that when we decide to go forward with 
+this plan, that there will be very little reaction to it , that it’s clear how we intend to proceed, and that this is something 
+that will just run quietly in the background over a number of years , leading to a reduction in the size of our balance 
+sheet and in the outstanding stock of reserves, and that it’s something that the Committee will not be reconsidering from 
+time to time. We think this is a workable plan, and as one of my colleagues, President Harker, described it, it will be like 
+watching paint dry , that this will just be something that runs quietly in the background. 
+– Yellen (2017) 
+As this quote suggests, and unlike when the Federal Reserve announced plans to expand its balance sheet, communi- 
+cation around unwinding past asset purchases was largely framed as an independent aspect of the policy stance. It was 
+not intended to signal a broader shift in the path of monetary policy. For instance, in September 2017 when the Federal 
+Reserve announced that it would begin reducing its balance sheet in October, Federal Reserve Chair Yellen took great care 
+to outline that, “[... ] changing the target range for the federal funds rate is our primary means of adjusting the stance of 
+monetary policy. Our balance sheet is not intended to be an active tool for monetary policy in normal times.” The dichotomy 
+the Federal Reserve created between shrinking its balance sheet and adjusting the path of the federal funds rate may play 
+an important role in accounting for the discrepancy in announcement effects across expanding and shrinking the Federal 
+Reserve’s balance sheet. 
+Signaling effects aside, other differences in communication provide added context in explaining the diverging effects of 
+announcements across both regimes. Asset purchase programs were typically introduced with explicit disclosures of a pre- 
+cise amount of assets the Federal Reserve intended to purchase over a given period. Conversely, communication around 
+balance sheet reductions were far less concrete. For instance, the June 14, 2017 Policy Normalization Principles and Plans 
+vaguely stated that, “the Federal Reserve’s securities holdings will continue to decline in a gradual and predictable manner 
+until the Committee judges that the Federal Reserve is holding no more securities than necessary to implement monetary 
+policy eﬃciently and effectively.” Therefore, unlike announcements that accompanied balance sheet expansions, communi- 
+cation surrounding balance sheet reductions may have been too nebulous to meaningfully shape expectations regarding the 
+evolution of the balance sheet. 
+The importance of unwind announcements might have further been hampered by the foregone conclusion that unwind- 
+ing past asset purchases was always anticipated to take place. As early as 2008, then Chair Bernanke clearly signaled that 
+asset purchases would be unwound in the future ( Bernanke, 2008 ). Conversely, QE announcements —particularly  those re- 
+lated to QE 1 for which the event study literature has found the largest ﬁnancial market effects —were  largely unexpected. 
+Consequently, a common challenge to event studies could be biasing our estimates since QT was not an entirely unexpected 
+proposition. 4 
+4 Greenlaw et al. (2018) instead argue that the absence of any meaningful market reaction to quantitative tightening announcements suggests that 
+changes in expectations over the size of the balance sheet have little effect on ﬁnancial markets. This seems consistent with our ﬁndings if one attributes 
+the differences across QE, taper, and unwind announcement effects to differences in rate signaling. 
+9 
+===== PAGE 10 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+Given the dearth of signaling, the lack of speciﬁcity accompanying unwind announcements, and the anticipated nature 
+of unwinding the balance sheet, any effects from unwinding past asset purchases may not have manifested themselves upon 
+announcement. Instead, these effects more likely materialized upon implementation, an issue we turn to next. 
+4. Implementation effects surrounding balance sheet unwind 
+We pursue a ﬂexible time-series approach to quantify ﬁnancial market effects upon the implementation of balance sheet 
+normalization. Unlike announcement effects, im plementation effects can diffuse gradually over time. Event studies may be 
+less well-suited to measure slow propagating effects. Accordingly, we employ both time-varying and constant-parameter 
+structural VAR models. While identiﬁcation is more challenging in this setting, compared with an event-study scheme, a 
+strength of our framework is that it allows for both immediate and delayed effects from balance sheet adjustments. This is 
+likely necessary in order to accommodate the Federal Reserve’s deliberate strategy for a gradual normalization of its balance 
+sheet in this period. Another advantage of the approach includes its ability to inform how persistent any ﬁnancial market 
+effects from unwinding asset holdings may have been. The persistence of the effects of the Federal Reserve’s asset purchases 
+has been an area of focus of several studies, with no clear consensus emerging ( D’Amico and King, 2013; Swanson, 2020; 
+Wright, 2012 ). 
+Implementation effects from reducing the Federal Reserve’s balance sheet may emanate from reductions in reserve bal- 
+ances, through liquidity effects for instance. They may also ensue from reductions in asset holdings, such as those identiﬁed 
+in Kandrac and Schlusche (2013) , D’Amico and King (2013) , and Christensen and Gillan (2022) upon the implementation 
+of asset purchases. We incorporate both Federal Reserve liabilities and asset holdings into our structural VAR model to en- 
+compass the numerous possible aspects through which the implementation of balance sheet reduction may impact ﬁnancial 
+markets. 
+We, however, orient our structural identiﬁcation around the dynamics of reserve balances, a Federal Reserve liability. This 
+decision primarily reﬂects the FOMC’s own approach to balance sheet normalization. The June 14, 2017 Policy Normalization 
+Principles and Plans noted that: “The Committee expects to learn more about the underlying demand for reserves during 
+the process of balance sheet normalization.” Therefore, balance sheet normalization was guided by how the relationship 
+between reserve balances and short-term money market rates would evolve. Reinforcing this point, the end of the balance 
+sheet unwind process culminated on a material increase in money-market rates amid sharp reductions in reserve balances in 
+September 2019. In response to this tightening in money markets, the Federal Reserve initiated repo operations and outright 
+purchases of Treasuries to once again begin increasing the supply of reserves. This marked the end of the balance sheet 
+reduction process we study. To capture these apparent linkages between reserves and short-term interest rates, we include 
+in our structural VAR model measures of short-term secured (repo) and unsecured interest rates: the secured overnight 
+ﬁnancing rate (SOFR) and the federal funds rate. 
+Our consideration of these rates serves a dual purpose. First, they should help capture any liquidity effects upon nor- 
+malization. Second, they provide a safeguard against the possibility that the dynamics we seek to study are contaminated 
+by other developments shaping the Federal Reserve’s balance sheet and ﬁnancial markets. In addition to the approximately 
+$700 billion decrease in reserve balances during the Asset Runoff period, other forces—namely  the increase in Treasury bill 
+supply—are  also thought to have played a role in applying steady upward pressure to money-market rates leading up to 
+September 2019 ( Copeland et al., 2021 ). For instance, in a June 2018 press conference, Federal Reserve Chair Powell at- 
+tributed the upward rate pressure not to declining reserve balances but instead noted: 
+I think there’s a lot of probability on the idea of just high [Treasury] bill supply leads to higher repo costs, higher money 
+market rates, and the arbitrage pulls up the federal funds rate toward IOER. –(  Powell, 2018 ) 
+Figure 4 shows that during the 2017–2019 Asset Runoff period, Treasury bills outstanding increased by nearly 30%. As 
+Treasury supply increased, Treasury’s general account (TGA) balance with the Federal Reserve also increased, which would 
+result in reserve reductions that mimic, yet are distinct from, balance sheet reduction dynamics. Namely, increases in bill 
+supply could increase money market rates and increase TGA balances while reducing reserve balances. 5 
+We next turn to our strategy for identifying reserve supply shocks and a discussion as to why we associate reductions in 
+reserve supply with the unwinding of the Federal Reserve’s balance sheet. 
+4.1. Structural VAR identifying restrictions 
+There have been many investigations of the effects of changes in central bank reserves on interest rates, ﬁnancial markets, 
+and the broader economy (see Christiano et al., 1996; Curdia and Woodford, 2016; Demiralp et al., 2019; Iwata and Wu, 
+2006; Strongin, 1995 , among many others). While many approaches, particularly those employing structural VAR models, 
+have typically used monthly or quarterly data, Bernanke and Mihov (1998) consider biweekly data informed by operational 
+concepts on the implementation of monetary policy. 
+5 The settlement of Treasuries purchases ultimately involves debiting a reserve account and crediting the TGA account. Indeed, TGA ﬂuctuations have 
+been used as an instrument for exogenous changes in the supply of reserve balances to isolate liquidity effects in the Federal Reserve’s pre-crisis regime 
+for implementing monetary policy ( Hamilton, 1997 ). 
+10 
+===== PAGE 11 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+Fig. 4. Marketable Treasury Bills Outstanding: 2007–2019 . Source: U.S. Treasury. 
+We pursue a similar approach by combining the Federal Reserve’s approach to reserves management during balance 
+sheet normalization with the Federal Reserve Board’s week-ending-Wednesday balance sheet data. Our strategy in particular 
+aims to isolate effects of reserve supply shocks, which are inextricably linked to the Federal Reserve’s balance sheet unwind, 
+from other forces, including ﬂuctuations in Treasury bill supply. We achieve this distinction by assuming a block-triangular 
+structure for the impact matrix that maps the vector of residuals to that of the identiﬁed structural shocks. This requires 
+attention to the order in which the variables enter the system. We impose a formulation whereby our focus of attention—
+an exogenous shock in the supply of reserves—is  placed ﬁrst in our VAR ordering. An assumption we now defend on the 
+basis of both the Federal Reserve’s approach to implementing monetary policy as well as institutional aspects regarding the 
+timing of Treasury auctions. 
+Speciﬁcally, we order reserves ahead of: the secured overnight ﬁnancing rate net of the interest on reserves; the spread 
+between the effective federal funds rate and IOR; either an index of ﬁnancial conditions or the price/yield of a particular 
+asset, denoted by Z t ; and the Federal Reserve System Open Market Account (SOMA) holdings. We denote the VAR vari- 
+ables by x t = [(100 ∗lo g(RES t ) ; (SOF R t − IOR t ) ; (F F t − IOR t ) ; Z t ; (100 ∗lo g(SOMA t )] ′ where t is the value of each variable as 
+of Wednesday each week. We model these variables as a time-varying parameter VAR(p): 
+θt (L ) x t = e t (2) 
+where θt (L ) = I 5 − θt, 1 L −···− θt,p L p is a pth order lag polynomial and e t is a mean zero vector of reduced-form VAR resid- 
+uals with time-varying covariance matrix R t . 6 We recover the underlying structural VAR by specifying the linear mapping, 
+e t = P t ϵt , between e t , the reduced-form VAR residuals, and ϵt , the structural shocks of interest, where P t is block lower- 
+triangular. We provide further details of our implementation of the the time-varying parameter VAR model in the next 
+section and we now turn to our restriction scheme. 
+We motivate our identifying assumptions based on two factors: (i) the Federal Reserve’s approach for implementing 
+monetary policy and managing reserves during balance sheet normalization as well as (ii) the structure of Treasury auc- 
+tions. Regarding the ﬁrst factor, until September 2019, when the FOMC ended its balance sheet normalization program, the 
+Federal Reserve did not adjust reserve balances week-to-week in response to developments in money markets or broader ﬁ- 
+nancial conditions. This assumption is consistent with the description in Yellen (2017) of the Federal Reserve’s balance sheet 
+normalization strategy. This allows us to treat the supply curve for reserves as perfectly inelastic (vertical) within the week. 
+However, shifts in this supply curve week-to-week could stem not only from balance sheet runoff but also from changes in 
+Treasury bill supply which, through changes in the TGA, can feed through to reserve balances. This could ultimately affect 
+repo markets as well as broader ﬁnancial conditions. 
+In principle, changes in Treasury bill supply could introduce a confounding factor in our restriction scheme. However, 
+institutional aspects of the management of Treasury auctions severely limits the ability for the Treasury bill supply to con- 
+6 We also include a constant and we use the AIC to select four lags. 
+11 
+===== PAGE 12 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+taminate our identiﬁcation strategy. Speciﬁcally, aside from cash management auctions, Treasury bill auctions have histor- 
+ically followed a regular schedule where the auction is announced on Tuesday and settled on Thursday. Treasury auction 
+announcements provide details about what is on offer, including the maturity, amount, and even the Committee on Uniform 
+Security Identiﬁcation Procedures (CUSIP) number. This enables immediate trading and pricing of the new securities on a 
+“when-issued” basis ( Garbade and Ingber, 2005 ). However, winning bidders from Treasury bill auctions settle with Treasury 
+up to one week after the announcement. For example, if the winning bidder is a depository institution, the Federal Reserve—
+in its role as the ﬁscal agent for the U.S. Treasury—settles  the auction by debiting the depository institution’s reserve account 
+and crediting TGA. An increase in the repo rate due to an announced increase in Treasury bill supply should have no effect 
+on end-of-day Wednesday reserve balances within the current week. Instead, any reduction in reserve balances associated 
+with an increase in Treasury bill supply should occur the following week (at the earliest). 7 
+Based on these two factors, we interpret innovations to reserves in our speciﬁcation as “reserve supply shocks” stemming 
+from the unwinding of the Federal Reserve’s balance sheet. Our sample encompasses two phases in the policy normalization 
+effort s of the Federal Reserve. During the ﬁrst phase, between September 2014 and September 2017, the Federal Reserve 
+ceased net asset purchases and instead bought just enough securities to replace those that matured each month. The result 
+of this Full Reinvestment phase was a steady decline in reserve balances without an associated decline in asset holdings. 
+Thus, in this early sample, a negative reserve supply shock could arise from tax payments, an increase in outstanding reverse 
+repos, or unexpected asset redemptions, such as more mortgage pre-payments, relative to what the trading desk at the New 
+York Fed anticipated. In any event, the result is the same: a decline in the supply of reserves available to banks. This allows 
+us to infer the response of interest rates and other asset prices to reductions in reserve balances since, unlike in previous 
+operating regimes, the Federal Reserve was not attempting to counteract these reserve ﬂuctuations ( Ihrig et al., 2020 ). By 
+not offsetting reserve declines, the Federal Reserve was effectively unwinding the large reserve balances accumulated from 
+past asset purchases. 
+Beginning in October 2017, the Federal Reserve conducted a structured Asset Runoff using a pre-speciﬁed cap on the 
+amount of securities that could be redeemed without replacement, with the cap rising gradually over time. Therefore, in 
+this later sample, what we identify as a negative reserve supply shock may arise from the aforementioned sources but 
+should predominantly reﬂect asset redemptions related to the unwinding of the federal reserve’s SOMA portfolio. To this 
+point, SOMA holdings and reserve balances both declined by about $700 billion dollars. 8 It is in this later sample that one 
+can glean the ﬁnancial market effects of joint declines in the supply of reserves available to banks and reductions in the 
+Federal Reserve’s asset holdings. 
+4.2. The time-varying dynamics of balance sheet unwind 
+In light of the aforementioned changes in reinvestment policy, we allow—but  do not impose—that  changes in the na- 
+ture of reserve reductions had a ﬁrst-order effect on the transmission of balance sheet normalization to broad ﬁnancial 
+conditions. We begin our structural VAR analysis by studying the effects of negative reserve supply shocks on our core VAR 
+variables discussed in previous sections along with a broad index of ﬁnancial conditions to measure the net effect on overall 
+ﬁnancing conditions. While many such indexes are available, the Goldman Sachs Financial Conditions Index (GS-FCI) is one 
+of the few available at a daily frequency. Figure 5 shows the time series of the weekly end-of-period (Wednesday) value 
+of the index. The GS-FCI is a transparent weighted sum of the federal funds rate, the 10-year Treasury yield, the BBB bond 
+spread, the trade-weighted foreign-exchange value of the dollar, and the S&P 500. The weights are determined by the ef- 
+fect each component has on GDP according to a stylized macroeconomic model ( Hatzius and Stehn, 2018 ). After studying 
+the responses of this broad GS-FCI, we then undertake a more granular analysis of the cross-asset price movements that 
+materialize when unwinding the balance sheet. 
+While there was a discreet change in the Federal Reserve’s reinvestment policy in October 2017, there were also gradual 
+changes in the evolution of reserves and SOMA holdings before and after October 2017. For instance, to the extent that 
+liquidity dynamics evolve with the level of reserve balances, we might expect a more continuous evolution of liquidity 
+effects as reserve balances gradually declined from their 2014 peak. Moreover, while asset runoffs began in October 2017, the 
+pace varied considerably as the Federal Reserve’s caps on the amount of securities that were allowed to roll off the balance 
+7 To use a recent Treasury auction as an example, consider the 4-Week Bill auction announced on Thursday, Oct. 4, 2018. The Oct. 4 press release details 
+that $40 billion of these bills were auctioned on Tuesday, Oct. 9, and then issued on Thursday, Oct. 11, which is when the winning bidders transferred 
+payment to Treasury. Importantly, this implies that any ﬂuctuations in reserves between Wednesday, Oct. 3, and Wednesday, Oct. 10, are not directly 
+related to this Treasury issuance. Instead, any direct effect this issuance has on week-ending-Wednesday reserve balances due to the auction settlement 
+would ﬁrst appear in the Wednesday, Oct. 17 H.4.1 release. Importantly, our identiﬁcation does not rule out a repo rate effect at the time of Treasury 
+settlement, as the response of repo rates and reserves are left unconstrained in subsequent weeks. 
+8 While we argue that declines in reserve balances were driven by reductions in SOMA holdings over this sample, we acquiesce to the possibility 
+that a high degree of endogeneity may arise between reserves balances and currency in the longer run. However, we contend it is highly unlikely our 
+reserve supply shocks, identiﬁed at a weekly frequency, could be confounded with currency demand shocks during the QT period. First, while the ratio 
+of reserves-to-total-checkable-deposits (R/TCD) exhibits wide ﬂuctuations around a sustained decline during the balance sheet unwind period (an almost 
+65% reduction between 2014 and 2019), the currency/TCD ratio remains essentially ﬂat (less than 0.7% decrease) over the same period. Moreover, even 
+bi-weekly movements in currency are practically dwarfed by high-frequency ﬂuctuations in reserves, where the latter’s standard deviation is 14 times 
+larger than the former in our sample. Consequently, high-frequency currency movements would seem largely uninformative for any discernible dynamics 
+in reserves between 2014 and 2019. 
+12 
+===== PAGE 13 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+Fig. 5. Financial Conditions Before/During/After Quantitative Tightening Period . Note: Higher values of the GS-FCI correspond to a tightening in ﬁnancial 
+conditions. Conversely, low values indicate a loosening. 
+sheet gradually increased over time. Therefore, we allow the ﬂexibility of the time-varying-parameter VAR to inform our 
+views on how gradual were the effects from unwinding the balance sheet. We opt for this time-varying approach because it 
+does not preclude the possibility that the change in these dynamics may not occur suddenly. 9 Consider the following VAR 
+process: 
+θt ( L ) x t = e t , (3) 
+where x t is an n -vector of endogenous time t variables; θt = I n − θ1 t L − ... − θpt L p is a pth order lag polynomial in which each 
+θis a time-varying matrix of autoregressive coeﬃcients and e t is an n -vector of mean-zero VAR innovations. We allow for 
+time variation in the variances of the shocks in the VAR model, all of which are summarized in the time-varying covariance 
+matrix R t . Let /Theta1t represent the stacked vector of all coeﬃcients in θt ( L ) , and assume it evolves according to: 
+/Theta1t = /Theta1t−1 + u t , (4) 
+where u t is a Gaussian white noise process with zero mean and constant covariance Q, independent of e t at all leads and 
+lags. A seminal application of modern time-varying structural VARs by Cogley and Sargent (2005) and a comprehensive 
+treatment by Primiceri (2005) rely on the Bayesian single-move technique of Jacquier et al. (2002) to estimate stochastic 
+volatilities. We follow a variant of the multi-move stochastic volatility construct of Kim et al. (1998) to allow for time 
+variation in the underlying VAR model. 10 
+We decompose the covariance matrix of system (3) as follows. Let E(e t e ′ 
+t ) ≡ F t H t F ′ 
+t , where F t and H t are given by: 
+F t = 
+⎡ 
+⎢ 
+⎢ 
+⎢ 
+⎣ 
+1 0 . . . 0 
+f 2 t 1 . . . 
+. . . 
+. . . 
+. . . 
+. . . 0 
+f nt . . . f nnt−1 1 
+⎤ 
+⎥ 
+⎥ 
+⎥ 
+⎦ 
+9 Nonlinear dynamics in the transmission of reserve management and ﬁnancial conditions could be modeled in a number of ways. Event studies, such as 
+those we employ in our analysis in previous sections, are a popular technique to elucidate potential discontinuities. Other approaches for regime change, 
+such as Markov Switch, GARCH or sub-samples estimated across structural break tests at unknown dates, could prove useful as well. However, we opt for 
+a time-varying VAR approach because it allows for the possibility that these transmissions in question may have proceeded gradually. 
+10 Del Negro and Primiceri (2015) argue for an alternative algorithm that allows for a more eﬃcient implementation of Kim et al. (1998) over 
+Jacquier et al. (2002) . It involves a reorganization of the steps in the Gibbs sampler where the history of the volatilities is sampled after—rather  than 
+ahead of—the  mixing indicators for each parameter for every period t. 
+13 
+===== PAGE 14 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+and 
+H t = 
+⎡ 
+⎢ 
+⎢ 
+⎢ 
+⎣ 
+h 1 t 0 . . . 0 
+0 h 2 t . . . 
+. . . 
+. . . 
+. . . 
+. . . 0 
+0 . . . 0 h nt 
+⎤ 
+⎥ 
+⎥ 
+⎥ 
+⎦ 
+, 
+respectively. The diagonal elements of H t are independent univariate stochastic processes that evolve according to: 
+ln (h jt ) = ln (h jt−1 ) + ξt ∀ j = 1 , 2 , . . . , n (5) 
+Stacking all the off-diagonal elements of F −1 
+t into a vector γt , we further assume that this vector evolves according to the 
+following drift-less geometric random walk: 
+γt = γt−1 + ζt (6) 
+where ξt ∼ iid(0 , /Xi1) and ζt ∼ iid(0 , /Psi1) . We assume u t ⊥ ξt ⊥ ζt with a block-diagonal covariance matrix /Psi1to prevent 
+non-zero covariance of the coeﬃcients among different equations. 
+We assume the underlying structural shocks ( ϵt ) are a time-varying transformation of the reduced-form innovations ( e t ) 
+as follows: 
+e t = P t ϵt ∀ t, (7) 
+where P t is a non-singular matrix that satisﬁes P t P ′ 
+t = R t . Given this mapping, changes in the contributions of different 
+structural shocks to the volatility in innovations in the underlying variables of interest are captured by changes in P t . 
+Let the companion form of (3) be given by: 
+X t = /Pi1t X t−1 + De t , (8) 
+where X t = (x ′ 
+t , x ′ 
+t−1 , . . . , x ′ 
+t− p+1 ) ′ , D = (I, 0 , . . . , 0) ′ , and /Pi1t is the companion matrix containing the time-varying autoregres- 
+sive coeﬃcients in (3) . With these elements in hand, a standard local projection of (8) can be deﬁned by: 
+∂x t+ h 
+∂e t 
+= s n,n 
+(/Pi1h 
+t 
+) ∀ t, h = 1 (9) 
+where s n,n = D ′ /Pi1h 
+t D selects the upper left n-by-n sub-matrix from the larger matrix. A simple application of the chain rule 
+obtains impulse responses at an arbitrary h th horizon: 
+∂x t+ h 
+∂ϵt 
+= 
+∂x t+ h 
+∂e t 
+∂e t 
+∂ϵt 
+= s n,n 
+(/Pi1h 
+t 
+)
+P t ∀ t, h = 1 . (10) 
+In our speciﬁcation with n = 5 variables, the second-to-last variable in the order is an index of ﬁnancial conditions where t
+is the value of each variable as of Wednesday each week. And the last variable is the week-ending-Wednesday (log trans- 
+formed) SOMA balances. However, what is practically important for our block-triangular structure is that reserve balances 
+are ordered ﬁrst. 
+4.3. Discussion of results from the time-varying approach 
+We estimate a TVP-VAR with the GS-FCI placed fourth in our ordering. We employ a training sample of 65 weeks for 
+estimation of a standard VAR whose reduced-form parameters are used to initialize the Gibbs sampler algorithm. Thus, our 
+estimates range from October 2015 to October 2019. We obtain impulse response function-point estimates for each week 
+within our sample (200 periods across the t-dimension) and for every week following the speciﬁed shock (20 horizons 
+across the h -dimension.) 
+In the interest of clarity in our presentation of results, we report responses to negative reserve supply shocks for every 
+period t while averaging the responses across horizons. Figures 6–8 show the last week of the month-responses for every 
+week between October 2015 and October 2019 with error bands produced within the 16–84% credible set. The top panels 
+of these ﬁgures report the ﬁrst-month responses to a negative shock in reserves (the ﬁrst variable in our ordering). We 
+collate these responses by averaging the ﬁrst through the fourth week responses post shock. The middle panels show the 
+second-month responses (averages for horizons ﬁve through eight). The bottom panels display the third-month responses 
+(averaging week nine through week 12 responses post shock). Finally, we append a vertical line, labeled September 2017, 
+to each of these charts, which constitutes a line of demarcation between the two phases of the balance sheet unwind: Full 
+Reinvestment and Asset Runoff. 
+Figure 6 shows the time-varying response of the GS-FCI to a negative shock in the supply of reserves. A negative reserve 
+supply shock generates no signiﬁcant response of ﬁnancial conditions prior to September 2017. Thereafter, during the second 
+phase of balance sheet normalization—when  asset runoff was the primary driver of reductions in the balance sheet of the 
+Federal Reserve—reductions  in reserves elicit an adverse effect on ﬁnancial conditions. This tightening in ﬁnancial conditions 
+14 
+===== PAGE 15 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+Fig. 6. Time-Varying Responses of the GS-FCI to a Negative 1 sd Reserve Supply Shock . Note: Each point estimate reﬂects: the mean response over the 
+ﬁrst four weeks (top panel), the mean response between the ﬁfth and eighth weeks post shock (second month response in the middle panel), or the mean 
+response between the ninth and twelfth weeks post shock (third month response at the bottom panel) for each month in the sample. An increase in the 
+GS-FCI represents a tightening of ﬁnancial conditions. Therefore, any point estimate located above the zero line corresponds to a tightening of ﬁnancial 
+conditions in response to a negative reserve shock. Conversely, any estimate below the zero line represents a response consistent with an easing of ﬁnancial 
+conditions. 
+becomes signiﬁcant early in 2018. 11 Though not shown, the response of reserves is relatively stable over time, underscoring 
+that the increased sensitivity of ﬁnancial conditions to reserve reductions after September 2017 does not simply reﬂect 
+larger percent reductions in reserves. 
+The TVP-VAR models further suggest that time variation in the strength of liquidity effects is an important source of the 
+time-varying response of ﬁnancial conditions to reserve supply shocks. In particular, Fig. 7 shows the time-varying responses 
+of the FF-IOR spread following a one-standard-deviation reduction in the supply of reserves. We ﬁnd that negative reserve 
+supply shocks lead to positive effects on the FF-IOR spread, consistent with our interpretation of these innovations as reserve 
+supply rather than reserve demand. Moreover, the magnitude of FF-IOR spread responses increase roughly threefold in the 
+Asset Runoff period compared with the Full Reinvestment period. The error bands prior to 2017 tend not to overlap with 
+those after late 2018. This suggests that the responses of short-term interest rates to reserve supply shocks are meaningfully 
+more signiﬁcant, both economically and statistically, after 2018 than before 2017. These conclusions are largely consistent 
+with our reduced form analysis in Section 2 . Taken together, our evidence shows a more binding liquidity effect taking place 
+11 We found a similar pattern of time-variation in the response of ﬁnancial conditions, when measured by the Bloomberg FCI, following a reduction in 
+the supply of reserves. While the responses were slightly more muted in the Bloomberg speciﬁcation, we again found that negative reserve supply shocks 
+show indications of a signiﬁcant tightening in ﬁnancial conditions after the initiation of the asset runoff policy. We also considered other ﬁnancial condition 
+indicators produced by the Federal Reserve Banks of Chicago and St. Louis. We do not report these responses because of the reporting frequency of these 
+Federal Reserve indices. While not available daily, these weekly Federal Reserve measures may provide a materially different perspective on ﬁnancial 
+conditions. Despite this, we found similar dynamics of the St. Louis Federal Reserve FCI response to those of the GS-FCI. Negative reserve supply shocks 
+exert signiﬁcant stress in the St. Louis Fed FCI after 2017. The response was positive prior to 2017 but not statistically signiﬁcant. In contrast, we found an 
+adverse response of the Chicago Fed’s FCI throughout the sample, suggesting that Chicago Fed’s FCI seemed to contract following negative reserve supply 
+shocks during both the Full Reinvestment and Asset Runoff phases of balance sheet normalization. 
+15 
+===== PAGE 16 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+Fig. 7. Time-Varying Responses of the FF-IOR Spread to a Negative 1 sd Shock in the Supply of Reserves . Note: Each point estimate reﬂects: the ﬁrst 
+month response (top panel), the mean response over the second month (middle panel), or the mean response over the third month (bottom panel) for 
+each month in the sample. 
+in the latter part of the balance sheet unwind period, which is also when we generally obtain evidence of a tightening of 
+ﬁnancial conditions following reductions in the supply of reserves. 
+Finally, Fig. 8 shows dynamics on the asset side of the Federal Reserve’s balance sheet. The response of SOMA assets to 
+negative reserve shocks during the Full Reinvestment period are small and imprecisely estimated. In contrast, the Asset Runoff
+period saw economically important reductions in SOMA holdings, compatible with our interpretation of negative reserves 
+supply shocks emanating from asset redemptions during that phase of QT. These responses are generally consistent both in 
+sign and magnitude with our analysis in previous sections. While it can be argued that these congruent effects on the asset 
+and liability side of the balance sheet of the Fed could be simply mechanical, they provide for a sensible reality check on 
+the suitability of our identiﬁcation strategy. Given that SOMA assets are left wholly unrestricted and placed at the end of 
+the VAR, these asset responses are completely driven by the data and bolster our conclusions and interpretations regarding 
+the effects of reserve shocks on ﬁnancial conditions. 
+Overall, these time-varying effects of balance sheet normalization support our interpretation of innovations to reserves 
+as reserve supply shocks stemming from balance sheet normalization. In particular, our estimates show that the nature 
+of the relationship between reserve reductions and ﬁnancial conditions changed drastically after September 2017, precisely 
+when the Federal Reserve began allowing assets to runoff of its balance sheet. The time-varying impulse responses suggest 
+that after September 2017, declines in reserve balances arising from reductions in SOMA holdings tightened overall ﬁnancial 
+conditions. However, absent corresponding reductions in asset holdings prior to the Asset Runoff phase, reductions in reserve 
+balances alone did not appear to inﬂict similarly adverse effects. We ﬁnd liquidity effects were also markedly different across 
+these two phases of balance sheet normalization. In the early sample, the repo- and federal funds rates responses to reserve 
+reductions are considerably more muted when compared with the later sample. We conclude that, despite the avoidance 
+16 
+===== PAGE 17 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+Fig. 8. Time-Varying Responses of SOMA Assets to a Negative 1 sd Shock in the Supply of Reserves . Note: Each point estimate reﬂects: the ﬁrst month 
+response (top panel), the mean response over the second month (middle panel), or the mean response over the third month (bottom panel) for each month 
+in the sample. 
+of announcement effects by the Federal Reserve, the combination of reductions in the asset holdings and declining reserve 
+balances from lower base levels appears to have tightened U.S. ﬁnancial conditions. 
+5. A granular look at quantitative tightening 
+To gain insight into the scope and nature of the tightening in ﬁnancial markets, following the Federal Reserve’s unwind- 
+ing of past asset purchases, we now take a more granular look across asset classes. In addition, we perform a counterfactual 
+analysis to quantify the overall effects of QT on longer-term Treasury rates. We maintain our structural identiﬁcation out- 
+lined in Section 4.1 implied by the ordering of the variables in the system speciﬁed by x t . The measure we chose for the 
+variable Z t embedded in x t was the GS-FCI. We now model a constant-parameter SVAR and re-estimate our speciﬁcation by 
+rotating an indicator of ﬁnancial conditions, or a particular yield or asset price in Z t . We model these variables as a VAR(p): 
+θ(L ) x t = e t (11) 
+where θ(L ) = I 5 − θ1 L −···− θp L p is a pth order lag polynomial and e t is a mean zero vector of reduced-form VAR residuals 
+with a constant covariance matrix R . 12 We recover the underlying structural VAR by specifying the linear mapping, e t = P ϵt , 
+between e t , the reduced-form VAR residuals, and ϵt , the structural shocks of interest, where P is block lower-triangular. 13 
+12 We also include a constant and dummy variables in the VAR to absorb typical month-, quarter-, year-end as well as holiday dynamics. We use the AIC 
+to select four lags. 
+13 We conduct inference on our estimated constant-parameter impulse responses from a Bayesian perspective assuming a non-informative natural conju- 
+gate prior for θand /Sigma1such that the posterior distribution of θand R are centered at their OLS estimates. We closely follow Koop and Korobilis (2010) when 
+implementing this prior. 
+17 
+===== PAGE 18 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+Based on the evidence from the time-varying parameter model that shows strong evidence of deep structural change 
+across the Full Reinvestment and Asset Runoff periods, we now study the responses of various yields and asset prices to 
+negative reserve supply shocks arising during the Asset Runoff period to better understand the forces that lead the balance 
+sheet unwind to tightening overall ﬁnancial conditions. 14 In Fig. 9 we display impulse responses for reserve balances, SOMA 
+holdings, the GS-FCI, the 10-year Treasury yield (and its implied term premium), the BBB corporate borrowing rate, the 30- 
+year Ginnie Mae current coupon MBS rate, the foreign exchange value of the U.S. dollar against a broad basket of currencies, 
+as well as the S&P 500 price index. For each of these variables, we estimate a separate VAR with the yield or asset of 
+interest in place of the ﬁnancial conditions index. Each structural VAR is estimated over the Asset Runoff period. 
+Figure 9 shows that, during the Asset Runoff period, joint reductions in reserve balances and SOMA holdings imposed 
+broad tightening effects across ﬁnancial markets, as evident by the persistent increase in the GS-FCI. As we also witnessed 
+in the impulse responses from the TVP-VAR model, reductions in reserve balances led to increases in short-term interest 
+rates (SOFR and fed-funds rates), consistent with liquidity effects that would arise from a negative reserve supply shock. 
+The 10-year Treasury yield also increases as reserve balances and SOMA holdings decline, contributing to the tightening in 
+overall ﬁnancial conditions. 
+The increase in the 10-year Treasury rate considerably outpaces the rise in the federal funds rate, suggesting that ris- 
+ing term premiums underlie the increase in longer-term Treasury rates. Along these lines, if we assume the VAR impulse 
+responses of the federal funds rate proxies the response of the expected future path of short-term interest rates, we can 
+calculate the impulse response for the VAR-implied 10-year term premium as the difference between the impulse response 
+for this expected future path of short-term interest rates and the impulse response for the 10-year Treasury yield. 15 The 
+resulting VAR-implied 10-year Term Premium responses show that nearly all of the increase in longer-term Treasury rates 
+stems from increases in the term premium. This rise in longer-term Treasury yields permeates across bond markets to cor- 
+porate bond and MBS rates in largely equal magnitudes. MBS yields rise for several weeks, decaying at a similar rate as the 
+increase in Treasury yields, whereas BBB corporate bond yields remain elevated throughout the impulse response horizon. 
+There are also persistent effects on the broad dollar index with a protracted appreciation of the dollar. 16 Consistent with 
+a policy-induced tightening in ﬁnancial conditions, the S&P 500 index declines, although the extent of the equity market 
+effects are imprecisely estimated. 
+The responses in Fig. 9 provide circumscribed evidence on potential channels and the persistence of the ﬁnancial mar- 
+ket effects from unwinding past asset purchases. Despite the fact that the literature remains quite unsettled regarding the 
+mechanisms through which LSAPs operate, we ﬁnd evidence of broad—rather  than narrow—effects  across assets stemming 
+from balance sheet reductions. For instance, while balance sheet normalization involved reductions in Treasury and agency 
+securities, our evidence shows effects of similar magnitude on corporate borrowing rates. The rise in corporate borrowing 
+rates does not seem to differ statistically from the movements in Treasury term premia—perhaps  evocative of broad duration 
+effects. While the LSAP literature is also divided on the persistence of the effects of asset purchases, the ﬁnancial market 
+effects from unwinding the balance sheet that we have identiﬁed appear to fade after several months. Although movements 
+in corporate bond yields and the foreign exchange value of the dollar prove to be somewhat more persistent. 
+Our granular analysis also sheds light on the overall impact of the Federal Reserve’s balance sheet runoff program on 
+longer-term interest rates. The estimated structural VAR effects are not permanent “stock” effects of the sort implicit in an 
+event study. Thus, a simple visual inspection of the response of the 10-year Treasury yield at a single horizon cannot be 
+relied upon to extrapolate the overall consequences of the runoff of asset holdings over the 2017–2019 period. Instead, the 
+structural VAR provides dynamic responses that peak in the ﬁrst several weeks and then diminish over time. This implies 
+that the effect of QT on the 10-year yield at any point in time also depends on the extent and speed of the past runoff. 
+In an effort to better quantify the effects of quantitative tightening, we simulate a counterfactual scenario from the 
+structural VAR model to infer how much QT raised the 10-year yield. Speciﬁcally, in contrast to the realized sequence of 
+reserve supply shocks that took place amid the runoff of SOMA holdings, we assume that the FOMC instead continued 
+to fully reinvest maturing SOMA holdings, thereby counterfactually keeping reserve balances and SOMA holdings roughly 
+constant over the Asset Runoff sample. The difference between realized data and this counterfactual reveals that the peak 
+effect of the $650 billion reduction in asset holdings on the 10-year Treasury yield was about 40 basis points (occurring 
+in mid-2018) and QT raised the average 10-year Treasury yield by about 8 basis points over the entire Asset Runoff period 
+(Oct 2017 through August 2019). 17 To provide some perspective of this estimate in the context of federal funds rate changes, 
+the conversion in Williams (2014) suggests that this is the same movement in longer-term rates one would expect from an 
+increase in the federal funds rate of about 40 basis points. 
+14 In results available upon request, we conﬁrmed that the pattern of insigniﬁcance and signiﬁcance of impulse responses of the GS-FCI is maintained in 
+the constant parameter VAR model across the two samples. Additionally, this standard VAR found substantially more muted responses of SOMA holdings, 
+as well as Repo spreads, in the Full Reinvestment period—also  consistent with results from the TVP-VAR counterpart. 
+15 Speciﬁcally, for each impulse response horizon h = 0 , . . . , 28 , we deﬁne the expected path of short-term interest rates over the next 10 years by 
+ExpectedPath h = 1 
+520 
+∑ 520 
+τ=1 F F h + τ. Then, we deﬁne the VAR-Implied 10-year Term Premium by T P 10 − yr 
+h = T reasury 10 − yr 
+h − ExpectedPath h . 
+16 Chari et al. (2020) present evidence generally consistent with this as they ﬁnd that money ﬂowed from emerging market countries into the U.S. when 
+the Federal Reserve tapered its pace of asset purchases. 
+17 For comparison, Swanson (2020) reports that, based on the LSAP literature, $600 billion in medium- and longer-term Treasury purchases lowers the 
+10-year Treasury rate by 15 basis points. Therefore, our estimates of the effects of QT are within the range of estimates (and standard errors) from the 
+LSAP literature. 
+18
+===== PAGE 19 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+Fig. 9. Responses of Individual Yields and Assets to a Negative 1 sd Reserve Supply Shock . Note: Each subplot shows impulse responses from a separately 
+estimated structural VAR model (with the exception of the Reserve Balances, SOMA Holdings, GS-FCI, Repo Spread, and the Fed Funds Spread responses, 
+which are from a single VAR model). The solid lines denote the empirical point estimate to a one standard deviation shock and the shaded areas denote 
+the 16%–84% probability interval of the posterior distribution. 
+19 
+===== PAGE 20 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+An interesting question that arises from these ﬁndings is: Given the known maturity date of Treasury SOMA holdings, 
+what is it about the runoff of the balance sheet that raises longer-term Treasury rates? 18 One explanation may come from 
+research showing that even largely anticipated events, such as Treasury auctions, can have a discrete effect on ﬁnancial 
+markets at the time of the event due to underlying frictions and slow-moving capital ( Lou et al., 2013 ). Therefore, one 
+implication of our work for central banks unwinding their balance sheets is that even a well-telegraphed reduction in asset 
+holdings may nevertheless have tightening effects once executed. 
+6. Conclusion 
+The Federal Reserve, the European Central Bank, the Bank of England, and the Bank of Japan all took actions to expand 
+their balance sheets amid an unprecedented global economic contraction caused by the COVID-19 pandemic—all  the while 
+constrained by a dearth of available conventional policy space. As central banks normalize their balance sheets, a better 
+understanding of the ramiﬁcations of exiting from these unconventional policies is necessary. However, prior to this study, 
+there has been little empirical analysis of the ﬁnancial market consequences of balance sheet normalization. This leaves 
+central bankers with limited guidance on the realities of unwinding past asset purchases. Our aim in this paper is to shed 
+light on this important, but less well understood, dimension of balance sheet policy. 
+We provide a preponderance of evidence—from  the TVP-VAR model as well as constant-parameter VAR models—that,  
+despite the avoidance of announcement effects by the Federal Reserve, the combination of reductions in the asset hold- 
+ings and declining reserve balances from late 2017 through much of 2019 strained ﬁnancial conditions. Given important 
+differences in the structure and global role of ﬁnancial markets across various economies, the direct applicability of our 
+quantitative ﬁndings to other central banks may be reasonably questioned. However, we ﬁnd one widely applicable result 
+worth highlighting: the consequences of unwinding past balance sheet expansions are unlikely to simply manifest as a QE 
+policy in reverse. Instead, stark differences in the nature of balance sheet unwinds versus expansions, together with impor- 
+tant differences in the prevailing economic and ﬁnancial conditions at the time of exit, are likely to culminate in markedly 
+different dynamics than those that appeared upon implementation. Consequently, knowledge of the effects of LSAP policies 
+alone appears rather insuﬃcient to fully gauge the effects of balance sheet normalization, underscoring the need for further 
+research on this important monetary policy issue. 
+Data availability 
+Data will be made available on request. 
+References 
+Afonso, G., Cipriani, M., Copeland, A.M., Kovner, A., La Spada, G., Martin, A., 2020. The Market Events of Mid-September 2019. FRB of New York Staff Report 
+918 . 
+Anbil, S., Anderson, A., Senyuz, Z., 2021. Are Repo Markets Fragile? Evidence from September 2019. Technical Report. Mimeo . 
+Bailey, A., 2020. Central bank reserves can’t be taken for granted. https://www.bloomberg.com/opinion/articles/2020- 06- 22/ 
+andrew-bailey-central-bank-reserves-can-t-be-taken-for-granted  . 
+Bauer, M., Rudebusch, G.D., 2014. The signaling channel for federal reserve bond purchases. Int. J. Cent. Bank. . 
+Bernanke, B.S., 2008. Federal Reserve Policies in the Financial Crisis: A Speech at the Greater Austin Chamber of Commerce, Austin, Texas, December 1, 
+2008. Speech. Board of Governors of the Federal Reserve System (U.S.) . 
+Bernanke, B. S., 2017. Shrinking the fed’s balance sheet. https://www.brookings.edu/blog/ben-bernanke/2017/01/26/shrinking- the- feds- balance- sheet/ . 
+Bernanke, B.S., Mihov, I., 1998. Measuring monetary policy. Q. J. Econ. 113 (3), 869–902 . 
+Bhattarai, S., Eggertsson, G.B., Gafarov, B., 2015. Time Consistency and the Duration of Government Debt: A Signalling Theory of Quantitative Easing. Tech- 
+nical Report. National Bureau of Economic Research . 
+Carpenter, S., Demiralp, S., Ihrig, J., Klee, E., 2015. Analyzing federal reserve asset purchases: from whom does the fed buy? J. Bank. Finance 52, 230–244 . 
+Chari, A., Dilts-Stedman, K., Lundblad, C., 2020. Taper tantrums: quantitative easing, its aftermath, and emerging market capital ﬂows. Rev. Financ. Stud. . 
+Forthcoming 
+Christensen, J.H., Gillan, J.M., 2022. Does quantitative easing affect market liquidity? J. Bank. Finance 134, 106349 . 
+Christiano, L.J., Eichenbaum, M., Evans, C., 1996. The effects of monetary policys shocks: evidence from the ﬂow of funds. Rev. Econ. Stat. 78 (1), 16–34 . 
+Cogley, T., Sargent, T.J., 2005. Drifts and volatilities: monetary policies and outcomes in the post WWII US. Rev. Econ. Dyn. 8 (2), 262–302 . 
+Copeland, A., Duﬃe, D., Yang, Y., 2021. Reserves Were Not So Ample After All. Technical Report. Federal Reserve Bank of New York . 
+Curdia, V., Woodford, M., 2016. Credit frictions and optimal monetary policy. J. Monet. Econ. 84, 30–65. doi: 10.1016/j.jmoneco.2016.10.003 . 
+Del Negro, M., Primiceri, G.E., 2015. Time varying structural vector autoregressions and monetary policy: a corrigendum. Rev. Econ. Stud. 82 (4), 1342–1345 . 
+Demiralp, S., Eisenschmidt, J., Vlassopoulos, T., 2019. Negative Interest Rates, Excess Liquidity and Retail Deposits: Banks’ Reaction to Unconventional Mon- 
+etary Policy in the Euro Area. ECB Working paper . 
+Dilts-Stedman, K., 2019. Unconventional Monetary Policy,(A) Synchronicity and the Yield Curve. Technical Report. Federal Reserve Bank of Kansas City RWP 
+19-09 . 
+D’Amico, S., English, W., López-Salido, D., Nelson, E., 2012. The federal reserve’s large-scale asset purchase programmes: rationale and effects. Econ. J. 122 
+(564), F415–F446 . 
+D’Amico, S., King, T.B., 2013. Flow and stock effects of large-scale treasury purchases: evidence on the importance of local supply. J. Financ. Econ. 108 (2), 
+425–448 . 
+Gagnon, J., Raskin, M., Remache, J., Sack, B., et al., 2011. The ﬁnancial market effects of the federal reserve’s large-scale asset purchases. Int. J. Cent. Bank. 7 
+(1), 3–43 . 
+18 Even if the maturity of Treasury holdings is known, the runoff of MBS securities was stochastic as a result of unpredictable pre-payment patterns. 
+20 
+===== PAGE 21 =====
+A.L. Smith and V.J. Valcarcel Journal of Economic Dynamics & Control 146 (2023) 104582 
+Garbade, K., Ingber, J., 2005. The treasury auction process: objectives, structure, and recent adaptations. Curr. Issues Econ. Finance 11 (2) . 
+Greenlaw, D., Hamilton, J.D., Harris, E., West, K.D., 2018. A Skeptical View of the Impact of the Fed’s Balance Sheet. Technical Report. National Bureau of 
+Economic Research . 
+Hamilton, J.D., 1997. Measuring the liquidity effect. Am. Econ. Rev. 80–97 . 
+Hanson, S.G., Stein, J.C., 2015. Monetary policy and long-term real rates. J. Financ. Econ. 115, 429–448 . 
+Hatzius, J., Stehn, S.J., 2018. The Case for a Financial Conditions Index. Global Economic Paper . July 16 
+Ihrig, J., Klee, E., Li, C., Wei, M., Kachovec, J., 2018. Expectations about the federal reserve’s balance sheet and the term structure of interest rates. Int. J. 
+Cent. Bank. . 
+Ihrig, J.E., Senyuz, Z., Weinbach, G.C., 2020. The Fed’s ǣAmple Reserves ǥ Approach to Implementing Monetary Policy. Finance and Economics Discussion 
+Series. Board of Governors of the Federal Reserve System . 
+Ireland, P.N., 2014. The macroeconomic effects of interest on reserves. Macroecon. Dyn. 18, 1271–1312 . 
+Iwata, S., Wu, S., 2006. Estimating monetary policy effects when interest rates are close to zero. J. Monet. Econ. 53 (7), 1395–1408 . 
+Jacquier, E., Polson, N.G., Rossi, P.E., 2002. Bayesian analysis of stochastic volatility models. J. Bus. Econ. Stat. 20 (1), 69–87 . 
+Kandrac, J., Schlusche, B., 2013. Flow effects of large-scale asset purchases. Econ. Lett. 121 (2), 330–335 . 
+Kim, S., Shephard, N., Chib, S., 1998. Stochastic volatility: likelihood inference and comparison with arch models. Rev. Econ. Stud. 65 (3), 361–393 . 
+Koop, G., Korobilis, D., 2010. Bayesian Multivariate Time Series Methods for Empirical Macroeconomics. Now Publishers Inc . 
+Krishnamurthy, A., Vissing-Jorgensen, A., 2011. The effects of quantitative easing on interest rates: channels and implications for policy. Brookings Pap. Econ. 
+Act. 43 (2), 215–287 . 
+Krishnamurthy, A., Vissing-Jorgensen, A., 2013. The ins and outs of LSAPs. In: Proceedings-Economic Policy Symposium-Jackson Hole. Federal Reserve Bank 
+of Kansas City, pp. 57–111 . 
+Lou, D., Yan, H., Zhang, J., 2013. Anticipated and repeated shocks in liquid markets. Rev. Financ. Stud. 26 (8), 1891–1912 . 
+Martin, A., McAndrews, J., Palida, A., Skeie, D.R., 2019. Federal Reserve Tools for Managing Rates and Reserves. Technical Report. Federal Reserve Bank of 
+New York Staff Report No. 642 . 
+Powell, J., 2018. June 2018 post-FOMC press conference. https://www.federalreserve.gov/mediacenter/ﬁles/FOMCpresconf20180613.pdf . 
+Powell, J., 2020. Treasury secretary Mnuchin and federal reserve chair Powell testify before house committee. https://www.c- span.org/video/?506828- 1/ 
+treasury-secretary- mnuchin- federal- reserve- chair- powell- testify- house- committee . 
+Primiceri, G.E., 2005. Time varying structural vector autoregressions and monetary policy. Rev. Econ. Stud. 72 (3), 821–852 . 
+Smith, A.L., 2019. Do changes in reserve balances still inﬂuence the federal funds rate? Econ. Rev. 104 (1), 5–34 . 
+Strongin, S., 1995. The identiﬁcation of monetary policy disturbances explaining the liquidity puzzle. J. Monet. Econ. 35 (3), 463–497 . 
+Swanson, E.T., 2020. Measuring the effects of federal reserve forward guidance and asset purchases on ﬁnancial markets. J. Monet. Econ. . Forthcoming 
+Vayanos, D., Vila, J.-L., 2021. A preferred-habitat model of the term structure of interest rates. Econometrica 89 (1), 77–112 . 
+Williams, J.C., 2014. Monetary Policy at the Zero Lower Bound: Putting Theory into Practice. Hutchins Center Working Papers . 
+Woodford, M., 2012. Methods of policy accommodation at the interest-rate lower bound. In: Proceedings-Economic Policy Symposium-Jackson Hole. Federal 
+Reserve Bank of Kansas City, pp. 185–288 . 
+Wright, J.H., 2012. What does monetary policy do to long-term interest rates at the zero lower bound? Econ. J. 122 (564), F447–F466 . 
+Yellen, J., 2017. June 2017 post-FOMC press conference. https://www.federalreserve.gov/mediacenter/ﬁles/FOMCpresconf20170614.pdf . 
+21 

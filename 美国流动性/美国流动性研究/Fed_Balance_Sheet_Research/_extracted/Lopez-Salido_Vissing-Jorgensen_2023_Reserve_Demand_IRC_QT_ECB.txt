@@ -1,0 +1,1784 @@
+
+===== PAGE 1 =====
+ 
+1 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+ 
+ 
+Reserve Demand, Interest Rate Control, and Quantitative Tightening 
+ 
+David Lopez-Salido, Federal Reserve Board and CEPR 
+Annette Vissing-Jorgensen, Federal Reserve Board and CEPR1 
+ 
+First version: November 1, 2021. Current version: September 18, 2023 
+ 
+ 
+ 
+Abstract: We provide a framework for understanding banks’ demand for central bank reserves. The main 
+reserve demand drivers are: The spread between market rates and the interest rate on reserves, banks’ 
+liquidity needs (implying that reserves generate a convenience yield), and bank balance sheet costs. Given 
+reserve demand, we show how central banks control equilibrium short rates via interest on reserves, 
+securities holdings and lending/borrowing facilities. We estimate reserve demand for the US from 2009M1-
+2022M10 and use the estimated reserve demand function to (a) guide the setting of interest on reserves, and 
+(b) assess how much quantitative tightening is feasible before interest rate volatility is likely to increase. 
+ 
+ 
+1 E-mails: David.Lopez-Salido@frb.gov, Annette.Vissing-Jorgensen@frb.gov. We thank Trevor Reeve , 
+Jim Clouse, Ed Nelson, Juan Morelli, Ben Bernanke, Jeremy Stein, Viral Acharya, Peter Ireland, Sebnem 
+Kalemli-Ozcan, and seminar/conference participants at University of Chicago, University of Maryland, the 
+Federal Reserve Board, the Federal Reserve Bank of New York , the Federal Reserve Bank of Chicago, 
+Norges Bank, Bank of Italy, Bank of Canada, the Dutch Central Bank, OFR, CEPR and NBER for feedback. 
+The views expressed herein are those of the authors; they do not necessarily reflect those of the Federal 
+Reserve Board or the Federal Reserve System. 
+===== PAGE 2 =====
+ 
+2 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+1. Introduction   
+A central bank ’s supply of reser ves plays a central role in monetary policy. P rior to the financial crisis, 
+most central banks focused on conventional monetary policy in which they used variation in the supply of 
+reserves to control a chosen short-term interest rate. The supply of reserves was modest and reserves often 
+did not earn interest. Central banks were able to change the short-term rate (in the US, the effective federal 
+funds rate) with small changes in reserve supply via open market operations. This suggests that banks were 
+on a steep part of their reserve demand curve . When the zero lower bound became binding during the 
+financial crisis, many central banks turned to unconventional monetary policy, with forward guidance and 
+quantitative easing (QE) being the most prominent.  With QE, reserve supply expanded dramatically, and 
+more central banks started paying interest on reserves. This new setting is sometimes referred to as the 
+ample-reserves regime. In this paper, we focus on the role of reserve demand in the ample-reserves regime. 
+We are interested in two issues.  
+First, what is the role of reserve demand for interest rate control in the ample -reserves setting? What are 
+the drivers of reserve demand? How elastic is reserve demand to the spread between short -term market 
+rates and the interest rate on reserves? What is the mechanics through which central bank facilities set up 
+to keep market rates in a corridor achieve their objectives (in the US, these facilities are the discount window 
+and the overnight reverse repurchase facility)? Answering these questions should help central banks set 
+reserve supply and the array of interest rates they control to ensure that short-term market rates clear around 
+a desired value.  
+Second, and closely related, to what extent can QE be unwound via quantitative tightening (QT)? Because 
+central banks fund their bond purchases by creating short-term liquid liabilities (mainly reserves), balance 
+sheet reduction comes with a reduction in central bank-provided liquidity. The lower the supply of central 
+bank liquidity, the higher the risk of spikes to funding costs in short-term money markets as those who hold 
+liquid central bank assets may hold on to them to have liquidity available when needed, rather than lending 
+them out to others in needed of funding. Q uantitative tightening may thus lead to a loss of co ntrol over 
+interest rates and to financial instability. This part of our analysis is motivated by the U.S. experience in 
+2019. This QT episode ended in September 2019 when short -term money market rates spiked sharply, as 
+illustrated in Figure 1.
+2 In light of this experience, the risk of an abrupt end to the ongoing balance sheet 
+ 
+2 Work on the September 2019 yield spikes include Anbil, Anderson and Senyuz (2020), Correa, Du and Liao 
+(2021), Afonso, Cipriani, Copeland, Kovner, La Spada and Martin (2020), and Copeland, Duffie and Yang (2021).  
+ 
+===== PAGE 3 =====
+ 
+3 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+reduction of the Federal Reserve is a concern among many market participants, as documented in, e.g., 
+Wall Street Journal (2022). 
+We start by deriving banks’ demand for reserves fr om a bank optimization problem with three main  
+ingredients. First, reserves pay interest. Second, we model transaction cost savings from reserves as a 
+convenience yield on reserves which is increasing in reserves and decreasing in deposits. This approach has 
+parallels to that of Krishnamurthy and Vissing-Jorgensen (2012) who model the safety and liquidity features 
+of Treasury securities using a convenience yield function that is increasing in Treasuries and decreasing in 
+GDP. In the reserve context, the transaction cost savings from holding reserves st em from banks’ need to 
+manage the liquid liabilities they have issued. Deposits are the main such liability, but other liquid claims 
+could matter too. Reserves can be used to manage deposits outflows with few costs, unlike less liquid bank 
+assets such as loans or securities. Third, we assume a bank balance sheet cost which is linear in bank assets. 
+We derive banks’ reserve demand from the banks’ first-order condition for borrowing in the federal funds 
+market and investing in reserves. This first -order condi tion states that the effective federal funds rate 
+(EFFR) equals the interest rate on reserves (IOR) plus the marginal convenience yield from additional 
+reserves, minus the per-dollar balance sheet cost, thus laying out three drivers of reserve demand. If banks 
+view additional reserves as less and less useful for the management of their net deposit flows, a downward 
+sloping reserve demand results, with reserve demand declining in the market interest rate on alternatives to 
+reserves (such as the EFFR). 
+We emphasize that the reserve demand curve can be defined relative to any liability used to fund reserves. 
+To model repo borrowing, we introduce a cost of posting collateral in repo contracts (in practice 
+representing foregone securities lending revenues) and derive the reserve demand relative to repos from the 
+banks first order condition for borrowing via repo to fund reserves. The EFFR and repo interest rates are 
+those of most direct interest to the Federal Reserve because it targets the EFFR rate and because the interest 
+rate in the repo market determines take- up at the overnight reverse repo facility and the discount window 
+(both who which are collateralized) . While our reserve demand framework is laid out in the institutional 
+context of the United States, it should be straightforward to extend it to other countries with appropriate 
+modifications to interest rate labels. 
+We next turn to how a central bank controls the equilibrium interest rates given the reserve demand function. 
+We develop a graphical framework  for this purpose. The Federal Reserve controls the equilibrium short -
+term interest rate via the setting of the IOR, the size of its securities holdings, as well as facilities in place 
+to put a ceiling and a floor on the market-clearing interest rate. These facilities are the discount window (at 
+which banks can borrow reserves from the Federal Reserve against collateral) and the overnight reverse 
+repurchase (ONRRP) facility (at which banks, government-sponsored enterprise and money market funds 
+===== PAGE 4 =====
+ 
+4 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+can invests with the Federal Reserve, receiving collateral). We show how these facilities for lending to 
+banks and borrowing from non- banks lead to flat parts of the reserve supply curve. In equilibrium, t he 
+private sector’s decisions to borrow/lend at these facilities changes reserve supply to ensure that the market 
+interest rate remains between the floor and ceiling rates (aside from any slippage due to stigma of banks 
+from borrowing at the discount window or due to it taking time for the private sector to react to interest rate 
+incentives).  
+We compare our framework to prior work, summarized in Ihrig, Senyuz and Weinbach (2020), emphasizing 
+two novelties. First, our reserve demand curve is not directly affected by the floor and ceiling rates. Instead, 
+reserve supply adjusts via private sector take-up decisions to ensure that the market rate clears in the interest 
+rate corridor. Our framework therefore allows us to speak to drivers of take-up at the ONRRP facility which 
+recently has been over $2T. We show graphically h ow ONRRP take-up can result from increased reserve 
+supply (specifically, the Fed’s securities holdings net of the autonomous factors) , from a downward shift 
+to the reserve demand function, or from an increase in the interest rate on the ONRRP facility (for given 
+IOR). Second, our framework emphasizes the role of deposits (and other liquid bank liabilities) in 
+determining the location of the demand curve. Effectively, deposits are a scale variable in the demand 
+function that, in interest rate -quantity space, constitute a demand curve shifter. Although recent work on 
+reserve demand has not focused on the role of deposits, banks’ use of reserves to manage deposit flows is 
+at the center of the literature on reserve demand from the period before the ample -reserves regime (see 
+Judson and Klee (2009)). In this earlier regime, reserve demand was driven by reserve requirements and by 
+banks’ demand for holding reserves above the regulatory minimum. Banks’ need for required reserves 
+followed directly from the amount of money they created in the form of deposits (with reserve requirements 
+set as a percentage of transactions deposits, see Archived Reserve Maintenance Manual ). Banks could 
+choose to hold reserves above the regulatory minimum to facilitate transactions while avoiding overdrafts 
+with the Federal Reserve. During the scarce reserve- zero IOR regime, the Feder al Reserve carefully 
+modeled the demand for excess reserves and adjusted reserve supply daily to ensure that the federal funds 
+rate traded near the federal funds rate target. By contrast, during the current ample reserve- positive IOR 
+regime, the Federal Reserve does not adjust the size of its balance sheet in response to reserve demand 
+shocks (except when the interest rate ceiling is binding), instead using the size of its balance sheet to affect 
+employment and inflation. 
+Having laid out a framework for reserve demand and interest rate control, the second half of the paper turns 
+to empirical estimation of reserve demand and its implications for current monetary policy. We assume that 
+the marginal convenience yield on reserves is linear in log reserves and in  log deposits. The banks’ first-
+order condition for borrowing via federal funds and investing in reserves then implies a reserve demand 
+===== PAGE 5 =====
+ 
+5 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+function which links the EFFR -IOR spread to log reserves and log deposits. We estimate this reserve 
+demand function using instrumental variable estimation. Reserves are not exogenous because reserve 
+supply changes in response to reserve demand shocks when ONRRP take -up is not zero ( as will be clear 
+from our graphical framework for interest rate control ). We instrument log r eserves by the log of 
+reserves+ONRRP take-up. From the Federal Reserve’s balance sheet, reserves+ONRRP equals securities 
+minus autonomous factors (liabilities o ther than reserves and ONRRP)  plus Fed lending to banks. Fed 
+lending to banks is small over our sample. We argue that securities minus autonomous factors, and thus 
+reserves+ONRRP, is plausibly exogenous once deposits are included in our regression as a control variable. 
+In our baseline estimation, we do not instrument for deposits, but we show as a r obustness check that 
+instrumenting for deposits has little effect on results. Our baseline estimation implies that reserve demand 
+has a semi-elasticity around -5 with respect to the EFFR -IOR spread -- thus suggesting a very elastic but 
+not flat reserve dem and -- and an elasticity above one with respect to deposits. The reduced form of our 
+reserve demand estimation links the EFFR -IOR spread to the log of reserves+ONRRP and log deposits. 
+The fit of this relation is very tight over the estimation period from 2009M1 to 2022M10. We illustrate this 
+by showing that the EFFR -IOR spread has a tight relation to the log of reserves+ONRRP (i.e., Federal 
+Reserve supply of interest-bearing liabilities), adjusted for deposits. This contrasts sharply with the unstable 
+relation between the EFFR -IOR spread and reserves (or reserves+ONRRP) when one does not account 
+shifts in reserves demand due to changes in deposits.  Smith and Valcarcel (2021) is an example of recent 
+work on reserve demand that emphasizes reserve demand instability but does not account for deposits. 
+Using the estimated reserve demand function, we can calculate the predicted EFFR -IOR spread given the 
+Federal Reserve’s current quantity of reserves+ONRRP and given current deposits. This guides the setting 
+of the IOR needed to hit a given federal funds target: An IOR set equal to the federal funds target minus 
+the predicted EFFR-IOR spread will result in a predicted federal funds rate equ al to the target. Since the 
+predicted EFFR-IOR spread is declining in the supply of reserves+ONRRP, a lower IOR is needed for the 
+market rate to hit the federal funds target for low supply. We denote combinations of the IOR and 
+Reserves+ONRRP that imply a chosen predicted effective federal funds rate as an iso-federal funds curve. 
+This terminology was introduced by Bianchi and Bigio (2022) in a theoretical analysis based on a somewhat 
+different framework than ours. We provide the first empirically estimated  iso-federal funds curves in the 
+literature. 
+The estimated reserve demand function can also be used to guide the Federal Reserve’s quantitative 
+tightening. There are two possible angles to this.  
+The angle we explore in the current paper  is that the curvature of reserve demand determines how much 
+QT is feasible before interest rate volatility may emerge in response to supply changes. One can think of 
+===== PAGE 6 =====
+ 
+6 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+this as a financial stability perspective on QT. QT  is used as one tool to tighten the stance of monetary 
+policy and banks’ demand for reserves is central for the effect of balance sheet reduction on interest rates. 
+Leading up to both the prior balance sheet reduction period in 2018- 2019 and the current one (starting in 
+2022), the Federal Reserve has communicated that QT would be limited by the nature of reserve demand. 
+In the 2017 Addendum to its Policy Normalization Principles and Plans, the Federal Open Market 
+Committee (FOMC) stated: 
+“The Committee currently anticipates reducing the quantity of reserve balances, over time, to a 
+level appreciably below that seen in recent years but larger than before the financial crisis; the 
+level will reflect the banking system’s demand for reserve balances and the Committee’s decisions 
+about how to implement monetary policy most efficiently and effectively in the future.”3 
+Our reduced form relation can be used to predict what the EFFR-IOR spread would be at various levels of 
+reserve+ONRRP supply, given the c urrent level of deposits. As of October 2022, the supply of 
+reserves+ONRRP was $5.4T (20.4% of GDP). We show that reducing reserve+ONRRP supply to 7% of 
+GDP ($1.8T) as was done during the policy normalization period leading up to September 2019 would 
+result in a historically low value of the deposit-adjusted supply of reserves+ONRRP and a predicted EFFR-
+IOR spread much above that in September 2019. We consider more conservative amounts of reduction in 
+reserves+ONRRP. Reserves+ONRRP supply of 11% of GDP ($2.8T) would lead to the same (positive) 
+predicted EFFR-IOR spread as in September 2019 and thus may also be risky from a financial stability 
+perspective. A more conservative choice would be a reserves+ONRRP supply of 13.5% of GDP ($3.5T) 
+which leads to a predicted EFFR -IOR spread of zero.  As an alternative approach, we also consider the 
+current level of ONRRP take- up ($2.2T as of October 2022) as a useful guide to when reduction in 
+reserves+ONRRP may lead to interest rate volatility. Since ONRRP take- up emerges because the Federal 
+Reserve supply of reserves+ONRRP exceeds reserve demand evaluated at a market interest rate equal to 
+the ONRRP rate, the current size of ONRRP take-up reveals how large a reduction in reserves+ONRRP is 
+possible, without lifting the market repo rate above the ONRRP rate floor. Both approaches imply that 
+reserve+ONRRP reduction of around $2T as of October 2022 are possible before interest volatility is likely 
+to emerge. This translates into a smaller amount of reduction in the Federal Reserves’ securities holdings. 
+Reserves+ONRRP equals Federal Reserve securities minus “autonomous factors” (when loans to banks are 
+small). Concerns about interest rate volatility suggest  running down securities only to the point that 
+volatility in the autonomous factors will not drive reserves+ONRRP below the value assessed to be feasible 
+ 
+3 Policy Normalization Principles and Plans (federalreserve.gov).  Similarly, the latest “Principles for Reducing the 
+Size of the Federal Reserve’s Balance Sheet” released on 1/26/2022 states that “Over time, the Committee intends to 
+maintain securities holdings in amounts needed to implement monetary policy efficiently and effectively in its ample 
+reserves regime.” 
+===== PAGE 7 =====
+ 
+7 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+before interest rate volatility may occur. We caution that there several complicating factors that are difficult 
+to quantify but both suggest that more QT may be possible before interest rate volatility emerges than our 
+estimate. First, as the Federal Reserve runs down its balances sheet, someone has to step i hn to hold more 
+bonds. This may reduce deposits (and thus reserve demand, thereby increasing feasible QT) if households 
+buy more bonds directly, transfer deposits to bond funds, or move deposits to money market funds who in 
+turn fund hedge fund bond purchases via repo lending. Second, in July 2021 the Federal Reserve introduced 
+a Standing Repo Facility (SRF) at which dealers and depository institutions can borrow funds from the 
+Federal Reserve via repo borrowing. The SRF provides liquidity when needed and thus may help reduce 
+the risk of yield spikes for a given level of reser ves+ONRRP. Again, this would imply that more QT is 
+feasible than in our estimate. 
+In follow-on work, Vissing-Jorgensen (2023) analyzes QT from a different angle focusing on how large a 
+central bank balance sheet is optimal from the perspective of supplying of liquid and safe assets. Reserves 
+are perhaps the ultimate  liquid and safe asset , and a central bank may want to supply reserves until their 
+convenience yield reaches zero. However, whether this is optimal from a convenience supply perspective 
+depends on how the central bank supplies reserves. If it supplies them by purchasing assets that themselves 
+are safe and liquid (e.g., US Treasuries or German Bunds), then this reduces the supply of convenient assets 
+available for the private sector to hold. The central bank’s  convenience-maximizing reserve supply 
+equalizes the convenience yield on reserves (net of any balance costs associated with banks funding 
+reserves) and the convenience yield on bonds. The reserve demand function again plays a central role for 
+calculating desirable QT from a convenience -maximization perspective, just like it does when thinking 
+about QT from an interest rate volatility perspective. 
+In sum, we make four contributions in this paper: First, we develop a simple framework for understanding 
+reserve demand. Second, we show how the Federal Reserve controls the equilibrium market interest rate 
+via the interest rate on reserves, the supply of reserves, as well as facilities in place to put a ceiling and a 
+floor on the market-clearing interest rate. Third, we estimate the reserve demand function for the US over 
+the ample reserves period since 2009, finding a stable relation once the growth in deposits is accounted for. 
+Fourth, we use the estimated reserve demand function (given current levels of deposits as of October 2022) 
+to estimate iso-federal funds curves and the amount of QT that is feasible before interest rate volatility may 
+emerge.  
+  
+===== PAGE 8 =====
+ 
+8 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+2.  Deriving reserve demand from banks’ optimization 
+This section lays out our framework for understanding reserve demand. We derive reserve demand from 
+banks’ optimization in a setting with interest on reserves, a convenience yield from reserves and balance 
+sheet costs. We provide a micro foundation for the convenience yield in Appendix 1.  
+As background for laying out the framework, Table 1 shows the Federal Reserve balance sheet as of October 
+26, 2022. Figure 2 illustrates the evolution of the Federal Reserve balance sheet over time, illustrating both 
+the total size and the five liability components. The Federal Reserve’s main assets are Treasuries and MBS 
+securities.  On the liability side, the largest categories are reserves (banks’ deposits with the Federal 
+Reserve), overnight reverse repurchase agreements (repo investments with the Federal Reserve, mainly by 
+money market funds), currency, and the Treasury General Account (the Treasury’s deposit account with 
+the Federal Reserve).4 
+To derive banks’ reserve demand curve explicitly from bank optimization, consider a typical banking sector 
+balance sheet. 
+Assets Liabilities 
+Reserves Deposits 
+Securities Federal funds  
+Loans Repo 
+ Equity 
+ 
+Reserves earn interest. In addition, they lead to transactions cost savings as liability outflows can be 
+managed with reserve reductions rather than sales of less liquid securities or loans. We model these 
+transactions cost savings ahs a convenience yield on reserves, i.e., a benefit of holding reserves above and 
+beyond earning the IOR. Our assumed convenience yield function is v(Reserves,Deposits) with 𝑣𝑣
+𝑅𝑅
+′ ()>0 (as 
+more reserves lead to increased cost savings and 𝑣𝑣𝐷𝐷
+′ ()<0 (as more deposits increase costs of liquidity 
+management). This convenience yield function is conceptually similar to that for Treasuries in 
+Krishnamurthy and Vissing- Jorgensen (2012). They model the convenience yield on Treasuries using a 
+function v(Treasuries/GDP). Here we allow for the two inputs to enter separately. We assume (and confirm 
+empirically), that 𝑣𝑣𝑅𝑅
+′′()<0 (as reserves are less and less useful for given deposits) and 𝑣𝑣𝑅𝑅,𝐷𝐷
+′′ ()>0 (as additional 
+deposits increase the marginal value of reserves) . Appendix 1 provides micro foundations for the 𝑣𝑣() 
+function, showing how it captures saved transactions costs from managing deposit flows with reserves.  
+Assume furthermore that banks face a balance sheet cost of φ per dollar of assets, capturing the effect of 
+ 
+4 The “other” category on the asset side includes bank borrowing from the Federal Reserve at the discount window or 
+via other facilities. None o f our results are sensitive to subtracting discount window borrowing from reserves. 
+Conceptually, it is most appropriate to not subtract discount window borrowing, as it is a  channel through which 
+reserves are increased as will be laid out below. 
+===== PAGE 9 =====
+ 
+9 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+regulatory requirements. W e are particularly in terested in the spread of the effective federal funds rate 
+relative to IOR and repo relative to IOR. We use a function w(Repo) to denote the costs of posting collateral 
+in repo contracts, with w′>0.  
+Profits to equity holders in a given period are then: 
+π=IOR*Reserves+r(Securities)*Securities+r(Loans)*Loans 
+-[r(Deposits)*Deposits+r(FF)*FF+r(Repo)*Repo] 
+    + 𝑣𝑣(Reserves,Deposits)-φ*(Reserves+Securities+Loans)-w(Repo)  (1) 
+ 
+where r() denotes a return. We use this setup to derive the first -order conditions for bank borrowing via 
+each of the short-term liabilities and investing in reserves. We assume there is no risk involved in federal 
+funds borrowing/lending.  
+The banks’ first-order condition for borrowing in the federal funds market and investing in reserves sets the 
+marginal cost of borrowing via federal funds, r(FF), equal to the marginal benefit of investing in reserves, 
+IOR+𝑣𝑣𝑅𝑅
+′ (Reserves,Deposits)-φ, and thus implies 
+r(FF)=IOR + 𝑣𝑣𝑅𝑅
+′ (Reserves,Deposits) - φ       (2) 
+Similarly, the banks first-order condition for borrowing via repo and investing in reserves sets the marginal 
+cost of borrowing via repo, r(Repo)+w′(Repo), equal to the marginal benefit of investing in reserves, IOR 
++𝑣𝑣𝑅𝑅
+′ (Reserves,Deposits) - φ and therefore implies 
+r(Repo)=IOR+ 𝑣𝑣𝑅𝑅
+′ (Reserves,Deposits) - φ - w′(Repo)     (3)  
+Adding assumptions about the cost of raising deposit funding one could also derive a first-order condition 
+for borrowing via deposits and investing in reserves. We omit it here as it is of less interest for our purposes. 
+Adding an assumed functional form for 𝑣𝑣𝑅𝑅
+′ (Reserves,Deposits), we obtain a version of (2), which we will 
+estimate empirically below.5 
+Result 1. If  
+𝑣𝑣𝑅𝑅
+′ (Reserves,Deposits)=d+b*ln(Reserves)+c*ln(Deposits)    (4) 
+then banks’ first order condition for borrowing via federal funds and investing in reserves is 
+r(FF)-IOR=a+b*ln(Reserves)+c*ln(Deposits)+u                 (5) 
+ 
+5 We focus our estimation on (2) rather than (3) due to not having a good instrument for repo borrowing inside the 
+w’() function. More on instrumenting below. 
+===== PAGE 10 =====
+ 
+10 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+where 𝑎𝑎= 𝑑𝑑− 𝜑𝜑 and we have added an unobserved reserve demand shock u. If additional reserves are less 
+and less useful for liquidity management purposes (for given deposits), then b<0, corresponding to 𝑣𝑣𝑅𝑅
+′′()<0. 
+If additional reserves are more useful when deposits are higher, then c>0, corresponding to 𝑣𝑣𝑅𝑅,𝐷𝐷
+′′ ()>0. 
+Expressing reserve demand as a function of r eserve demand drivers, (5) corresponds to a reserve demand 
+function of the following form 
+𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅= 𝛼𝛼 𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝛽𝛽𝑅𝑅𝛾𝛾∗[𝑟𝑟(𝐹𝐹𝐹𝐹)−𝑟𝑟(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑟𝑟𝑅𝑅𝑅𝑅𝑅𝑅)]𝜀𝜀     (6) 
+where α = e−a/b, β = −c/b, γ=1/b, and 𝜀𝜀= e−u/b.  Equation (6) shows how reserve demand is a function 
+of the interest rate spread between reserves (which earns the interest rate on reserves, IOR, in practice 
+referred to as IOR) and the market interest rate r as well as banks’ need for liquidity driven by their deposit 
+management.6 Taking logs in (6),  
+ln(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅) = ln(𝛼𝛼) + 𝛽𝛽∗ ln(𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅) + 𝛾𝛾∗ [𝑅𝑅(𝐹𝐹𝐹𝐹) − 𝑅𝑅(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅)] + ln (𝜀𝜀) (7) 
+In the money demand literature this would be referred to as a semi -log functional form, meaning that the 
+measure of money (here reserves) enters in logs but the measure of the cost of holding money (here r(FF)-
+IOR) enters in levels.7  
+3. Interest rate control  
+The central bank affects the market equilibrium interest rate via the setting of the  IOR (which affects the 
+vertical position of the demand curve) and via the supply curve of reserves which the central bank 
+determines through its securities holdings and its lending and investment facility rates. In this section, we 
+illustrate the determination of the market equilibrium rate. We show that because the central bank can affect 
+both reserve demand and supply there are many combinations of the IOR and s ecurities holdings which 
+generate the same equilibrium interest rate. This is an old insight going back to at least Goodfriend (2002) 
+which emerges clearly in our framework.  In the empirical analysis, we will provide the first empirically 
+estimated “iso-federal funds curves” that illustrate combinations of the IOR and supply that lead to a given 
+predicted federal funds rate.  The more novel insight that emerges from our equilibrium analysis is the 
+mechanics of how the central bank’s lending facility for banks and its investment facility for non-banks (if 
+ 
+6 Goodfriend (1982) models reserve demand as a function of deposits (either demand or time) and the level of market 
+interest rates. With interest on reserves, the opportunity cost of reserves is the spread between the market interest rates 
+and the interest rate on reserves.  
+7 Lucas (2000) models the demand for M1 (currency plus checkable deposits and traveler’s checks). He models 
+m=M1/GDP as a function of a nominal interest rate, r. In line with the money demand literature, h e considers both a 
+semi-log relation, m=Be-ξ r, and a log-log relation, m=Ar-η. We focus on the semi-log functional form since the measure 
+of the cost of liquidity with IOR is (market interest rate-IOR) which can go negative, implying that the log-log relation 
+is not well-defined (as hln(m)=ln(A) – η ln(r) is not well-defined for negative r). 
+===== PAGE 11 =====
+ 
+11 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+a such facility is in place) keep the market clearing interest rate in the range between the rates on the 
+facilities. We show how this emerges in equilibrium via changes to equilibrium supply induced by private 
+sector take-up at the facilities.  
+a. The reserve demand curve 
+Figure 3, Panel A illustrates the reserve demand curve. It looks like a standard money demand curve for 
+currency consistent with the idea that reserve demand is a form of money demand for banks. The downward 
+slope of both the reserve demand curve and the standard money demand curve is due to a declining 
+convenience yield (liquidity value) of the asset as holdings increase. While money demand depends on 
+households’ (and firms’) convenience yield from money due the liquid nature of currency, reserve demand 
+depend on banks’ convenience yield on reserves due to the liquid nature of reserves. The convenience yield 
+on reserves emerges from banks’ need for liquidity to manage flows of liquid short-term liabilities, notably 
+deposits as laid out above. 
+To be more precise, the reserve demand curve graphed is equation (2), r(FF) = IOR+ 𝑣𝑣𝑅𝑅
+′ (Reserves,Deposits) 
+– φ. The reserve demand curve traces out the interest rate banks are willing to pay to borrow and invest in 
+reserves, as a function of the amount of reserves held. Consider the role of each of the terms on the right -
+hand side. Changes to the IOR lead to corresp onding vertical shifts in the reserve demand curve as the 
+attractiveness of reserves as a store of value changes. This differs from the money demand curve for 
+currency since the interest rate on currency is always zero. The downward slope of the reserve de mand 
+curve is driven by the second term, the convenience yield 𝑣𝑣𝑅𝑅
+′ (). The convenience yield declines with 
+reserves, resulting in a downward-sloping reserve demand curve, if banks have a declining marginal value 
+of holding additional reserves for managing a given amount of deposits. Asymptotically, we expect 𝑣𝑣𝑅𝑅
+′ () 
+to go to zero for sufficiently high reserve supply. The final determinant of reserve demand in our framework 
+is the bank b alance sheet costs. Higher balance sheet costs shift the reserve demand curve down. 8 If the 
+convenience yield from reserves goes to zero as supply increases, the reserve demand curve asymptotes to 
+IOR-φ for large reserve supply, as illustrated in the graph in Figure 3 Panel A. 
+  
+ 
+8 Historically, the main determinant of reserve demand was reserve requirements. However, during the post -GFC 
+period with large reserve supply and interest on reserves, banks hold many more reserves than required. Reserve 
+requirements were set to zero in the US on March 26, 2020 and throughout the post-GFC period required reserves 
+have been very small relative to total reserve supply. Vissing-Jorgensen (2023) shows that using excess reserves 
+results in similar parameter estimates in the reserve demand function over the 2009-2023 period. 
+===== PAGE 12 =====
+ 
+12 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+b. The reserve supply curve 
+Figure 3 Panel B illustrates the reserve supply curve. The left graph is for a central bank that has a lending 
+facility for banks but no investment -facility for non-banks. The right graph is for a central bank that has 
+both these facilities. In all cases studied, the central bank offers banks the ability to hold reserves with the 
+central bank earning an interest rate of IOR.  
+The central bank balance sheet implies: 
+     Securities + Loans to banks = Autonomous factors + Reserves + (Non-bank investment facility).     (8) 
+This equation states that the central bank funds its asset holdings (the left hand side) with a mix of liabilities 
+consisting of autonomous factors (of which currency and government deposits typically are the main ones), 
+reserves (which is central bank borrowing from banks), and borrowing from non-banks via any non-bank 
+investment facilities with the central bank. Reorganizing the central bank balance sheet, we get 
+Reserves = [Securities −  Autonomous factors]� � � � � � � � � � � � � � � � � � � � � � � � �
+𝑁𝑁𝑅𝑅𝑁𝑁 𝑅𝑅𝑅𝑅𝑠𝑠𝑠𝑠𝑟𝑟𝑠𝑠𝑁𝑁𝑠𝑠𝑅𝑅𝑅𝑅
++ Loans to banks� ���� � ���� �
+𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑟𝑟𝑅𝑅𝑅𝑅𝑅𝑅 𝑏𝑏𝑏𝑏𝑟𝑟𝑟𝑟𝑏𝑏𝑏𝑏𝑅𝑅𝑏𝑏 
+𝑓𝑓𝑟𝑟𝑏𝑏𝑓𝑓 𝑁𝑁ℎ𝑅𝑅 𝑠𝑠𝑅𝑅𝑐𝑐𝑁𝑁𝑟𝑟𝑐𝑐𝑐𝑐 𝑏𝑏𝑐𝑐𝑐𝑐𝑏𝑏 
+𝑏𝑏𝑏𝑏 𝑏𝑏𝑐𝑐𝑐𝑐𝑏𝑏𝑅𝑅 
+− (Non- bank investment facility)� � � � � � � � � � � � � � � � � � � � �
+𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑟𝑟𝑅𝑅𝑅𝑅𝑅𝑅 𝑐𝑐𝑅𝑅𝑐𝑐𝑁𝑁 
+𝑁𝑁𝑏𝑏 𝑁𝑁ℎ𝑅𝑅 𝑠𝑠𝑅𝑅𝑐𝑐𝑁𝑁𝑟𝑟𝑐𝑐𝑐𝑐 𝑏𝑏𝑐𝑐𝑐𝑐𝑏𝑏 
+𝑏𝑏𝑏𝑏 𝑐𝑐𝑏𝑏𝑐𝑐−𝑏𝑏𝑐𝑐𝑐𝑐𝑏𝑏𝑅𝑅
+.   (9) 
+The amount of securities that is not funded with autonomous factors is the starting point for understanding 
+reserve supply. We introduce the term “net securities” to describe securities minus autonomous factors, with 
+“net” referring to the fact that autonomous factors are subtracted. If there is no take-up at either of the central 
+banks facilities (or if such facilities are simply not in place), then reserves equal net securities.  
+Most central banks have a lending facility through which they lend reserves to banks against collateral. For 
+example, in the US, the Federal Reserve lends in the discount window at the primary credit rate. With bank 
+borrowing from the central bank, loans to banks are positive and reserves are added. Mechanically, when a 
+bank gets a loan from the central bank, its “checking account” with the central bank – reserves – is increased 
+by the amount borrowed.  
+To ensure that the market interest rate does not clear “too far” below the IOR (as will be graphed shortly), 
+some central banks have an investment facility for non -banks in which non- bank financial institutions can 
+invest with the central bank. For example, the Federal Reserve’s Overnight Reverse Repo (ONRRP) facility 
+allows non-banks to lend to the Fed overnight via repurchase agreements (repo). A broad set of non- bank 
+financial institutions can invest at the ONRRP facility.
+9 If non-banks lend to the central bank via the  non-
+ 
+9 Eligible counterparties include primary dealers, banks, money market mutual funds, and government sponsored 
+enterprises. Since the ONRRP interest rate has always been below the interest rate on reserves, banks in practice wi ll 
+invest in reserves, not ONRRP. 
+===== PAGE 13 =====
+ 
+13 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+bank investment facility, then reserves are subtracted. Mechanically, think of a money market fund lending 
+funds to the central bank. The money market funds’ bank reduces the money market fund’s checking account 
+by the amount of the investment and the bank’s reserves at the central bank is increased accordingly. The 
+central bank then ha s a new liability structure, with fewer reserves (borrowi ng from banks) but more 
+borrowing from non-banks. 
+Before the introduction of central bank investment facilities for non- banks, net securities were commonly 
+referred to as “non-borrowed reserves”, in recognition that a central bank buying a particular amount of net 
+securities paid with that same amount of reserves. With central bank investment facilities for non-banks, a 
+central bank paying for its net securities creates liabilities in the form or reserves and non- bank facility 
+take-up. The term “non-borrowed reserves and non-bank facility take-up” is much too long so we use “net 
+securities”. This terminology is also a reminder that non-borrowed central bank liabilities are created from 
+central bank (net) securities purchases. 
+In Figure 3 Panel B, we draw (pa rt of the) reserve supply as vertical at the amount of net securities. A 
+vertical supply curve as drawn emerges if the central bank does not change its securities holdings net of 
+autonomous factors as a function of the market interest rate. As for the central bank’s facilities, the lending 
+facility represents a willingness of the central bank to increase reserve supply elastically at a market rate 
+equal to the lending facility rate. T he supply curve therefore becomes flat at this rate, as graphed  in both 
+graphs in Figure 3 Panel B. If an investment facility for non- banks is in place, then this represents a 
+willingness of the central bank to reduce  reserve supply elastically at a market rate equal to the non- bank 
+facility rate. In that case, the supply curve has two horizontal parts. 
+c. Equilibrium 
+Figure 4 and 5 illustrate the equilibrium emerging from the intersection of demand and supply. Figure 4 is 
+for the case with no central bank investment facilities for non -banks while Figure 5 is for the c ase where 
+such a facility is in place. 
+In Figure 4, we distinguish between an equilibrium with no bank borrowing at the central bank’s lending 
+facility (Panel A) and one with such borrowing ( Panel B). As shown in Panel A, with no bank borrowing 
+at the lending facility, reserves equal net securities. Because the central bank can move both the demand 
+and supply curves, the same equilibrium market rate r can be achieved with many combinations of the IOR 
+and net securities. For example, the central bank could set a low IOR, thus facing a low demand curve. It 
+would then hit a given r with a modest amount of net securities. Alternatively, the central bank could set a 
+higher IOR in which case it would face a higher demand curve and would need a higher amount of net 
+securities to hit a given equilibrium rate r. 
+===== PAGE 14 =====
+ 
+14 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Bank borrowing at the lending facility ensures that the market rate does exceed the lending facility rate (if 
+there is no stigma attached to borrowing from the facility). If there is sufficient reserve scarcity, there will 
+be take-up (bank borrowing) at the lending facility. Specifically, whether there will be take-up at the lending 
+facility depends on whether the demand curve intersects the supply curve on the vertical or the flat part. It 
+thus depends on three factors: T he location of the demand curve, the amount of net securities,  and the 
+lending facility interest rate. If reserve demand evaluated at a market rate equal to the lending facility rate 
+exceeds the amount of net securities, then the lending facility will be used. As illustrated in Figure 4 Panel 
+B, with bank borrowing at the lending facility, reserves equal net securities plus borrowed reserves and the 
+market interest rate clears at the lending facility rate. Reading the graph vertically, at a reserve supply equal 
+to the net securities, banks are willing to pay an interest rate higher than the lending facility rate to borrow 
+reserves. Banks therefore borrow from the central bank. This increases reserve supply until equilibrium is 
+reached at point A in the graph. If banks react quickly, the market rate  r will never exceed the lending 
+facility for long. If there is a stigma to borr owing at the lending facility, r can exceed the lending facility 
+rate by the amount of the stigma (in interest rate terms).  Comparing Figure 4 Panel A and B, take-up at the 
+lending facility can emerge if the demand curve shifts up/right, if the supply curve shifts left via a decrease 
+in net securities, or if the interest rate on the lending facility is lowered. 
+In Figure 4 (both Panel A and B), reserves are scarce in equilibrium in the sense that the convenience yield 
+is positive. The market rate r  therefore exceeds the asymptote of IOR -φ. As net securities increases, the 
+market rate goes to IOR-φ.  The market rate falls below IOR when the supply of liabilities created by the 
+central bank’s net securities holding is sufficiently large that 𝑣𝑣𝑅𝑅
+′ (Reserves,Deposits)-φ is negative. Of 
+course, for there to be market activity at a market interest rate below the IOR, some investors must not have 
+access to invest in reserves with the central bank. In the US context, money market funds and government-
+sponsored enterprises do not have access to interest-bearing reserves. Banks may then engage in arbitrage, 
+borrowing from these investors and investing in reserves, but balance sheet costs reduce banks’ willingness 
+to compete for funds, resulting in a market -clearing interest rate r  that is below the IOR  for sufficiently 
+large net securities.  
+Figure 5 illustrates the equilibrium when an investment facility for non-banks is in place. We illustrate both 
+an equilibrium without take -up at the non- bank investment facility ( Panel A) and one with such take -up 
+(Panel B).  In the top graph, the non-bank investment facility has no effect on the equilibrium interest rate 
+since demand and supply intersect above the non- bank facility interest rate. By contrast, in the bottom 
+graph, the presence of the non- bank investment facility prevents the equilibrium market rate from fal ling 
+below in non-bank facility rate.  From this graph, it is clear that  (as for the lending facility) three factors 
+determine whether there will be positive take- up at the investment facility for non -banks: The location of 
+===== PAGE 15 =====
+ 
+15 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+the demand curve, the amount of net securities, and the non- bank facility interest rate. Specifically,  if 
+reserve demand evaluated at a market rate equal to the non-bank facility rate is below the amount of net 
+securities, then the non-bank investment facility will be used. The central bank then funds its net securities 
+holdings by a mix of reserves and non -bank facility take-up and the market interest rate clears at the non -
+bank facility rate. Reading the graph vertically, at a reserve value equal to net securities, banks would only 
+be willing to pay an interest rate below the non-bank facility rate to borrow reserves. Lenders therefore lend 
+to the central bank (at the central banks’ investment facility for non-banks) rather than banks, to the point 
+that reserves are equal to  the value banks demand at a rate equal to the non- bank facility rate (point A in 
+the graph). If non-banks are quick to change their investments as the market rate falls below the non-bank 
+facility rate, the market rate r will never fall much below the non-bank facility rate.  
+Comparing Panel A and Panel B of Figure 5, it is apparent that take-up at the non-bank investment facility 
+can emerge due to change in either of the three factors discussed above. A decrease in reserve demand, an 
+increase in supply via net securities, or an increase in the interest rate on the non -bank facility (for given 
+IOR). A decrease in demand (a downward/leftward shift in the demand curve) could be due to a lower IOR 
+(shifting the demand curve down), a decline in deposit s (shift ing the demand curve left via a lower 
+convenience yield function 𝑣𝑣𝑅𝑅
+′ ()), or an increase in banks’ balance sheet costs (shifting the demand curve 
+down). In terms of balance sheet costs, US banks were granted relief from the Supplementary Leverage 
+Ratio (SLR) rules from April 1, 2020, to March 31, 2021. During this period, calculations of capital needed 
+under the SLR omitted Treasuries and reserves. The expiration of SLR relief lines up well with the timing 
+of increased ONRRP take-up in the spring of 2021, as illustrated in Figure 2. An increase in supply via net 
+securities could result from central bank balance sheet expansion or a reduction in one of the autonomous 
+factors. As illustrated in Figure 2, in the US, the Treasury General Account fell sharply in 2021, leading to 
+increased net securities. This timing lines up with increasing ONRRP take-up.10 
+In laying out our graphical framework, we have been deliberately vague about which market interest rate r 
+the framework applies to. When deciding to hold reserves, banks can fund such holdings with a host of 
+liabilities. In that sense, there is not one but many reserve demand functions. The reserve demand function 
+defined relative to a particular liability shows banks’ willingness to pay to borrow using that liability and 
+ 
+10 As for the role of the ONRRP rate in understanding the increase in ONRRP take-up in 2021, it was likely modest.  
+The Federal Reserve increased both the ONRRP rate and the IOR on June 17, 2021. This would not directly lea d to 
+increased ONRRP take-up as both the reserve demand curve and the ONRRP rate shifts up by the same amount. It 
+could indirectly increase ONRRP take-up by lowering bank deposits via flows to money market funds, as tend to 
+take place in times of higher rates due to banks not increasing deposits rates one-for-one with the Federal Reserve’s 
+administered rates. In practice, only a small fraction of the increased ONRRP take-up in 2021 happened around June 
+17, 2021.  
+===== PAGE 16 =====
+ 
+16 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+invest in reserves, as a function of the amount of reserves. We illustrate this in Figure 6, with separate 
+reserve demand functions for borrowing via unsecured interbank borrowing (federal funds in the case of 
+the US) and via repo funding. Unsecured interbank borrowing and repo borrowing differ in that collateral 
+must be posted in repo borrowing. There is a cost to having to post collateral, which in practice comes from 
+lost revenue from securities lending and is captured by the w ()-function. The marginal cost of posting 
+collateral shifts down the reserve demand curve defined relative to repo (as it makes banks’ less eager to 
+hold reserves funded with repo). From the perspective of monetary policy, both reserve demand curves are 
+important because they determine market interest rates of importance to the central bank. The Federal 
+Reserve targets the equilibrium rate in the federal funds market. The market rate on repo  (in practice, the 
+secured overnight financing rate SOFR is a commonly used measure)  matters for the Federal Reserve 
+because it is what the Federal Reserve can control directly via the ONRRP facilit y and  the discount 
+window, both of which are collateralized.
+11 
+To summarize  the equilibrium analysis, the central bank controls short market interest rates via its 
+administered rates (the interest rates on reserves, and the rates on the lending facility and the in vestment 
+facility for non-banks) and the choice of net securities. In terms of the  role of the central bank’s lending 
+facilities for banks and investment facility for non-banks, the key lesson is that private-sector use of these 
+facilities changes the equilibrium supply of reserves which keeps the market -clearing interest rate in a 
+desired range . This lesson emerges in a straightforward manner in our reserve demand- reserve supply 
+framework and it becomes clear which factors drive take -up at the lending and investment facilities  (as 
+discussed).  
+Relating our approach to prior work, Mishkin (2022) provides an analysis of take-up at the central bank’s 
+lending facility which is similar to our Figure 4 Panel B with a flat part of the supply curve at the lending 
+facility rate. We provide foundations for the reserve demand function from banks’ optimization problem, 
+add analysis of the non-bank investment facilities, and implement the reserve demand -supply framework 
+empirically to provide input to policy making. Our framework features a “standard” shaped convex reserve 
+demand curve and a supply curve which has one or two flat parts. By contrast, with the exception of Mishkin 
+(2022), it is common to instead graph the demand curve as flattening out at the rates on c entral bank 
+facilities and the supply curve as being vertical for all interest rates. As an example, we include an exhibit 
+from Ihrig, Senyuz and Weinbach (2020) in Appendix Figure 1. Ihrig et al (2020) assume that the reserve 
+demand curve flattens out horizontally as it approaches the primary credit rate (the rate on the Fed’s lending 
+facility for bank) and as it approaches the ONRRP rate. This implies that interest rate control is achieved 
+ 
+11 With this clarification, in Figure 4 and 5, the demand curve should be shifted down by the w’() function. 
+===== PAGE 17 =====
+ 
+17 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+partly by these two rates directly controlling the shape of the demand curve. The setup of Ihrig et al (2020) 
+can be thought of as tracing out how the equilibrium int erest rate changes with supply, with less attention 
+paid to the mechanics of take- up at the central banks’ facilities works in the background to affect the 
+equilibrium. In our framework, reserve demand traces out the interest rate banks are willing to pay to borrow 
+from anyone – the market or the central bank – as a function of reserve holdings. The rate at which the 
+central bank lends therefore does not directly affect reserve demand in our setup. It instead determines how 
+much banks end up borrowing from the central bank in equilibrium. Similarly for the non-bank investment 
+facility rate – it does not directly affect reserve demand but determines how much non- banks lend to the 
+central bank in equilibrium. Take-up at the facilities in turn ensures that reserves changes and thus that the 
+market rate stays in the range between the facility rates. The mechanics of how take -up at the facilities 
+relate to reserve demand, reserve supply and interest rates thus becomes clear in our setup. In addition to 
+the different shapes of demand and supply, a useful feature of our framework is that it clarifies which factors 
+may shift the demand curve. In our empirical results, we will emphasize the importance of controlling for 
+the size of the banking sector (deposits) because  higher liquidity needs will shift the convenience yield 
+function 𝑣𝑣𝑅𝑅
+′ () and thus the reserve demand curve. Recent work on the ample reserves setting has generally 
+not accounted for deposits as a demand- shifter while the modeling of deposits was standard in the era of 
+binding reserve requirements as these depended on deposits.  
+4.   Reserve demand estimation  
+We turn next to estimating the reserve demand function for the US in monthly data for 2009M1-2022M10. 
+We address identification issues, discuss the main input series and the need to control for deposits, and then 
+present our estimated return demand function. We use IV estimation and provide both a structural form and 
+a reduced form reserve demand function.  
+a.   Identification 
+Estimation of equation (5) by OLS will lead to consistent parameter estimates if reserve demand shocks 
+(the error term, u) are uncorrelated with reserves and with deposits.  
+Reserves are exogenous if reserve supply does not accommodate reserve demand shock s that are not 
+controlled for in the regression via deposits. From the graphical analysis, it is apparent that shifts in the 
+demand curve along either of the horizontal parts of the supply curve will lead to changes in reserve supply 
+in response to demand shocks.  Reserves are thus not exogenous if facility take- up is positive. From the 
+central bank balance sheet 
+===== PAGE 18 =====
+ 
+18 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Reserves = [Securities −  Autonomous factors]� � � � � � � � � � � � � � � � � � � � � � � � �
+𝑁𝑁𝑅𝑅𝑁𝑁 𝑅𝑅𝑅𝑅𝑠𝑠𝑠𝑠𝑟𝑟𝑠𝑠𝑁𝑁𝑠𝑠𝑅𝑅𝑅𝑅
++ Loans to banks� ���� � ���� �
+𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑟𝑟𝑅𝑅𝑅𝑅𝑅𝑅 𝑏𝑏𝑏𝑏𝑟𝑟𝑟𝑟𝑏𝑏𝑏𝑏𝑅𝑅𝑏𝑏 
+𝑓𝑓𝑟𝑟𝑏𝑏𝑓𝑓 𝑁𝑁ℎ𝑅𝑅 𝑠𝑠𝑅𝑅𝑐𝑐𝑁𝑁𝑟𝑟𝑐𝑐𝑐𝑐 𝑏𝑏𝑐𝑐𝑐𝑐𝑏𝑏 
+𝑏𝑏𝑏𝑏 𝑏𝑏𝑐𝑐𝑐𝑐𝑏𝑏𝑅𝑅 
+− (Non- bank investment facility)� � � � � � � � � � � � � � � � � � � � �
+𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑟𝑟𝑅𝑅𝑅𝑅𝑅𝑅 𝑐𝑐𝑅𝑅𝑐𝑐𝑁𝑁 
+𝑁𝑁𝑏𝑏 𝑁𝑁ℎ𝑅𝑅 𝑠𝑠𝑅𝑅𝑐𝑐𝑁𝑁𝑟𝑟𝑐𝑐𝑐𝑐 𝑏𝑏𝑐𝑐𝑐𝑐𝑏𝑏 
+𝑏𝑏𝑏𝑏 𝑐𝑐𝑏𝑏𝑐𝑐−𝑏𝑏𝑐𝑐𝑐𝑐𝑏𝑏𝑅𝑅
+.   
+where the last two terms on the right-hand side likely responds to reserve demand shocks. For example, in 
+the US, ONRRP take -up was modest up to March 2021. After this, ONRRP take -up grew and may be 
+correlated with reserve demand shocks as negative reserve demand shocks can drive up ONRRP take-up.  
+The above equation suggests a possible instrument for reserves, net securities. If the central bank does not 
+change net securities in response to reserve demand shocks, then this component of reserves is exogenous. 
+We will argue that this is plausibly the case. To simplify, notice that if loans to banks are small, then net 
+securities approximately equal Reserves+(Non-bank investment facility), or Reserves+ONRRP in the US 
+context. We therefore use Reserves+ONRRP as our instrument for reserves.12 
+The argument for why movements in net securities are plausibly exogenous to reserve demand shocks is as 
+follows. Our analysis focuses on the US, post-financial crisis. Over this sample, movements in net securities 
+have been driven by rounds of quantitative easing and quantitative tightening. QE/QT  has been done to 
+affect employment and inflation rather than for controlling short -term interest rates.  Fluctuations in n et 
+securities are thus not due to the Fed accommodating reserve demand shocks.  
+To clarify the role of the autonomous factors  from an identification perspective , the Federal Reserve 
+generally accommodates trends in autonomous factors by changing the size of its securities holdings. For 
+example, trends in currency demand are accommodated by trends in securities holdings. In the post-GFC 
+era with a large balance sheet, the Federal Reserve generally does not change securities holdings in response 
+to more transitory movements in autonomous factors. Transitory m ovements in the Treasury General 
+Account (TGA) due to tax payments, government spending, and debt issuance/payments therefore 
+contribute to fluctuations in net securities and thus in reserves. This is unproblematic from the perspective 
+of using net securities as an instrument, as long as TGA fluctuations are not correlated with reserve demand 
+shocks.  Assuming no correlation between TGA fluctuations and reserve demand shocks is  plausible 
+because we include deposits as a regressor. For example, if a household pays its federal taxes using deposits, 
+this increases the TGA (as the government receives the funds) which lowers net securities  on the Fed’s 
+balance sheet . However, the tax payment’s effect on reserve demand is captured by deposits (reserve 
+demand falls as the household’s bank now has fewer deposits to manage). The payment thus does not lead 
+to a non-zero reserve demand shock in the form of a regression residual but is captured by including deposits 
+as a regressor. Similarly, if the government makes a payment to a household or firm, their bank deposits 
+ 
+12 We have verified that using net securities (Reserves+ONRRP-Loans to banks) leads to very similar results. 
+===== PAGE 19 =====
+ 
+19 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+will increase, with no resulting reserve demand residual.  
+We conduct our estimation at the monthly frequency using monthly averages of the available data. 
+Estimation in weekly data would also be possible, while daily data are not available for deposits.  
+We next turn to whether deposits are exogenous. One could think of factors that would drive a correlation 
+between deposits and the error term u in (5). For example, perhaps deposits are more volatile (on a per 
+dollar basis) when they are larger or smaller, and deposit volatility affects reserve demand. Then deposit 
+volatility would be an omitted variable, causing deposits to be correlated with u. While this is possible, we 
+think it is unlikely to be a material issue and therefore do not instrument for deposits in our baseline 
+estimation. We then provide a robustness check in which we instrument deposits with household financial 
+assets and the level of t he interest rate on reserves to show that this leads to very similar results  (we will 
+motivate these instruments for deposits below).  
+The advantage of not instrumenting for deposits in our baseline specification is that deposit data are 
+available with only a short lag while household financial assets are available (from the Financial Accounts 
+of the United States) only with a lag of several months. A reserve demand estimation that does not rely on 
+instrumenting for deposits can thus be updated in real time . This is an advantage for real -time policy 
+making. 
+b.   The main series and the importance of controlling for deposits 
+We use the FRED database data to obtain all the inputs into our reserve demand estimation. Figure 7 
+provides a time series plot of the Reserves/GDP ratio and the EFFR -IOR spread using monthly average 
+data since 2009.
+13 The policy-induced variation in Reserves/GDP is apparent with the series increasing 
+around the times of QE1, QE2, QE3, after September 2019 (as the FOMC increased reserves due to reserve 
+scarcity) and with the COVID-related LSAPs. Following the end of the QE rounds, Reserves/GDP falls due 
+to a combination of lower reserves and higher nominal GDP.  
+The Reserves/GDP ratio has a clear negative relation with the EFFR-IOR spread, consistent with the above-
+described reserve demand framework. However, the relation is unstable in that the EFFR -IOR spread is 
+higher in the later part of the sample for a given Reserves/GDP value. In particular, the EFFR-IOR spread 
+is substantially above  zero in September 2019 for Reserves/GDP around 7%, in contrast to a negative 
+EFFR-IOR spread in December 2010, when the Reserves/GDP was also around 7%. 
+ 
+13 We calculate monthly averages from weekly data for reserves and daily data from EFFR-IOR. We assume that GDP 
+was the same across months within the quarter. 
+===== PAGE 20 =====
+ 
+20 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+To further illustrate the reserve demand function instability when not controlling for deposits, Figur e 8 
+provides scatter plots of the EFFR -IOR spread against Reserves (Panel A) and Reserves/GDP (Panel B). 
+We have labeled the data points that precede reserve expansions as well as the final data point of our sample, 
+2022M10. The reserve demand curve appears flatter when reserves expand than when they contract (though 
+the last year of the sample is an exception to  this pattern). We will argue, however, that this fact does not 
+mean that there is something fundamentally different about reserve expansions and r eserve contractions. 
+Instead, there is an omitted variable that increases reserves demand over time leading to the observed 
+expansion-contraction pattern. This results in a relation that looks like an unstable Phillips curve. Just like 
+time-varying inflati on expectations make the Phillips curve unstable if inflation expectations are not 
+considered, time-varying deposits make the reserve demand curve unstable when deposits are not accounted 
+for, and deposits have been increasing (even relative to GDP) over the period since 2009. 
+Figure 9 illustrates the increase of deposits as a share of GDP over time. The left graph illustrates deposits 
+held with all commercial banks relative to nominal GDP, showing a sharp increase starting around 2000. 
+Over the period of a mple reserves since 2009, Deposits/GDP increase from 50% in 2009M1 to 68% in 
+2022M10. The right graph shows various types of deposits. The increase in overall deposits is driven by an 
+increase in demand deposits and other liquid deposits (which include savings accounts). As liquid deposits 
+require more reserve backing (for both economic and regulatory reasons) this fact is particularly pertinent 
+to understanding the instability of reserve demand over time when deposits are not considered.14 
+The fact that deposits is a central driver of reserve demand is common across various types of banking. In 
+narrow banking , required reserves equal deposits as deposits are backed one- for-one by reserves. In 
+fractional reserve banking, r equired reserves equal a fraction of deposits. In a scarce reserves version of 
+fractional reserve banking, the central bank restricts the supply of reserves to manage bank lending. Our 
+framework is for the more recent setting of ample reserves banking, where reserve demand is driven by the 
+liquid and safe nature of reserves as laid out above. 
+c.   Baseline estimation of the reserve demand function for the US 
+Table 2, Panel A presents the second stage of our IV estimation of the reserve demand function in equation 
+(5) for the period 2009M1-2022M10, with ln(Reserves) instrumented by ln(Reserves+ONRRP). Table 2, 
+Panel B shows the first stage of the IV estimation.  Not surprisingly ln(Reserves+ONRRP) is a strong 
+instrument for ln(Reserves), with a t-statistic above 10 and a first-stage R
+2 as high as 0.96. Table 2, Panel 
+ 
+14 For simplicity, we use total deposits in our specification. Results are similar if we omit time deposits and focus on 
+demand and other liquid deposits which account for the majority of deposits over our sample (as documented in Figure 
+7). 
+===== PAGE 21 =====
+ 
+21 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+C shows the reduced form of the IV estimation which simply regresses the EFFR -IOR spread directly on 
+the e xogenous variables (ln(Reserves+ONRRP) and ln(Deposits) in this baseline approach where we 
+assume ln(Deposits) is exogenous). t-statistics are adjusted for autocorrelation in the residuals in all panels. 
+In Table 2, Panel A, the EFFR-IOR spread is estimated to be significantly related to both ln(Reserves) and 
+ln(Deposits) with the expected signs and large t-statistics (p-values below 1 percent). In economic terms, a 
+10% increase in reserves (an increase in supply tracing out a downward sloping demand curve) lowers the 
+EFFR-IOR spread by 2 basis points. Interpreted within our theoretical framework, this sugge sts that the 
+marginal value of additional reserves 𝑣𝑣𝑅𝑅
+′  declines only very slowly with reserves. Another way to state this 
+finding is to calculate the resulting reserve demand semi-elasticity γ in (7). The estimated value of b=-0.2 
+corresponds to γ=-5, implying that a 10 basis point reduction in the EFFR-IOR spread (making the market 
+rate lower relative to reserves), entices banks to increase reserve holdings by 50 percent. Reserve demand 
+is thus highly elastic with respect to the EFFR-IOR spread. The coefficient on log deposits in Table 2, Panel 
+A, is positive, consistent with the idea that higher deposits increase the marginal value of additional 
+reserves, 𝑣𝑣𝑅𝑅
+′ . In terms of (7), the estimation implies that the elasticity of reserve demand with respect to  
+deposits is β = −
+c
+b = −
+−0.358
+0.2  =1.79. A value of β above one means that a one percent increase in deposits 
+leads to more than a one percent increase in reserves and thus that banks invest a higher fraction of deposits 
+in reserves at higher levels of deposits. In our framework, β >1 means that c exceeds b and thus that 𝑣𝑣𝑅𝑅
+′  is 
+more sensitive (in absolute value) to log deposits than to log reserves (see equation (4)).  
+The reduced form estimation in Table 2, Panel C, is useful for understanding the empirical fit of our 
+framework, i.e., how much explanatory power ln(Reserves+ONRRP) and ln(Deposits) have for the EFFR-
+IOR spread. We find a regression R2 of 0.895.15 Figure 10, Panel A illustrates the tight relation between the 
+EFFR-IOR spread and the predicted value from the regression in Table 2, Panel C . Our estimat ion also 
+implies that there should be a tight link between the EFFR -IOR spread and a measure of supply 
+(ln(Reserves+ONRRP)) adjusted for deposits. The reduced form specification is 
+𝑅𝑅(𝐹𝐹𝐹𝐹) − 𝑅𝑅(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅) = 𝐴𝐴+ 𝐵𝐵∗ ln(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅+ 𝑂𝑂𝑂𝑂𝑅𝑅𝑅𝑅𝑂𝑂) + 𝐶𝐶∗ ln (𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅) + 𝑈𝑈     (10) 
+Rewriting (10) as 
+𝑅𝑅(𝐹𝐹𝐹𝐹) − 𝑅𝑅(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅) = 𝐴𝐴+ 𝐵𝐵∗ �ln(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅+ 𝑂𝑂𝑂𝑂𝑅𝑅𝑅𝑅𝑂𝑂) +
+𝐶𝐶
+𝐵𝐵∗  𝑙𝑙𝑙𝑙(𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅)� + 𝑈𝑈    (11) 
+ 
+15 To ensure to the high R2 in Table 2, Panel C, is not simply due to trends in the data, we have also estimated the 
+same relation using 12-month differences. This still results in a high R2 of 0.72. 
+===== PAGE 22 =====
+ 
+22 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+shows tha t “ deposit-adjusted supply” 𝑙𝑙n(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅+ 𝑂𝑂𝑂𝑂𝑅𝑅𝑅𝑅𝑂𝑂) +
+𝐶𝐶
+𝐵𝐵∗  𝑙𝑙𝑙𝑙(𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅) should be tightly 
+linked to the EFFR-IOR spread. We illustrate this relation in Figure 10, Panel B, graphing both the EFFR-
+IOR spread data and the fitted value based on deposit -adjusted supply calculated using the parameter 
+estimates from Table 2, Panel C.  The relation between the EFFR-IOR spread and deposit-adjusted supply 
+appears stable over the 2009M 1-2022M10 period. Consistent with the usefulness of our framework for 
+understanding the EFFR-IOR spread, September 2019 has the lowest value for deposit-adjusted supply and 
+the highest value of the EFFR-IOR spread. The high EFFR-IOR spread in September 2019 is therefore not 
+surprising once the increasing need for reserves due to higher deposits are accounted for. Given the growth 
+in deposits from 2010 to 2019, a value of Reserves/GDP of 7% was much less accommodative than the 
+same value of Reserves/GDP in 2010. 
+Figure 10, Panel C repeats Figure 10, Panel B, without taking the log when calculating deposit -adjusted 
+supply. We present this to show that the EFFR-IOR spread has a convex relation to supply when not taking 
+logs, consistent with our graphical framework in Figure 3 where we implicitly assumed that the marginal 
+value of additional reserves fell at a slower rate at higher reserve levels. The tight relation s in Figure 10, 
+Panel B and C, contrasts sharply with the unstable relation between the EFFR -IOR spread and reserves 
+shown in Figure 8.  
+d.   Recovering the structural reserve demand shock 
+We can use the estimated demand curve in Table 2, Panel A to assess whether negative unobserved reserve 
+demand shocks may have contributed to the large take -up at the ONRRP facility since spring 2021. 
+Expressing the estimated demand curve with quantity as dependent variable as in equation (6) and 
+calculating  
+𝜀𝜀=𝑅𝑅
+−𝑠𝑠/𝑏𝑏     (12) 
+using the estimates of u and b from Table 2, Panel A, we obtain Figure 10, Panel D. The figure shows that 
+the multiplicative reserve demand component fell from around 1.2 in March 2021 (when ONRRP take-up 
+started to increase) to below 0.8 toward the end of the sample. Given reserves around $3.7T in March 2021, 
+a drop of 0.4*$3.7T amounts to $1.5T, which accounts for the majority of the increase in ONRRP take-up. 
+A large negative reserve demand shock reconciles a substantial decline in reserves at the same time as the 
+EFFR-IOR spread has fallen and while deposits have remained fairly stable. 
+We can only speculate about reasons for the large negative reserve demand shock. One possibility is that 
+banks had become less worried about sudden reductions in deposits as deposits ha d remained high post-
+COVID. 
+===== PAGE 23 =====
+ 
+23 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+e.   Robustness: Instrumenting for deposits 
+An understanding of the drivers of deposits is useful because it may suggest instruments for deposits and it 
+may help predict deposits and thus reserve demand going forward. 
+Basic portfolio theory implies that deposits should depend on (a) household financial assets and (b) the 
+portfolio weight allocated to deposits as households allocate financial assets between cash-like assets such 
+as deposits, and higher-return assets such as bonds, stocks, mutual funds, etc. The deposit portfolio weight 
+in turn would be expected to depend on the spread between market rates on deposit alternatives and the rate 
+on deposits (a spread that captures the opportunity cost of holding deposits). This spread tends to increase 
+with the level of market interest rates as these have less than full passthrough to deposit rates (e.g., 
+Drechsler, Savov and Schnabl (2017)).  
+In Figure 11, Panel A , the left graph documents a sharp increase in the ratio of the financial assets of 
+households and non-profits to GDP over our sample period 2009M1-2022M10. The right graph shows that 
+households and non-profits have chosen a remarkably stable portfolio weight for deposits of around 15% 
+over this period.  
+As a robustness check on our baseline estim ates from Table 2, Table 3 presents the corresponding three 
+panels of results when we instrument for both ln(Reserves) (as before) and ln(Deposits). We use the log of 
+the financial assets of households and non- profits as our first instrument for deposits. As our second 
+instrument for deposits, we use the level of short-term interest rates, measured by the IOR. We use the IOR 
+rather than the deposit rate -IOR spread becau se the latter is affected by banks’ deposit setting behavior 
+which could potentially be correlated with reserve demand shocks. Armed with two instruments for 
+deposits, we can perform  a test of overidentifying restrictions  to assess the validity of the depo sit 
+instruments. Since financial assets of households and non -profits are available quarterly (from the U.S. 
+Financial Accounts, Table B.101, line 9), the estimation in Table 3 is done at the quarterly frequency, using 
+data for the last month of the quarter for EFFR -IOR, ln(Deposits) and IOR (using monthly averages as in 
+our earlier analysis).  
+A comparison of the resu lts in Table 3, Panel A to those in Table 2, Panel A shows that the es timated 
+parameters of the reserve demand function are similar whether deposits are instrumented for or not. Using 
+the Sargan test of over -identifying restrictions, we find an insignificant p- value of 0.29, supporting the 
+exogeneity of the instruments for ln(Deposits). The modest difference between our baseline regression in 
+Table 2 and Table 3 suggests that deposit endogeneity is not a substantial factor bearing on our baseline 
+estimation. Table 3, Panel B, shows that the first stage for ln(Deposits) is strong, with ln(Financial assets) 
+being a particularly strong instrument, but the IOR also entering significantly. The estimated coefficient on 
+===== PAGE 24 =====
+ 
+24 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+ln(Financial asset) is around one, consistent with the stable portfolio weight over the sample period. The 
+interest-sensitivity of deposits is -0.035, implying a decrease in deposits of 3.5% for a 100 bps increase in 
+the interest rate. Figure 11 , Panel B, illustrates the ability of the instruments to explain variation in 
+ln(Deposits). The fit is tight, with the exception that deposits have not declined following the drop in 
+financial assets in 2022Q2. Table 3, Panel C, shows the reduced form of the IV estimation where we 
+instrument for both ln(Reserves) and ln(Deposits). The R 2 is over 90%, illustrated by the tight fit of this 
+reduced form, which we graph in Appendix Figure 2.  
+Our discussion of drivers of deposits in the period since the financial crisis is related to that in Acharya and 
+Rajan (2022) and Acharya , Chauhan, Rajan and Steffen (2022). Acharya and Rajan (2022) argue 
+theoretically that higher reserve supply causes the banking sector to issue more liquid clai ms, including 
+deposits and credit lines.  When central banks do QE, banks must hold the additional reserve supply in 
+equilibrium and banks have an incentive to fund reserves with liquid short-term liabilities. These liabilities 
+have low interest rates (relative to other sources of funds, or other assets that could be reduced) and reserves 
+enable banks to manage the liquidity risks from a dditional liquid liabilities. Their framework thus centers 
+on banks’ willingness to supply deposits. Acharya et al (2022) test this hypothesis empirically. They provide 
+evidence based on regressing deposit growth on reserve growth in time-series and panel data. We find little 
+role for reserves driving deposits when we include drivers of households’ demand for deposits. Appendix 
+Table 1, Panel A, column (3), shows that in  a horse-race between deposit supply drivers (reserves) and 
+deposit demand drivers (financial assets and the IOR), reserves enter with a negative  sign. Focusing on 
+liquid deposits, the effect of reserves on deposits is modest when financial assets and the IOR are included, 
+see column (6).  The additional explanatory power for ln(Deposits) from adding ln(Reserves) is small, 
+compare column (5) and (6). Acharya et al (2022) use a specification in changes. Similar conclusions 
+emerge from adding household financial assets and the level of interest rates to that specification, as shown 
+in Appendix Table 1, Panel B, where reserves have no significant explanatory power for either deposits or 
+liquid deposit once financial assets and the IOR are included. Of c ourse, QE may have been an important 
+driver of household financial assets in the post-GFC period, but that still puts emphasis on deposit demand, 
+not deposit supply. An additional argument against QE being the main driver of increased deposits, is that 
+in Figure 9 (left), the growth in deposits started around 2000, much before the start of QE in late 2008. 
+Furthermore, while both Deposits/GDP and Reserves/GDP increase in 2020, this increase in deposits may 
+be more related to lockdowns (limiting spending), fiscal st imulus, and increased risk aversion due to 
+COVID-19 than to banks enticing customers with attractive deposits rates to fund their reserve holdings.  
+Regardless of whether deposits have gone up due to increased deposit supply or increased deposit demand, 
+we agree with Acharya et al (2022) that high deposits make QT harder because they increase banks’ reserve 
+===== PAGE 25 =====
+ 
+25 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+demand. We turn next to the implications of our estimated reserve demand function for interest rate control 
+and for estimating feasible QT, given current deposits. 
+5.  Implications of reserve demand for interest rate control 
+With a downward sloping reserve demand function, the equilibrium Effective Fed Funds rate -IOR spread 
+is decreasing in reserve supply. Therefore, to achieve a desired value for the Effective Fed Funds rate, the 
+Federal Reserve needs to set a lower IOR for a smaller balance sheet than for a larger balance sheet.  
+Figure 12 illustrates the predicted value for the Effective Fed Funds rate -IOR spread as a function of the 
+supply of Reserves+ONRRP given the current level of deposits. The prediction is based on equation ( 10), 
+using the parameter estimates for A, B and C from Table 2, Panel C, and deposits of $17.753T as of 
+2022M10.16 Reserves+ONRRP is varied from $100B to $7,000B. Observed reserves+ONRRP data for our 
+sample 2009M1-2022M10 range from $662B to $5,811B, indicated by grey shading. The predicted spread 
+is 37 bps higher at the lower end of this range than at the upper range. Accordingly, to achieve  a given 
+predicted effective federal funds rate value, the IOR needs to be set 37 bps lower at the lower end of the 
+balance sheet range. In other words, a given predicted effective federal funds rate value  can be achieved 
+with a host of balance sheet size -IOR combinations, with lower IOR values needed for smaller quantities 
+of reserves+ONRRP. We denote combinations of IOR and Reserves+ONRRP that imply a chosen predicted 
+effective federal funds rate  as iso-federal funds curves, using the terminology introduced by Bianchi and 
+Bigio (2022) in a theoretical analysis in a different setup than ours. In our setting, along an iso-federal funds 
+curve with a predicted effective fed funds rate of X:   
+𝑋𝑋− 𝑅𝑅(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅) = 𝐴𝐴+ 𝐵𝐵∗ ln(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅+ 𝑂𝑂𝑂𝑂𝑅𝑅𝑅𝑅𝑂𝑂) + 𝐶𝐶∗ ln (𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅) 
+ which implies 
+          𝑅𝑅(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅) = 𝑋𝑋− [𝐴𝐴+ 𝐵𝐵∗ ln(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅+ 𝑂𝑂𝑂𝑂𝑅𝑅𝑅𝑅𝑂𝑂) + 𝐶𝐶∗ ln(𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅)]       (13) 
+Figure 13 shows our estimated iso-federal funds curves as of 2022M10 (deposits of $17.753T) for X=2% 
+(left) and X=4% (right). To our knowledge these are the first empirically estimated iso-federal funds curves 
+in the literature. The Federal Reserve can use these curves to guide the setting of the IOR for given balance 
+sheet size. Other central banks could estimate corresponding curves for their jurisdictions. 
+ 
+ 
+ 
+16 Predicted EFFR-IOR= -2.193-0.172*ln(Reserves+ONRRP)+0.367*ln(17753)  
+===== PAGE 26 =====
+ 
+26 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+6.  Implications of reserve demand for quantitative tightening 
+Section 6.a uses our reduced form reserve demand estimation to how large a reduction in reserves+ONRRP 
+is feasible before interest rate volatility may increase. Section 6.b lay out how current ONRRP take-up also 
+provides useful information about how  much reserves+ONRRP supply can be tightened. Section 6.c 
+emphasizes that the autonomous factors on central bank balance sheets can be volatile, implying that from 
+an interest rate volatility perspective it is prudent to run down the central bank’s assets by less than the 
+amount of the estimated feasible reduction in reserves+ONRRP. 
+a. Baseline approach 
+Our reduced form estimation in Table 2, Panel C can be used to guide the feasible reduction in the supply 
+of reserves+ONRRP. As discussed in section 5, for any potential choice of the level of reserves+ONRRP, 
+the reduced form provides a predict ed EFFR-IOR spread given the current level of deposits. Figure 1 4, 
+Panel A repeats the exercise from Figure 12, adding a set of vertical lines marking reserves+ONRRP values 
+of interest. Figure 1 4, Panel B scales the x -axis by GDP. As of October  2022, reserves+ONRRP was 
+$5.274T (monthly average), amounting to about 20.4% of GDP, illustrated by the rightmost vertical lines 
+in the graphs in Figure 14. 17 Three possible counterfactual levels of Reserves+ONRRP are of particular 
+interest, illustrated by the leftmost vertical lines in Figure 14, Panel A and B. 
+1. Reserves+ONRRP equal to $1.806T (7% of GDP) 
+In the previous episode of balance sheet runoff ending  in September 2019, the F OMC took actions that 
+lowered (reserves+ONRRP)/GDP to around 7%. As of  October 2022, this would correspond to 
+reserves+ONRRP of $1.806T. Our estimated reserve demand function predicts that at this level the EFFR-
+IOR spread would be 11 bps. This counterfactual is illustrated further in Figure 15. The predicted EFFR-
+IOR spread of 11 bps would be substantially higher than any values of the spread observed in-sample. The 
+high predicted spread is due to the much higher level of deposits currently (in dollars and as a percent of 
+GDP) than during the last policy normalization cycle. Reserves of $1.8 06T would therefore result in a 
+historically low (in the period since 2009M1) value of deposits-adjusted supply of reserves+ONRRP. 
+Does the high predicted value of the EFFR -IOR spread at reserves+ONRRP of 7% of GDP imply that 
+reducing reserves+ONRRP to this level is undesirable? As discussed in Section 5, faced with a high EFFR-
+IOR spread, the Federal Reserve could adjust the IOR to a lower value to try to ensure that EFFR clears  
+near a particular desired value. For any given federal funds rate target (or target range mid-point), the IOR 
+ 
+17 GDP data for 2022Q4 are available as of time of writing. We assume a monthly GDP growth rate in October 2022 
+equal to the average monthly GDP growth rate from 2022Q2 to 2022Q3. 
+===== PAGE 27 =====
+ 
+27 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+would need to be set about 11 bps below the target to make the EFFR clear at a chosen Fed funds target, on 
+average over the month. However, a s illustrated in Figure 1, a high EFFR -IOR has been associated with 
+daily yield spikes in EFFR and especially in repo rates . Reserves+ONRRP of $1.806T would be a risky 
+choice from the perspective of money market stability as deposit-adjusted reserves+ONRRP supply would 
+be much below that in September 2019. The new Standing Repo Facility may help prevent yield spikes at 
+such levels of liquidity supply, but it remains untested. 
+2. Reserves+ONRRP equal to $2.840T  (11.0% of GDP) : Would lead to the same deposit-adjusted 
+reserves+ONRRP as that in September 2019 
+In September 2019, deposit-adjusted reserves+ONRRP (i.e., ln(Reserves+ONRRP)+(C/B)*ln(Deposits)), 
+amounted to -12.97. Given deposits of $17.753T as of the end of our sample in 2022M10, deposit-adjusted 
+reserves+ONRRP would equal -12.97 for reserves+ONRRP of $2.840T (corresponding to 11.0% of GDP). 
+This is the predicted level of reserves at which large daily yield spikes may emerge, based on the estimated 
+reduced form reserve demand function and the experience from September 2019 and the months leading 
+up to it. 
+3. Reserves equal to $3.495T (13.5% of GDP): A more conservative choice, at which the predicted EFFR-
+IOR spread is zero 
+As an example of a more conservative reduction in reserves +ONRRP, the value of reserves +ONRRP at 
+which the predicted EFFR-IOR spread is 0 is $3.495T as of 2022M10. From Figure 15, this compares to a 
+predicted spread of 4 bps in September 2019 and would thus be a bit less risky in terms of money market 
+stability. A spread of zero is special in that at spreads above zero, banks are holding reserves despite being 
+able to earn more by lending in the federal funds market, suggesting some level of liquidity scarcity. 
+Overall, our estimated reserve demand function (the reduced form) can be used to guide policy tightening 
+both in terms of the setting of the IOR relative to the mid-point of the target range and in terms of evaluating 
+which amount of reduction in reserves +ONRRP is likely to be risky in terms of money market stability.  
+The above calculations are done for a specific value of deposits, that prevailing in October 2022. As deposits 
+change, so will the reserves+ONRRP level that leads to a given predicted EFFR-IOR spread. This level of 
+reserves+ONRRP can be calculated from equation ( 10), as estimated in Table 2, Panel C, updating the 
+deposit level from the 2022M10 value. Therefore, one should not think of there being one particular value 
+of reserve+ONRRP supply that will deliver a given amount of tightness of liquidity in money markets. To 
+understand reserve demand going forward, it will be important to  monitor the development of deposits. 
+Predicting the evolution of deposits is difficult given its dependence on financial assets which are volatile 
+as well as the fact there is some variation in the portfolio share for deposits. Furthermore, QT may itself 
+===== PAGE 28 =====
+ 
+28 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+affect deposits. As the Federal Reserve reduces its bond holdings during QT, someone else must hold more 
+bonds in equilibrium. This may reduce deposits, if households buy bonds or transfer deposits to bond funds 
+or transfer deposits to money market funds who in turn fund hedge fund bond purchases via repo lending. 
+To the extent that deposits fall, more QT is possible.18 
+In related work, Afonso, Giannone, La Spada and Williams (2021) estimate a reserve demand function in 
+which the EFFR-IOR spread is modeled as a function of the ratio of reserves to  banks’ total assets. They 
+work with daily data and instrument the reserve-to-asset ratio by the forecast error for this variable 5 days 
+prior, using a VAR to obtain the forecast error. The idea is that the forecast error predicts reserves but will 
+be uncorrelated with reserve demand shocks 5 days later  if demand shocks tend to resolve in less than 5 
+days. Their estimation allows for a time-varying effect (β) of the reserves-to-asset ratio on the EFFR-IOR 
+spread. They estimate β  to be significantly negative  in 2010-2011 and 2018-2019 but close to zero from 
+2012-2017, in the 2nd half of 2020, and in 2021. Their results imply that a negative ( β) starts to emerge at 
+reserves around 12% of banks’ total assets. To compare that with our results, observe that in October 2022, 
+banks’ total assets amount to $22.6T. Reserves of 12% of banks’ total assets would thus come to $2.7T.  
+We calculate the feasible reserves+ONRRP value as opp osed to the feasible reserve value because the 
+Federal Reserve controls reserves+ONRRP while the split between reserves and ONRRP is determined also 
+by the setting of the ONRRP rate and the shape of banks’ reserve demand function. If, as would be expected, 
+reductions in reserves+ONRRP first reduce ONRRP take-up to zero, before generating much reduction in 
+reserves, then by the time reserves+ONRRP take-up is reduced to the number in one of our three scenarios, 
+ONRRP is close to zero. Our calculation is then comparable to that of Afonso et al (2021). Their $2.7T 
+number is close to the number $2.840T (11.0% of GDP) that we calculate would generate the same deposit-
+adjusted reserves+ONRRP supply as that in September 2019. Our approach and that of Afonso et al (2021) 
+rely on different methodologies. We exploit lower frequency (mainly QE /QT induced) movements in 
+reserves and use a functional form for reserves demand where constant parameters appear to provide a good 
+fit across the 2009M1-2022M10 period. Afonso et al (2021) rely on daily reserve variation. On the basis of 
+the functional form that they specify for the reserve demand function, their β parameter is estimated to be 
+time-varying. Despite the different approaches, a key lesson common to both papers is that running down 
+ 
+18 It is possible that deposits are unaffected as reserves+ONRRP is reduced. Suppose that ONRRP take -up falls one-
+for-one with reduction in reserves+ONRRP. Money market funds are the largest investor at the ONRRP facility. If 
+they choose to invest in the repo market instead of the ONRRP facility, this could facilitate higher bond holdings on 
+the part of hedge funds, with hedge funds replacing the Federal Reserve as a bond investor. In this case, deposits are 
+unaffected by lower reserves+ONRRP. 
+===== PAGE 29 =====
+ 
+29 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+reserves to 7% of GDP, as was done in the last policy normalization episode, is likely to lead to strains in 
+short-term money markets. 
+b. ONRRP take-up as a guide to feasible reduction in reserves+ONRRP  
+As a complementary approach, the amount of ONRRP take -up is potentially informative  for assessing 
+feasible reduction in reserves+ONRRP. This follows directly from Figure 5 Panel B. ONRRP take-up (non-
+bank facility take -up) is positive because the Federal Reserves’s net securities (and thus its supply of 
+reserves+ONRRP) are larger than the amount of reserves banks demand when the market interest rate r  
+equals the ONRRP rate ( non-bank facility rate) . The ONRRP facility “mops up” the excess supply of 
+reserves+ONRRP, thereby ensuring that  the market repo rate does not fall below the ONRRP rate. This 
+suggests that if the reserves+ONRRP supply was reduced by the amount of the current ONRRP take -up, 
+the market rate would stay at r= ONRRP rate, reserves would be unchanged and ONRRP take -up would 
+fall to zero. Given ONRRP take -up of $2.2T in October 2022, this suggests that a correspondingly large 
+reduction in reserves+ONRRP is possible, without lifting the market repo rate above the ONRRP rate floor. 
+Some additional reduction in reserves+ONRRP is possible before the market  repo rate exceeds the IOR.  
+Potential effects of balance sheet reduction on deposits are again a complicating factor.  
+A simple message from this complementary approach to ass essing feasible QT is that one should take a 
+reduction of ONRRP take-up toward zero as a signal that markets are getting close to the point at which the 
+rate in the repo market starts to exceed the ONRRP rate. This approach is not able to speak to how much  
+additional reduction in supply is possible past that point before the market interest rate-IOR spread exceeds 
+a particular value. 
+c. Accounting for volatility in the autonomous factors 
+From the central bank balance sheet  
+Reserves + (Non- bank investment facility)� � � � � � � � � � � � � � � � � � � � �
+𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑟𝑟𝑅𝑅𝑅𝑅𝑅𝑅 𝑐𝑐𝑅𝑅𝑐𝑐𝑁𝑁 
+𝑁𝑁𝑏𝑏 𝑁𝑁ℎ𝑅𝑅 𝑠𝑠𝑅𝑅𝑐𝑐𝑁𝑁𝑟𝑟𝑐𝑐𝑐𝑐 𝑏𝑏𝑐𝑐𝑐𝑐𝑏𝑏 
+𝑏𝑏𝑏𝑏 𝑐𝑐𝑏𝑏𝑐𝑐−𝑏𝑏𝑐𝑐𝑐𝑐𝑏𝑏𝑅𝑅
+= [Securities −  Autonomous factors]� � � � � � � � � � � � � � � � � � � � � � � � �
+𝑁𝑁𝑅𝑅𝑁𝑁 𝑅𝑅𝑅𝑅𝑠𝑠𝑠𝑠𝑟𝑟𝑠𝑠𝑁𝑁𝑠𝑠𝑅𝑅𝑅𝑅
++ Loans to banks� ���� � ���� �
+𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑟𝑟𝑅𝑅𝑅𝑅𝑅𝑅 𝑏𝑏𝑏𝑏𝑟𝑟𝑟𝑟𝑏𝑏𝑏𝑏𝑅𝑅𝑏𝑏 
+𝑓𝑓𝑟𝑟𝑏𝑏𝑓𝑓 𝑁𝑁ℎ𝑅𝑅 𝑠𝑠𝑅𝑅𝑐𝑐𝑁𝑁𝑟𝑟𝑐𝑐𝑐𝑐 𝑏𝑏𝑐𝑐𝑐𝑐𝑏𝑏 
+𝑏𝑏𝑏𝑏 𝑏𝑏𝑐𝑐𝑐𝑐𝑏𝑏𝑅𝑅 
+.   
+In the case of the Federal Reserve and assuming loans to banks are small 
+Reserves+ONRRP=Securities-Autonomous factors.    
+From an interest -rate volatility perspective, it is p rudent to run down securities  only to the point that 
+fluctuations in autonomous factors will not result in r eserves+ONRRP below the value assessed to be 
+feasible value (e.g., below $3.495T  in our third option in section 6.a). The needed buffer to account for 
+volatility in the autonomous factors depends on the risk aversion of the decision maker and the expected 
+===== PAGE 30 =====
+ 
+30 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+volatility in the autonomous factors going forward. A buffer of several hundred billion dollars does not 
+seem unreasonable given recent  TGA volatility. The large recent fluctuations in the Treasury General 
+Account are visible in Figure 2.  
+In Figure 16, we zoom in on year 2019 to illustrate the negative relation between reserves+ONRRP and the 
+TGA. Based on our framework, the underlying re asons for the yield spikes of September 2019 was low er 
+supply of reserves+ONRRP  (due to QT) and growth in the size of the banking sector (higher deposits). 
+However, the “final straw” that reduced reserves+ONRRP enough to create yield spikes on September 17, 
+2019, was an increase in the TGA due to corporate tax payments and Treasury issuance on September 16, 
+2019 (see Anbil, Anderson and Senyuz (2020)). The TGA increase is visible in Figure 16 as a sharp increase 
+in the blue line around September 17, 2019.  
+7.  Conclusion 
+Understanding reserve demand is central for achieving interest rate control and assessing how much QT is 
+feasible before interest rate volatility may emerge . We develop a new framework for  reserve demand in 
+which it is driven by three main factors: The interest rate spread  between short-term money market rates 
+and the IOR, the convenience yield on reserves (due to reserves being valuable for managing deposit flows), 
+and bank balance sheet costs (which limit banks’ ability to arbitrage spreads by borrowing at market rates 
+and investing at the IOR). Our framework differs from recent work on reserve demand in an ample-reserves 
+setting by the shape of the reserve demand function, by clarifying how take-up at Federal Reserve facilities 
+helps control reserve supply, and by having a central role for deposits (and other short-term bank liabilities) 
+as a reserve demand shifter. 
+Empirically, reserve demand is negatively related to the EFFR-IOR spread with a semi-elasticity of -5 over 
+the 2009M1-2022M10 period.  We document a stable reduced form for the reserve demand curve once 
+deposits are accounted for, finding a tight negative relation betwe en the EFFR-IOR spread and deposit-
+adjusted reserves+ONRRP supply. Our estimation exploits monthly variation and assumes that most of the 
+variation in reserves+ONRRP supply at the monthly frequency is not due to reserve supply accommodating 
+demand shocks but instead driven by monetary policy, notably the rounds of quantitative easing and 
+tightening over the sample.  
+Our estimated reserve demand function can be used to guide policy tightening both in terms of the setting 
+of the IOR relative to  the mid -point of the target range and in terms of assessing how much 
+reserves+ONRRP supply can be reduced before a liquidity shortage may emerge. Our estimated reduced 
+form implies that due to increasing deposits (even relative to GDP), liquidity strains may emerge much  
+before reserves+ONRRP was reduced to 7% of GDP as was done during policy normalization leading up 
+===== PAGE 31 =====
+ 
+31 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+to September 2019. Based on two complementary approa ches, we assess that a reduction in 
+reserves+ONRRP by at least $2T appears feasible before interest rate volatility may emerge , though the 
+evolution of deposits, the value of the Standing Repo Facility and volatility in the autonomous balance 
+sheet factors makes for substantial uncertainty in this assessment. 
+References 
+Acharya, Viral V. and Raghuram G. Rajan, 2022, “Liquidity, liquidity everywhere, not a drop to use – Why 
+flooding banks with central bank reserves may not expand liquidity”, CEPR DP16907. 
+Acharya, Viral V., Rahul Singh Chauhan, Rahuram G. Rajan, and Sascha Steffen, “Liquidity Dependence: 
+Why Shrinking Central Bank Balance Sheets is an Uphill Task”, Jackson Hole Economic Symposium, 
+2022. 
+Afonso, Gara, Marco Cipriani, Adam Copeland, Anna Kovner, Gabriele La Spada, Antoine Martin, 2020, 
+“The Market Events of Mid-September 2019”, Federal Reserve Bank of New York Staff Report No. 918. 
+Afonso, Gara, Domenico Giannone, Gabriele La Spada, and John C. Williams, 2021, “Scarce, Abundant, 
+or Ample? A Time-Varying Model”, working paper. 
+Anbil, Sriya, Alyssa Anderson, and Zeynep Senyuz, 2020, “What Happened in Money Markets in 
+September 2019?”, FEDS Notes (2020) https://doi.org/10.17016/2380-7172.2527 
+Bianchi, Javier, and Saki Bigio , 2022, “Banks, Liquidity Management, and Monetary Policy”, 
+Econometrica, Vol. 90, No. 1, 391–454 
+Copeland, Adam, Darrell Duffie, and Yilin (David) Yang, 2021, “Reserves Were Not So Ample After All”, 
+Federal Reserve Bank of New York Staff Report, No. 974. 
+Correa, Ricardo, Wenxin Du, and Gordon Liao, 2021, “US Banks and Global Liquidity,” Working Paper, 
+University of Chicago. 
+Drechsler, Itamar, Alexi Savov and Philipp Schnabl, 2017, “The Deposits Channel of Monetary Policy”, 
+Quarterly Journal of Economics, 132(4), 1819-1876. 
+Frost, Peter A., 1971, “Banks' Demand for Excess Reserves”, Journal of Political Economy, Vol. 79, No. 
+4, 805-825. 
+Goodfriend, Marvin, 1982, “A Model of Money Stock Determination with Loan Demand and a Banking 
+System Balance Sheet Constraint”, Federal Reserve Bank of Richmond Economic Review, Jan/Feb 1982. 
+Goodfriend, Marvin, 2002. “Interest on Reserves and Monetary Policy.” Federal Reserve Bank of New 
+York Economic Policy Review 8, No. 1 (May). 
+Ihrig, Jane, Zeynep Senyuz, and Gretchen C. Weinbach, 2020, “Implementing Monetary Policy in an 
+“Ample-Reserves” Regime: The Basics (Note 1 of 3)”, FEDS Notes, July 2020. 
+Judson, Ruth and Elizabeth Klee, 2009, “Whither the Liquidity Effect: the impact of Federal Reserve 
+open market operations in recent years”, FEDS working paper 2009-25. 
+Krishnamurthy, Arvind and Annette Vissing-Jorgensen, 2012, “The Aggregate Demand for Treasury 
+Debt”, Journal of Political Economy, Vol. 120, No. 2, 233-267 
+Lucas, Robert E., 2000, “Inflation and Welfare”, Econometrica, Vol. 68, No. 2, 247-274. 
+===== PAGE 32 =====
+ 
+32 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Mishkin, Frederic Stanley, 2022, “The Economics of Money, Banking, and Financial Markets”, 13th 
+edition, Pearson. 
+Smith, A. Lee and Victor J. Valcarcel, 2021, “The Financial Market Effects of Unwinding the Federal 
+Reserve’s Balance Sheet”, Working Paper, Federal Reserve Bank of Kansas City. 
+Vissing-Jorgensen, Annette, 2023, “Balance Sheet Policy Above the Effective Lower Bound”, ECB 
+Forum on Central Banking (Sintra). 
+Wall Street Journal, 2022, “The Other Doomsday Scenario Looming Over Markets”, September 3, 2022. 
+===== PAGE 33 =====
+ 
+33 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Appendix 1. Micro founding the convenience yield on reserves 
+Consider the setup from section 2, adding detail on the bank’s liquidity management problem. 
+Suppose deposits may change and that net depos it outflows, as a fraction of the initial deposit level, is a 
+random fraction 𝐹𝐹� of deposits, with 𝐹𝐹� distributed uniform(-k,k), with k≤1.  
+Assume that deposit outflows met using reserves incur no transactions costs  while deposit outflows that 
+cannot be met using reserves must be made by reducing holdings of bonds . Suppose that selling bonds 
+results in transactions costs TC(Amount sold), where TC(x)=δ*x2, an increasing and convex function.  
+For given Reserves (R) and Deposits (D) , bonds sold is then a random variable max(𝐹𝐹�D-R,0) resulting in 
+transactions costs being a random variable 𝑇𝑇𝐶𝐶� =δ*[max(𝐹𝐹�D-R,0)]2. Therefore, 
+𝐸𝐸�𝑇𝑇𝐶𝐶� �  = ∫ δ[max(𝐹𝐹D − R, 0)]2𝑏𝑏
+−𝑏𝑏 𝑓𝑓(𝐹𝐹)𝑑𝑑𝐹𝐹= ∫ δ(𝐹𝐹D − R)2𝑏𝑏
+𝑅𝑅
+𝐷𝐷
+1
+2𝑏𝑏𝑑𝑑𝐹𝐹  (A1) 
+=
+δ
+2𝑏𝑏�
+1
+3𝐷𝐷(𝐹𝐹D − R)3�𝑅𝑅
+𝐷𝐷
+𝑏𝑏
+=
+δ
+2𝑏𝑏
+1
+3𝐷𝐷(𝑘𝑘D − R)3    (A2) 
+Define the function v(Reserves,Deposits) as expected transactions costs savings from holding reserves: 
+v(Reserves,Deposits)= 𝐸𝐸�𝑇𝑇𝐶𝐶� (𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅= 0, 𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅� − 𝐸𝐸�𝑇𝑇𝐶𝐶� (𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅, 𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅�. It follows from 
+(A2) that the marginal convenience benefit from reserves is positive (saved transactions cost) 
+𝑣𝑣𝑅𝑅
+′ (𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅, 𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅) = −
+𝜕𝜕𝜕𝜕(𝑇𝑇𝐶𝐶� )
+𝜕𝜕𝑅𝑅=
+δ
+2𝑏𝑏
+1
+𝐷𝐷(kD − R)2 > 0   (A3) 
+while the marginal convenience benefit from deposits is negative (additional transactions costs) 
+𝑣𝑣𝐷𝐷
+′ (𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅, 𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅) = −
+𝜕𝜕𝜕𝜕(𝑇𝑇𝐶𝐶� )
+𝜕𝜕𝐷𝐷 = −
+δ
+2𝑏𝑏�
+𝑏𝑏
+𝐷𝐷(kD − R)2 −
+1
+𝐷𝐷2
+1
+3 (kD − R)3�  (A4) 
+= −
+δ
+2𝑏𝑏
+1
+𝐷𝐷(kD − R)2 �𝑘𝑘−
+1
+3𝐷𝐷(kD − R)� = −
+δ
+2𝑏𝑏
+1
+𝐷𝐷(kD − R)2 �
+1
+3𝐷𝐷(2kD + R)� < 0 (A5) 
+As for the second derivatives, it follows from (A3) that 𝑣𝑣𝑅𝑅
+′ (𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅, 𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅) is decreasing in reserves 
+and increasing in deposits: 
+𝑣𝑣𝑅𝑅
+′′(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅, 𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅) = −
+δ
+𝑏𝑏
+1
+𝐷𝐷(kD − R) < 0      (A6) 
+for R<kD and  
+𝑣𝑣𝑅𝑅,𝐷𝐷
+′′ (𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅, 𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅) =
+δ
+2𝑏𝑏
+(kD−R)
+𝐷𝐷
+(kD+R)
+𝐷𝐷 > 0   (A7) 
+for R<kD. 
+===== PAGE 34 =====
+ 
+34 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Equation (A3) can be expressed as  
+𝑣𝑣𝑅𝑅
+′ (𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅, 𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅) =
+δ
+2𝑏𝑏
+1
+exp (𝑐𝑐𝑐𝑐𝐷𝐷) (k ∗ exp(𝑙𝑙𝑙𝑙D) − exp (𝑙𝑙𝑙𝑙R))2   (A8) 
+A first-order Taylor approximation around values lnD0 and lnR0 gives 
+𝑣𝑣𝑅𝑅
+′ (𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅, 𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅) ≈ δ
+2𝑘𝑘
+1
+𝐷𝐷0
+(k𝐷𝐷0 − 𝑅𝑅0)2 
+−
+δ
+𝑏𝑏
+1
+𝐷𝐷0
+(k𝐷𝐷0 − 𝑅𝑅0)*𝑅𝑅0 ∗ [𝑙𝑙𝑙𝑙𝑅𝑅− 𝑙𝑙𝑙𝑙𝑅𝑅0] 
+    +
+δ
+2𝑏𝑏
+(k𝐷𝐷0−𝑅𝑅0)
+𝐷𝐷0
+(k𝐷𝐷0+𝑅𝑅0)
+𝐷𝐷0
+𝐷𝐷0 ∗ [𝑙𝑙𝑙𝑙𝐷𝐷− 𝑙𝑙𝑙𝑙𝐷𝐷0]   (A9) 
+which is the micro-founded version of (4) in Result 1. 
+We note that our micro foundations for the expected transactions costs are related to those of Frost (1971). 
+He models banks’ demand for excess reserves in an environment with no interest on reserves and assumes 
+that banks face a fixed cost of adjusting their securities holdings, along with a constant variable cost of 
+adjustment. We model banks’ demand in an environment with interest on reserves and assume quadratic 
+adjustment costs for securities. In both settings, the expected transactions costs savings from reserves lower 
+their yield relative to other assets.  
+  
+===== PAGE 35 =====
+ 
+35 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Table 1. Federal Reserve balance sheet, October 26, 2022 
+ 
+The table is based on data from the Federal Reserve’s H.4 release. Treasuries and MBS are at face value. 
+The largest category within “Other” assets is unamortized premium on securities. 
+ 
+Assets ($B) Liabilities ($B) 
+Treasuries 5,609  Reserves      3,108  
+MBS 2,679  Overnight reverse repurchase agreements     2,187  
+Loans to banks 19  Currency      2,285  
+Other 466  Treasury general account         557  
+    Other         636 
+     8,773       8,773  
+  
+===== PAGE 36 =====
+ 
+36 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Table 2. Reserve demand estimation, instrumenting for reserves  
+Monthly data, 2009M1-2022M10. IV estimation. t-statistics are robust to autocorrelation up to order 12.  
+*** indicates statistical significance at the 1% level.  
+Panel A. Second stage 
+  Dependent variable: 
+ (Effective federal funds rate-IOR) 
+ln(Reserves) -0.200*** 
+ (t=-10.44) 
+ln(Deposits) 0.358*** 
+ (11.86) 
+Constant -1.900*** 
+ (-10.64) 
+  
+N (months) 166 
+ 
+Panel B. First stage for ln(Reserves) 
+  Dependent. variable: 
+ ln(Reserves) 
+ln(Reserves+ONRRP) 0.860*** 
+ (t=14.07) 
+ln(Deposits) -0.049 
+ (-0.47) 
+Constant 1.467 
+ (1.64)   
+N (months) 166 
+R2 0.960 
+ 
+Panel C. Reduced form 
+  Dependent. variable: 
+ (Effective federal funds rate-IOR) 
+ln(Reserves+ONRRP) -0.172*** 
+ (t=-18.78) 
+ln(Deposits) 0.367*** 
+ (23.81) 
+Constant -2.193*** 
+ (-21.12) 
+  
+N (months) 166 
+R2 0.895 
+ 
+===== PAGE 37 =====
+ 
+37 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Table 3. Reserve demand estimation, instrumenting for both reserves and deposits 
+Quarterly data (last month of the quarter), 2009Q1-2022Q2. t-statistics are robust to autocorrelation up to 
+order 4. *** indicates statistical significance at the 1% level. 
+Panel A. Second stage 
+  Dependent variable: 
+ (Effective federal funds rate-IOR) 
+ln(Reserves) -0.207*** 
+ (t=-11.53) 
+ln(Deposits) 0.377*** 
+ (12.92) 
+Constant -2.025*** 
+ (-11.62) 
+  
+N (quarters) 54 
+ 
+Panel B. First stages for ln(Reserves) and ln(Deposits) 
+  Dependent variable:  Dependent variable:  
+ ln(Reserves) ln(Deposits) 
+ln(Reserves+ONRRP) 0.845*** -0.029 
+ (t=8.53) (t=-0.85) 
+ln(Financial assets) 0.035 1.091*** 
+ (0.24) (20.65) 
+IOR -0.010 -0.035*** 
+ (-0.31) (-2.62) 
+Constant 0.746 -2.671*** 
+ (0.66) (-7.43) 
+   
+N (quarters) 54 54 
+R2 0.971 0.987 
+ 
+  
+===== PAGE 38 =====
+ 
+38 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Panel C. Reduced form 
+  Dependent. variable: 
+ (Effective federal funds rate-IOR) 
+ln(Reserves+ONRRP) -0.198*** 
+ (t=-17.57) 
+ln(Financial assets) 0.430*** 
+ (21.87) 
+IOR -0.020*** 
+ (-4.88) 
+Constant -3.378*** 
+ (-23.02) 
+  
+N (quarters) 54 
+R2 0.905 
+ 
+ 
+  
+===== PAGE 39 =====
+ 
+39 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Figure 1. Yield spikes in September 2019 
+Daily data, April 2018 to October 2022. The series graphed are the effective federal funds rate (the short-
+term market rate at which banks and government-sponsored enterprises lend to each other in the federal 
+funds market), the Secured Overnight Financing Rate (a measure of the cost of borrowing cash against 
+Treasury collateral using repo contracts), and the interest rate on reserves set by the Federal Reserve. 
+ 
+ 
+  
+
+===== PAGE 40 =====
+ 
+40 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Figure 2. The Federal Reserve’s balance sheet, 2006M1-2022M10 
+The figure is based on data from the Federal Reserve’s H.4 release. Data are monthly averages. 
+ 
+  
+
+===== PAGE 41 =====
+ 
+41 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Figure 3. Reserve demand and supply 
+Panel A. Reserve demand 
+ 
+Panel B. Reserve supply 
+With lending facility for banks     With lending facility for banks 
+but no investment facility for non-banks   and investment facility for non-banks 
+   
+  
+
+===== PAGE 42 =====
+ 
+42 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Figure 4. Equilibrium without lending facility for banks but no investment facility for non-banks 
+Panel A. No take-up at lending facility for banks 
+   
+Panel B. Positive take-up at lending facility for banks 
+Occurs if: Reserve demand evaluated at r=lending facility rate > Net securities 
+ 
+  
+
+===== PAGE 43 =====
+ 
+43 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Figure 5. Equilibrium with lending facility for banks and investment facility for non-banks 
+Panel A. No take-up at non-bank investment facility 
+ 
+Panel B. Positive take-up at non-bank investment facility  
+Occurs if:  Demand evaluated at r=non-bank facility rate < Net securities 
+   
+
+===== PAGE 44 =====
+ 
+44 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Figure 6. Defining reserve demand relative to different sources of funding 
+ 
+ 
+  
+
+===== PAGE 45 =====
+ 
+45 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Figure 7. (Effective Federal Funds Rate)-IOR spread and Reserves-to-GDP, time series plot 
+Monthly data (averages), 2009M1-2022M10 
+ 
+  
+
+===== PAGE 46 =====
+ 
+46 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Figure 8. (Effective Federal Funds Rate)-IOR spread and Reserves, scatter plot 
+Monthly data, 2009M1-2022M10. 
+Panel A. Reserves 
+ 
+Panel B. Reserves-to-GDP 
+ 
+ 
+  
+
+===== PAGE 47 =====
+ 
+47 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Figure 9. Deposits 
+In the left figure, deposits are for all commercial banks, from the Federal Reserve’s H8 release (via 
+FRED). The right figure is based on data from both the H8 and H6 releases, as noted. Data are monthly 
+averages for 1986M1-2022M10 (left figure) or 1986M1-2022M9 (right figure). 
+ 
+ 
+  
+
+===== PAGE 48 =====
+ 
+48 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Figure 10. Fit of estimation 
+The fitted lines in both panels are based on the regression in Table 2, Panel C. 
+Panel A. Time series plot of (Effective Federal Funds Rate)-IOR spread and fitted values 
+ 
+Panel B. (Effective Federal Funds Rate)-IOR spread and fitted values as function of deposit-
+adjusted supply 
+ 
+
+===== PAGE 49 =====
+ 
+49 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Panel C. (Effective Federal Funds Rate)-IOR spread and fitted values as function of deposit-
+adjusted supply, non-log x-axis 
+ 
+ 
+Panel D. Estimated reserve demand shock 
+The figure is based on the reserve demand estimation in Table 2, Panel A. The vertical line indicates the 
+end of March 2021. 
+  
+
+===== PAGE 50 =====
+ 
+50 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Figure 11. Deposit drivers 
+Panel A. Financial assets of households and non-profits as a driver of deposits 
+Values graphed are for the last month of the quarter, 2009Q1-2022Q2. 
+ 
+Panel B. Fit of deposit demand function estimation 
+Quarterly data (last month of the quarter), 2009Q1-2022Q2. The fitted line is based on the regression in 
+Table 3, Panel B for ln(Deposits). 
+ 
+  
+
+===== PAGE 51 =====
+ 
+51 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Figure 12. Predicted spread at current deposit level 
+The figure illustrates the predicted value for the Effective Fed Funds rate- IOR spread as a function of the 
+supply of Reserves+ONRRP. The prediction is based on the estimated version of equation (10) 
+𝑅𝑅(𝐹𝐹𝐹𝐹) − 𝑅𝑅(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅) = 𝐴𝐴+ 𝐵𝐵∗ ln(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅+ 𝑂𝑂𝑂𝑂𝑅𝑅𝑅𝑅𝑂𝑂) + 𝐶𝐶∗ ln (𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅) 
+using the  parameter estimates for A, B and C from Table 2, Panel C, and deposits of $17.753T as of 
+2022M10. Reserves+ONRRP is varied in increments of $100B and Reserves+ONRRP graphed ranges from 
+$100B to $7,000B. Observed Reserves+ONRRP data for our sample 2009M1-2022M10 range from $662B 
+to $5,811B, indicated by grey shading. 
+  
+
+===== PAGE 52 =====
+ 
+52 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Figure 13. Iso-fed funds curves 
+The figures show combinations of IOR and Reserves+ONRRP which result in a predicted effective federal 
+funds rate equal to a chosen value (2% in the left figure, 4% in the right figure). A given iso-fed funds curve 
+is constructed from equation (10) 
+𝑅𝑅(𝐹𝐹𝐹𝐹) − 𝑅𝑅(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅) = 𝐴𝐴+ 𝐵𝐵∗ ln(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅+ 𝑂𝑂𝑂𝑂𝑅𝑅𝑅𝑅𝑂𝑂) + 𝐶𝐶∗ ln (𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅) 
+which implies that along an iso-fed funds curve with a predicted effective fed funds rate of X:       
+𝑅𝑅(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅) = 𝑋𝑋− [𝐴𝐴+ 𝐵𝐵∗ ln(𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑣𝑣𝑅𝑅𝑅𝑅+ 𝑂𝑂𝑂𝑂𝑅𝑅𝑅𝑅𝑂𝑂) + 𝐶𝐶∗ ln(𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅𝐷𝐷𝐷𝐷𝑅𝑅)] 
+We implement this using t he estimated values for A , B and C from Table 2, Panel C , and deposits of 
+$17.753T as of 2022M10. Along a given iso-fed funds curve, Reserves+ONRRP is varied in increments of 
+$100B and Reserves+ONRRP graphed ranges from $100B to $7,000B. Observed Reserves+ONRRP data 
+for our sample 2009M1-2022M10 range from $662B to $5,811B, indicated by grey shading. 
+  
+
+===== PAGE 53 =====
+ 
+53 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Figure 14. Balance sheet runoff counterfactuals 
+Panel A repeats Figure 10, focusing on the range of observed data and adding vertical lines for various 
+values of Reserves+ONRRP:  $1,806B (7% of GDP), $2,840 (same predicted value as in 2019M9), $3,495B 
+(predicted value of zero), and $5,274 (the current value as of 2022M10).  
+Panel B repeats the exercise from Panel A but uses (Reserves+ONRRP)/GDP on the horizontal axis. 
+Predicted values are still calculated as for Panel A. The vertical lines are at 0.07, 0.110 (same predicted 
+value as in 2019M9), 0.135 (predicted value of zero), and 0.204 (the current value as of 2022M10). 
+  
+
+===== PAGE 54 =====
+ 
+54 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Figure 15. Counterfactual: Predicted (Effective Federal Funds Rate)-IOR spread for 
+Reserves/GDP=0.07 in 2022M10 
+ 
+ 
+ 
+Figure 16. Reserves+ONRRP and the TGA around the September 17, 2019, yield spike 
+Amounts are in billions of dollars. 
+ 
+  
+
+===== PAGE 55 =====
+ 
+55 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Appendix Table 1. Drivers of deposits, monthly data, 2009M1-2022M6 
+Monthly data for 2009M1 -2022M6. Liquid deposits are defined as demand deposits plus other liquid 
+deposits (H6 release).  Household financial assets (including assets of non- profits) are from the Financial 
+Accounts of the United States. IOR is the interest rate paid on reserves.  In Panel B, Δ denotes a one-year 
+change relative to the same month the prior year. t-statistics in parenthesis (based on 12 Newey-West lags). 
+*** p<0.01, ** p<0.05, * p<0.1. 
+Panel A. Regressions in levels 
+  Dependent variable   
+ ln(Deposits)  ln(Liquid deposits) 
+ (1) (2) (3)  (4) (5) (6) 
+ln(Reserves) 0.50***  -0.045*  0.70***  0.088***  
+(7.14) 
+ 
+(-1.75) 
+ 
+(8.95)  (2.50) 
+      
+ 
+ 
+ln(Household financial assets)  1.03*** 1.10***   1.39*** 1.25*** 
+  (42.71) (29.63) 
+ 
+ (37.68) (20.91) 
+      
+ 
+ 
+IOR  -0.025*** -0.036***   -0.036*** -0.014 
+ 
+ 
+(-5.40) (-4.71) 
+ 
+ (-3.76) (-1.59) 
+      
+ 
+ 
+Constant 5.50*** -2.26*** -2.69***  3.85*** -6.34*** -5.50*** 
+ (10.56) (-8.35) (-10.08) 
+ 
+(6.60) (-15.33) (-12.33) 
+ 
+    
+   
+N (months) 162 162 162  162 162 162 
+R2 0.659 0.987 0.988   0.721 0.985 0.988 
+ 
+Panel B. Regressions in changes 
+  Dependent variable 
+ Δln(Deposits)  Δln(Liquid deposits) 
+ (1) (2) (3)  (4) (5) (6) 
+Δln(Reserves) 0.11***  0.033  0.17***  -0.0006 
+ (5.78) 
+ 
+(1.27) 
+ 
+(3.73) 
+ 
+(-0.01) 
+        
+Δln(Household financial assets)  0.38*** 0.31***   0.53*** 0.33* 
+  (4.80) (4.19) 
+  
+(4.00) (2.36) 
+        
+ΔIOR  -0.047*** -0.036***   -0.067*** -0.066*** 
+  (-13.15) (-4.87) 
+  
+(-11.35) (-5.58) 
+Lagged levels of explanatory 
+variables and dependent variable 
+included as regressors Yes Yes Yes  Yes Yes Yes 
+Constant term included  Yes Yes Yes  Yes Yes Yes         
+N (months) 150 150 150  150 150 150 
+R2 0.854 0.870 0.898   0.639 0.833 0.870 
+ 
+===== PAGE 56 =====
+ 
+56 
+ 
+NONCONFIDENTIAL // EXTERNAL NONCONFIDENTIAL // EXTERNAL 
+Appendix Figure 1. Reserve demand as a function of the market interest rate 
+Framework of Ihrig, Senyuz and Weinbach (2020) 
+  
+ 
+Appendix Figure 2. Fit when instrumenting for both reserves and deposits 
+The fitted line is based on the regression in Table 3, Panel C. 
+ 
+ 

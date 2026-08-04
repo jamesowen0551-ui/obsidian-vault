@@ -1,0 +1,2100 @@
+
+===== PAGE 1 =====
+ 
+ 
+  
+Reserves Were Not 
+So Ample After All  
+ 
+Adam Copeland  | Darrell Duffie  | Yilin (David) Yang  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N O .  974  
+J U L Y 202 1 
+ 
+R E V I S E D 
+J U L Y 2024  
+===== PAGE 2 =====
+Reserves Were Not So Ample After All 
+Adam Copeland, Darrell Duffie, and Yilin (David) Yang 
+Federal Reserve Bank of New York Staff Reports, no. 974 
+July 2021; revised July 2024 
+JEL classification: G14, D47, D82 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstract 
+We show that the likelihood of a liquidity crunch in wholesale US dollar funding markets is highly 
+dependent on levels of reserve balances at the financial institutions that are the most active intermediaries 
+of these markets. Heightened risk of an imminent liquidity crunch is signaled by significant delays in 
+intra-day payments to these large financial institutions over the prior two weeks. Our study contributes to 
+the broader dialogue surrounding the Federal Reserve's ongoing quantitative tightening (QT). 
+ 
+Key words: repo rates, reserve balances, intra-day payments, central-bank balance sheet 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_________________ 
+ 
+Copeland: Federal Reserve Bank of New York (email: adam.copeland@ny.frb.org). Duffie: Stanford 
+University (email: duffie@stanford.edu). Yang: City University of Hong Kong (email: 
+yiliyang@cityu.edu.hk). The authors are grateful for conversations with Viral Acharya, Gara Afonso, 
+Sriya Anbil, Yakov Amihud, David Andolfatto, Adrien d'Avernas, Cecilia Caglio, Seth Carpenter, John 
+Cochrane, Lou Crandall, Ricardo Correa, Lou Crandall, Wenxin Du, Bill English, Egemen Eren, Andy 
+Filardo, Peter Fisher, Michael Fleming, Scott Freidenrich, Ken Garbade, Beth Hammack, Tom Harrop, 
+Ben Hébert, Sebastian Infante, Peter Ireland, Frank Keane, Narayana Kocherlakota, Don Kohn, Arvind 
+Krishnamurthy, Gabriele La Spada, Jenn LeClair, Mickey Levy, Gordon Liao, Lorie Logan, Brian 
+Madigan, Andrei Magasiner, Antoine Martin, Jamie McAndrews, Al Moffitt, Bill Nelson, Peter Nowicki, 
+Patrick Parkinson, Monika Piazzesi, Simon Potter, Michael Roberts, Brian Sack, George Selgin, John 
+Taylor, Quentin Vandeweyer, Mike Verdeschi, Josh Younger, John Williams, Stephen Williamson, and 
+Amy Wang. They also thank Renhao Jiang for research assistance. 
+ 
+This paper presents preliminary findings and is being distributed to economists and other interested 
+readers solely to stimulate discussion and elicit comments. The views expressed in this paper are those of 
+the author(s) and do not necessarily reflect the position of the Federal Reserve Bank of New York or the 
+Federal Reserve System. Any errors or omissions are the responsibility of the author(s). 
+ 
+To view the authors’ disclosure statements, visit 
+https://www.newyorkfed.org/research/staff_reports/sr974.html. 
+===== PAGE 3 =====
+1 Introduction
+What quantity of central bank deposits do ﬁnancial institutions require? The Fed aims to
+provide banks with an “ample” supply of these deposits, called reserve balances. In eﬀect,
+“ample” means enough for banks to eﬃciently process payments and provide funding to
+their customers. As the Fed brings down the size of its balance sheet, a process known as
+quantitative tightening, how will the Fed know the minimum ample level of reserve balances?
+In the Fed’s previous round of quantitative tightening, reserve balances declined from a peak
+of around $2.8 trillion in 2014 to about $1.4 trillion in early September 2019. Suddenly, on
+September 16-17, 2019, interest rates negotiated in the largest wholesale funding market – the
+Treasury repo market – spiked by hundreds of basis points, as prominently reported in major
+news outlets.1 We show that liquidity crunches caused by insuﬃcient reserve balances can
+be predicted by delays in intra-day payments of reserves to the ten bank holding companies
+that are most active in the Treasury repo market, which we label “the dealer banks.” More
+generally, we ﬁnd a strong empirical relationship linking funding market rate spikes, intra-day
+payment delays, and the reserve balances of the largest banks.
+In reaction to the liquidity crunch of September 2019, the Fed quickly supplied additional
+reserve balances to the banking system. Funding market liquidity and intra-day payment
+timing returned to near normal within a few days. Nevertheless, we ﬁnd that the reserve
+balances held by the dealer banks did not increase signiﬁcantly until the Fed created a much
+larger quantity of additional reserves in response to the Covid shock of March 2020, just
+after intra-day payments to the dealer banks were again signiﬁcantly delayed and repo rates
+again spiked. This underscores the key role of reserve balances that are held by the dealer
+banks or are to be paid to the dealer banks throughout the day.
+1For examples of reporting, see “Fed Preps Second $75 Billion Blast With Repo Market Still On Edge,”
+Bloomberg, September 17, 2019; “Why the US Repo Market Blew Up and How to Fix It,” Bloomberg,
+January 6, 2020; “Fed Plans Second Intervention to Ease Funding Squeeze,” Financial Times , September
+17, 2019; “New York Fed Examines Banks’ Role in Money Market Turmoil,” Financial Times , September
+20, 2019; “Wall Street Is Buzzing About Repo Rates. Here’s Why,” New York Times, September 18, 2019;
+“Fed Intervenes to Curb Soaring Short-Term Borrowing Costs,” Wall Street Journal , September 17, 2019.
+1
+===== PAGE 4 =====
+Post-COVID reserve balances ultimately achieved a new peak of about $4.2 trillion in
+September 2021. In 2024, as the current round of quantitative tightening continues, Federal
+Reserve oﬃcials and market participants are again discussing the minimum desirable quantity
+of reserve balances (Logan, 2024; Waller, 2024; Perli, 2024; Abate, 2024; Cabana, 2024).
+Ongoing quantitative tightening at other central banks has triggered similar discussions
+(Gravelle, 2024; Bailey, 2024). This paper provides empirical analysis that supports an
+understanding of the quantity of reserve balances needed by the largest ﬁnancial institutions
+to maintain an orderly ﬁnancial system. In particular, we show that elevated delays in intra-
+day payments to the largest repo market intermediaries signal imminent funding market
+liquidity risk.
+Before the failure of Lehman Brothers in September 2008, a small aggregate supply of
+federal reserve balances, typically under $50 billion, was suﬃcient for US bank holding com-
+panies (BHCs) to manage trillions of dollars of daily payments and for wholesale overnight
+funding markets to function eﬃciently. Banks liberally exploited daylight overdrafts of their
+federal reserve accounts to manage their intraday payments. The Fed’s GFC and post-GFC
+quantitative-easing programs increased reserve balances far above pre-crisis levels. As part
+of its post-crisis regulatory reform, however, the Fed also introduced a battery of new intra-
+day liquidity requirements and supervisory standards that provided incentives for the largest
+BHCs to maintain substantial reserve balance and which strongly discouraged the largest
+banks from incurring daylight overdrafts on their reserve accounts at the Fed. Although
+reserve balances in September 2019 far exceeded pre-GFC levels, they were insuﬃcient to
+avoid signiﬁcant disruptions to funding markets.
+The market for US Treasury repurchase agreements (repos) is by far the largest US
+dollar wholesale funding market, with a volume of over $3 trillion per day. 2 In an eﬃcient
+wholesale funding market, Treasury repo rates would be essentially equated by arbitrage
+2Primary dealers alone conduct over $5 trillion of repos and reverse repos per day, of which the majority
+are collateralized by US Treasuries (SIFMA data). Data collected by the Oﬃce of Financial Research imply
+that the bilateral (not centrally cleared) Treasury repo market alone provides over $3 trillion per day in
+funding.
+2
+===== PAGE 5 =====
+with the overnight interest rate oﬀered by the Fed on balances held at the Fed (IOR). This
+is so because Treasury repos and balances held at the Fed are extremely-low-risk overnight
+investments available to banks. From 2015 to 2020, however, we ﬁnd that the Secured
+Overnight Financing Rate (SOFR), a broad measure of overnight Treasury repo rates, was
+typically well above IOR whenever the total reserve balances of the ten largest repo-active
+BHCs was below roughly $580 billion.
+Low aggregate levels of reserve balances can lead to intraday cash hoarding by banks,
+raising concerns over market liquidity and sometimes even threatening ﬁnancial stability. 3
+Yang (2020) theorizes that when banks perceive that other banks may have low opening
+balances at the Fed, there can suddenly be a self-fulﬁlling equilibrium expectation of later-
+than-normal payments by multiple banks, inciting spikes in repo rates. Even in the post-
+2008 period, when system-wide reserve balances have been much higher than pre-crisis,
+Copeland, Molloy and Tarascina (2019) and McAndrews and Kroeger (2016) showed a strong
+relationship between intraday payment timing and system-wide total reserve balances.
+Our study considers the 100 largest US banks as ranked by average reserve balances and
+focuses on the ten BHCs with the largest amount of repo activity, which we call “the dealer
+banks.” We ﬁnd that the spread between SOFR and IOR is much more highly correlated with
+the total quantity of reserve balances of these ten dealer banks than with the balances of the
+other 90 large banks. Further, our analysis shows that the time of day by which the dealer
+banks have received the ﬁrst half of their daily incoming payments is a yet-more-powerful
+variable for explaining the spread between SOFR and IOR. We show that a two-week lagging
+average of this payment-delay variable could serve as a monitoring signal of the risk of an
+imminent liquidity crunch. Based on quantile regression analysis, during our sample period,
+a reduction of $100 billion dollars in the total opening-of-day balances of the ten dealer
+banks is estimated to increase the spread between SOFR and IOR at the 99%-ile by roughly
+3See Hamilton (1996), McAndrews and Potter (2002), Bech and Garratt (2003), Ashcraft and Duﬃe
+(2007), Bech (2008), Ashcraft, McAndrews and Skeie (2011), Afonso, Kovner and Schoar (2011), Afonso and
+Shin (2011), d’Avernas and Vandeweyer (2020), and Afonso, Duﬃe, Rigon and Shin (2022a).
+3
+===== PAGE 6 =====
+7 basis points.
+Our probit-based estimate of the probability of a severe spike in SOFR −IOR on a given
+day is also highly sensitive to the reserve balances of the dealer banks, delays in intra-
+day payments to the dealer banks, and large Treasury security issuances. At quarter ends,
+when foreign banks are monitored for their adherence to regulatory capital requirements, the
+estimated probability of spike in this funding rate spread is estimated to increase much more
+dramatically, and even more so if the reserve balances of dealer banks are low. We will explain
+the incremental impacts of Treasury issuances, the stock of Treasury bills outstanding, and
+the total quantity of uninsured deposits held by customers of the dealer banks. Acharya and
+Rajan (2022), Acharya et al. (2022), and Lopez-Salido and Vissing-Jorgensen (2023) have
+shown that commercial bank deposits are a factor in the demand for reserve balances.
+The remainder of this paper is organized as follows. Section 2 provides more background
+and discusses the relationship between our ﬁndings and prior research. Section 3 explains
+our key data sources. Section 4 investigates the empirical relationships among Treasury repo
+rate distortions, the reserve balances of the largest BHCs active in repo markets, delays in
+the intraday payments to these large BHCs, and the reserve balances of other large banks.
+Section 5 suggests an approach to monitoring the suﬃciency of reserve balances by using, as
+a warning signal, recent average delays in the time of day by which the most active interme-
+diaries in the repo market have received the ﬁrst half of their incoming payments. Section
+6 incorporates additional factors related to the demand for reserves and liquidity in funding
+markets, including new bank liquidity rules and supervision, the quantity of commercial bank
+deposits, regulatory capital requirements, Treasury primary-market issuances, the aggregate
+supply of Treasury bills, and the concentration of reserves among the largest BHCs. Section
+7 oﬀers concluding remarks regarding key policy tradeoﬀs.
+4
+===== PAGE 7 =====
+2 Background and related work
+The market for overnight Treasury repurchase agreements underpins the ﬁnancing of US
+Treasuries and, with a total volume exceeding$3 trillion per day, vastly exceeds the size of the
+federal funds market.4 The spread between US Treasury overnight repo rates and the interest
+rate paid by Federal Reserve Banks on reserve balances (IOR) is a gauge of the suﬃciency
+of reserve balances of large BHCs active in repo markets to meet counterparty funding and
+other “reserve draining” demands (Correa, Du and Liao, 2020), precautionary demands for
+reserves to meet intraday payment obligations (Ashcraft, McAndrews and Skeie, 2011; Yang,
+2020), and regulatory liquidity requirements (Ihrig, 2019; d’Avernas and Vandeweyer, 2020).
+If the supply of reserves is ample for these combined purposes, then arbitrage would normally
+keep Treasury repo rates near IOR. Banks can engage in repos directly or, if they are part
+of a BHC, through an aﬃliated broker-dealer. 5
+The total quantity of reserves in the US banking system has exceeded $1 trillion since
+the 2008-2009 ﬁnancial crisis and reached a pre-COVID peak of $2.8 trillion in 2014 as a
+result of the Fed’s quantitative easing programs. In late 2017, the Federal Open Market
+Committee began implementing its policy 6 of “balance sheet normalization,” by which the
+Fed planned to reduce its assets and liabilities, including reserves, to the greatest extent
+consistent with “eﬃcient and eﬀective monetary policy.” From late 2017, aggregate reserve
+balances declined, reaching a low of $1.4 trillion in early September 2019. With this decline,
+the spread between SOFR and IOR crept higher and occasionally spiked up, particularly on
+quarter ends and Treasury issuance dates. Appendix Table 10 lists dates on which Treasury
+repo rates spiked relative to IOR.
+On September 17, 2019, SOFR suddenly jumped above IOR by 315 basis points and
+interdealer repo rates reached over 700 basis points above IOR during the course of the day,
+4See SIFMA Research The US Repo Markets: A Chart Book, SIFMA, February 2022.
+5Anbil, Anderson, Cohen and Ruprecht (2024) note the demand for money by shadow banks as a factor
+inﬂuencing reserve ampleness.
+6See Board of Governors of the Federal Reseve System (2019) for an overview of the Fed’s balance sheet
+normalization policies.
+5
+===== PAGE 8 =====
+in response to a storm of supply and demand factors that exacerbated the main underlying
+cause, the low supply of reserve balances. 7
+The Fed reacted quickly 8 by supplying a large amounts of reserves, driving SOFR-IOR
+spreads back to moderately low levels. We document that on September 17, 2020, the total
+balances of all 100 largest banks in our sample reached a sample record low of $1.06 trillion.
+On the same day, the ﬁrst half of payments of reserves to the ten dealer banks was later
+than average by a sample-record high, up to that date, of 151 minutes.
+A similar pattern is observed on March 17, 2020, when SOFR again spiked above IOR
+during the “dash for cash” induced by news of the Covid pandemic. 9 The reserve balances
+of the ten repo-active banks remained near their low of September 2019 levels leading up to
+this event, as shown in Figure 1, despite the aforementioned increase in aggregate reserves
+between September 2019 and March 2020. Further, on March 17, the ﬁrst half of daily
+incoming payments to the dealer banks arrived 155 minutes later than average, a new sample
+record high delay.
+7See Afonso, Cipriani, Copeland, Kovner, La Spada and Martin (2020), Anbil, Anderson and Senyuz
+(2020a), Anbil, Anderson and Senyuz (2020b), Ihrig, Senyuz and Weinbach (2020), and Correa, Du and
+Liao (2020), among others. Reserves had been depleted not only by the gradual process of balance-sheet
+normalization, but also by a signiﬁcant shift of reserves into the Treasury General Account (TGA). In May
+2015, the Treasury changed its policy around the management of TGA, deciding to establish a cash balance
+policy in which they hold suﬃcient cash for a week of outﬂows (Treasury Quarterly Refunding Statement,
+May 2015). The Treasury Department does not supply funding to wholesale money markets, so the transfer
+of reserves from banks’ Fed balances to the TGA reduces the supply of cash available to the repo market
+and other funding markets (Correa, Du and Liao, 2020). This conversion of reserves into TGA balances was
+exacerbated on September 16, 2019 by quarterly corporate tax payments due that day and by an issuance
+of $54 billion of Treasury coupon securities, which was settled early that morning by a transfer of reserves
+to the TGA from the accounts of banks which have dealers as clients. This was not an unusually large
+Treasury settlement, but it came at a time of low balances held at the Fed by repo-active BHCs. Meanwhile,
+money-market mutual funds had recently reduced their use of “sponsored repo” (H¨ user et al., 2021; Afonso
+et al., 2020; Anbil et al., 2020b), by which they had obtained repos that were centrally cleared through
+sponsoring dealers, thus reducing the amount of balance sheet space committed to repos by those dealers
+and, by extension, their BHC entity. As a result, if a BHC oﬀsets a reduction in cash available via sponsored
+repos with an alternate source of cash, then the BHC would face a heightened regulatory capital commitment
+because a nettable transaction would be replaced by one that is not nettable. As a consequence, the reduced
+use of sponsored repo leading up to mid-September 2019 could only be replaced by transactions that are
+more costly in terms of balance-sheet space, as measured by the associated regulatory capital requirements.
+8See Ihrig, Senyuz and Weinbach (2020).
+9SOFR exceeded IOR by 44 basis points on March 17, 2019. In mid-March 2020, as reported by Clark,
+Martin and Wessel (2020), term repo rates also jumped signiﬁcantly, particularly for terms extending beyond
+the end of the quarter, because balance-sheet constraints of the dealer banks were sharply tightened by the
+ﬂood of demands for liquidity in the secondary market for Treasury securities, among other markets.
+6
+===== PAGE 9 =====
+
+===== PAGE 10 =====
+Figure 1. With this and other aggressive actions by the Fed to restore market liquidity, 10
+dealer banks provided reserves much more elastically 11 into the repo market and the spread
+between SOFR and IOR essentially disappeared, as shown in Figure 1.
+Among the limits to arbitrage between Treasury repo rates and IOR are (i) search frictions
+in funding markets (Afonso and Lagos, 2015; Bianchi and Bigio, 2022), (ii) repo market seg-
+mentation (Han, 2020; Avalos, Ehlers and Eren, 2019; Duﬃe and Krishnamurthy, 2016), (iii)
+the cost to banks of mobilizing their repo trading operations (Avalos, Ehlers and Eren, 2019;
+Anbil, Anderson and Senyuz, 2020b), (iv) capital regulations that raise bank shareholder
+costs for allocating balance sheet space to repurchase agreements (Duﬃe, 2018; Correa, Du
+and Liao, 2020; Afonso, Cipriani, Copeland, Kovner, La Spada and Martin, 2020; Gerba and
+Katsoulis, 2021), and (v) intraday payment timing mismatches, which promote conservative
+payment timing that can ultimately lead to the hoarding of reserves. When reserve balances
+are low enough, banks reach the self-fulﬁlling expectation that payments from other banks
+will be delayed to later in the day (Hamilton, 1996; McAndrews and Potter, 2002; Bech
+and Garratt, 2003; Ashcraft and Duﬃe, 2007; Bech, 2008; Ashcraft, McAndrews and Skeie,
+2011; Afonso, Kovner and Schoar, 2011; Afonso and Shin, 2011; Afonso, Duﬃe, Rigon and
+Shin, 2022a; Acharya and Merrouche, 2013; Yang, 2020). While we oﬀer support for the
+importance of all of these eﬀects, our main marginal contribution is our predictive analysis
+of disruptions in wholesale dollar funding markets based on the quantity of reserve balances
+10The Fed also oﬀered large amounts of repo funding to primary dealers and exempted reserves and
+Treasuries from a capital regulation known as the Supplementary Leverage Ratio (SLR).
+11Lou Crandall, Wrightson Capital’s money-market analyst, wrote, in the “Money Market Observer” of
+July 27, 2020: “As discussed last week, the supply of bank funding available to the repo market became
+much more elastic once the aggregate cash asset holdings of large domestic banks surged above $1.5 trillion
+this spring. When reserve availability was merely adequate in Q4 2019 and Q1 2020, GC rates had to rise
+signiﬁcantly to induce large domestic banks to substitute RRPs for Fed balances in their HQLA portfolios.
+From October of last year through April 2020, it took a 15 basis point widening in the Treasury GCF Repo
+index relative to IOR to induce a $100 billion increase in large domestic bank RRP investments. Between
+the last Wednesday in May and July 8, large domestic bank RRP positions increased by $271 billion while
+the Treasury GCF Repo index widened by just three basis points, for a beta of just 1 basis point per $100
+billion of repo funding provided by banks. We expect these relationships to be muddied to some extent
+in late July and early August due to tax-season ﬂows, but the basic point still stands: when reserves are
+hyper-abundant, banks are likely to be willing to supply a large amount of cash to the repo market at only
+a modest yield pick-up over IOR.”
+8
+===== PAGE 11 =====
+held by the most important ﬁnancial intermediaries in repo markets and based on intra-day
+delays in the payments of reserve balances to these dealer banks.
+Our research is most closely related to the work of Correa, Du and Liao (2020), who also
+examine, among other wholesale funding-market phenomena, how repo rate spreads respond
+to various funding-market pressures. In this respect, Correa, Du and Liao (2020) analyze
+how daily changes in repo rate spreads respond to Treasury issuances, daily changes in TGA
+balances, and daily changes in the Federal Reserve’s holdings of Treasuries and Agencies in
+its System Open Market Account (SOMA), as reﬂected in their Table A5. By contrast, we
+focus on relationships among the total balances held at the Fed by large repo-active BHCs,
+the total balances held by other large banks, intraday payment delays to the largest repo-
+active BHCs, and levels of repo rate spreads over IOR. Correa, Du and Liao (2020) document
+the within-BHC ﬂow of cash and securities, especially in response to repo rate spikes. This
+ﬂow of reserves and securities between the bank and broker-dealer entities of the same BHC
+is an integral underlying assumption of our analysis. Our work is also related to Klingler
+and Syrstad (2021), which examines how risk-free reference rates including SOFR respond
+to quarter-end reporting dates, government debt outstanding, and total reserve balances.
+Our work is relevant to the eﬀectiveness of monetary policy transmission, 12 the stability
+of the payment system, and funding market eﬃciency. Payment delays or a signiﬁcant
+divergence between broad Treasury market repo rates and IOR can raise concerns over all
+three objectives, signaling potentially serious impediments to ﬂows of funds between the
+central bank, key ﬁnancial intermediaries, and other wholesale money market participants.13
+12Afonso, Giannone, La Spada and Williams (2022b) examine the demand for reserves as reﬂected by the
+spread between the federal funds rate and IOR, with a focus on shifts over time in this demand curve, which
+is assumed to be linear in the short run. They control for shifts in the demand for reserves by normalizing
+the aggregate supply of reserves by the aggregate amount of bank assets.
+13There is in addition intrinsic value of conducting arbitrage. For example, D´ avila, Graves and Parlatore
+(2021) show that any degree of arbitrage that makes the spread between two risk free rates smaller will
+always generate Pareto improvements for all traders. They also deﬁne a speciﬁc measure of the value of
+arbitrage.
+9
+===== PAGE 12 =====
+3 Data: Sources and Description
+We use two types of information about balances held at the Federal Reserve Banks: daily
+opening balances held in individual accounts and the timing of cash transfers between ac-
+counts within each day. 14 The source of both of these types of information is the Fedwire
+Funds Service (Fedwire), a utility oﬀering real-time gross settlement services to ﬁnancial
+institutions holding an account at a Federal Reserve Bank.
+There are over 6,000 accounts on Fedwire, the vast majority of which are managed by
+small domestic banks whose actions have at most second-order eﬀects on the US repo mar-
+ket. We therefore focus our attention on the largest 100 accounts managed by depository
+institutions.15 We then identify ten of these accounts held by depository institutions owned
+by BHCs that have a large presence in US repo markets.16 Reﬂecting that the largest dealers
+in the repo market are associated with large bank holding companies, these ten accounts hold
+relatively large balances, on average. Indeed, over 2018-19, the sum of the opening-of-day
+balances of these ten accounts is about 40 percent of total opening-of-day balances of the
+accounts of the 100 largest banks. For simplicity, we refer to these ten large repo-active
+account holders as “the dealer banks.” This terminology reﬂects the fact that the bank
+entity of a bank holding company holds the Fedwire account, whereas the broker-dealer en-
+tity of the BHC tends to be more active in repo markets. 17 Given the requirement of data
+14Our analysis is done at the master account level, which is the level at which the Fed tracks overdrafts.
+15We consider the 100 largest accounts in terms of opening balances over 2018-19, excluding accounts held
+by the US Treasury, by ﬁnancial utilities, and a BHC which provides repo clearing and settlement services
+to most of the large broker-dealers.
+16We use conﬁdential repo data to generate a ranking of gross repo activity at the parent company level
+over 2018-2019. Using this ranking we ﬁnd that ten of the top eleven parent companies are associated with
+bank holding companies with Fedwire accounts. We use this set of ten bank holding companies to deﬁne our
+repo-active Fedwire accounts. This set of top ten active ﬁrms is stable over our sample period with seven
+out of 10 ﬁrms always being in the top 10 in terms of gross repo activity. The other three ﬁrms, for a couple
+of years at the beginning of our sample, are just outside of the top ten.
+17Broker-dealers are not eligible to hold accounts on Fedwire. We analyze Fedwire accounts at the depos-
+itory institution level. If a bank holding company contains two depository institutions, each with its own
+account, we consider the accounts separately. This lack of aggregation is not a concern for our analysis,
+because bank holding companies tend to concentrate their reserves into one account naturally (note the
+concentration statistics reported in Section 6). We checked and found that concentration of reserves into
+one account holds for the ten repo-active dealer banks on which we focus.
+10
+===== PAGE 13 =====
+
+===== PAGE 14 =====
+The total balances of the 100 accounts in our analysis are about 85 percent of total
+reserves held at Federal Reserve Banks over 2018-19. (The oﬃcial calculation of reserves
+of an institution also includes its vault cash, which of course plays no role in our research.)
+The diﬀerence between the total system-wide reserve balances maintained at Federal Reserve
+Banks and the total balances of the 100 sample accounts is indicated in Figure 2 as “other.”
+In addition to daily opening-balance information, we compute statistics regarding the
+timing of payments sent over Fedwire within the day. Given our access to conﬁdential
+payments data on Fedwire, we observe every transfer of funds settled over Fedwire on a
+given day. Focusing on the ten dealer-bank accounts described above, we can observe the
+intraday ﬂow of transfers received by these accounts as well as the ﬂow of transfers sent by
+these accounts. Using this information, for each day in our sample, we compute when in
+the day the ﬁrst 25%, 50%, and 75%, respectively, of the total value of transfers to these
+ten accounts has been received. Likewise, we compute when in the day these respective
+fractions of the total value of transfers have been sent by these ten accounts. For example,
+on February 20, 2019, the ﬁrst half of the total transfers to the ten dealer banks had been
+received by 1:32 pm, and the ﬁrst half of the total value sent by the ten dealer banks was
+sent by 1:04 pm. 20
+Our main source of repo rates is SOFR, a volume-weighted median of overnight Treasury
+repo transaction rates, reﬂecting the costs of funding for a broad range of repo market
+participants. This measure is computed and published daily by the Federal Reserve Bank of
+New York (FRBNY). SOFR is based on a large daily sample, often in excess of $1 trillion
+during our sample period, and is composed of data from tri-party repo (a dealer-to-client
+at that bank. The result of such an arrangement could leave the small bank with a zero balance at the Fed
+while still holding reserves.
+20These statistics are based on standard payment timing metrics used in previous research on intraday pay-
+ments, such as Armantier, McAndrews and Arnold (2008), McAndrews and Kroeger (2016), and Copeland,
+Molloy and Tarascina (2019). Another service through which reserves can be transferred between accounts
+at Federal Reserve Banks is the Fedwire Securities Service, a delivery-versus-payment system. With this
+service, account holders can deliver securities and simultaneously receive cash. The account holder sending
+the securities initiates the transaction, and so the intraday liquidity incentives dictate that account holders
+deliver securities over this service as early as possible (the service opens at 8am). Because there are no gains
+to delay, the intraday timing of these transactions do not have information about the scarcity of reserves.
+12
+===== PAGE 15 =====
+market segment) and two interdealer repo services oﬀered by FICC: the General Collateral
+Finance Repo Service (GCF Repo ®), and Fixed Income Clearing Corporation Delivery-
+vs-Payment Service (FICC DVP). 21 For the portion of our sample period that precedes
+the availability of oﬃcial SOFR ﬁxings, we use unoﬃcial estimates of SOFR published by
+FRBNY.22 Appendix Figure 10 compares the SOFR and GCF repo rate benchmarks during
+our sample period.
+In order to capture some of the intraday behavior of Treasury repo markets, we also use
+intraday general-collateral repo rate transaction-level data provided to us by Tradition, an
+interdealer broker, as captured by Tradition’s brokering screen. 23
+We obtained Treasury issuance and redemption data from the Treasury Department. Our
+daily time series of Treasury bills outstanding was provided by Lou Crandall of Wrightson
+Capital, who created this series from daily issuance and redemption data. We obtained
+corporate tax payment data from The Daily Treasury Statement.
+Summary statistics of the key variables used in our study are provided in Appendix
+Tables 4 and 5.
+4 Stresses related to low reserve balances
+We now describe our main results relating stress in funding markets to low reserve balances
+and to intra-day delays in payments to the ten dealer banks. When payments to the dealer
+banks are delayed and the dealer banks themselves have low opening-of-day reserve balances,
+in some combination, repo rates can rise precipitously.
+As shown in Figure 3, the time of day by which dealer banks have received the ﬁrst half
+21GCF Repo® Service (hereinafter, “GCF Repo”) is a registered service mark of the Fixed Income Clearing
+Corporation.
+22These unoﬃcial estimates and the SOFR reference rates can be found at https://apps.newyorkfed.
+org/markets/autorates/SOFR
+23For each transaction record, the ﬁelds includes whether the accepted rate is a bid or an ask, the size of
+the trade, and the collateral type. The data span 1/4/2016 to 2/27/2020. There are 202,062 overnight trade
+quotes with general Treasury collateral. Figures 14 and 15 highlight the importance of early-morning trade
+in the interdealer Treasury repo market.
+13
+===== PAGE 16 =====
+
+===== PAGE 17 =====
+
+===== PAGE 18 =====
+The opening-of-day balances of the dealer banks may increase endogenously whenever
+funding market stresses on a given day are anticipated. The magnitudes of the coeﬃcients
+shown in the left panel of Figure 4 could therefore understate the elasticity of funding rate
+spreads to dealer-bank balances. In order to estimate the casual response of SOFR-IOR
+spreads to dealer balances, we use the instrumental-variables (IV) quantile regression ap-
+proach of Kaplan and Sun (2017). For this purpose, we instrument for dealer balances using
+the timing of payments sent by small banks to large banks other than the dealer banks. 24
+The timing of this subset of payments is likely to satisfy the exclusion restriction of being
+orthogonal to repo market shocks for two reasons. First, in the Fedwire Funds payment
+system, the bank sending a payment controls its timing. Because the small banks whose
+outbound payments determine our instrument do not participate in the repo market, the
+times at which they send these payments in the day are unlikely to be inﬂuenced by repo
+market shocks. Second, our instrument is further restricted to payments sent to banks other
+than the ten dealer banks. These “non-dealer banks” are not inﬂuential in the repo mar-
+ket. Taking these two reasons together, information about repo market shocks should play
+essentially no role in the timing of payment ﬂows from small banks to non-dealer banks. We
+further reduce the likelihood that these payment-time instruments reﬂect contemporaneous
+repo market shocks by lagging these payment-time statistics by seven days. Finally, these
+payment-timing statistics are strong instruments because they reﬂect whatever tightness ex-
+ists in the overall level of reserves in the banking system, which in turn is correlated with
+dealer-bank balances. We also include as an instrument the total value of corporate taxes
+received by the US Treasury. This variable is independent of repo rates and shocks to the
+total reserve balances of banks. 25
+24These instruments are the times in the day at which non-dealer-banks received the ﬁrst 25%, 50%, and
+75% of the value of payments sent to them from small banks. We deﬁne small banks using the payments
+data from 2018. For that year, we ﬁrst gather all payments sent excluding those sent by the dealer banks.
+In this set of payments, we ﬁnd that the largest 62 accounts make up 85% of activity in terms of value. The
+accounts which make up the remaining 15% of activity (a little over 5,500 accounts) are deﬁned to be the
+set of small banks.
+25We obtained daily corporate tax payment data from https://ﬁscaldata.treasury.gov/datasets/daily-
+treasury-statement/federal-tax-deposits. By itself, we ﬁnd that this corporate tax-ﬂow variable is a weak
+16
+===== PAGE 19 =====
+The estimated IV model has SOFR −IOR as the dependent variable. Dealer-bank bal-
+ances are the main independent variable of interest. Controls include the quantity of unin-
+sured deposits of dealer banks (Acharya and Rajan, 2022; Acharya et al., 2022; Lopez-Salido
+and Vissing-Jorgensen, 2023) and a number of variables related to Treasury security is-
+suances, whose impact on the tightness of reserve balances is explained in Section 6. The
+estimated coeﬃcients for this quantile regression of the 99th percentile of SOFR −IOR, with
+and without instrumenting for dealer-bank balances, are reported in Table 1.
+The quantile IV results tell us that a$100 billion reduction in dealer-bank balances has an
+estimated casual eﬀect on SOFR −IOR of about 7.4 basis points at the 99th percentile. We
+estimate this quantile IV regression for percentiles of SOFR −IOR between 65% and 99%.
+The estimated coeﬃcients for the instrumented dealer-balances are reported in Appendix
+Figure 11 for each percentile, illustrating that the estimated causal coeﬃcient has a more
+muted response at quantiles below about 90%. 26
+Complementing our quantile analysis, we use a probit-based approach to estimate the
+probabilities of a spike in repo rate spreads. A spike is deﬁned as a day on which at least
+one of the major repo-rate benchmarks exceeded IOR by at least 15 basis points on average
+for the previous two weeks, or was exceptionally high on a given day (at least 20 basis points
+for SOFR and Tri-Party General Collateral Repo, and at least 30 basis points for the more
+volatile benchmark, GCF Repo). Details and a list of “spike days” are provided in Appendix
+Table 10. The coeﬃcient estimates are reported in Appendix Table 11. The probit-based
+estimates of the probability of a repo rate spike are displayed in Figure 5 for a selection of
+scenarios. As shown, spikes in repo rates are much more likely to occur on days that (a) have
+a signiﬁcantly delayed half-received time of payments to the repo active dealer banks, (b)
+have large Treasury coupon security issuances, (c) have low dealer balances, (d) are quarter
+ends, and (e) combine two or more of these eﬀects.
+instrument for dealer-bank balances.
+26In Appendix section D additional results are provided on the robustness of the IV quantile results and
+the strength of the instruments.
+17
+===== PAGE 20 =====
+Table 1: Quantile regression of 99th percentile SOFR−IOR, with and without instrumenting
+for dealer-bank opening balances
+Dependent variable: SOFR −IOR
+(non-IV) (IV)
+dealer opening balances −77.3∗∗∗
+(12.4)
+predicted dealer opening balances −74.1∗∗∗
+(20.5)
+quarter-end ﬁxed eﬀect 29 .2 31 .5∗∗∗
+(22.1) (6 .7)
+T-bills outstanding 3 .01 3 .22
+(2.65) (1 .38)
+Treasuries redemption −25.1 −13.7
+(36.7) (24 .2)
+T-Bill issuance 30 .6 23 .2
+(33.0) (27 .1)
+coupon issuance 52 .4 38 .8
+(35.6) (26 .2)
+dealer-bank uninsured deposits 26 .5∗∗∗ 24.1∗∗
+(8.54) (11 .3)
+corporate tax to US treasury −34.3 15 .2
+(209.0) (120 .4)
+constant 4 .76 6 .34
+(6.59) (21 .7)
+observations 2,043 2,031
+R1(0.99) 0 .347 0 .253
+Note: The Non-IV column lists the estimated coeﬃcients of a quantile regression. The IV column lists
+the estimated coeﬃcients from an instrumental-variables quantile regression, estimated using the method of
+Kaplan and Sun (2017). SOFR-IOR is measured in basis points. The units of the explanatory variables are
+trillions of dollars and minutes. The date range is January 1, 2015 to March 13, 2023. ∗p< 0.1; ∗∗p< 0.05;
+∗∗∗p <0.01. The goodness-of-ﬁt statistic R1(τ) is an analogue of R2 for quantile regressions (Koenker and
+Machado, 1999).
+18
+===== PAGE 21 =====
+49.9
+38.5
+24.0
+20.2
+9.4
+3.15 2.35 1.15 0.36 0.24
+Probability of rate spike (percent)
+Scenario 1 2 3 4 5 6 7 8 9 10
+payment delay • • • •
+dealer balances • • • •
+Treasury issuance • • •
+quarter end • • • •
+Figure 5: Probit estimated probabilities (percent) of a spike in repo rates for selected sce-
+narios. The deﬁnition of a spike in repo rates and a list of dates on which there was a spike are provided in
+Appendix Table 10. Spike probabilities are estimates from the probit model (column (7) of Table 11) at var-
+ious levels of the explanatory variables. Standard errors are shown with error bars. For each scenario, bullet
+symbols indicate those explanatory variables set at adverse levels, with respect to funding market stress.
+“Payment delay” is the time of day by which the ten largest repo-active bank holding companies received the
+ﬁrst half of their incoming payments-an adverse shock is a 51 minute delay above the sample mean. “Dealer
+balances” is the total quantity of opening-of-day reserve balances of the ten largest repo-active bank holding
+companies-an adverse shock is an aggregate balance that is $251 billion below the sample mean. “Treasury
+issuance” is the quantity of issuance of Treasury coupon securities-an adverse shock is a level of issuance
+that is $97.4 billion above the sample mean. Quarter end is included in a scenario wherever indicated by a
+bullet.
+19
+===== PAGE 22 =====
+5 Late payments to dealer banks are a warning sign
+We have focused to this point on contemporaneous relationships among repo-rate distortions,
+dealer-bank reserve balances, and the timing of intra-day payments to the dealer banks. Even
+armed with an understanding of these relationships, it may be challenging to estimate the
+level of reserve balances at which funding market stresses could suddenly appear, as, for
+example structural changes in the banking system may shift the minimum ample level of
+reserves. The Federal Reserve Board conducts Senior Financial Oﬃcer Surveys that ask
+banks whether their estimates of the lowest comfortable level of reserves (LCLOR) has
+changed since the last survey and, if so, why this estimate has changed. For example, in
+the May 2024 survey, respondents noted that important factors driving changes to their
+LCLOR estimate were “changes to broader market conditions, changes in retail deposit
+outﬂow assumptions, and changes in the composition or level of liabilities.” In this section,
+we explore the use of payment-timing variables as early warning signals of impending liquidity
+crunches.
+Exploring the dynamics underlying the demand for reserve balances, Acharya and Rajan
+(2022) and Acharya, Chauhan, Rajan and Steﬀen (2022) ﬁnd that a large supply of reserve
+balances may induce banks to provide their customers with larger quantities of demandable
+liquidity, including deposits and credit lines. They ﬁnd that this, in turn, increases the
+reliance of banks on reserves to manage the risks of sudden large liquidity draws. This
+suggests a ratchet eﬀect. That is, a larger supply of reserves may induce higher subsequent
+demand by banks for reserves. Lopez-Salido and Vissing-Jorgensen (2023) provide additional
+evidence that the demand for reserve balances depends on the quantity of commercial bank
+deposits. They also ﬁnd structural shifts over time in the demand for reserves. An additional
+important change to money markets in recent years that is likely to aﬀect the demand for
+reserves is the demand for money by non-banks such as money-market mutual funds (Anbil,
+Anderson, Cohen and Ruprecht, 2024)
+Because of the diﬃculty of directly contemporaneously estimating the minimum ample
+20
+===== PAGE 23 =====
+level of reserves, we focus in this section on using delays in the intra-day payment to the
+largest repo-active dealer banks as a warning signal of the risk of insuﬃciently ample reserves.
+Figure 6 shows that the liquidity crunch of September 2019 was preceded by increasingly late
+times of day by which the dealer banks received the ﬁrst half of their incoming payments.
+The left panel of Figure 7 illustrates the clear relationship between repo-rate spreads and
+times of day at which dealer banks had received the ﬁrst half of their incoming payments,
+especially in the right tails of their sample distributions. 27 The right panel, however, shows
+no strong relationship between repo-rate spreads and times of day at which dealer banks
+had made the ﬁrst half of their outgoing payments. Appendix Figures 12 and 13 show that
+most of the relevant payment timing pressure on the dealer banks is associated with large
+payments, those with values of at least $100 million.28 The time of day by which the dealer
+banks received the ﬁrst half these large value payments shifted by about 150 minutes from the
+beginning of 2017 to September 2019. However, the time of day by which the dealer banks
+had sent their large-value payments remained steady over this period. Roughly speaking,
+receive times for large payments were sensitive to system-wide reserve balances, whereas send
+times were not. By contrast, for payments with values of less than $100 million, Appendix
+Figure 13 shows, during our sample period, there were no important diﬀerences between the
+timing variables for received and sent payments.
+The OLS regression results reported in Table 2 imply substantial predicted economic
+distortions of repo-rate spreads whenever dealer banks have been receiving the ﬁrst half of
+their daily incoming payments much later than normal over the previous 10 days. Quan-
+tile regressions reported in Appendix Table 9 show substantially larger estimated predicted
+impacts at the 99-th percentile of SOFR −IOR.
+27The standard deviation of the dealer banks incoming payment delay (half-received time) is 51.1 minutes.
+The diﬀerence between the sample minimum and sample maximum is 262 minutes. The standard deviation
+of the average payment delay over 9 days is approximately 47 minutes. The minimum of average payment
+delay over 9 business days is −89.4 minutes; the maximum is 119.2 minutes.
+28Appendix Figure 12 illustrates the ten-day lagged average of the median time by which the dealer banks
+had received the ﬁrst half of their incoming payments with a size of $100 million or more and the analogous
+measure for their sent payments of $100 million or more. Appendix Figure 13 shows the corresponding
+payment timing measures for payments of less than $100 million.
+21
+===== PAGE 24 =====
+
+===== PAGE 25 =====
+Table 2: Ordinary least squares regression of SOFR−IOR on lagged 10-day average payment
+delays and other variables.
+Dependent variable: SOFR−IOR
+(1) (2) (3) (4)
+dealer opening balancest −2 −5.63∗∗∗ −21.5∗∗∗ −21.7∗∗∗
+(0.860) (1 .64) (1 .64)
+average payment delayt −10 tot −2 0 .141∗∗∗ 0.147∗∗∗ 0.0891∗∗∗ 0.0885∗∗∗
+(0.00718) (0 .00804) (0 .010) (0 .00989)
+T-bills outstanding 2 .94∗∗∗ 2.84∗∗∗
+(0.454) (0 .472)
+Treasuries redemption −0.985
+(7.73)
+T-Bill issuance 7.62
+(7.16)
+coupon issuance 17 .1∗∗
+(6.81)
+dealer-bank uninsured deposits 2 .33∗∗ 2.34∗∗
+(1.04) (1 .04)
+corporate tax to US treasury 53 .9∗
+(31.1)
+quarter-end ﬁxed eﬀect 8 .46∗∗∗ 8.36∗∗∗ 9.37∗∗∗ 7.41∗∗
+(2.96) (3 .09) (3 .02) (3 .15)
+constant −3.93∗∗∗ −8.52∗∗∗ −4.03∗∗∗ −4.06∗∗∗
+(0.879) (0 .207) (0 .942) (0 .947)
+Observations 1998 2002 1996 1994
+R2 0.361 0.347 0.377 0.381
+AdjustedR2 0.360 0.346 0.375 0.379
+Residual standard error 9.49 9.58 9.38 9.35
+Note: Standard errors are adjusted for heteroskedasticity. ∗p < 0.1; ∗∗p < 0.05; ∗∗∗p < 0.01. Average
+payment delay is the lagged average of the time of day by which the ten largest repo-active bank holding
+companies had received the ﬁrst half of their incoming payments, relative to the sample mean, in minutes,
+averaged for business days t − 10 through t − 2.
+23
+===== PAGE 26 =====
+
+===== PAGE 27 =====
+6 Factors that aﬀect the demand for reserves
+We turn to a discussion of institutional factors that aﬀect the demand for reserve balances and
+therefore can exacerbate the severity or likelihood of a liquidity crunch in funding markets
+when reserve balances decline suﬃciently.
+6.1 Liquidity regulations and supervision
+Post-GFC liquidity rules and supervision signiﬁcantly increase the incentive of large banks to
+maintain thick intraday buﬀers of reserve balances, and thus signiﬁcantly reduce the elastic-
+ity with which they provide liquidity to funding markets when those buﬀers are low enough.
+Jamie Dimon, the Chairman and CEO of JP Morgan, famously commented about the im-
+portance of maintaining a buﬀer of reserves balances that meets regulatory and supervisory
+liquidity objectives, even at the cost of forgoing the opportunity to invest reserve balances in
+repos at highly elevated SOFR-IOR spreads during September 2019 repo market disruption.
+(See Appendix E for Dimon’s verbatim remarks.)
+Given the uncertain timing of incoming payments, it is natural for a dealer bank to
+be conservative when providing discretionary funding to counterparties in the repo market
+whenever its reserve balances are not abundant. A dealer bank would quote high repo rates,
+relative to IOR, whenever its balances are low and there is a high risk that its incoming
+payments could be signiﬁcantly delayed. 29
+The Fed’s Large Institution Supervision Coordinating Committee (LISCC) supervises the
+intraday liquidity risk of large banks. In its May, 2019 Report on Supervisory Developments,
+the Federal Reserve Board stated: “In 2019, LISCC liquidity supervision is focusing on the
+adequacy of a ﬁrm’s cash-ﬂow forecasting capabilities, practices for establishing liquidity risk
+29Small to medium size banks seem to still use daylight overdraft facility to make their payments whenever
+total reserve balances are low. Indeed, as shown in Figure 9, peak system-wide overdrafts have remained
+highly related to the opening-of-day reserve balances of the 100 largest banks during our post-2015 sample
+period, with anR2 of 0.63 for this relationship. Figure 9 also shows that system-wide peak daylight overdrafts
+achieved their record high level in the two-week maintenance window ending September 25, 2019. This is
+also the two-week maintenance window in our sample that has the lowest average daily opening balances.
+25
+===== PAGE 28 =====
+limits, and measurement of intraday liquidity risk.” Ihrig (2019) describes the associated
+Comprehensive Liquidity Analysis and Review (CLAR), including the CLAR stress test
+mentioned in Dimon’s remarks.
+The Federal Reserve Board’s Regulation YY, Enhanced Prudential Standards, includes
+rules covering intraday liquidity exposures. 30 According to the Federal Reserve Board’s
+August 2019 Senior Financial Oﬃcer Survey, “satisfying internal liquidity stress metrics,
+meeting routine intraday payment ﬂows, and meeting potential deposit outﬂows were im-
+portant or very important determinants” of banks’ holdings of excess reserves. In the May
+2023 Senior Financial Oﬃcer Survey Results, a majority of participating banks reported
+that “satisfying liquidity-testing metrics” is an “important or very important” factor in
+determining their institution’s lowest comfortable level of reserves. 31
+Under the Dodd-Frank Act, the Fed and FDIC implemented failure planning require-
+ments for Resolution Liquidity Adequacy and Positioning (RLAP), which include intraday
+“resolution” liquidity requirements.32
+6.2 Uninsured bank deposits generate a demand for reserves
+Acharya and Rajan (2022) and Acharya, Chauhan, Rajan and Steﬀen (2022) emphasize
+that once the supply of reserves becomes large, banks react by oﬀering greater amounts of
+30The language for this rule in the Code of Federal Regulations includes: “If the bank holding company
+is a global systemically important BHC, Category II bank holding company, or a Category III bank holding
+company, these procedures must address how the management of the bank holding company will: (i) Monitor
+and measure expected daily gross liquidity inﬂows and outﬂows; (ii) Manage and transfer collateral to obtain
+intraday credit; (iii) Identify and prioritize time-speciﬁc obligations so that the bank holding company can
+meet these obligations as expected and settle less critical obligations as soon as possible; (iv) Manage the
+issuance of credit to customers where necessary; and (v) Consider the amounts of collateral and liquidity
+needed to meet payment systems obligations when assessing the bank holding company’s overall liquidity
+needs.”
+31Similar expressions can be found in almost all recent Senior Financial Oﬃcer Survey Results.
+32These are also reﬂected in Dimon’s remarks. The associated FDIC and Federal Reserve Board guidance
+states that banks must “ensure that liquidity is readily available to meet any deﬁcits.” “Additionally, the
+RLAP methodology should take into account (A) the daily contractual mismatches between inﬂows and
+outﬂows; (B) the daily ﬂows from movement of cash and collateral for all inter-aﬃliate transactions; and (C)
+the daily stressed liquidity ﬂows and trapped liquidity as a result of actions taken by clients, counterparties,
+key FMUs, and foreign supervisors, among others.” (An FMU is a designated ﬁnancial market utility, such
+as a designated payment system or a settlement system.) Pozsar (2019) outlines how RLAP impacts the
+intraday incentives for dealer banks to conserve reserve balances on days of Treasury issuances.
+26
+===== PAGE 29 =====
+products, such as credit lines and uninsured deposits, that expose banks to liquidity shocks.
+This increases the desire by banks to maintain signiﬁcant reserve balances to mitigate the
+associated liquidity risks of sudden large draws on credit lines and deposit redemptions.
+The resulting increased demand by banks for reserve balances can elevate funding-market
+spreads when reserve balances reach suﬃciently low levels. Table 3, for example, shows that
+the quantity of uninsured deposits of the dealer banks plays a signiﬁcant role in explaining
+repo-rate spreads, after controlling for other eﬀects. From the quantile regressions shown in
+Table 1, a one-standard-deviation increase in dealer-bank uninsured deposits ($478 billion) is
+estimated to increase 99th percentile SOFR-IOR spreads by approximately 12 basis points.
+6.3 Capital requirements
+Treasury repos are assigned a capital requirement under various versions of the Basel III
+leverage-ratio rule. In several important non-US jurisdictions, including the Eurozone, the
+leverage-ratio capital requirement applies only to the quarter-end assets of bank holding com-
+panies (Egelhof, Martin and Zinsmeister, 2017; Correa, Du and Liao, 2020). Our empirical
+ﬁndings align with the eﬀects of capital requirements. On quarter-end dates, interdealer repo
+rates signiﬁcantly increase, with an average eﬀect around 7 to 9 basis points depending on
+the least-squares regression model shown in Table 3. At the 99th percentile level, Appendix
+Table 9 shows an estimated quarter-end eﬀect on SOFR −IOR of around 30 basis points.
+Quarter-end capital requirements on foreign bank holding companies cause them to reduce
+their provision of liquidity to interdealer markets, leaving the market to be intermediated
+mainly by US dealer banks, which are subject to daily-average capital requirements rather
+than quarter-end requirements. Beyond the associated reduction in the supply of funding
+market liquidity on quarter ends, the quarter-end eﬀect could be magniﬁed by the associated
+reduction in the degree of competition facing US dealer banks (Wallen, 2020; Eisenschmidt,
+Ma and Zhang, 2021). Correa, Du and Liao (2020) write that “on quarter-ends, we ﬁnd that
+US banks reduce their reserve balances by about $60 billion, and increase their net reverse
+27
+===== PAGE 30 =====
+repo positions by $40 billion and dollar lending in the FX swap market by $20 billion.”
+There is also a non-trivial upward impact of capital requirements on intra-quarter repo-
+IOR spreads, mainly because the US SLR rule applies to the large US dealer banks on a daily-
+averaging basis.33 For this reason, sponsored repo, which reduces SLR-based asset measures
+through netting long and short sponsored repo positions at the FICC, had a downward
+impact on repo-IOR spreads (Afonso, Cipriani, Copeland, Kovner, La Spada and Martin,
+2020; Anbil, Anderson and Senyuz, 2020b). We have not estimated this eﬀect. Capital
+requirements based on “GSIB scores” also impinge on balance sheet space for repo market
+intermediation (Covas and Nelson, 2019).
+6.4 The supply of T-bills, a substitute for Treasury repos
+SOFR was actually below IOR during most of 2015-2017 because of the large supply of
+reserves and the low outstanding amount of Treasury bills during most of this period. 34
+Government money market funds substitute between Treasury bills and Treasury repos (in-
+cluding through the Fed’s Reverse Repurchase Facility).35 This places downward pressure on
+the spread between Treasury repo rates and IOR when the outstanding supply of Treasury
+bills is low (Duﬃe and Krishnamurthy, 2016). Money funds and most other investors can-
+not open accounts at Federal Reserve Banks and so cannot directly hold reserves and earn
+IOR. Furthermore, banks cannot seamlessly intermediate for these investors because banks
+are subject to signiﬁcant capital requirements for reserves. 36 As a result, when the supply
+of reserve balances is suﬃciently large relative to the supply of Treasury bills, SOFR −IOR
+easily becomes negative. Martin, McAndrews, Palida and Skeie (2020) estimate “that a
+trillion dollars of additional reserves tends to reduce the fed funds rate by 8 basis points
+33In stages, beginning in April and May 2020, Treasuries and reserve balances were temporarily exempted
+from SLR. Treasury repos were not exempted.
+34We are grateful to Lou Crandall for emphasizing this point in a private communication.
+35See Afonso, Cipriani and La Spada (2022c).
+36In the spring quarter of 2020, in stages, reserve balances were temporarily exempted from the Sup-
+plementary Leverage Ratio. Reserve balances continue to contribute to certain other capital requirements
+including those based on GSIB scores (Covas and Nelson, 2019).
+28
+===== PAGE 31 =====
+Table 3: OLS prediction of SOFR −IOR
+Dependent variable: SOFR−IOR
+(1) (2) (3) (4) (5) (6) (7) (8)
+dealer opening balances−10.9∗∗∗−10.9∗∗∗ −5.96∗∗∗ −22.5∗∗∗ −22.6∗∗∗ −26.0∗∗∗ −26.3∗∗∗
+(1.26) (1.26) (0 .835) (1 .44) (1 .60) (1 .58) (1 .55)
+median time of receives 0 .132∗∗∗ 0.126∗∗∗ 0.0756∗∗∗ 0.0916∗∗∗ 0.0715∗∗∗ 0.0711∗∗∗
+(0.00921) (0.0085) (0 .0131) (0 .00987) (0 .0127) (0 .0125)
+quarter-end ﬁxed eﬀect 9 .57∗∗∗ 9.07∗∗∗ 9.10∗∗∗ 9.72∗∗∗ 9.2∗∗∗ 9.7∗∗∗ 7.88∗∗
+(3.19) (3 .15) (3 .01) (3 .01) (2 .97) (3 .01) (3 .15)
+T-bills outstanding 4 .21∗∗∗ 3.39∗∗∗ 3.33∗∗∗
+(0.448) (0 .533) (0 .545)
+Treasuries redemption −15.2∗∗
+(7.28)
+T-Bill issuance 18.2∗∗∗
+(6.95)
+coupon issuance 24.2∗∗∗
+(6.34)
+dealer-bank uninsured deposits 9 .53∗∗∗ 3.83∗∗∗ 3.86∗∗∗
+(0.887) (0 .940) (0 .943)
+corporate tax to US treasury 69.0∗∗
+(33.1)
+constant 0 .648 0 .499 −8.55∗∗∗ −3.66∗∗∗ −1.46∗∗ −11.0∗∗∗ −4.85∗∗∗ −4.88∗∗∗
+(1.24) (1.23) (0 .205) (0 .846) (0 .713) (1 .21) (0 .884) (0 .888)
+Observations 2046 2046 2046 2042 2040 2042 2040 2039R2 0.0547 0.0648 0.336 0.352 0.385 0.373 0.388 0.392AdjustedR2 0.0542 0.0639 0.336 0.351 0.384 0.372 0.386 0.389Residual standard error 11.4 11.4 9.59 9.49 9.24 9.33 9.23 9.21
+Note: SOFR is the secured overnight ﬁnancing rate and IOR is interest on reserves. SOFR-IOR is in basis
+points. The units of the explanatory variables are trillions of dollars and minutes. Standard errors are
+adjusted for heteroskedasticity. The date range is January 1, 2015 to March 13, 2023. ∗p< 0.1; ∗∗p< 0.05;
+∗∗∗p< 0.01.
+relative to the IOR rate, while an additional trillion dollars of Treasuries with less than a
+year to maturity tends to increase the fed funds rate by about 3 basis points, conﬁrming
+the opposing eﬀects these two variables impart on short-term rates.” Consistent with this,
+Columns 5-7 of Table 3 show estimated impacts on SOFR-IOR spreads of 3 to 4 basis points
+per trillion dollars of outstanding Treasury bills. From minimum to maximum during our
+sample period,37 the quantity of Treasury bills outstanding varied by$3.7 trillion, suggesting
+a large impact on SOFR −IOR of variation in the supply of T-bills.
+37The sample standard deviation of Treasury bills outstanding is $0.84 trillion.
+29
+===== PAGE 32 =====
+6.5 Issuance of Treasury securities
+An issuance of Treasury securities is settled with a transfer of reserve balances from a bank
+to the Treasury’s Federal Reserve account, known as the Treasury General Account (TGA).
+These transfers therefore extinguish reserves from the system. Moreover, these transfers to
+the TGA must occur near the beginning of the issuance day, ruling out the timing options
+available to banks for many other outgoing payments.38 After controlling for other key factors
+(Table 3, column 8), we estimate that a typical $50 billion issuance of coupon Treasuries is
+associated with an estimated increase of SOFR −IOR of about 1.2 basis points.
+Large US government ﬁscal deﬁcits have caused a signiﬁcant secular increase in the
+quantity of Treasury securities that require ﬁnancing in the repo market. In particular,
+Treasury issuances occurred on September 16 and 17, 2020. Newly issued Treasury coupon
+securities, especially notes, are in high demand in the repo market (Fleming, Hrung and
+Keane, 2010). Anbil, Anderson and Senyuz (2020b) show that demand for repo ﬁnancing of
+Treasuries in mid-September 2019 was highly inelastic. This issuance eﬀect was previously
+reﬂected in the results of Correa, Du and Liao (2020), whose Table A5 shows that the amount
+of repo “lending” (reverse repurchases) conducted by US GSIBs has risen signiﬁcantly with
+increases in net Treasury issuance. Compared to that work, our sample is not restricted to
+US dealer banks, and we focus on the role of new Treasury issuances, not issuances net of
+maturing securities, given the distinct role of new issuances in the repo market. 39
+6.6 Concentration of reserve balances among dealer banks
+With frictions and heterogeneity across ﬁnancial intermediaries in the provision of liquidity
+in funding markets, the distribution of reserve balances across ﬁnancial institutions could
+exacerbate liquidity strains when total balances are low (Logan, 2024). Figure 8 illustrates
+38We veriﬁed this fact in conversations with multiple authoritative market participants.
+39Somewhat surprisingly, Correa, Du and Liao (2020) ﬁnd that US GSIB repo “borrowing” does not
+depend signiﬁcantly on net Treasury issuances (issuances net of redemption of Treasury securities). This
+may be related to the eﬀect of net versus new issuance, or perhaps is related to the inclusion in issuance of
+bills and bonds, which do not circulate as heavily in the repo market as new note issuances.
+30
+===== PAGE 33 =====
+
+===== PAGE 34 =====
+est expenses associated with the remuneration of reserves. Some noted that returning to a
+regime of limited excess reserves could demonstrate the Federal Reserve’s ability to fully un-
+wind the policies used to respond to the crisis and might thereby increase public acceptance
+or eﬀectiveness of such policies in the future.”
+However, commenting on the Fed’s balance-sheet policy in light of the repo market dis-
+ruption of September 2019, Gagnon and Sack (2020) wrote: “The minimum level of reserves
+is conceptually murky, impossible to estimate, and likely to vary over time. The best ap-
+proach is to steer well clear of it, especially since maintaining a higher level of reserves as a
+buﬀer has no meaningful cost.” 42
+The FOMC’s views on how to maintain suﬃcient reserve balances have evolved over time.
+The March 2024 minutes of the FOMC 43 reﬂect a cautious new approach:
+“In light of the uncertainty regarding the level of reserves consistent with operating in
+an ample-reserves regime, slowing the pace of balance sheet runoﬀ sooner rather than later
+would help facilitate a smooth transition from abundant to ample reserve balances. Slower
+runoﬀ would give the Committee more time to assess market conditions as the balance sheet
+continues to shrink. It would allow banks, and short-term funding markets more generally,
+additional time to adjust to the lower level of reserves, thus reducing the probability that
+money markets experience undue stress that could require an early end to runoﬀ. Therefore,
+the decision to slow the pace of runoﬀ does not mean that the balance sheet will ultimately
+shrink by less than it would otherwise. Rather, a slower pace of runoﬀ would facilitate ongoing
+declines in securities holdings consistent with reaching ample reserves. A few participants,
+however, indicated that they preferred to continue with the current pace of balance sheet
+runoﬀ until market indicators begin to show signs that reserves are approaching an ample
+level.”
+Cavallo, Negro, Frame, Grasing, Malin and Rosa (2019) and Plosser (2018) consider
+the political-economy costs to the Fed of a large balance sheet. Holding balances at the
+Fed also impinges on bank capital requirements, and thus, when suﬃciently large, crowds
+out other forms of intermediation by banks (Covas and Nelson, 2019; Diamond, Jiang and
+Ma, 2020). Acharya and Rajan (2022) and Acharya, Chauhan, Rajan and Steﬀen (2022)
+emphasize that once the supply of reserves becomes large, banks react by oﬀering greater
+42Yang (2020) proposes a theoretical framework and develops a quantitative model to estimate the mini-
+mum reserves necessary for ﬁnancial stability, oﬀering an initial step in analyzing minimum level of suﬃcient
+reserves.
+43See Federal Open Market Committee (2024).
+32
+===== PAGE 35 =====
+amounts of products, such as credit lines and demand deposits, that expose banks to liquidity
+shocks, increasing the ﬁnancial stability risks associated with a subsequent reduction in the
+supply of reserves. Filardo (2020) adds concerns over dampening the incentives of private
+market participants to allocate reserves and monitor counterparties when a large balance
+sheet implies a large footprint of the Fed on money markets.
+Alternative policy approaches to relieving liquidity stresses that can arise with lower
+levels of reserve balances could include a de-emphasis in BHC regulation and supervision
+of the imperative that banks are self-suﬃcient with respect to intraday liquidity under all
+circumstances, a de-stigmatization of the use of the discount window and daylight overdrafts
+on accounts at the Fed, and the Fed’s new Standing Repo Facility (SRF), at which banks and
+primary dealers get repo ﬁnancing directly from the Fed at a rate only slightly above IOR.
+The SRF has yet to be used, except in testing, and its use may also suﬀer from stigmatization
+(Nelson and Parkinson, 2022).
+Our research contributes to an understanding of the dynamics determining the quantity of
+reserve balances needed to maintain orderly money markets and timely interbank payments.
+We also ﬁnd that when payments to the largest bank holding companies that are active
+on wholesale funding markets begin to arrive later than normal, there is a rising risk of a
+liquidity crunch in wholesale ﬁnancing markets.
+33
+===== PAGE 36 =====
+References
+Abate, Joseph , “US Money Markets Monthly Update,” Barclays, US Money Markets
+Monthly Update, March March 2024.
+Acharya, Viral and Ouarda Merrouche , “Precautionary Hoarding of Liquidity and
+Interbank Markets: Evidence from the Subprime Crisis,” Review of Finance, 2013, 17 (1),
+107–160.
+and Raghuram Rajan , “Liquidity, Liquidity Everywhere, Not a Drop to Use: Why
+Flooding Banks with Central Bank Reserves May Not Expand Liquidity,” New York
+University, NBER Working Paper 29680 May 2022.
+, Rahul Chauhan, Raghuram Rajan, and Sascha Steﬀen , “Liquidity Dependence:
+Why Shrinking Central Bank Balance Sheets is an Uphill Task,” Jackson Hole Symposium
+Paper, Federal Reserve Bank of Kansas City August 2022.
+Afonso, Gara and Hyun Song Shin , “Precautionary Demand and Liquidity in Payment
+Systems,” Journal of Money, Credit and Banking , 2011, 43, 589–619.
+and Ricardo Lagos, “Trade Dynamics in the Market for Federal Funds,”Econometrica,
+2015, 83, 263–313.
+, Anna Kovner, and Antoinette Schoar , “Stressed, Not Frozen: The Federal Funds
+Market in the Financial Crisis,” Journal of Finance , 2011, 66, 1109–1139.
+, Darrell Duﬃe, Lorenzo Rigon, and Hyun Shin , “How Abundant Are Reserves?
+Evidence from the Wholesale Payment System,” Federal Reserve Bank of New York Staﬀ
+Report 1040, November, Federal Reserve Bank of New York March, 2022.
+, Domenico Giannone, Gabriele La Spada, and John Williams , “Scarce, Abun-
+dant, or Ample? A Time-Varying Model of the Reserve Demand Curve,” Staﬀ Report
+1019, Federal Reserve Bank of New York, May 2022.
+34
+===== PAGE 37 =====
+, Marco Cipriani, Adam Copeland, Anna Kovner, Gabriele La Spada, and
+Antoine Martin, “The Market Events of Mid-September 2019,” Federal Reserve Bank
+of New York Staﬀ Report 918, Federal Reserve Bank of New York March, 2020.
+, , and Gabriele La Spada , “Banks? Balance-Sheet Costs, Monetary Policy, and the
+ON RRP,” Federal Reserve Bank of New York Staﬀ Report 1041 December 2022.
+, Thomas Mertens, Gabriele La Spada, and John Williams, “The Optimal Supply
+of Central Bank Reserves under Uncertainty,” Staﬀ Report 1077, Federal Reserve Bank
+of New York, May 2023.
+Anbil, Sriya, Alyssa Anderson, and Zeynep Senyuz , “Are Repo Markets Fragile?
+Evidence from September 2019,” Working Paper, Federal Reserve Board, October 2020.
+, , and , “What Happened in Money Markets in September 2019?,” FEDS Notes,
+Board of Governors of the Federal Reserve System, February, 2020.
+, , Ethan Cohen, and Romina Ruprecht , “Stop Believing in Reserves,” Working
+paper, Federal Reserve Board, May 2024.
+Andros, Joseph, Michael Beall, Francis Martinez, Tony Rodrigues, Mary-Frances
+Styczynski, and Alex Thorp , “Approaches to Estimating Aggregate Demand for Re-
+serve Balances,” FEDS Notes, October 17, 2019.
+Armantier, Olivier, James McAndrews, and Jeﬀrey Arnold, “Changes in the Timing
+Distribution of Fedwire Funds Transfers,” Economic Policy Review, 2008, 14 (2).
+Ashcraft, Adam and Darrell Duﬃe, “Systemic Illiquidity in the Federal Funds Market,”
+American Economic Review, 2007, 97, 221–225.
+, James McAndrews, and David Skeie , “Precautionary Reserves and the Interbank
+Market,” Journal of Money, Credit and Banking , 2011, 43, 311–348.
+35
+===== PAGE 38 =====
+Avalos, Fernando, Torsten Ehlers, and Egemen Eren , “September Stress in Dollar
+Repo Markets: Passing or Structural?,” BIS Quarterly Review , December 8, 2019.
+Bailey, Andrew, “The Importance of Central Bank Reserves,” Speech, Bank of England,
+May 2024.
+Bech, Morten, “Intraday Liquidity Management: A Tale of Games Banks Play,”Economic
+Policy Review, 2008, 14.
+and Rod Garratt, “The Intraday Liquidity Management Game,” Journal of Economic
+Theory, 2003, 109, 198–219.
+Bianchi, Javier and Saki Bigio , “Banks, liquidity management and monetary policy,”
+Econometrica, 2022, 90, 391–454.
+Board of Governors of the Federal Reseve System , “History of the FOMC’s Policy
+Normalization Discussions and Communications,” Federal Reserve Board, Washington,
+D.C., October 2019.
+Cabana, Mark, “Fed balance sheet: Tax date tweaks,” US Rates Watch, Bank of America
+Global Research, February 14 2024.
+Cavallo, Michele, Marco Del Negro, Scott Frame, Jamie Grasing, Benjamin Ma-
+lin, and Carlo Rosa , “Fiscal Implications of the Federal Reserve’s Balance Sheet Nor-
+malization,” International Journal of Central Banking , 2019, 15, 255–306.
+Chernozhukov, Victor and Christian Hansen , “Notes and Comments: An IV Model
+of Quantile Treatment Eﬀects,” Econometrica, 2005, 73(1), 245–261.
+Clark, Kevin, Antoine Martin, and Timothy Wessel , “The Federal Reserve’s Large-
+Scale Repo Program,” Liberty Street Economics , Federal Reserve Bank of New York,
+August 2020.
+36
+===== PAGE 39 =====
+Copeland, Adam, Linsey Molloy, and Anya Tarascina , “What Can We Learn From
+the Timing of Interbank Payments?,” Liberty Street Economics, Federal Reserve Bank of
+New York February, 2019.
+Correa, Ricardo, Weixin Du, and Gordon Liao , “US Banks and Global Liquidity,”
+Working Paper, Federal Reserve Board and University of Chicago, March, 2020.
+Covas, Francisco and Bill Nelson , “Bank Regulations and Turmoil in Repo Markets,”
+Bank Policy Institute September 2019.
+d’Avernas, Adrien and Quentin Vandeweyer, “Intraday Liquidity and Money Market
+Dislocations ,” Working Paper November 2020.
+Diamond, William, Zhengyang Jiang, and Yiming Ma , “The reserve supply channel
+of unconventional monetary policy,” Working Paper, 2020.
+Duﬃe, Darrell , “Post-Crisis Bank Regulations and Financial Market Liquidity,” Baﬃ
+Lecture, Banca d’Italia, March, 2018.
+and Arvind Krishnamurthy, “Passthrough Eﬃciency in the Fed’s New Monetary Pol-
+icy Setting,” in Richard A. Babson, ed., Designing Resilient Monetary Policy Frameworks
+for the Future, A Symposium Sponsored by the Federal Reserve Bank of Kansas City, Jack-
+son Hole, Wyoming, August 25-27, 2016, Federal Reserve Bank of Kansas City, August
+2016, pp. 21–102.
+D´ avila, Eduardo, Daniel Graves, and Cecilia Parlatore, “The Value of Arbitrage ,”
+Working Paper July 2021.
+Egelhof, James, Antoine Martin, and Noah Zinsmeister, “Regulatory Incentives and
+Quarter-End Dynamics in the Repo Market,” Federal Reserve Bank of New York, Liberty
+Street Economics, Federal Reserve Bank of New York, August 2017.
+37
+===== PAGE 40 =====
+Eisenschmidt, Jens, Yiming Ma, and Anthony Lee Zhang, “Monetary Policy Trans-
+mission in Segmented Markets,” Working Paper, January 2021.
+Federal Open Market Committee, “Minutes,” Board of Governors of the Federal Reserve
+Board, November 2018.
+, “Minutes,” Board of Governors of the Federal Reserve Board, March 2024.
+Filardo, Andrew, “Monetary Policy Operating Frameworks: Are Reforms Heading in the
+Right Direction?,” Cato Journal, Spring/Summer 2020.
+Fleming, Michael, Warren Hrung, and Frank Keane , “Repo Market Eﬀects of the
+Term Securities Lending Facility,” American Economic Review, 2010, 100, 591–596.
+Gagnon, Joseph and Brian Sack , “Recent Market Turmoil Shows That the Fed Needs
+a More Resilient Monetary Policy Framework,” Peterson Institute for International Eco-
+nomics, Realtime Economic Issues Watch , June 18, Peterson Institute for International
+Economics, 2020.
+Gerba, Eddie and Petros Katsoulis , “The repo market under Basel III,” Technical
+Report 2021.
+Gravelle, Toni, “Balance Sheet Reduction: Progress to Date and a Look Ahead,” Speech,
+Federal Reserve Bank of New York, May 2024.
+Hamilton, James, “The Daily Market for Federal Funds,” Journal of Political Economy ,
+1996, 104, 26–56.
+Han, Yangjue , “Monetary Policy Transmission Before and After the Crisis,” Working
+Paper, New York University, May 2020.
+H¨ user, Anne-Caroline, Caterina Lepore, and Luitgard Veraart, “How do secured
+funding markets behave under stress? Evidence from the gilt repo market,” Technical
+Report, Bank of England 2021.
+38
+===== PAGE 41 =====
+Ihrig, Jane, “Banks’ Demand for Reserves in the Face of Liquidity Regulations,” On the
+Economy Blog, Federal Reserve Bank of St. Louis, March 5, 2019.
+, Zeynep Senyuz, and Gretchen Weinbach, “The Fed’s “Ample-Reserves” Approach
+to Implementing Monetary Policy,” Technical Report, Board of Governors of the Federal
+Reserve System, February 2020.
+Kaplan, David M and Yixiao Sun , “Smoothed estimating equations for instrumental
+variables quantile regression,” Econometric Theory, 2017, 33 (1), 105–157.
+Keating, Thomas, Francis Martinez, Luke Petit, Mary-Frances Styczynski, and
+Alex Thorp, “Estimating System Demand for Reserve Balances Using the 2018 Senior
+Financial Oﬃcer Survey,” FEDS Notes, April 9, 2019.
+Klingler, Sven and Olav Syrstad, “Life after LIBOR,” Journal of Financial Economics ,
+2021, 141, 783–801.
+Koenker, Roger and Jose A. F. Machado , “Goodness of Fit and Related Inference
+Processes for Quantile Regression,” Journal of the American Statistical Association, 1999,
+94 (448), 1296–1310.
+Logan, Lorie , “Observations on Implementing Monetary Policy in an Ample-Reserves
+Regime,” Remarks before the Money Marketeers of New York University, Federal Reserve
+Bank of New York, April 2019.
+, “Discussion of ‘Quantitative Tightening Around the Globe: What Have We Learned?’
+by Wenxin Du, Kristin Forbes and Matthew Luzzetti,” Federal Reserve Bank of Dallas,
+March March 2024.
+Lopez-Salido, David and Annette Vissing-Jorgensen , “Reserve Demand, Interest
+Rate Control, and Quantitative TighteningBalance Sheet Policy Above the ELB,” Tech-
+nical Report, Federal Reserve Board, Working Paper, October 2023.
+39
+===== PAGE 42 =====
+Martin, Antoine, James McAndrews, Ali Palida, and David Skeie , “Explaining
+the Puzzling Behavior of Short-Term Money Market Rates,” Liberty Street Economics ,
+Federal Reserve Bank of New York, August 24, 2020.
+McAndrews, James and Alexander Kroeger , “The payment system beneﬁts of high
+reserve balances,” Journal of Payments Strategy & Systems , 2016, 10 (1), 72–83.
+and Simon Potter, “Liquidity Eﬀects of the Events of September 11, 2001,” Economic
+Policy Review, 2002, 8.
+Nelson, Bill and Pat Parkinson , “A Major Limit on the Fed?s Crisis Toolkit: Shame,”
+Bank Policy Institute, January 2022.
+Perli, Roberto, “Balance Sheet Reduction: Progress to Date and a Look Ahead,” Speech,
+Federal Reserve Bank of New York, May 2024.
+Plosser, Charles, “The Risks of a Fed Balance Sheet Unconstrained by Monetary Policy,”
+in Michael Bordo, John Cochrane, and Amit Seru, eds., The Structural Foundations of
+Monetary Policy, Hoover Institution Press, Stanford California, 2018, pp. 1–16.
+Pozsar, Zoltan, “Collateral Supply and o/n Rates,” Global Money Notes 22, Credit Suisse
+Economics, May 2019.
+Wallen, Jonathan, “Markups to Financial Intermediation in Foreign Exchange Markets,”
+Working Paper, Stanford Graduate School of Business, January 2020.
+Waller, Christopher, “Thoughts on Quantitative Tightening, Including Remarks on the
+Paper “Quantitative Tightening around the Globe: What Have We Learned?”,” Federal
+Reserve Board, March 2024.
+Yang, Yilin (David), “What Quantity of Reserves Is Suﬃcient?,” SSRN Working Paper
+2020.
+40
+===== PAGE 43 =====
+Appendices
+A Additional tables
+Table 4: Summary statistics: Key variables.
+Statistic N Mean St. Dev. Min Pctl(25) Median Pctl(75) Max
+dealer opening balances ($ billions) 2,046 819.3 251.3 362.0 664.4 744.4 1,051.3 1,378.0
+other large bank balances ($ billions) 2,046 1,266.6 277.5 652.4 1,067.3 1,265.9 1,477.9 1,836.1
+100 large banks ($ billions) 2,046 2,085.9 504.3 1,063.0 1,777.1 2,036.5 2,483.3 3,165.5
+T-Bills outstanding ($ billions) 2,059 2,711.9 1,166.9 1,233.0 1,742.0 2,274.0 3,810.7 4,984.4
+T-Bill issuance ($ billions) 2,059 40.1 61.7 −0.03 −0.001 0.0 92.0 272.9
+coupon issuance ($ billions) 2,059 12.6 40.4 −0.02 0.0 0.0 0.0 301.3
+T-Bills position ($ billions) 2,058 29.7 22.5 −4.0 15.1 22.0 36.3 110.3
+Treasuries redemption ($ billions) 2,059 47.1 65.6 0.0 0.0 0.0 101.5 342.6
+net Treasuries inventory ($ billions) 2,058 144.0 69.6 9.3 93.0 130.2 213.8 294.7
+median time of receives (minutes) 2,046 0.7 51.1 −107.4 −36.4 −4.4 39.6 154.6
+median time of sends (minutes) 2,046 0.5 36.6 −97.9 −26.9 4.1 29.1 112.1
+Q1 time of receives for small banks (minutes) 2,046 0.1 29.1−98.1 −15.8 2.9 19.9 82.9
+median time of receives for small banks (minutes) 2,046 0.1 46.7−186.6 −10.6 11.4 27.4 159.4
+Q3 time of receives for small banks (minutes) 2,046−0.2 49.2 −330.4 −10.4 1.6 20.6 98.6
+SOFR - IOR (basis points) 2,061 −8.3 11.7 −29 −15 −10 −2 315
+Treasuries issuance ($ billions) 2,059 52.7 73.2 −0.03 0.0 0.0 107.6 470.1
+quarter-end ﬁxed eﬀect 2,060 0.02 0.1 0 0 0 0 1
+corporate tax to US treasury ($ billions) 2,060 1.3 5.5 −0.1 0.1 0.1 0.4 63.7
+dealer-bank uninsured deposits ($ billions) 2,061 2,214.0 478.2 1,685.8 1,828.7 1,933.3 2,773.1 3,039.9
+log (normalized SOFR-IOR) 2,061 3.0 0.5 0.0 2.7 3.0 3.3 5.8
+average Payment Delayt−10 tot−2 (minutes) 2,051 0.7 46.7 −89.5 −30.0 −4.9 40.4 119.2
+41
+===== PAGE 44 =====
+Table 5: Summary statistics: Selected other variables.
+Statistic N Mean St. Dev. Min Max
+IOR (basis points) 2,061 112.4 111.1 10 490
+TGCR - IOR (basis points) 2,057 −10.9 11.8 −26 315
+GCF - IOR (basis points) 2,059 −3.1 15.1 −47.4 390.7
+Bond issuance ($ billions) 2,059 1.4 5.5 −0.005 41.5
+Note issuance ($ billions) 2,059 11.2 36.1 −0.02 272.7
+Bill redemption ($ billions) 2,059 38.9 59.6 0.0 230.1
+Bond redemption ($ billions) 2,059 0.1 1.4 0.0 30.6
+Note redemption ($ billions) 2,059 8.1 28.1 0.0 220.4
+net total inventory ($ billions) 2,058 222.9 76.7 103.7 427.5
+median time of receives and sends (minutes) 2,046 0.6 32.0 −129.5 110.5
+Q1 time of receives and sends (minutes) 2,046 0.2 18.2 −69.5 112.5
+Q3 time of receives and sends (minutes) 2,046 0.4 10.3 −43.8 168.2
+Q1 time of sends (minutes) 2,046 0.1 26.1 −60.8 94.2
+Q3 time of sends (minutes) 2,046 0.5 13.8 −71.9 163.1
+Q1 time of receives (minutes) 2,046 0.3 19.2 −69.1 81.9
+Q3 time of receives (minutes) 2,046 0.6 17.9 −68.7 175.3
+42
+===== PAGE 45 =====
+Table 6: OLS estimation of dealer-bank median receive and send times
+median receive time median send time
+(1) (2) (3) (4) (5) (6) (7) (8) (9)
+100 large banks −43.4∗∗∗ −33.2∗∗∗
+(1.76) (1.38)
+dealer-bank opening balances 183.0∗∗∗ 27.1∗∗∗ 16.2 −122.0∗∗∗ 56.8∗∗∗ 58.0∗∗∗ 51.1∗∗∗
+(3.87) (8 .08) (11 .3) (4.04) (9 .2) (8 .99) (8 .97)
+other large bank balances −246.0∗∗∗ −171.0∗∗∗ −169.0∗∗∗ 46.5∗∗∗ −18.0∗∗∗ −17.7∗∗∗ 54.9∗∗∗
+(3.54) (3 .77) (4 .72) (3.88) (4 .14) (4 .17) (5 .86)
+log (normalized SOFR-IOR) 22 .6∗∗∗ −0.738(1.61) (1.37)
+SOFR - IOR 0 .778∗∗∗ 0.00402 −0.330∗∗
+(0.30) (0.0503) (0 .167)
+Treasuries issuance −112.0∗∗∗ −98.1∗∗∗ −111.0∗∗∗ −112.0∗∗∗ −70.2∗∗∗
+(27.5) (29 .7) (24.4) (24 .3) (24 .3)
+Treasuries redemption 153 .0∗∗∗ 139.0∗∗∗ 121.0∗∗∗ 122.0∗∗∗ 62.2∗∗
+(30.1) (31 .5) (27.3) (27 .3) (26 .7)
+median time of receives 0.429∗∗∗
+(0.0267)
+dealer-bank uninsured deposits 57 .5∗∗∗ 64.9∗∗∗ −74.9∗∗∗ −75.7∗∗∗ −104.0∗∗∗
+(3.30) (5 .77) (3.61) (3 .43) (3 .30)
+constant 91 .3∗∗∗ 163.0∗∗∗ 0.193 63 .2∗∗∗ 69.6∗∗∗ 41.6∗∗∗ 145.0∗∗∗ 143.0∗∗∗ 116.0∗∗∗
+(3.85) (3 .44) (5 .91) (5 .54) (3.05) (3 .22) (5 .39) (4 .53) (5 .15)
+Observations 2042 2042 2041 2041 2042 2042 2041 2041 2041R2 0.184 0.631 0.782 0.774 0.208 0.343 0.545 0.545 0.626AdjustedR2 0.184 0.631 0.781 0.774 0.208 0.342 0.544 0.544 0.625Residual standard error 46.2 31.0 23.9 24.3 32.6 29.7 24.7 24.7 22.4
+Note: Payment timing measures are in minutes. The units of the explanatory variables are trillions of dollars, log(basis points),
+and basis points. Standard errors are adjusted for heteroskedasticity. The date range is January 1, 2015 to March 13, 2023.
+∗p< 0.1; ∗∗p< 0.05; ∗∗∗p< 0.01.
+43
+===== PAGE 46 =====
+Table 7: Quantile regressions of SOFR-IOR spreads at the 95th percentile
+Dependent variable: SOFR - IOR
+(1) (2) (3) (4) (5) (6) (7)
+dealer opening balances−24.1∗∗∗ −23.4∗∗∗ −12.4∗∗∗ −15.2∗∗∗ −15.4∗∗∗ −15.6∗∗∗
+(0.958) (0.85) (1 .11) (2 .84) (2 .32) (2 .29)
+median time of receives 0 .128∗∗∗ 0.101∗∗∗ 0.0914∗∗∗ 0.0886∗∗∗ 0.0878∗∗∗
+(0.00722) (0 .00729) (0 .00893) (0 .00662) (0 .00715)
+T-bills outstanding 1 .07∗ 1.05∗∗∗ 0.822∗∗
+(0.562) (0 .356) (0 .382)
+Treasuries redemption −1.97 −1.05
+(6.24) (4 .48)
+T-Bill issuance 2.60 2 .83
+(5.89) (4 .53)
+coupon issuance 55.8∗∗∗ 55.1∗∗∗
+(6.04) (7 .89)
+dealer-bank uninsured deposits −0.544 0 .103 0 .528
+(1.65) (1 .46) (1 .45)
+corporate tax to US treasury 39.8
+(44.4)
+quarter-end ﬁxed eﬀect 43 .2∗∗∗ 46.3∗∗∗ 44.0∗∗∗ 43.9∗∗∗ 37.3∗∗∗ 37.4∗∗∗
+(11.3) (13 .8) (10 .6) (9 .09) (8 .8) (8 .65)
+constant 23 .0∗∗∗ 22.0∗∗∗ 0.287 9 .77∗∗∗ 10.2∗∗∗ 8.40∗∗∗ 8.09∗∗∗
+(1.13) (1 .01) (0 .363) (1 .17) (1 .74) (1 .37) (1 .29)
+Observations 2046 2046 2046 2042 2040 2039 2039
+R1(0.95) 0 .217 0 .249 0 .305 0 .374 0 .378 0 .396 0 .396
+Note: The goodness-of-ﬁt statistic R1(τ) is an analogue ofR2 for quantile regressions (Koenker and Machado,
+1999).
+44
+===== PAGE 47 =====
+Table 8: Quantile regressions of SOFR-IOR spreads at the 99th percentile
+Dependent variable: SOFR - IOR
+(1) (2) (3) (4) (5) (6) (7)
+dealer opening balances −40.3∗∗∗ −34.2∗∗∗ −19.9∗∗∗ −40.2∗∗∗ −42.0∗∗∗ −41.8∗∗∗
+(8.63) (4 .04) (4 .43) (14 .6) (15 .0) (12 .4)
+median time of receives 0 .188∗∗∗ 0.189∗∗∗ 0.135∗∗∗ 0.127∗∗∗ 0.129∗∗∗
+(0.0293) (0 .0283) (0 .0391) (0 .0414) (0 .0415)
+T-bills outstanding −0.763 −1.09 −0.645
+(3.43) (3 .13) (2 .98)
+Treasuries redemption −4.85 1 .52
+(53.6) (61 .8)
+T-bill issuance 17.2 11 .4
+(50.5) (55 .4)
+coupon issuance 22.1 18 .0
+(47.3) (51 .6)
+dealer-bank uninsured deposits 12 .3 14 .5 13 .4∗
+(9.67) (9 .50) (7 .86)
+corporate tax to US treasury −12.4
+(189.0)
+quarter-end ﬁxed eﬀect 39 .8∗∗ 48.1∗∗∗ 41.6∗∗∗ 38.8∗∗∗ 37.4∗∗∗ 37.1∗∗∗
+(17.4) (5 .48) (4 .59) (5 .18) (2 .96) (5 .1)
+constant 44 .8∗∗∗ 36.6∗∗∗ 8.96∗∗∗ 25.1∗∗∗ 16.0∗ 12.5 13 .8∗
+(10.6) (4 .88) (1 .77) (4 .81) (8 .50) (8 .37) (7 .83)
+Observations 2046 2046 2046 2042 2040 2039 2039
+R1(0.99) 0 .214 0 .289 0 .310 0 .373 0 .380 0 .384 0 .384
+Note: The goodness-of-ﬁt statistic R1(τ) is an analogue ofR2 for quantile regressions (Koenker and Machado,
+1999).
+45
+===== PAGE 48 =====
+Table 9: Quantile regression of SOFR −IOR at the 99th percentile on lagged 10-day average
+payment delays and other variables.
+Dependent variable: SOFR - IOR
+(1) (2) (3) (4)
+dealer opening balancest − 2 −24.9∗∗∗ 10.3 −4.80
+(4.59) (8 .05) (11 .5)
+average payment delayt − 10 to t − 2 0 .164∗∗∗ 0.181∗∗∗ 0.287∗∗∗ 0.240∗∗∗
+(0.0393) (0 .0485) (0 .0473) (0 .0596)
+T-Bills outstanding −7.32∗∗∗ −6.48∗∗
+(2.36) (2 .66)
+Treasuries redemption 0 .209
+(40.0)
+T-Bill issuance 12 .1
+(39.8)
+coupon issuance 50 .5
+(49.2)
+dealer-bank uninsured deposits −6.84 1 .42
+(6.24) (5 .46)
+corporate tax to US treasury −129.0
+(180.0)
+quarter-end ﬁxed eﬀect 35 .7 40 .3 33 .9∗∗ 29.2
+(42.1) (37 .5) (15 .9) (31 .2)
+constant 27 .7∗∗∗ 9.32∗∗∗ 35.0∗∗∗ 25.5∗∗∗
+(5.26) (2 .50) (7 .31) (7 .14)
+Observations 1998 2002 1996 1994
+R1(0.99) 0 .356 0 .272 0 .360 0 .368
+Note: Standard errors are adjusted for heteroskedasticity. ∗p < 0.1; ∗∗p < 0.05; ∗∗∗p < 0.01. Average
+payment delay is the lagged average of the time of day by which the ten largest repo-active bank holding
+companies had received the ﬁrst half of their incoming payments, relative to sample mean, in minutes,
+averaged for business days t − 10 through t − 2. The goodness-of-ﬁt statistic R1(τ) is an analogue of R2 for
+quantile regressions (Koenker and Machado, 1999).
+46
+===== PAGE 49 =====
+
+===== PAGE 50 =====
+0
+50
+100
+150
+200
+Jul 2018 Jan 2019 Jul 2019 Jan 2020 Jul 2020
+Date
+Spread (basis points)
+GCF−IOR (truncated)
+SOFR−IOR (truncated)
+Figure 10: Repo rate benchmarks, spread to IOR, 2018-2020
+Note: SOFR is the secured overnight ﬁnancing rate and IOR is interest on reserves. SOFR −IOR is shown
+in blue. GCF Repo −IOR is shown in red. Both spread plots are truncated at 200 basis points for improved
+visualization. Source: FRBNY and FICC.
+−100
+−90
+−80
+−70
+−60
+−50
+−40
+−30
+−20
+55% 60% 65% 70% 75% 80% 85% 90% 95%
+Sensitivity to predicted dealer opening balances
+coefficient
+Figure 11: Sensitivity of SOFR-IOR to dealer reserve balances from IV quantile regressions.
+Note: The blue line is the estimated coeﬃcient of predicted dealer opening balances, in trillions of dollars.
+The shadow region represents the plus and minus one standard deviation around the point estimates. At each
+percentile of 51, 53, · · ·, 99, we estimate the quantile regression analogous to that of column (2) of Appendix
+Table 1. Coeﬃcients corresponding to the 87th and 89th percentiles are omitted because of non-convergence
+of the numerical procedure of Kaplan and Sun (2017).
+48
+===== PAGE 51 =====
+
+===== PAGE 52 =====
+C Analysis of the likelihood of repo rate spikes
+Table 10: Days on which repo rates spiked.
+SOFR GCF TGCR dealer other bank Treasury Treasury
+date −IOR −IOR −IOR balances balances issuance redemptions
+(bps) (bps) (bps) ( $ billions) ( $ billions) ( $ billions) ( $ billions)
+3/31/15 −5 20 −13 822.39 1398.82 103.00 78.42
+6/30/15 −8 17.3 −15 700.86 1330.73 97.00 74.13
+9/30/15 −2 10.2 −15 708.49 1424.81 103.00 69.10
+12/16/15 0 15 −8 650.46 1430.73 0.00 0.00
+3/31/16 −8 13.9 −20 658.48 1272.05 244.59 219.70
+6/24/16 5 35.5 −4 683.58 1271.25 13.00 0.00
+6/27/16 8 26.1 −7 650.60 1226.38 0.00 0.00
+6/30/16 13 37.5 −10 635.46 1208.89 213.57 190.91
+9/27/16 4 18.1 −13 677.23 1136.14 0.00 0.00
+9/28/16 14 29 −10 655.81 1135.62 0.00 0.00
+9/29/16 20 39.1 −8 671.38 1095.33 116.00 102.00
+9/30/16 39 76.6 −3 648.08 1094.85 118.83 94.60
+10/3/16 −5 24.7 −16 635.48 957.59 −0.02 0.00
+10/4/16 5 24.9 −12 654.90 1058.81 0.00 0.00
+1/17/17 −16 1.3 −21 699.42 1119.99 59.10 50.66
+3/31/17 −15 2.5 −20 763.73 1161.05 125.56 94.91
+6/30/17 −5 11.6 −16 764.70 1054.70 118.88 92.25
+12/29/17 −3 33.6 −12 807.56 1065.96 26.99 0.00
+3/29/18 5 31.8 4 737.83 1079.62 196.00 161.01
+5/31/18 6 23.5 3 703.68 1046.11 259.11 231.07
+6/29/18 17 28.3 15 689.84 1018.07 21.00 0.00
+12/6/18 14 24.7 11 580.69 892.63 171.00 160.01
+12/31/18 60 274.9 55 481.36 930.31 126.99 94.39
+1/2/19 75 83.1 70 459.59 845.31 70.00 70.00
+1/3/19 30 24.2 30 461.32 886.90 101.01 109.98
+1/31/19 18 29.3 15 468.76 906.32 253.01 245.72
+2/28/19 18 21.8 15 487.01 926.52 239.83 200.11
+3/29/19 25 21.1 18 500.81 846.48 29.00 0.00
+4/30/19 36 40.7 35 414.68 799.44 236.91 223.96
+7/1/19 7 52 3 362.03 778.73 119.46 93.46
+7/3/19 21 30.6 20 425.21 770.52 0.00 0.00
+7/5/19 24 29.2 23 432.94 776.43 72.00 81.00
+9/16/19 33 77.6 32 420.27 691.97 78.00 59.00
+9/17/19 315 390.7 315 410.63 652.37 90.04 90.01
+9/18/19 45 90 40 399.19 718.76 0.00 0.00
+9/25/19 21 21 20 434.84 715.67 0.00 0.00
+9/30/19 55 66 55 436.37 764.10 137.99 93.24
+10/15/19 20 37 15 427.78 777.80 168.03 114.01
+10/16/19 25 26.9 22 439.93 736.79 0.00 0.00
+10/31/19 21 25.7 18 445.40 763.68 252.68 204.02
+3/16/20 16 75.9 13 446.84 950.51 78.07 24.00
+3/17/20 44 53.8 40 519.74 956.32 95.57 88.89
+Note: Spreads are, in basis points (bps) over IOR, of the Secured Overnight Financing Rate (SOFR),
+General Collateral Finance (GCF) repo rate, and Tri-Party General Collateral Rate (TGCR), for all days in
+our sample on which at least one of these repo rate spreads was above its previous 14 days rolling average
+by at least 15 basis points. The table also includes days for which SOFR or TGCR spread is above 20 basis
+points and for which GCF spread is above 30 basis points. Also shown are three key covariates: issuance
+and redemption of Treasuries and total opening reserve balances of the sample of ten large repo-active dealer
+banks. Source: Fedwire Funds Service, FRBNY, and Tradition.
+50
+===== PAGE 53 =====
+Table 11: Estimated coeﬃcients of a probit model of repo rate spikes
+Dependent variable:
+(1) (2) (3) (4) (5) (6) (7)
+median time of receives 0.0063∗∗∗ 0.0024∗ 0.00682∗∗∗ 0.0017 0 .00247
+(0.0013) (0 .0014) (0 .00143) (0 .00158) (0 .00181)
+dealer opening balances −2.73∗∗∗ −2.17∗∗∗ −2.91∗∗∗ −3.30∗∗∗
+(0.466) (0 .488) (0 .557) (0 .686)
+Coupon issuance 6 .04∗∗∗ 6.20∗∗∗ 9.15∗∗∗ 5.54∗∗∗
+(0.948) (0 .972) (1 .32) (1 .66)
+quarter-end ﬁxed eﬀect 1.98∗∗∗
+(0.313)
+constant −2.13∗∗∗ −0.152 −0.551∗ −2.19∗∗∗ −2.32∗∗∗ −0.320 −0.184
+(0.0748) (0 .293) (0 .331) (0 .074) (0 .0915) (0 .355) (0 .429)
+Observations 2046 2046 2042 2059 2045 2041 2041
+Log Likelihood −199.0 −184.0 −183.0 −196.0 −183.0 −160.0 −137.0
+Akaike Inf. Crit. 402.0 373.0 372.0 397.0 371.0 328.0 284.0
+Note: The probit model is P (RepoSpike = 1|X1,X 2,...,X k) = Φ (β0 +β1X1 +β2X2 +··· +βkXk), where Φ is the stan-
+dard normal cumulative distribution function. Repo rate spike dates are listed in Table 10, and determined by the criteria
+stated in the table note. The units of the explanatory variables are minutes and trillions of dollars. The date range is January
+1, 2015 to March, 13, 2023. ∗p<0.1; ∗∗p<0.05; ∗∗∗p<0.01.
+D Additional IV analysis
+This appendix section provides additional IV analysis. Table 12 shows OLS prediction of
+SOFR−IOR, with and without instrumenting for dealer opening balances. As anticipated,
+the coeﬃcients on dealer opening balances and IV-predicted dealer balances are lower than
+the corresponding coeﬃcients of the high-quantile regressions. Further, the coeﬃcient on
+predicted dealer balances is larger than that for the model in which dealer balances are
+not instrumented, consistent with endogenous increases in balances when SOFR −IOR is
+higher. Table 13 shows the ﬁrst stage of the IV regression. The associated F-statistics of
+574 demonstrates the strength of the instruments.
+Table 14 provides additional results at the 99th percentile. The rightmost column of this
+table provides the results used in the paper, using the method described in Kaplan and Sun
+(2017). The remaining columns in the table report the results using the method described
+51
+===== PAGE 54 =====
+in Chernozhukov and Hansen (2005) with grid points numbers of 500, 700, 900, and 1100.
+The estimated coeﬃcients and, to a larger extent, the standard errors, change somewhat
+with diﬀerent numbers of grid points. The magnitude of the coeﬃcient on dealer balances is
+relatively stable, however, at approximately −77 basis points per trillion dollars of balances.
+The standard errors imply that this coeﬃcient is signiﬁcantly diﬀerent from zero for all but
+one choice of the number of grid points.
+52
+===== PAGE 55 =====
+Table 12: Estimated coeﬃcients of OLS models of SOFR-IOR spreads with and without IV
+prediction of dealer-bank opening balances
+Dependent variable: SOFR −IOR
+OLS IV IV
+dealer opening balances −26.3∗∗∗
+(1.55)
+median time of receives 0 .0711 ∗∗∗
+(0.0125)
+predicted dealer-banks opening balances −46.0∗∗∗ −23.3∗
+(4.85) (13 .79)
+residual of median receive time on opening balances 0 .0836 ∗∗∗
+(0.0272)
+quarter-end ﬁxed eﬀect 7 .88∗∗ 8.21∗∗∗ 7.85∗∗
+(3.15) (3 .15) (3 .52)
+T-bills outstanding 3 .33∗∗∗ 5.83∗∗∗ 3.02∗∗∗
+(0.545) (0 .328) (0 .895)
+Treasuries redemption −15.2∗∗ −11.8 −15.3
+(7.28) (7 .99) (21 .8)
+T-Bill issuance 18 .2∗∗∗ 17.3∗∗ 17.9
+(6.95) (7 .38) (20 .5)
+coupon issuance 24 .2∗∗∗ 21.7∗∗∗ 24.3
+(6.34) (7 .16) (16 .8)
+dealer-bank uninsured deposits 3 .86∗∗∗ 8.56∗∗∗ 1.50
+(0.943) (2 .60) (5 .17)
+corporate tax to US treasury 69 .0∗∗ 80.2∗∗ 63.8
+(33.1) (33 .9) (198 .8)
+constant −4.88∗∗∗ −5.92∗∗∗ −1.19
+(0.888) (1 .56) (2 .53)
+Observations 2039 2031 2026
+R2 0.392 0.355 0.388
+Adjusted R2 0.389 0.353 0.385
+Residual standard error 9.21 9.48 9.25
+Note: The ﬁrst column present the results of an ordinary least squares (OLS) regression. The second
+column, IV, presents the results of a two-stage least squares regression, where dealer bank balances have
+been instrumented from a ﬁrst stage regression (see Appendix Table 13). The third column mimics the
+second column, except that an additional dependent variables has been added. SOFR-IOR is in basis points
+and the units of the explanatory variables are trillions of dollars and minutes. A constant was included for
+each speciﬁcation but is not reported. Standard errors are adjusted for heteroskedasticity. The date range
+is January 1, 2015 to March 13, 2023. ∗p< 0.1; ∗∗p< 0.05; ∗∗∗p< 0.01.53
+===== PAGE 56 =====
+Table 13: First stage of IV regression: Prediction of dealer opening balances.
+Dependent variable: dealer opening balances
+Q1 time of receives for small banks t − 7 −0.00022
+(0.00015)
+median time of receives for small banks t − 7 −0.00059 ∗∗∗
+(0.00013)
+Q3 time of receives for small banks t − 7 0 .00088 ∗∗∗
+(0.00011)
+T-Bills outstanding −0.0563 ∗∗∗
+(0.0064)
+Treasuries redemption −0.347∗∗
+(0.161)
+T-Bill issuance 0 .293∗
+(0.157)
+coupon issuance 0 .0932
+(0.138)
+quarter-end ﬁxed eﬀect −0.00779
+(0.0254)
+dealer-bank uninsured deposits 0 .535∗∗∗
+(0.0154)
+corporate tax to US treasury 1 .06∗∗
+(0.540)
+constant −0.209∗∗∗
+(0.0206)
+Observations 2031
+R2 0.740
+Adjusted R 2 0.738
+Residual Std. Error 0.129
+F Statistic 574.0 ∗∗∗
+Notes: ∗p< 0.1; ∗∗p< 0.05; ∗∗∗p< 0.01.
+54
+===== PAGE 57 =====
+Table 14: Robustness of IV quantile prediction of SOFR-IOR at the 99th percentile.
+Method Chernozhukov and Hansen (2006) Kaplan and Sun (2017)
+Grid points 1100 900 700 500
+predicted dealer balances -77.75802 -77.83352 -77.24437 -78.06266 -73.25041
+(18.18609) (16.55381) (62.23318) (16.76075) (39.17101)
+quarter-end ﬁxed eﬀect 29.51487 29.54318 29.32223 29.62912 33.28292
+(3.298832) (3.226688) (17.24483) (3.583235) (13.76293)
+T-bills outstanding 2.995394 3.030637 2.755629 3.137601 3.222659
+(1.068315)(0.8838553) (33.9007) (0.5591909) (1.892072)
+Treasuries redemptions -24.84351 -24.5969 -26.52123 -23.84844 -14.96246
+(14.58203) (12.18771) (297.5446) (8.972999) (24.58671)
+T-bill issuance 30.4733 30.28878 31.72865 29.72874 24.08455
+(12.89701) (11.24421) (199.6474) (9.194063) (20.5541)
+coupon issuance 46.76542 46.29506 49.96535 44.86751 30.44799
+(26.10531) (21.37337) (264.6824) (11.0142) (35.25005)
+corporate tax to US treasury-34.33891 -34.97266 -30.0274 -36.89609 31.51947
+(47.77225) (43.13383) (172.1301) (28.34876) (163.9801)
+dealer-bank uninsured deposits26.01943 25.71187 28.11182 24.77842 23.68129
+(9.984596) (8.940665) (134.0081) (8.27471) (19.83468)
+constant 5.571819 5.752031 4.345801 6.298979 6.536006
+(4.331995) (3.525758) (155.2013) (2.326463) (9.029197)
+Note: The ﬁrst four columns present the estimated coeﬃcients of a quantile IV regression at the 99th
+percentile for various number of grid points using the method of Chernozhukov and Hansen (2005). The
+ﬁfth column presents the estimated coeﬃcients for the same quantile IV regression using the method of
+Kaplan and Sun (2017) . Robust standard errors included in parenthesis. These estimates were computed
+using the ivqregress command in STATA.
+55
+===== PAGE 58 =====
+E Jamie Dimon comments on September 2019 event
+Dimon’s comments during J.P. Morgan’s third-quarter 2019 earnings call were covered by
+Bloomberg. Glenn Schorr, analyst at Evercore, questioned Dimon as follows. “Curious your
+take on everything that went on in the repo markets during the quarter, and I would love
+it if you could put it in the context of maybe the fourth quarter of last year. If I remember
+correctly, you stepped in the fourth quarter, saw higher rates, threw money at it, made some
+more money, and it calmed the markets down. I’m curious what’s diﬀerent this quarter that
+did not happen, and curious if you think we need changes in the structure of the market to
+function better on a go-forward basis.” Dimon responded:
+“. . . we have a checking account at the Fed with a certain amount of cash in it. Last year
+[2018] we had more cash than we needed for regulatory requirements. So when repo rates
+went up, we went from the checking account, which was paying IOR into repo. Obviously
+makes sense, you make more money. But now the cash in the account, which is still huge.
+It’s $120 billion in the morning and goes down to $60 billion during the course of the day and
+back to $120 billion at the end of the day. That cash, we believe, is required under resolution
+and recovery and liquidity stress testing. And therefore, we could not redeploy it into repo
+market, which we would have been happy to do. And I think it’s up to the regulators to decide
+they want to recalibrate the kind of liquidity they expect us to keep in that account. Again, I
+look at this as technical; a lot of reasons why those balances dropped to where they were. I
+think a lot of banks were in the same position, by the way. But I think the real issue, when
+you think about it, is what does that mean if we ever have bad markets? Because that’s kind
+of hitting the red line in the Fed checking account, you’re also going to hit a red line in LCR,
+like HQLA, which cannot redeployed either. So, to me, that will be the issue when the time
+comes. And it’s not about JPMorgan. JPMorgan will be ﬁne in any event. It’s about how
+the regulators want to manage the system and who they want to intermediate when the time
+comes.”
+To a follow-up question, Dimon replied: “As I said, we have $120 billion in our checking
+56
+===== PAGE 59 =====
+account at the Fed, and it goes down to $60 billion and then back to $120 billion during
+the average day. But we believe the requirement under CLAR and resolution and recovery
+is that we need enough in that account, so if there’s extreme stress during the course of the
+day, it doesn’t go below zero. If you go back to before the crisis, you’d go below zero all
+the time during the day. So the question is, how hard is that as a red line? Was the intent
+of regulators between CLAR and resolution to lock up that much of reserves in the account
+with Fed? And that’ll be up to regulators to decide. But right now, we have to meet those
+rules and we don’t want to violate anything we’ve told them we’re going to do.”
+F Analysis of inter-dealer transaction-level repo data
+Tradition has provided transaction level quote data captured throughout the day by Tradi-
+tion’s brokering screen. For each transaction record, the ﬁelds includes whether the accepted
+rate is a bid or an ask, the size of the trade, and the collateral type. The data span 1/4/2016
+to 2/27/2020. There are a total of 609691 observations, which contains 453,136 trade quotes
+with Treasury and Government Agency as collateral. Our paper focuses on the overnight
+general Treasury collateral repo rates. There are 202,062 overnight trade quotes with general
+Treasury collateral, and 33,622 special overnight repo.
+We consider only transactions between t0 = 7:00 am and T = 4:00 pm. The Tradition
+data consist of bid and ask rates. We ﬁrst calculate the mid point rate in the following way.
+For general collateral (GC) transactions, let rt be the rate for a transaction at time t and
+mt be the estimated midpoint of the bid and oﬀer rate, in that for a GC trade, rt = mt + qtct,
+where ct is the estimated half bid-oﬀer spread and qt is 1 for a bid and −1 for an oﬀer. Let
+ct0 be the ending estimated half bid-oﬀer spread of previous day and let mt0 be the ending
+estimated midpoint of previous day. We estimates the midpoint and the half-spread at time
+t using previous estimates, rt and qt. Speciﬁcally, at time t, let mt− and ct− denote the
+previous midpoint and half-spread estimates, respectively. For a GC transaction at time t,
+57
+===== PAGE 60 =====
+if qt = qt−, let
+mt =rt − qtct−
+ct =ct−.
+If qt = −qt−, let
+ct = rt − mt−
+qt
+mt =mt−
+We replace negative estimates of the bid-oﬀer spread ct with zero.
+Next, we adjust for repo specialness for speciﬁc-collateral (SC) transaction. Let
+yt = mt− + qtct− − rt
+denote the estimated specialness of a speciﬁc-collateral (SC) transaction rate rt at time t.
+If yt > 20 basis points, the specialness is “too large” and the transaction is not consid-
+ered. Otherwise, the transaction is accepted as close enough to GC. For each accepted SC
+transaction, if qt = qt−
+ct =ct−
+mt =rt − qtct + k,
+where k is the average estimated repo specialness of accepted transactions on the previous
+58
+===== PAGE 61 =====
+day. If qt = −qt−
+ct = rt − mt−
+qt
+mt =mt−.
+The daily volume-weighted transaction rate (VWATR) is the volume weighted average
+of midpoint rates between 7:00 am and 4:00 pm each day.
+VWATR(t) =
+∑
+s ˆms · Vs∑
+s Vs
+,
+where Vs is the volume of any transaction at time s. For some applications we use intra-
+day VWATR. For example, VWATR20min is the volume-weighted average of midpoint rates
+between 7:00 am and 7:20 am.
+Stress on the intraday balances held by these dealer banks is also related to our ﬁnding
+that dealer banks delay their outgoing payments to a much lesser extent than the delay
+in their incoming payments, as we discuss in Section 4. This relationship holds in general
+throughout our sample period, including days on which repo rates spiked. On the repo-
+stress days of September 17, 2019 and March 17, 2020, for example, the delay in half-time
+of payments received reached the highest two levels in the sample, 151 and 155 minutes
+respectively, whereas the delays in half-sent time were only 6 and 54 minutes, respectively.
+Contributing to the lower responsiveness of the timing of outgoing payments is the fact that
+payments to the Treasury General Account for the settlement of Treasuries purchased at
+auctions must be made early in the morning.
+59
+===== PAGE 62 =====
+0
+5
+10
+15
+20
+25
+07:00 08:00 09:00 10:00 11:00 12:00 13:00 14:00 15:00 16:00
+Time of day (20−minute window)
+Volume (billion dollars)
+Volume std crunch days
+Volume std normal days
+Volume crunch days
+Volume normal days
+Figure 14: Average and standard deviation, across normal days and across crunch days, of total trading
+volume in each 20-minute time window. Source: Tradition.
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+● ●
+●●
+●
+●
+●
+●●
+●
+●
+●●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+● ●
+●
+●
+●
+● ●
+●
+●
+● ●
+●
+● ● ●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+● ●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+● ●
+●
+●
+●
+●
+●
+●
+●
+●
+● ●
+●
+●
+●
+●
+●
+●●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+● ●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+● ●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●● ●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+● ●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+● ●
+●
+●
+●
+●
+●●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+● ●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+● ●
+●
+●●
+●●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+● ●
+●
+●
+●
+●
+●●
+● ●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●●
+●
+● ●
+● ●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+● ●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+−100
+0
+100
+200
+0.0625 1 16 256
+VWATR20min − IOR (basis points)
+Median payment time (minutes)
+●
+●
+Normal days
+Crunch days
+Figure 15: Interdealer repo rates and payments timing
+Note: The repo rate spread shown in the value-weighted average of Treasury general collateral repo rates,
+in excess of IOR, over the ﬁrst 20 minutes of the day. Because of the log scale, we drop the observations
+for which this rate spread is negative. “Crunch days” are those for which the rate spread is at least 15
+basis points above the average rate spread over the previous 14 days. The solid line is the estimated linear
+relationship between the two variables. Data sources: Fedwire Funds Service and Tradition.
+60

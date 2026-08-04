@@ -1,0 +1,3108 @@
+ Electronic copy available at: http://ssrn.com/abstract=2558945 
+1 
+ 
+ 
+A Macro View of Shadow Banking: 
+Levered Betas and Wholesale Funding in the Context of Secular Stagnation 
+ 
+By Zoltan Pozsar1 
+ 
+DRAFT 
+(as of 1/31/2015) 
+ 
+Abstract 
+ 
+The literature to date on shadow banking has focused on the wholesale funding and private money 
+creation aspects of shadow banking. This paper draws attention to those aspects of shadow banking 
+that involve leveraged betas and the provision of excess return s over fixed income be nchmarks. 
+Broadening the discussion from net to gross repo, t he paper highlights the role of broker -dealers as 
+matched-book money dealers that stand between cash pools in  search for safety, and various kinds 
+of leveraged bond portfolios across the asset management complex in  search for yield. This broader 
+perspective shows deep linkages between shadow banking and asset management, including not only 
+hedge funds but also what are assumed to be unleveraged, “ long-only” mutual funds. Whereas cash 
+pools’ problem is the structural shortage of safe, short -term, public assets  (a shortage of public 
+money), real money investors’ problem is structural asset-liability mismatches driven by the secular 
+decline of yields on safe, long-term, public assets relative to “ sticky” return targets /expectations. 
+The secular rise of leveraged betas (that is, the secular increase in the use of both cash and synthetic 
+forms of leverage in bond portfolios ) has been asset managers’ way of helping real money investors 
+bridge structural asset-liability mismatches through the provision of “equity-like returns with bond-
+like volatility”. To that end, the use of repo and securities lending by bond portfolios across the asset 
+management complex exceeds the use of repo by banks and broker -dealers to fund their own bond 
+portfolios and inventories, respectively. The “ sucking sound” of asset-liability mismatches driving 
+the secular rise of levered betas , financed through the absorption of cash pools’ money demand        
+– “the leveraged bids glut” – is a powerful alternative to Bernanke’s “global savings glut” and Shin’s 
+“global banking glut” hypotheses for the decline in the Treasury term premium and the compression 
+of mortgage and other spreads before the 2008 crisis. Crowding out private money by boosting the 
+volume overnight Federal Reserve RRPs or of U.S. Treasury bills would fix cash pools’ problems, 
+but deepen real money investors’ asset -liability mismatches. More even -handed policies include 
+“Dealer of L ast Resort” and fixing imbalances in present incomes and future (pension) promises –    
+a joint application of these policies would complement the G20/FSB reform agenda to date to find 
+a better balance between the economic benefits of deep and liquid markets, and the financial stability 
+risks inherent in the (gross) balance sheet intensity of the provision of deep and liquid markets.  
+ 
+  
+                                                 
+1 For Lena and little Emma. The author is a founding member of the Shadow Banking Colloquium, a project of the 
+Financial Stability Research Program of the Institute for New Economic Thinking (INET). This paper  is a culmination 
+of several conversations over t he past three years with George Akerlof, James Aitken, Viktoria Baklanova, Terry Checki, 
+Stijn Claessens, Giovanni di Iasio, Perry Mehrling, Daniel Neilson, Elena Liapkova -Pozsar, Phil Prince, Morgan Ricks, 
+Matt Rutherford, James Sweeney, Eric van Wetering  and Jonathan Wilmot. For comments, thanks to seminar 
+participants at the Bank of England, the International Monetary Fund, U.S. Treasury, OFR, the Federal Reserve Board, 
+the FDIC, the ECB, the ESRB, the Institute for New Economic Thinking (INET) and the C entral European University. 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+ Electronic copy available at: http://ssrn.com/abstract=2558945 
+2 
+ 
+ 
+Introduction 
+ 
+The aim of this paper is to provide  a mile-wide and inch- deep macro perspective into shadow 
+banking, one that gets much more to the fundamental drivers of shadow banking than the largely 
+descriptive and more micro-oriented original by Pozsar, Adrian, Ashcraft and Boesky, 2010. The aim 
+of the 2010 paper was to put shadow banking on the radar of economists , policy makers and market 
+participants – mapping the system and identifying “credit, maturity and liquidity transformation by 
+non-banks without access to official liquidity and credit puts” as its hallmarks were just a first step. 
+ 
+But a proper analysis and monitoring of shadow banking should be about more than just scanning 
+and policing the financial ecosystem for credit, maturity and liquidity transformation by non- banks. 
+It is also about who should play a bigger role in the provision of money to institutional cash pools  – 
+“shadow banks ” or the sovereign; how the proliferation of structural asset -liability mismatches 
+among real money investors drove demand for investment strategies that promise equity-like returns 
+with bond-like volatility, typically delivered in the form of levered beta exposures; and how various 
+forms of leverage provided by broker -dealers to these investment strategies across  the asset 
+management complex h elp generate excess return for real money investors as a first order priority, 
+influences the yield o f Treasury securities and spreads on mortgage s and other bonds, and provides 
+balance sheet capacity for the provision of credit to borrowers in the real economy as a byproduct. 
+ 
+Accordingly, this paper emphasizes the role  of shadow banking as the process through which the 
+financial ecosystem resolves the structural shortage of Treasury bills – and more broadly, public 
+money – on the one hand, and increasingly inadequate expected returns on safe bonds on the other.  
+ 
+Wholesale funded, levered bond portfolios – money market funding of capital market lending –  
+whether on the balance sheet of global banks, broker -dealers or funds across the asset management 
+complex effectively serve a dual purpose: first, the provision of quasi Treasury bills through the 
+issuance of shadow money claims to fill the structural shortage of genuine Treasury bills available for 
+institutional cash pools to park their funds in , and second, the provision of excess returns  with low 
+volatility – equity-like returns with bond- like volatility – to those who provide the equity “tranche” 
+of levered bond portfolios: shareholders in financial holding companies (in the case of global banks’ 
+and dealers’ bond portfolios) and the ultimate  investors that invest in levered bond funds.  In this 
+framework, shadow money claims raise the short -term funding, short -term funding provides the 
+leverage (the source of maturity transformation and “carry”), and leverage boosts expected returns.  
+ 
+To date, the literature has focused on the funding and money creation aspects of shadow banking 
+(see Pozsar, 2011, Gorton and Metrick, 2012, and Stein, 2012), but not its excess return aspects. 
+ 
+A discussion of this role of shadow banking and related policy considerations are the paper’s key 
+focus and contribution to the literature on shadow banking.  The genesis of a lack of attention to th e 
+excess return aspects of shadow banking may have been the singular attention to  net repo in the 
+literature and relative under-appreciation of gross, or matched -book repo. Dealers’ role as matched-
+book money dealers in the financial ecosystem is the untold story of repo. As this paper explains, 
+repo in the context of matched-book money dealing differs from repo’s canonical interpretation as a 
+“bonds-funded-by-repos” analogue of the “loans-funded-by-deposits” balance sheet of banks. 
+ 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+3 
+ 
+ 
+Matched-book repo is about dealers ’ role as both massive borrowers and lenders in the secured 
+money market, intermediating between risk -averse cash pools on the one hand and risk -seeking, 
+levered fixed income portfolios on the other, with the aim of using cash from the former to provide 
+leverage to the latter to generate  returns over a benchmark at low volatility for pension funds and 
+other real money accounts that have been struggling with rising asset-liability mismatches since 2000. 
+ 
+The paper has six parts as follows. 
+ 
+Part one describes the hierarchy of money in the modern financial system ; defines shadow banking; 
+and identifies cash pools as the fundamental drivers behind the rise of wholesale funding markets. 
+ 
+Part two describes the fundamental drivers behind the secular rise of levered fixed income investing; 
+how wholesale funding and levered fixed income  investing are essentially flipsides of the same coin ; 
+and how broker-dealers emerged as intermediaries between two tribes of portfolio  managers – one 
+seeking safety and the other yield  – and as providers of working capital for the latter much like real 
+bill brokers provided working capital for merchants and manufacturers in Bagehot’s world of yore. 
+ 
+Part three discusses data gaps in measuring leverage in the broader asset management complex and 
+perception gaps between reality and what the economic literature and textbooks would have one  
+believe about the lack of explicit forms leverage in traditional, “ long-only” bond mutual funds . 
+Improvements to financial accounting would help us see beyond Bernanke’s savings glut hypothesis 
+and Shin’s banking glut hypothesis as the only possible reasons behind the pre-crisis compression of 
+the Treasury term premium and mortgage spreads, respectively, and see these developments also as 
+a result of the massive run -up in the volume of levered bids for these securities coming from asset 
+managers, financed through broker-dealers’ matched repo books – “the leveraged bids glut”. 
+ 
+Part four interprets the hallmarks of shadow banking – wholesale funding and levered fixed income  
+investing – as the financial economy reflection s of the very same real economy imbalances that are 
+behind the recently revived idea of secular stagnation (see Summers, 2013), and reconciles all this 
+with the view that shadow banking is a manifestation of financial globalization (see Mehrling, 2013).  
+ 
+Part five  discusses three sets of policy options around shadow banking: first  (and least likely)  
+reforming the financial ecosystem, which include redistributive measures to address the various 
+forms of real economy imbalances that drove the secular rise of shadow banking  (see Pozsar, 2013
+ 
+and 2014); second, dealer of last resort (see Carney , 2014, Mehrling, 2010 and Mehrling et al , 2013); 
+and third, increas ing the supply of public money for institutional cash investors  through reverse 
+repos issued by the Federal Reserve or tilting the U.S. Treasury’s issuance schedule toward more 
+Treasury bills (see Greenwood, Hanson, Rudolph and Summers, 2014 and Pozsar, 2011 and 2012). 
+ 
+Finally, part six concludes the paper. 
+ 
+Part I – Wholesale Funding 
+ 
+A useful way to frame and measure the size of the shadow banking system is through the question 
+of what is “money” for large, institutional cash investors. 
+ 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+4 
+ 
+ 
+Money and money-like claims refer to overnight and short-term liabilities that can be converted into 
+payments system money in the form of a demand deposit at par or near par on demand. Money and 
+money-like claims have no to minimal credit and duration risk and are hence highly liquid. For those 
+who invest in them, they refer to a particular subset of safe assets, namely safe, short-term assets. 
+ 
+Not all money and money -like claims are created equal: their par and near par on demand nature is 
+not uniformly s trong in all states of the world. One way to rank them is according to the type of 
+assets backing them and the type of backstops supporting them, which may be public or private. 
+This yields four categories of money and money -like claims (henceforth “ money”): public money, 
+insured money and shadow money, which may be either public or private (see Pozsar, 2014). 
+ 
+Figure 1 shows these four types of money in a matrix where each quadrant corresponds to a dist inct 
+set of issuing entities, each entity with a quintessential form of money-liability that corresponds to it. 
+ 
+In the upper-left quadrant are public money claims. These are reserves issued by the Federal Reserve 
+and bills issued by the U.S. Treasury. Both claim s are backed by public assets – U.S. Treasury debt 
+and government-guaranteed mortgages, and the government’s authority to tax, respectively – and are 
+direct liabilities of the sovereign. They are the safest of safe assets in the financial ecosystem. 
+ 
+In the lower-left quadrant are insured money claims. These are demand and term deposits issued by  
+local banks in amounts less than $250,000. Insured money claims are private -public money as they 
+are backed by private sector loans  but are supported by explicit public backstops in the form of 
+liquidity puts to the Federal Reserve and credit puts to the U.S. Treasury through deposit insurance. 
+ 
+In the upper -right quadrant are public shadow money claims. These are overnight and term  
+repurchase agreements (repos) backed by government -guaranteed collateral and issued by the rates 
+desks of broker -dealers, and constant net asset value (NAV) shares issued by government -only 
+money market funds that invest only in the above repos and short-term U.S. Treasury obligations. 
+ 
+Public shadow money claims are public -private money as they are backed by public assets and are 
+private promises to pay par or near par on demand, reinforced by private , not public backstops. 
+That said, because the assets backing them are public and hence credit -risk free, public shadow 
+money claims have an implicit credit put to the sovereign , and because these assets are central bank 
+eligible, they are also supported by an implicit liquidity put to the central bank. These implicit puts 
+make public shadow money nearly as strong as public and insured money, but not quite as strong. 
+ 
+In the lower -right quadrant are private shadow money claims. These are overnight and term repos 
+backed by private collateral issued by the credit desks of broker-dealers; constant NAV shares issued 
+by prime money market funds that invest in the above repos and other short -term, unsecured 
+liabilities issued mostly by banks but also by financial  holding companies and non-financial firms; 
+and uninsured demand and term deposits issued by global banks in amounts greater than $250,000.
+2 
+ 
+Private shadow money claims are purely private money as they are backed by private assets and are 
+private promises to pay par or near par on demand, reinforced by private, not public backstops  – 
+public backstops are not present, not even implicitly . This is true even in the case of global banks ’ 
+                                                 
+2 Global banks refer to U.S. chartered banks with overseas operations and the New York branches of foreign banks.  
+Electronic copy available at: https://ssrn.com/abstract=2558945
+5 
+ 
+ 
+uninsured deposits which are supported by liquidity puts to the Federal R eserve, but not by credit 
+puts to the sovereign. Private shadow money claims are the weakest of the four categories of money. 
+ 
+Figure 2 shows the core entities of the shadow banking system – broker-dealers and money funds –  
+on the right -hand side of the matrix. The shadow money claims issued by them, together with the 
+uninsured deposits of global banks, represent where the bulk of credit, maturity and liquidity 
+transformation is conducted without the twin pillars of public liquidity and credit backstops available 
+to traditional banks (see Pozsar et al
+, 2010). Put differently, these parts of the matrix represent where 
+the bulk of money market funding of capital market lending  takes place (see Mehrling et al, 2013).3 
+Importantly, as the purple borders in Figure 3 indicate, shadow banks co-exist with traditional banks 
+under the financial holding company umbrella of global systemically important banks (G-SIBs). 
+ 
+An essential first step to understand the secular  rise of wholesale funding, and why the supply of 
+certain types of money grew faster than others before the Great F inancial Crisis is to divide cash 
+investors into two groups: retail and institutional. The economics literature and textbooks universally 
+assume that the bulk of intermediaries’ funding comes from households and that wholesale funding 
+is mostly an interbank phenomenon – institutional cash investors feature nowhere in the debate.4  
+ 
+This misperception is important to highlight  as an increasing share of intermediaries ’ funding has 
+been coming from large, institutional cash investors – or institutional cash pools. Cash pools refer to 
+investors with at least $10 billion in money market assets under management, and are managed by 
+professional investors whose mandate is “do not lose” (see Pozsar, 
+2011, 2012 and 2014). 
+ 
+Cash pools  fall into three categories : first, the liquidity tranche of FX reserves ; second, the cash 
+pools of global corporations; and third, cash pools in the asset management complex (see Figure 4).5 
+ 
+Unlike retail cash investors, who hold cash mostly for real economy  transactions, institutional cash 
+pools hold cash balances mostly for financial economy transactions – for the daily fixing of FX pegs, 
+and for supporting the increased liquidity needs of the modern asset management complex, which 
+stem mostly from the rising prominence of derivative-overlay investments (where “cash” is used as a 
+fundamental building block of portfolios) and securities lending (to be discussed in Part IV). 
+ 
+Cash pools are relatively recent species in the global financial ecosystem – FX reserves took off in 
+earnest after the Asian financial crisis and China’s entry into the world trading system in 2000; 
+corporations have become net suppliers of funding in the financial system also after 2000 in contrast 
+to their traditional role as net demanders of funding ; and the structural increase in the cash intensity 
+of asset management and consolidation among asset managers are fairly recent phenomena as well. 
+ 
+                                                 
+3 Money market funding of capital market lending as a definition of shadow banking elegantly implies the presence of 
+maturity and liquidity transformation (money market funding) as well as credit transformation (capital market lending ). 
+That said, credit transformation only applies in the case of private credit claims, not credit -risk free public credit claims. 
+4 Even if cash pools ultimately reflect retail claims, the fact that they are managed by professional investors matters: once 
+retail cash balances get aggregated they become wholesale (institutional) cash pools, going from insured to uninsured, 
+and from principal to agent investments, with the latter highly sensitive to counterparty risks and thus highly run prone. 
+5 Cash pools within the asset management  complex refer to the cash pools that arise due to the central liquidity 
+management of fund complexes, the ca sh balances of institutional investors ranging from pension and insurance funds 
+to hedge funds and endowments, and the cash collateral reinvestment accounts of seclenders (previous works (see 
+Pozsar 2011 and 2014) refer to three or four types of pools, depending on whether seclenders are counted separately).  
+Electronic copy available at: https://ssrn.com/abstract=2558945
+6 
+ 
+ 
+Figure 5 shows the volume of cash pools over time. Notice the sharp pickup in the growth of cash 
+pools after 2000, which is to say that the growth in cash pools pre -dates the Great Financial Crisis,  
+and that cash pools kept on growing in the aggregate in the aftermath of the Crisis – two pieces of 
+evidence that underscore the secular, as opposed to cyclical nature of the rise of cash pools. Here it 
+is also important to note that cash pools in the asset management complex dominate  (more on this 
+in Part II of the paper), followed by corporate pools; the liquidity tranche of FX reserves ranks last. 
+ 
+Size matters. Unlike retail cash investors for whom money exists in the form of currency and insured 
+deposits, institutional cash pools have no (or only limited) access to the public and insured money 
+claims listed on the  left-hand side of the matrix. This is because cash pools cannot  have reserve 
+accounts at the central bank, and their size is far above the deposit insurance limit of $250,000. 
+ 
+Were cash pools to invest in an uninsured deposit at any single bank, they would assume an 
+unsecured and undiversified counterparty credit risk vis -à-vis that bank, which is imprudent and 
+would not get any risk manager’s approval. And what is true at the micro level is also true at the 
+macro level, as cash pools have grown ever bigger, while options to diversify unsecured bank 
+exposures have been shrinking due to consolidation among banks best able to absorb pools of cash. 
+These issues have been further exacerbated by the fact that the same banks have often been serv ing 
+as providers of  credit lines and derivative and trading counterparties to cash pools  and the larger, 
+consolidated entities they belonged to. This was a further constraint for cash pools to keep cash in 
+uninsured deposits, as that would have led to an increase in the concentration of counterparty risks. 
+ 
+Thus, after a point, demand for uninsured deposits becomes inelastic, and adjustments in prices are 
+unable to clear markets (see Claessens et al
+, 2012). As a result, cash pools start to diversify out of the 
+banking system and look for money and money-like claims elsewhere in the financial ecosystem. 
+ 
+Treasury bills are one alternative . As a form of public money, Treasury bills represent the safest of 
+safe assets that cash pools c an invest in. However, both an analysis of the so -called monetary 
+premium embedded in the yield of Treasury bills (see Greenwood, Hanson and Stein , 2014  and 
+Figure 6), and an analysis of the balance between the supply of and demand for Treasury bills (see 
+Pozsar, 2011) suggest that the financial ecosystem is beset by a structural shortage of Treasury bills.  
+ 
+Figures 7 and 8 show how on the left-hand side of the matrix, institutional cash pools are effectively 
+stuck between a rock and a hard place : an inelastic supply of public money claims as cash pools as a 
+whole can not get enough Treasury bills (the paradox of safe investing, see Pozsar, 2012) , and an 
+inelastic demand for uninsured bank deposits as after a point , cash pools are unwilling to assume 
+unsecured counterparty credit risk  exposure to banks . Ultimately, this is what makes cash pools to 
+opt for second best alternatives  by investing in the elastic “middle” of shadow money claims on the 
+right-hand side of the matrix. While not as safe as Treasury bills, secured repos issued by dealers and 
+the diversified exposure to unsecured claims that prime money fund shares represent are safer claims 
+than an unsecured credit exposure to any single bank through uninsured deposits (see Pozsar, 2014). 
+ 
+In fact, Figure  9 confirms that cash pools, unlike households , hold only a limited amount of their 
+cash balances in M2-types of money. Whereas insured deposits are the dominant form of money for 
+households, uninsured deposits make up only about 20% of institutional cash portfolios.  Thus, for 
+institutional cash pools “ money (practically) begins where M2 ends ”. Importantly, as explained by 
+Pozsar, 2014, the volume of uninsured deposits held by institutions is likely overstated by the 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+7 
+ 
+ 
+numbers in Figure 9, as some uninsured deposits are only marginally above the deposit  insurance 
+limit and are held by households and small businesses, not cash pools. But since a granular 
+breakdown of the size of uninsured deposits by size is not available, it is impossible to estimate with 
+current data the precise volume of uninsured depo sits held by cash pools. This is a n important, but 
+highly under-appreciated data gap: although data on what t ypes of institutional investors hold how 
+much in Treasury bills, institutional-class money fund shares and repos is also far from perfect, there 
+is a lot less data (or more bluntly, practically no  data) about the holders of bank deposits and a 
+breakdown of holdings by function, term and size (see OFR
+, 2013 and Pozsar, 2015a, forthcoming). 
+  
+What this implies is that any discussion of “core” vs. “noncore” (that is, deposit versus non-deposit) 
+liabilities should be context dependent – both from a liability, as well as an asset perspective. 
+ 
+The core versus noncore characterization of liabilities has been shaped by analyzing peripheral cases 
+– Northern Rock in the U.K. (see Shin
+, 2010a) and South Korean banks’ noncore liabilities which 
+have historically been denominated by U.S. dollar borrowings (see Shin, 2010b). However, the 
+picture looks completely different at the core of the dollar -based global financial system as depicted 
+by the money matrix (also see Mehrling, 2011 and Mehrling et al , 2013), where certain types of core 
+intermediaries, such as broker -dealers, fund their balance sheets exclusively using noncore repos, 
+and where cash pools – as an increasingly dominant group of funding providers in the financial 
+ecosystem – prefer to invest i n noncore secured liabilities (repos) that put them in a legally senior 
+position relative to core liabilities such as uninsured deposits, or in the case of unsecured liabilities, 
+they prefer to hold them indirectly through shares in diversified prime money fund portfolios. 
+ 
+Put differently , looking at the full range of money claims from a demand  versus a supply 
+perspective, usual classifications are stood on their head : as show b y Figure 9 what are typically 
+referred to as financial intermediaries’ core liabilities are noncore assets  in institutional cash 
+portfolios, and what are usually referred to as intermediaries ’ noncore liabilities  are core assets  in 
+institutional cash portfolios  – and that includes Treasury bills which don’t even count as money in 
+the mainstream economic literature and textbooks (exceptions include Pozsar, 2011 and 2014, 
+Greenwood, Hanson and Stein, 2010 and 2014 and Krishnamurthy and Vissing-Jorgensen, 2013). 
+ 
+Part II – Levered Betas 
+ 
+Having covered the sources  of wholesale funding, the paper now turns  to the uses of wholesale 
+funding. The aim of this part of the paper is to describe the role of broker -dealers as matched-book 
+money dealers and as intermediaries between cash pools and le veraged bond investors, and how 
+wholesale funding and leveraged fixed income investing are essentially flipsides of the same coin. 
+ 
+One key insight of this part of the paper is that leverage is present not only in hedge fund portfolios, 
+but also what are traditionally assumed to be unleveraged, long -only mutual funds. T he aim of the 
+discussion is not to quantify relative degrees of leverage in various fixed income portfolios, but [1] to 
+catalogue the presence of leverage (regardless of how small or large) in various forms and places 
+across the broader asset management complex ; [2] to identify reasons for the creep of leverage even 
+into traditional corners of asset management ;  [3] to highlight the role of matched- book money and 
+risk dealing in the provision of leverage ; and [4] to have a better sense of the aggregate volume and 
+the ultimate uses and users of wholesale funding source d through the repo market . As the pages 
+below describe, leverage in asset management sourced through securities financing transactions has 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+8 
+ 
+ 
+declined since 2008, but at over $2 trillion it still remains significant. In contrast, the volume of 
+leverage incurred through the use of derivatives has increased (see IMF, 2014 and also Aitken, 2014).    
+ 
+Wholesale funding and banking being topics that go hand in hand, and banking universally 
+associated with lending to the real economy, the canonical view is that all forms of wholesale 
+funding ultimately fund the extension of credit to the real economy. While this is true, it is not  true 
+that all of this credit intermediation happens on the balance sheet of global banks or broker-dealers 
+and is hence supported by the capital base of these intermediaries . It also happens on the balance 
+sheet of a range of levered bond funds  across the asset management complex  where it is supported 
+by the risk capital of the ultimate investors who placed their savings with these levered funds. 
+ 
+Of the intermedia ries listed in the money matrix, broker -dealers are perhaps the least well  
+understood when it comes  to the question of who exactly they lend to. We know what local  banks 
+do – they make loans to households and small businesses and issue demand deposits in the process, 
+in small, insured amounts (see Turner, 2013, Kumhof and Jakab, 2014 and McLeary et al, 2014). 
+ 
+We also know what global banks do – they too make loans and issue deposits, but typically to global 
+businesses and in large, uninsured amounts . In addition, we also know that global  banks manage 
+large fixed income portfolios which they fund in the wholesale funding  market (see Eatwell, 2013) , 
+and serve as money dealers  in the domestic federal funds and GCF repo markets , and between the  
+domestic and Eurodollar funding markets through interoffice loans and interest rate and FX swaps 
+(see McGuire and von Peter, 2009, Shin, 2011, Stein, 2012, Mehrling, 2013 and Pozsar, 2014). In all 
+of these cases, we have a good s ense of which sectors of the economy banks’ bond portfolios fund, 
+and an increasingly good sense of the volume and geographic distribution of global dollar funding.6 
+ 
+And we know what m oney funds do – they absorb funds by offering par on demand claims and re-
+lend funds in the money market to four major borrowers: the Federal Reserve via reverse rep os; the 
+U.S. Treasury via Treasury bills ; global banks , both on and offshore, via Yankee and Eurodollar 
+instruments; and broker -dealers via repo s. Money funds als o lend to the government-sponsored 
+enterprises (GSEs) via agency discount notes, and to financial and bank holding companies as well 
+as to non-financial firms via the commercial paper market, but in relatively small amounts. Here too, 
+the question of who money funds lend to (and at what tenor and price) is fairly clear and obvious. 
+ 
+But we do not know too well who broker-dealers fund with the funds they raise . This is mostly due 
+to data gaps in the bilateral repo market, where all of the short -term funds raised by broker -dealers 
+are re-lent, also on a short-term basis. What we do know is that only a relatively small portion of the  
+short-term repo funding raised by broker -dealers is used to fund dealers’ inventories of long-term 
+securities (an analogue of global banks’ wholesale-funded bond portfolios), and that the ir bulk ends 
+up being passed on to institutional c lients through reverse repo loans (through matched, or close to  
+matched books). This suggests that broker -dealers, similar to global banks and money funds, also 
+function as money dealers but mostly onshore and near-exclusively in the secured money market.7 
+ 
+The canonical view on what broker -dealers do is quite different from this, however.  It casts dealers 
+as entities that use repo mainly to fund their own securities inventories – an image that yields 
+                                                 
+6 Money dealing refers to market making both within and across onshore and offshore (Eurodollar), and secured and 
+unsecured money markets between banks, broker-dealers, money funds and levered bond investors globally. 
+7 This is in contrast to global banks and prime funds who also deal in offshore as well as unsecured money markets.  
+Electronic copy available at: https://ssrn.com/abstract=2558945
+9 
+ 
+ 
+misplaced conceptual parallels with the “loans -funded-by-deposits” balance sheet of banks . 
+Furthermore, it assumes that securities financing transactions involving bond collateral are mostly 
+inter-dealer and dealer -to-bank, and that securities financing involving equities (margin lending) 
+through prime brokerage is all there is to the interaction between broker-dealers and asset managers. 
+ 
+The remainder of this section of the paper aims to de-bunk these misconceptions and shed light first 
+on the volume of money dealing conducted by broker -dealers, and second the type of securities and 
+clients that they fund in the process. It also identif ies deeper macroeconomic themes that may 
+explain why we have seen a secular increase in the volume of securities financing in the run up to the 
+crisis – the flipside of the secular rise of institutional cash pools over the same time period. 
+ 
+First, money dealing. 
+ 
+Figure 10 shows the volume of primary dealers’ securities financing  activities over time. The blue 
+line plots “securities in” which refers to cash lent by broker -dealers versus securities collateral 
+through reverse repo transactions, as well as s ecurities borrowed by broker -dealers versus cash 
+collateral through securities borrowing transactions. The red line plots “securities out” which refers 
+to cash borrowed by broker -dealers versus securities collateral through repo transactions, as well as 
+securities lent by broker -dealers versus cash collateral through securities lending transactions.
+8 As 
+these lines demonstrate, broker -dealers are at the same time both massive borrowers and lenders 
+(that is, money dealers) in the secured money market, and , as noted above, only use a small share of 
+short-term funding raised via repos to fund their own inventory of securities held for market making 
+purposes. The latter is shown by the orange line, which plots “net financing”: the difference between 
+total securities out (funding raised by dealers) and total securities in (funding provided to clients).  
+ 
+Figure 11 shows a snapshot of the balance sheet of primary dealers as a sector at two points in time: 
+before the Great Financial Crisis (the first quarter of 2008) and more recently (the first quarter of 
+2013). From bottom to top, the snapshots show the portion of dealers ’ securities inventories funded 
+on a long-term basis (shades of red), the portion of dealers’ securities inventories funded on a short-
+term basis (shades of blue) and finally, the portion of dealers’ matched-book money dealing activities 
+(shades of yellow). As shown very explicitly by this f igure (and as implied by Figure  10 above), just 
+over 80% of broker-dealers’ balance sheet (a number unchanged since the Crisis) is accounted for by 
+matched-book money dealing, that is the intermediation of cash versus securities between clients 
+long securities and in need of funding, and cash pools long cash and in need of collateral. 
+ 
+Figure 12 shows a more granular look at the composition of broker-dealers’ matched-book activities 
+by term. Thus, roughly 50% of dealers’ client financing is conducted on an overnight basis and the 
+other half on a term basis, and on the funding side, the split between overnight versus term funding 
+of money dealing is about 70% to 30% – ratios that also have not changed much since the C risis. 
+Contrast this with the portrayal of overnight repo borrowing by others  (see Brunnermeier
+, 2009) 
+that focus on the dominance of overnight repo borrowings of broker -dealers, without due regard to 
+the equally dominant  volume of overnight repo loans of broker -dealers – as a matter of fact, 
+overnight lending to the buy side can only be financed overnight for money dealing to be profitable.  
+ 
+                                                 
+8 While some securities financing transactions involve the swap of securities for securities, most are securities for cas h. 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+10 
+ 
+ 
+Figures 13 and 14 show that about 60% of broker-dealers’ balance sheet – another ratio that did not 
+change much since the Crisis – supports matched book money dealing (overnight borrowing to fund 
+overnight lending and term borrowing to fund term lending as denoted by those slices of the f igure 
+that are marked with an “=” sign) ; that about 20% of broker -dealers’ balance sheet involves the 
+overnight funding of term financing extended to clients (long inventories of money market exposure 
+that arose out of money dealing) ; and that the remaining 20% of broker -dealers’ balance sheet is 
+typically dedicated to fund inventories of securities held for market -making purposes –  a segment 
+where funding has decidedly shifted from short-term to longer-term since the Great Financial Crisis. 
+ 
+Second, funding what and for whom? 
+ 
+Figure 15 shows that the volume of securities financing transactions that go through dealers’ 
+financing operations and involve bonds as collateral (excluding inter -dealer and dealer -to-bank 
+trades in the GCF
+® repo market; see the red and blue lines), outstrip the volume of transactions that 
+flow through dealers’ prime brokerage operations backed by equities collateral (see the orange lines). 
+ 
+Figure 16 presents the same  from the vantage point of hedge funds, by showing how leverage 
+sourced through prime brokerage accounts for less than 20% of hedge funds’ funding, and leverage 
+sourced through repos (through dealers’ financing desks) and derivatives (through dealers’ derivative 
+(swap) desks) account for a much bigger 50% and 30% of hedge funds’ total funding, respectively. 
+ 
+Both Figure 15 and Figure 16 sit uncomfortably with the notion that broker -dealers lend mostly to  
+hedge funds, through prime brokerage operations, and mainly involving equities coll ateral. In 
+contrast, w hat these f igures suggest is that f urther inquiry into who is  on the receiving end of 
+dealers’ financing activities leads us beyond the world of long/short equity hedge funds and deep 
+into the realm of asset management and the world of levered bond portfolios (see Pozsar
+, 2014). 
+ 
+Figure 17 shows the three core categories of levered bond portfolios: mutual funds, hedge funds and 
+separate accounts with rates (that is, fixed income) and/or credit  (as opposed to equity ) mandates. 
+These types of vehicles account for the bulk of bond portfolios in the asset management complex. 
+ 
+Just like cash pools, levered bond portfolios are also fairl y recent species of the financial ecosystem, 
+and also took off around the turn of the millennium. While their rise is hard to track in the data ( due 
+to the bilateral repo data gaps mentioned above), it can be inferred  from some investment methods 
+that were first devised and written about by leading asset managers in the early 2000s  (see Gross, 
+2003a and 2003b and Dalio, 2004), and later adopted by many others across the financial ecosystem. 
+ 
+The fundamental macro drivers behind the secular  rise of levered bond portfolios were two- fold: 
+over-concentration in equities and inadequate returns on safe, long-term assets (see Dalio, 2004) – 
+problems that came to the fore after the burst of the dot com bubble and subsequent decline in 
+long-term interest rates, which in turn triggered a structural widening of asset -liability mismatches at 
+institutional investors such as pension funds  and FX reserve  managers (see Figure  18; structural  
+asset-liability mismatches will be discussed in more detail below and in Part IV of the paper). 
+ 
+In turn, t hese events drove the demand from institutional investors for  products with mandates to 
+“beat the benchmark” by delivering equity-like returns with bond-like volatility (see Sweeney, 2012).  
+ 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+11 
+ 
+ 
+Examples of such products, across the three categories of levered bond portfolios mentioned above, 
+include the largest total return, absolute return and risk parity funds among mutual funds; strategies 
+including credit and fixed income arbitrage (including agency mortgage REITs) among hedge funds; 
+and among separate accounts, funds  that are either bespoke and/or blended versions of the  above 
+or are solutions-driven ( i.e., liability-driven investments ) to help investors meet fixed obligations  
+(regarding leverage in risk parity funds, also see for example Asness, Frazzini and Pedersen, 2012).9 
+ 
+Although to varying degrees, each and every one of these investment strategies involve the 
+engineering of targeted risks and returns using leverage, either through the use of securities financing 
+such as repos and securities lending , or through the use of derivatives  such as futures and swaps  
+(note, that the emphasis of this paper is on the role of securities financing, not derivatives; the 
+remainder of this paper discusses derivatives mostly in the context of how margin calls associated 
+with derivatives may necessitate the raising of liquidity through securities financing transactions; the 
+use of derivatives in asset management varies: as described in Pozsar, 2015b derivatives are used not 
+only to gain leverage, but also to hedge, and to gain exposure to a segment of the market “when the 
+combination of derivatives and short-term instrument [ that is, cash and cash equivalents ] provide a 
+more attractive risk -return profile than they physical alternative ” (see PIMCO, 2014), or when 
+physical instruments are in short supply relative to demand (for example, broker -dealers’ provision 
+of 30-year Treasury exposures via 30-year swaps, or EM exposures through credit-linked notes). 
+ 
+For example, in the case of risk parity funds , Dalio
+, 2004, describes how us ing leverage, bonds can 
+be made competitive with equities at lower levels of risk . Similarly, in the case of total return funds , 
+Gross, 2003a, notes “Holy cow, Batman, [ leveraged bond portfolios] can outperform stocks” on a 
+risk-adjusted basis. More generally, Gross, 2003b, argues how during periods of negative real short -
+term interest rates and/or sharply positive yield curves, investors should invest in assets that borrow 
+at the short-term rate, not lend at them – a strategy where bond portfolio managers effectively raise 
+cash either through borrowing against or lending their Treasury securities in the repo and securities 
+lending markets, respectively, or by building Treasury exposures through the use of futures and 
+swaps (which require little cash upfront ), and use the proceeds to purchase commercial paper  and 
+floating rate notes issued by global banks, broker-dealers and financial and non-financial corporates. 
+In essence, su ch investment techniques turn Treasuries into “corporate bonds in disguise” ( see 
+Gross, 2014a), allowing the manager of a Treasury fund to beat the  benchmark, not by generating 
+alphas (through market timing and security selection), but leverage -enhanced betas (Gross, 2014b).10 
+Finally, in the case of hedge funds, agency mortgage REITS running funded (that is, levered) 
+portfolios of agency mortgage-backed securities are a fairly straightforward example of levered betas 
+(other examples would include fixed income arbitrage hedge funds and long/short credit funds). 
+ 
+Figure 19 shows how the engineering of all forms of levered betas involve the use of borrowed cash 
+for three distinct ends: funding, shorting (and on the flipside of shorting , securities lending), and 
+derivatives margining. In the case of funding, cash is needed for the funding of levered bond 
+positions; in the case of securities lending/shorting, cash is needed as collateral in exchange for fixed 
+income securities loaned /borrowed; and in the case of derivatives, cash is needed for margining 
+                                                 
+9 In effect, institutional investors’ aim was to reduce allocations to high return, but high volatility stocks, and at the same 
+time replace the sacrificed returns by increasing allocations to levered positions in low return, but low volatility bonds.  
+10 Leverage-enhanced betas (or simply, levered betas) are also referred to as “perceived alpha s” (see Gross, 2014b) or 
+“smart betas” (see Foley, 2014). Both terms imply the creep of leverage into what are traditionally thought of as long -
+only fixed income strategies, and the creep of shadow banking-like activities into the asset management complex. 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+12 
+ 
+ 
+purposes (for examples of each see the three balance sheets on the left-hand side of Figure 19, and a 
+more detailed description  of each example see Pozsar, 2014 sections III.1a, III.1.b and III.1.c) . 
+Bilateral repos , securities lending and swaps conducted with dealers – as intermediaries between 
+levered bond funds on the left and cash pools on the right -side of Figure 19  – play a role in all of 
+these transactions as denoted by the lines that run through dealers’ matched repo and swaps books. 
+ 
+Figure 20 shows a simplified version of Figure 19  and depicts a “pocket version” of the dealer  
+ecosystem where broker -dealers act as money  and risk dealers between two trib es of portfolio 
+managers: cash pools searching for safety and levered bond portfolios searching for yield (this model 
+was developed by the Shadow Banking Colloquium at the Institute for New Economic Thinking, 
+see the paper “Bagehot Was a Shadow Banker” by 
+Mehrling, Pozsar, Sweeney and Neilson, 2013). 
+ 
+As discussed in Part I, c ash pools are cash rich but “ safety poor ” since they are too large to be 
+eligible for insured money  and face a structural sh ortage of Treasury bills. This drives them toward 
+shadow money claims such as repos collateralized by bonds . On the other hand, l evered bond 
+portfolios are securities rich but  “return poor” in the sense that they have a mandate to beat their 
+benchmarks. To that end, they employ the techniques of funding, securities lending and derivatives. 
+In each and every one of these cases, levered bond portfolios repo securities out and cash in, and on 
+the other side, cash pools repo securities in and cash out. Cash pools get  their safety (thanks to the 
+securities posted by levered bond portfolios as collateral) and lever ed bond portfolios get  their 
+enhanced return in the form  of leverage-enhanced betas (using the funds provided by cash pools v s. 
+collateral). In this sense, cash pools and levered bond portfolios are complements to each other.  As 
+more than just brokers, broker -dealers not only intermediate between cash pools and levered bond 
+portfolios through matched books, but also absorb imbalances in order flows, which give rise to 
+inventories – sometimes short (term funding of overnight ex posures) and sometimes long 
+(overnight funding of term exposures) – mismatched positions against which dealers hold capital. 
+ 
+This image of the dealer ecosystem allows us to draw powerful parallels between the activities of the 
+London bill brokers of  Bagehot’s world over 1 50 years ago and broker -dealers today. Reading 
+Bagehot, we enter a world where capital market bonds  are not yet the focal point of trading and 
+prices, as they would come to be in the 20 th century. Instead, the focus of attention is the private , 
+real bills market, which domestic manufacturers tap as a source of working capital , and which 
+traders worldwide tap to finance the movement of tradable goods. It is a market in short -term 
+private debt, typically collateralized by tradable goods, quite different from our 20 th century market 
+in long -term debt (see Mehrling et al , 2013). Similarly, repo s in today’s financial system are also 
+about the provision of working capital  by broker-dealers to portfolio managers, much like real bills 
+provided working capital for manufacturers and merchants in Bagehot’s world (see Pozsar, 2014).  
+ 
+The conceptual link between repo and the provision of working capital is clear through the 
+observation that just as working capital refers to the short -term funding of real economy 
+transactions with an aim to satisfy household and business consumers by producing and delivering 
+real goods, repos effectively fund the working capital needs of levered bond portfolios in order to 
+fund short-term financial economy transactions , that is trades , in the form of levered bets on the 
+direction of interest rates, foreign exchange rates and credit spreads with an aim to satisfy retail and 
+institutional investors’ wealth aspirations by delivering financial goods in the form of excess return 
+(either in the form of pure alphas, or as the above sections imply, mostly leverage-enhanced betas). 
+ 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+13 
+ 
+ 
+Closely related, one might argue that the key reason behind this apparent shift in finance awa y from 
+funding real economy transactions and toward funding financial economy transactions – as evident 
+from the increased provision of working capital to asset managers as opposed to traders and 
+manufacturers – may be secular  changes in the mix of “ things” that need financing  over time : 
+underwriting global trade and manufacture in Bagehot’s world (real bills); underwriting victory and 
+freedom during World Wars I and II (Treasury securities); underwriting the American dream and the 
+consumer middle-class after WWII (consumer credit and mortgage loans and later ABS and RMBS); 
+and more recently, the underwriting of equity-like returns with bond-like volatility for pension funds 
+and other real money accounts amidst a proliferation of structural asset-liability mismatches by using 
+securities financing transactions and derivatives as techniques to bridge the gap between rosy return 
+expectations and the realities of a down-drift in yields on safe, long-term assets (see Figure 18).
+11 
+ 
+In this sense, securities financing is a conceptually under -appreciated “fourth” form of finance 
+alongside the three categories of bank credit identified by Adair Turner (see Turner, 2013). These are 
+[1] loans to finance productive investments and ideas ; [2] the purchase of existing assets (mainly 
+residential real estate); and [3] the smoothing of life-cycle consumption (consumer credit). Along this 
+line, we may think of securities financing as a ver y distinct, fourth type of credit, one  that gained 
+prominence with the proliferation of structural asset -liability mismatches at pension funds and other 
+real money accounts, and one that is a natural extension of the demographic cycle of advanced 
+economies where financing needs shift from funding the construction and purchase of homes and 
+consumption (cash flows from borrowing activities as a supplement  to wages and salaries), to the 
+funding of pension portfolios so that the cash flows they generate are in line with the cash flow s 
+promised to retirees (cash flows from investment portfolios as a substitute to wages and salaries). 
+ 
+Part III – Perception Gaps 
+ 
+Although no precise measures are available, the presence of leverage among hedge funds with credit 
+and fixed income strategies has been recognized since the LTCM crisis (see Figure 21), as is leverage 
+in separate accounts in the asset management complex (which are unmeasured due to data gaps). 
+ 
+While hedge funds and separate accounts are allowed to use leverage liberally – in fact, leverage is 
+the sine qua non of these investment vehicl es – it is widely underappreciated that bond mutual funds 
+that are typically thought of as unlevered and long-only also have considerable room to use leverage.  
+ 
+The extent to which this room to use leverage is utilized is up to bond portfolio manager s to decide, 
+and it is not uncommon for the largest  bond funds to maximize the leverage they may bear in their 
+portfolio within the limits allowed by the Investment Company Act of 1940, and the SEC’s 
+interpretation of the portfolio leverage and concentration incurred through the use of derivatives.12 
+ 
+                                                 
+11 Private equity –  the purchase of existing assets (mostly corporations, infrastructure and real estate) financed with a 
+combination of long -term debt and equity – are a variat ion on the same theme. But since the topic of this paper is the 
+sources and uses of short -term funding (that is, securities financing and more broadly shadow banking), term -funded 
+private equity deals are excluded from the discussion of vehicles that promise equity-like returns with bond-like volatility. 
+12 Section 18(f)(1) of the Investment Company Act (see here) restricts the ability of mutual funds to incur leverage by 
+limiting the funds’ borrowing to 300 percent of asset coverage  (a maximum degree of leverage of 1/300, that is 30% ). 
+There are no hard caps on the amount of leverage that 40 Act funds may incur through the use of derivatives; leverage 
+through derivatives is limited only by the SEC’s interpretation of a portfolio’s leverage and concentration incurred. 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+14 
+ 
+ 
+However, the creep of leverage into what are traditionally thought of as long -only bond funds was 
+missed by the mainstream economics literature and textbooks entirely. For example, recent work s 
+that identify asset managers as the core intermediaries behind the “ second phase of global liquidity ” 
+focus solely on indirect forms of leverage (FX mismatches) embedded in bond portfolios through 
+holdings of dollar-denominated emerging market sovereign and corporate bonds (see Shin, 2013).  
+ 
+Other works state even more explicitly the widely -held assumption that fixed income mutual funds 
+are unlevered, and analyze episodes of market volatility induced by redemptions without any regard 
+to how direct forms of leverage embedded in fixed income mutual funds may amplify volatility 
+during periods of rising redemptions (see for example Feroli, Kashyap, Schoenholtz and Shin, 2014, 
+Chapter 1 of the International Monetary Fund’s October 2014 G lobal Financial Stability Report , 
+Chapter 6 of the BIS’ 84th Annual Report, and Brown, Dattels and Frieda, 2014 (forthcoming)). 
+ 
+But all  of these views sit uncomfortably with the hard evidence presented above, and recent 
+revelations about “perceived” alphas (see Gross , 2014b) and pri ce action in the interest rate 
+derivative markets amidst soaring redemptions from the largest bond portfolio in the global financial 
+ecosystem – the PIMCO Total Return Fund (see  Mackenzie and Meyer, 2014).13 More concretely, a 
+look at the portfolio of this specific fund provides good examples of the forms of leverage discussed 
+above. Figure 22 shows the balance sheet of the fund as of March 31, 2014 based on SEC filings. 
+ 
+Section [1] shows the cash pool segment of the fund. N ote how the composition of the fund’s cash 
+sub-portfolio corresponds to the four types of money discussed in Part I, and how the allocation  
+weights reflect the “ do not lose ” mandate of cash pool s – shadow money in the form of Treasury 
+repos and shares in PIMCO’s central liquidity fund dominate. Just over 10% of the bond fund is a 
+cash pool – a hint at the rising prominence of the phenomenon of reverse maturity transformation 
+(see Pozsar and Singh, 2011), whereby funds with long -term mandates invest an increasing share of 
+their assets in “ cash” due to the increas ed prominence of derivative overlay investment  strategies 
+(also note that PIMCO’s treatment of net offsets related to derivatives prior to 9/30/14 suggest that 
+the fund’s cash pool segment is larger than what is in Figure 22 based on the fund’s annual report).14 
+ 
+Section [2] shows the derivatives segment of the fund. Here, we cannot tell what share of derivatives 
+is a part of the derivative overlay investments mentioned above (where exposures to duration, credit 
+and FX risks are built by combining public and shadow money claims with derivatives in a single 
+portfolio), and what share of derivatives is a part of hedges, but presumably both uses are present. 
+ 
+Section [3] shows the securities financing segment of the fund. Here, note the use of repo, securities 
+lending and shorts as sources of leverage for the fund, and in particular, note the massive divergence 
+                                                 
+13 “Gross triggers sell-off in interest rate derivatives” by Michael Mackenzie and Gregory Meyer, FT, October 5, 2014. 
+14 See https://investments.pimco.com/Products/MutualFunds/Pages/Sector_Diversification_Breakdown.aspx: “When 
+we hold an exposure via derivatives, we report the exposure the instruments give the Fund to a specific sector of the 
+market. For example, if we buy a U.S. Treasury futures contract on a notional amount equal to 5% of t he Fund’s market 
+value, we report a 5% allocation to government bonds. However, given that the 5% represents the Fund's economic 
+exposure to governments rather than an allocation of capital (since the purchase of futures only requires a small outlay 
+of cash to cover margin requirements), we also list an offset of -5% to prevent the sum of all sectors from exceeding 
+100%. The se changes […]  affect where these offsets are shown on sector allocation reports. In the past, net offset 
+related to derivatives were i ncluded in the Net Cash Equivalents category, which included cash and other short term 
+investments together with the offsets associated with such derivative exposure . [….] S tarting with the  August 2014 
+report we will break this information into two categories: Cash Equivalents and Net Offset Related to Derivatives.” 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+15 
+ 
+ 
+between the fund’s reported, quarter-end level of repo leverage, and the more than five -times larger, 
+average level of repo leverage during the quarter (footnote 2 on page 24 of the fund’s annual report). 
+ 
+Section [4] shows the fund’s long positions in various types of bonds. This is  what the canonical 
+view assumes about what bond fund portfolios look like, but as our discussion and the examples 
+above demonstrate, this is an increasingly outdated view of how modern asset management works  
+(also see footnote 15, which notes that some of these exposures may be cash overlay investments).  
+ 
+Figure 23 shows how the U.S. Financial Accounts portray the balance sheet of bond mutual funds 
+(see table L.121
+), versus the balance sheet of the PIMCO Total Return Fund as shown in Figure 2 2. 
+Note the ab sence of any hints of leverage i n the former and the presence of leverage in the latter, 
+giving the term net  asset value (that is assets net of leverage ) a whole n ew meaning. Although the 
+amount of leverage shown in Figure  23 is modest, one should be mindful of the fact that just like  
+broker-dealers, bond mutual funds use a lot more leverage during the  quarter than at quarter ends . 
+As such, the above numbers likely demonstrate only the tip of the iceberg in terms of the leverage 
+embedded in “long-only” mutual funds, and provide useful guidance as to the level of leverage one 
+might expect in separate accounts and credit and fixed income arbitrage hedge funds more generally. 
+ 
+Here, also note how sections [1] through [3] of the Total Return Fund’s balance sheet resemble 
+features of the cash and bond portfolios on the two sides of money and risk dealers in Figure 20, 
+and how deeply integrated the F und is with the dealer ecosystem – that is,  the shadow banking 
+system – both as a cash pool provider of funding to money dealers, and a leverage -taker from 
+money dealers, as well as a seller and buyer of risk exposures using derivatives through risk dealers. 
+ 
+More broadly, the above example demonstrates the evolution of the traditional core product of the 
+asset management industry – long-only, relative-return funds – as it came under pressure from two 
+directions: from hedge funds, offering absol ute return strategies, and from passive index -replication 
+products in the form of low-cost exchange traded funds (ETFs). Core -satellite investment mandates 
+became the trend, with hedge funds providing alpha and index -replication vehicles delivering beta at 
+low cost. Traditio nal asset managers responded to this challenge a number of ways : some by  
+launching their own, internal hedge funds, and some by incorporating into their core products  many 
+of the alternative investment techniques used by the hedge funds . These industry trends were the 
+sources of competitive push that drove the above -mentioned creep of leverage into the industry’s 
+traditional, long-only, relative-return bond funds (and hence the rise of levered betas), all designed to 
+stem the flow of ass ets to the hedge fund competition and command higher fees as the profitability 
+of traditional core products was squeezed (see Bank of New York, 2011 as well as Haldane
+, 2014). 
+ 
+Figure 24 shows a summary view of the se three basic products of the asset management complex: 
+pure, uncorrelated alphas on the left, low -cost, index-tracking betas on the right and their blend in 
+the middle – leverage-enhanced betas which are also known as “smart betas” or “perceived alphas”. 
+As a rule of thumb, pure alpha and levered beta  strategies heavily rely on dealer balance sheets , and 
+are heavy users of wholesale funding intermediated through the shadow banking system. This points 
+to deep, structural links between asset management and the shadow banking system  (see Figure 25; 
+also note that pure beta strategies are increasingly reliant on dealer balance sheets as well; for 
+example a synthetic ETF can give exposure to the bond market using cash plus total return swaps). 
+ 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+16 
+ 
+ 
+Perhaps the key reason s why economists have missed the creep of leverage into the traditional ly 
+long-only world of fixed income  mutual funds are the conceptual gaps in the way in which the U.S. 
+Financial Accounts (formerly the Flow of Funds) depict the global financial ecosystem, and by 
+extension, the limited mental map it gives to economists who use it to understand asset prices. 
+ 
+For example, up until recently, the U.S. Financial Accounts provided only net, not gross measures of 
+repos, and practically still exclude securities lending activities. This is problematic for two reasons. 
+ 
+First, net repo only captures the volume of short-term funding raised by broker-dealers to fund their 
+own securities inventories, but ignores the much larger gross volume of funding that broker -dealers 
+intermediate – as money dealers – from cash pools to levered bond portfolios. Conceptually, levered 
+bond portfolios funded by broker-dealers across the entire asset management complex are economic 
+equivalents of global banks’ wholesale-funded bond portfolios , and the portion of broker -dealers’ 
+fixed income inventories that are funded in the short-term repo markets. All three represent sources 
+of levered bids for fixed income securities ranging from Treasuries to mortgages and other bonds, 
+and balance sheet capacity for the provision of credit to the real eco nomy (see Figure 26). Yet, they 
+are not included in leading models of leverage and asset prices (see Adrian, Moench and Shin, 2014), 
+which focus on net  repos, that is, funding raised by broker -dealers’ to fund their own inventories: 
+gross versus net flows matter not only in the context of international capital flows and asset prices 
+(see Cecchetti, 2011 and Shin, 2012) but also in the context of domestic fund flows and asset prices. 
+ 
+Figure 27 shows the limited information we have  about the types of entities that absorb the volume 
+of securities financing extended by broker-dealers: for example, we only have data on the size of M -
+REITs, which according to the data from the U.S. Financial Accounts (see table L.127
+) currently 
+make up less than 15% of the levered bond universe outside of global banks’ portfolios and dealers’ 
+securities inventories. Outside of mortgage R EITs, the U.S. Financial Accounts  provides no hints 
+that other hedge funds, mutual funds (such as the PIMCO total return fund) and separate accounts 
+(run by asset managers for real money investors) are large consumers of dealer balance sheets. 
+ 
+Second, the exclusion of securities lending is problematic as bond funds ( and especially the largest 
+ones) may use securities lending transactions to mask transactions that are economically repos. 
+Indications that this is  indeed the case include pieces of anecdotal evidence, which stipulate that 
+because Master Securities Loan Ag reements (MSLA), unlike Master Repurchase Agreements, favor 
+the lender of securities over the dealer,
+15 some of the largest asset managers prefer to structure repos 
+as security loans and execute them under MSLAs, as well as the fact that the bulk of securities 
+lending transactions involve low intrinsic value Treasury debt and agency mortgage-backed securities 
+(see Keane
+, 2013). The latter implies that some  securities lending transactions may be motivated by 
+search for yield through cash collateral reinvestment, as opposed to harvesting the intrinsic value of 
+securities that trade special, coupled with conservative cash collateral reinvestment s (this was 
+certainly the case before the Crisis (see Citi, 2014), but this trend has moderated since ((see Part IV)). 
+ 
+From a macro -financial perspective, it is crucial to get a firm handle on who broker-dealers are 
+funding through their financing operations, and by extension, the aggregate volume of levered bids  
+they finance for fixed income securities throughout the asset management complex. This is because 
+                                                 
+15 The use of Master Securities Forward Agreements (especially those that enable an asset manager  to do forward trades 
+against specific securities) further muddles the line between the equivalence of repos, security loans and forwards.  
+Electronic copy available at: https://ssrn.com/abstract=2558945
+17 
+ 
+ 
+levered bids may have been playing a n important role in  compressing the Treasury term premium 
+and spreads  on risk assets before the Crisis . However, the way the U.S. Financial A ccounts are 
+presently organized as far as broker -dealers and asset managers are concerned do not suggest that 
+levered bids for Treasuries and other bonds have a sizeable footprint in the broader ecosystem. 
+ 
+Looking at the holders of U.S. Treasury securities in table L.209
+ would leave one with the 
+impression that the largest levered investors in U.S. Treasuries are global banks and broker-dealers, 
+while missing the footprint of the much larger gr oup of levered bond investors in the asset 
+management complex, as implied by the gross repo numbers of the FR2004 survey as a proxy for 
+the volume of balance sheet  capacity extended by broker-dealers to the managers of total and 
+absolute return bond funds, risk parity funds , hedge funds  and separate accounts  to name a few 
+(mortgage and credit assets would involve a broader set of bond investors such as mortgage REITs).  
+ 
+This omission could in turn have important implications for how we measure assets prices, as the 
+idea of th e secular rise of levered bids for fixed income securities from levered bond portfolios 
+could be a powerful alternative to the narrative that Treasur y term premi um and spreads were 
+compressed by a global savings glut (see Bernanke, 2005) or a global banking glut (see Shin, 2011).  
+ 
+Figure 28 shows that the pre-crisis decline in the Treasury term premium (Greenspan’s conundrum) 
+coincides not only with an increase in FX reserves (Bernanke’s savings glut), but also with the 
+secular increase in the volume of securities financing transactions, whereby matched -book money 
+dealers became the financiers of massive volumes of leveraged bids for fixed income securities by 
+intermediating ever-larger amounts of cash from cash pools to an ever -larger number of leveraged 
+fixed income investors. This we may as well interpret as a “leveraged bids glut” and as a supplement 
+to Hyun Shin’s global banking glut  hypothesis: whereas Shin’s banking glut focuses specifically on 
+European banks’ involvement in funding U.S. residential mortgages through the Eurodollar funding 
+market, the “ leveraged bids  glut” focuses on U.S.- based primary dealers’ involvement in funding 
+Treasuries and other fixed income securities for asset managers in onshore repo funding markets.  
+ 
+Although more research is needed in this area, the idea that  leveraged bids for fixed income 
+securities compressed the Treasury term premium appears to be a compelling alternative to than the 
+idea that accumulating FX reserves compressed them. This is because reserve managers are funded 
+investors beset with structural asset -liability mismatches due to sterilization costs, which if anything 
+should incent them to underpay and not overpay for Treasur y securities. In contr ast, the reasons 
+why levered fixed income investors would overpay for Treasury securities are more obvious. 
+ 
+Data collection efforts by the Securities and Exchange Commission (SEC), the Federal Reserve and 
+the Office of Financial Research (via Form PF and the bilateral repo pilot survey (see Berner
+, 2014)) 
+will help quantify these forms of leverage and their impact on asset price s. But equally important, 
+there is much to be gained from systemically harvesting all publicly available data ( from SEC filings) 
+on the leverage embedded in what are commonly perceived as unlevered 40 Act bond mutual funds. 
+ 
+Part IV – Secular Stagnation (and How It Relates to Shadow Banking) 
+ 
+This part of the paper explains how the secular  rise of cash pools searching for  safety, and the 
+secular rise of levered bond portfolios searching for yield have been driven by macro imbalances 
+both global and local, present and future (see Pozsar, 2014), and why we may interpret the 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+18 
+ 
+ 
+phenomenon of shadow banking  as the fina ncial economy reflection of the same real economy 
+imbalances that are behind the recently revived concept of secular stagnation (see Summers, 2014). 
+  
+Figure 29 lists these macro imbalances on two sides of the dealer ecosystem. Imbalances behind the 
+rise of cash pools are listed on the right -hand side of the figure (items [1] – [2]) and have to do with 
+imbalances in the distribution of present incomes , and imbalances behind the rise of levered bond 
+portfolios are listed on the left -hand side (items [3] – [4] and [5] on the right-hand side) and have to 
+do with a proliferation of structural asset-liability mismatches, that is imbalances in future promises. 
+ 
+Item [1] notes the secular rise of m anaged FX r egimes vis-à-vis the U.S. dollar in China, southeast  
+Asia and among oil exporters as the key reason behind the  accumulation of massive FX reserves on 
+the back of persistent current account surpluses since China’s integration into the world tradi ng 
+system in 2000 (also known as Bretton Woods II, see Dooley, Folkerts-Landau and Garber , 2014). 
+The liquidity tranche of FX reserves is the first of three cash pools identified in Part I  of the paper, 
+and we can interpret the growth in FX reserves as a reflection of imbalances in the distribution of 
+present incomes between current account surplus and deficit countries accumulated over time.16 
+ 
+Item [2] notes the secular rise of  corporate profit margins as a share of U.S. national income at the 
+expense of stagnant wages ( hence the shorthand “ capital vs. labor”) as the dominant  reason behind 
+the rise of free cash flows and corporate cash balances – the second of three cash pools identified in 
+Part I of the paper. We can interpret the growth in corporate cash pools as a reflection of  
+imbalances in the distribution of present incomes between capital and labor accumulated over time. 
+ 
+Although more analysis is needed in this area, one can identify a range of secular developments that 
+explain why corporate cash balances have been rising  since 2000.  These include  globalization, 
+demographics, technological progress, increased sophistication at arbitraging of global tax regimes, 
+and what has been referred to as the rise of the weightless economy (see for example Wilmot, 2014). 
+ 
+First, with regards to  globalization, the integration of China and other emerging market economies 
+into the world labor market  has been widely recognized as the main driver behind stagnant real 
+wages in advanced economies (see Rajan
+, 2011), and by extension, greater corporate profit margins. 
+ 
+Second, with regards to  demographics and technology , “slower population and possibly 
+technological growth means a reduction in the demand for new capital goods to equip new workers” 
+and “lower priced capital goods [and especially information technology equipment] means that a 
+given level of [corporate cash flow] can purchase much more capital than was previously the case” 
+(see Summers
+, 2014). In sum, these developments suggest that corporations are  spending less of 
+their cash inflows on investments due to secular, demographic headwinds, and whatever investments 
+they decide to spend on (mostly to enhance the productivity of existing processes, see Thiel, 2014) 
+cost fewer and fewer nominal dollars due to secular, technological tailwinds blown by Moore’s law. 
+ 
+Third, with regards to arbitrage , increasingly sophisticated tax avoidance strategies by global 
+corporations have reduced corporate tax payments and on the flipside tax receipts for governments  
+                                                 
+16 The share of countries under a freely floating FX arrangement vis-à -vis the U.S. dollar has declined from over 45% of 
+world GDP and world exports in 2000 to 35% in 2007 (see Eichengreen et al , 2011). On FX reserve accumulation 
+contributing to the rise of short-term assets held by reserve managers see Pozsar, 2011 and McCauley and Rigaudy, 2011. 
+ 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+19 
+ 
+ 
+(see G20’s Brisbane Communiqué, the G20/OECD Base Erosion and Profit Shifting Action Plan , 
+the recent shutting of the “Double Irish” corporate tax loophole, and crackdown on tax inversions). 
+ 
+Fourth, an additional reason why corporate profits, cas h flows, and – over time – cash pools have 
+been on a secular uptrend is that today’s iconic, cutting-edge, technology, software and social media 
+companies need little if any capital to expand, whereas iconic, cutting edge companies of yore 
+needed to go to the market to support expansion (also Summers
+, 2014) – in short, GM needed to 
+build more factories to sell more cars, but Microsoft can sell more code at little to no additional cost. 
+ 
+These factors as the secular macro drivers behind the rise of the two largest types of cash pools –  
+the liqui dity tranche of FX reserves and corporate cash pools –  are identical with th ose cited by 
+Summers, 2014 as to why interest rates may have drifted substantially lower in recent decades.  
+ 
+What this implies  is that imbalances in the distribution of present incomes from those with high 
+propensities to spend and invest to those with low propensities to spend and invest – whether in the 
+context of current account surplus vs . deficit nations, capital v s. labor, or the 1% vs . the 99% – and 
+the resulting excess savings over investments at the macro level, may have been exert ing a 
+downward pressure on interest rates, may have been fanning asset price bubbles, and may have been 
+shackling the U.S economy in a state of secular stagnation  – unable to achieve full employment and 
+satisfactory growth in a financially stable manner – since well before the Great Financial Crisis.  
+ 
+Indeed, the thesis of secular stagnation is about much more than just  the present and the future – 
+that is, what the above trends mean for the economy’s current pace of growth relative it’s potential, 
+and the pace of potential growth going forward. It is also about the re-evaluation of U.S. e conomic 
+performance during the early 2000s up to the Great Financial Crisis. As noted by Summers
+, 2014: 
+ 
+“Unfortunately, it appears that the difficulty that has arisen in recent years in achieving adequate growth has been 
+present for a long time, b ut has been masked by unsustainable finances. Here it is instructive to consider the 
+performance of the U.S. […] economy prior to the onset of the financial crisis in 2007. […] It is certainly fair to say 
+that growth was adequate – perhaps even good – during the 2003-2007 period. However, it would not be right to say 
+either that growth was spectacular or that the economy was overheating during this period. And yet this was the time of 
+vast erosion of credit standards, the biggest housing bubble in a century , the emergence of substantial budget deficits, 
+[…] lax monetary and regulatory policies. Imagine that U.S. credit standards had been maintained, that housing had 
+not turned into a bubble, and that fiscal and monetary policy had not been stimulative. In all likelihood, output growth 
+would have been manifestly inadequate because of insufficient demand. Prior to 2003, the economy was in the throes of 
+the 2001 downturn, and prior to that it was being driven by the internet and stock market bubbles of the late 1990s. 
+So it has been close to 20 years since the U.S. economy grew at a healthy pace supported by sustainable finance.” 
+ 
+Summers goes on to note three ways in which low  interest rates may undermine financial stability: 
+“[T]hey increase risk taking as investors reach for yield, promote irresponsible lending as coupon 
+obligations become very low and easy to meet, and make Ponzi financial structures more attractive 
+as interest rates look low relative to expected growth rates  […] developments that were sur ely at 
+work during the 2003-2007 period [and are increasingly present today]” (also see Summers, 2014).
+17   
+ 
+                                                 
+17 Summers cites two additional factors that may have contributed to the decline in the full employment interest rate . 
+These are increased frictions in financial intermediation and greater risk -aversion following the Great Financial Crisis, 
+driven by increased regulation, debt overhangs and increased uncertainty discouraging borrowings and investments.  
+Electronic copy available at: https://ssrn.com/abstract=2558945
+20 
+ 
+ 
+But in light of Parts I and II of the paper, we could add two more  sources of financial stability risk : 
+the first has to do with the portfolio preferences  of cash pools discussed in Part I of the paper ; and 
+the second with the structural as opposed to cyclical reasons behind search for yield  – namely, 
+demographic factors (an ageing population) driving the stock of pension promises higher, long -term 
+interest rates lower and –  as a combination of the two – asset-liability mismatches wider, making 
+them the ultimate, structural drivers of search for yield in the financial ecosystem (see Pozsar, 2013). 
+ 
+With regards to the f irst, to the extent that savings accumulate in the hands of investors –  such as 
+FX reserve managers and corporate treasurers – that have a  sizeable appetite for safe, short-term 
+assets (corporate treasurers seek almost exclusively short -term assets, while FX res erve managers 
+seek sizeable volumes of short -term assets through the  liquidity tranche of their portfolios ), the 
+provision of shadow money claims by the global financial ecosystem as substitutes for Treasury bills 
+that are scarce, and insured bank deposits that are off-limits also poses threats to financial stability as 
+shadow money claims are not supported by official backstops and are hence prone to runs.  
+ 
+In this sense, imbalances in the distribution of present incomes between nations and factors of 
+production (the heart of the secular stagnation thesis), wholesale funding, and the demand for and 
+supply of shadow money claims are closely interlinked. Moreover, to the extent that the manufacture 
+of quasi Treasury bills through short -term repos backed b y longer-term Treasuries may depress the 
+yield on Treasury securities through levered bids ( Figure 28), cash pools ’ demand for safe, short -
+term assets may have been an additional factor behind the secular decline of nominal interest rates. 
+ 
+With regards to the second, reach for yield is not necessarily related to the absolute level of interest 
+rates, but rather the level of interest rates relative to the level of expected returns and discount rates. 
+ 
+Reach for yield is omnipresent in a financial system wher e investors are hardwired to beat their 
+benchmarks, but reach for yield intensifies as actual yields drift farther and farther away from the 
+return targets of investors with fixed liabilities. This drift may have secular or cyclical reasons behind 
+it (that is, its drivers may be structural or policy  driven), which means  that reach for yield is more 
+intense during periods when policy rates are kept low in order to stimulate economic activity.  
+ 
+But to amplify, reach for yield is  not limited to periods of low policy rates;  it’s just that it’s more 
+intense during those periods . And a s discussed in Part II, the key driver s behind structural (as 
+opposed to cyclical) reach for yield have  been accumulating pension promises and ever lower yields 
+on safe, long-term assets – both due (in large part) to the same demographic reason, namely ageing. 
+ 
+Underfunded pensions  represent risks to financial stability through their demand for levered 
+investments that offer equity-like returns with bond-like volatility using leverage sourced via dealers. 
+ 
+Item [3] in Figure 29 notes underfunded pensions as the prime example of rising asset -liability 
+mismatches in the financial ecosystem , and by extension, an ultimate source of reach for yield . 
+Pension funds were one set of institutional investors that following the dot com bubble and 
+subsequent decline in long -term interest rates drove the demand for products (such as the levered 
+fixed income and/or credit mutual funds, hedge funds and separate accounts discussed in Part II), 
+with a mandate to beat the benchmark and promise equity-like returns with bond-like volatility.  
+ 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+21 
+ 
+ 
+Figure 30 – another Mount Fuji chart (see Geithner, 2014) – shows the actuarial funding level of the 
+largest public retirement systems in the U.S. (at the end of fiscal year 2012, systems in the survey that 
+produced these numbers held assets of $2.63 trillion and comprise about 85% of the entire state and 
+local government retirement system community (see Public Fund Survey, 2013)). Note the collapse 
+of funding levels in the aftermath of the dot com bubble – the inflexion point that marks the start of 
+the promotion of the above products, exploiting the growing gap between pension funds’ 
+unchanged discount rate assumptions and ever lower yields on safe assets (see Figure 18).  
+ 
+Figure 31 shows pension funds’ rising holdings of alternative investments as vehicles that promise to 
+generate equity-like returns with bond-like volatility. Here, also note that levered bond portfolios are 
+present not only through pension funds’ increased allocations to alternative  investments, but also 
+implicitly through the use of levered separate accounts, liability-driven investment strategies, and the 
+use of leverage by institutional -class mutual funds , all of which are captured by the survey as 
+traditional, “long-only” fixed income investments (as such, looking only at allocations to alternative  
+investments would somewhat understate the amount of leverage embedded in pension portfolios ; 
+the grey line in the figure indicates  the presence of embedded leverage in fixed income allocations , 
+but a precise measure of the amount of leverage present in fixed income allocations isn’t available).18  
+ 
+Figure 32 shows an elegant summary of all this, showing a strong positive correlation between the 
+degree of public pension funds underfundedness and the degree of their allocation to risky assets, 
+including alternatives (the greater the degree of pension funds’ underfundedness, the greater their 
+allocation to alternative investments as implied by the size of the red bubbles (see Caballero
+, 2013)).  
+ 
+Item [4] in Figure 29 notes the sterilization costs associated with fixed/managed exchange rate 
+regimes and accumulating large volumes of FX reserves – another example of rising asset -liability 
+mismatches in the financial ecosystem. This is because the bills issued to sterilize  the exchange of 
+foreign currency to domestic currency yield more than the average yield of the foreign bonds that 
+FX reserves are held in, which is a fiscal cost (see Figure  18 again). To minimize these  fiscal costs, 
+reserve managers also allocate some of their portfolios to separate accounts that employ leverage. 
+ 
+In addition to reaching for yield through products offering levered betas, real money accounts also 
+became more active in securities lending by lending from their portf olios securities held outr ight. 
+Figure 33 shows the secular increase in the volume of securities lending by beneficial owners ( such 
+as mutual funds and retirement and pension funds, see the upper-left chart), and as our discussion in 
+Part III suggests, some of these transactions are not necessarily motivated by harvesting the intrinsic 
+value of securities that trade special or are in demand by short sellers, but rather the raising of cash 
+collateral motivated by search for yield to enhance portfolio returns to get closer to discount rate  
+assumptions and reduce fiscal costs as discussed in Part II ( see Figure 18 again). This can be seen 
+from the fact that about half of the volume of securities lent are low intrinsic value government 
+                                                 
+18 On the degree of corporate  pension funds’ structural under -funded status see Towers Watson , 2012, and on the 
+degree of state and local  pension funds’ structural under-funded status see Novy-Marx and Rauh , 2013. On the secular 
+rise of levered portfolios see the rise in hedge fund’s assets under management from less than $50 billion in 1990 to $500 
+billion in 2000 and $2 .25 trillion in 2012 (see McKinsey Global Institute , 2007 and HFR , 2012). Finally, on the rise of 
+pension funds’ and endowments’ increased allocation to hedge funds see the increase in hedge funds’ capital  under 
+management from pension funds and endowments rise from about 15% in the mid -1990s to 30% in the mid-2000s and 
+nearly 35% as of March, 2012 (see McKinsey Global Institute, 2007 and FSA, 2012), and U.S. pension funds’ allocations 
+to alternative investment strategies doubling from 10% in 2002 to over 20% in 2012 (see Towers Watson, 2012, pp. 31). 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+22 
+ 
+ 
+bonds (see the lower -left chart), which command very little in lending fees relative to high intrinsic 
+value equities and corporate bonds (see the relative size of the green areas on the charts on the 
+right), but for which revenues earned through cash collateral reinvestments point to relatively more 
+aggressive reinvestment practices than those on high intrinsic value equities and corporate bonds. 
+ 
+Finally, item [5] of Figure 29 on the right -hand side notes the rising cash intensity of the modern 
+asset management complex as a reflection of institutional investors ’ ever more intense search for  
+yield. As noted above, t his development has been driven by the rising prominence of securities 
+lending and corresponding increase in cash colla teral reinvestments, as well as the rise of derivative 
+overlay investment strategies used by mutual funds and hedge funds as well as by separate accounts 
+(the latter for the implementation of bespoke, liability-driven investments for pension funds). 
+ 
+In addition to the rising cash intensity of these investment strategies, the rise of cash pools within 
+the asset management complex has also been exacerbated by the much documented increase in the 
+concentration of the asset management industry (see OFR, 2013, Haldane, 2014 and BIS, 2014).
+19 
+ 
+Given the centralized liquidity management  of fund complexes, ever more savings being managed 
+by ever fewer asset managers are yet another form of distributional imbalances, and a very real, yet 
+under-appreciated source of systemic risk , as similar to the liquidit y tranche of FX reserves and 
+corporate treasurers, asset managers are important sources of demand for safe, short-term assets and 
+hence structural drivers of the demand for maturity transformation in the wholesale funding market. 
+ 
+To recap, the proliferation of asset -liability mismatches across public pension funds (see Figure  30) 
+and other real money accounts has been the main driver of the demand for investments offering 
+equity-like returns with bond-like volatility, and drove the rise and institutionalization of alternative 
+investment strategies such as hedge funds and the “creep” of leverage into traditional, long -only 
+bond funds (see Figure 31). The more underfunded a real money account , the stronger its demand 
+for equity -like re turns with bond- like volatility (see Figure 32); for similar reasons real money 
+accounts have also become active lenders of securities in order to supplement their portfolios’ yield 
+(see Figure 33). Broker-dealers are central to all this (see Figure 34): as matched-book money dealers, 
+they provide the leverage to the bond portfolio managers that helps them engineer excess returns at 
+low volatility for the real money accounts whose funds they manage , and fund all this leverage  by 
+tapping into deposit-averse cash pools in search for secured (repo) forms of money (see Figure 35). 
+  
+Figure 36 provides a summary of the discussion above. It fram es the global financial ecosystem as  
+composed of four tribes of players, each with a clearly -defined mandate. Going from left to right,  
+chief investment officers (CIOs) of real money accou nts (from individual savers to pension funds, 
+endowments, insurance companies and reserve managers) are mandated to “ meet liabilities” – they 
+seek equity-like returns with bond-like volatility. They do so by allocating more of their portfolios to 
+levered bond portfolios (from hedge funds to mutual funds and separate accounts) that are 
+mandated to “beat the benchmark” by offering equity-like returns with bond-like volatility through a 
+combination of long -only, levered and synthetic exposures to credit, maturity and liquidity risks. 
+                                                 
+19 See for example Asset management hits record level , FT, July 9, 2013 which notes that the asset management 
+“industry is [increasingly] taking on winner -takes-all characteristics. The top 10 U.S. managers took almost two- thirds of 
+all net new fund assets among managers with positive net flows in 2012 compared with 54 per cent in 2011”. Also see 
+the OFR study on asset managers which notes: “economies of scale in portfolio  management and administration […]  
+have increased industry concentration in recent years” (see Asset Management and Financial Stability, OFR, 2013). 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+23 
+ 
+ 
+Cash pools, whose mandate is “do not lose” shun credit, maturity and liquidity risks and invest their 
+cash balances with the sovereign, or on a collateralized (repo) or  diversified basis (money funds). 
+Finally, cash pools are the products of decisions taken by CEOs at corporate and sovereign levels 
+whose mandate from shareholders and voters is to “grow” their profits and economies, respectively. 
+ 
+As the above discussion implies, we may interpret shadow banking (that is, the ecosystem of broker-
+dealers flanked by cash and bond portfolio managers) as the financial economy reflection of the very 
+same real economy imbalances that are behind the recently revived concept of secular stagnation. 
+ 
+After all, cash pools searching for quasi Treasury bills in the form of repos are a reflection of the 
+same macro drivers that are behind the savings -investment imbalances that may have been 
+responsible for driving interest rates ever lower in recent decades (one cornerstone of the secular 
+stagnation thesis), and ever lower interest rates (partly due to demographic headwinds –  another 
+cornerstone of the secular stagnation thesis) are the main drivers of levered bond portfolios across 
+the asset management complex soaking up ever more wholesale funding intermediated by broker -
+dealers as a key in put to generate  equity-like returns with bond- like volatility for pension funds as 
+well as other real money accounts such as endowments, insurance companies and reserve managers. 
+ 
+Finally, a note on shadow banking as a reflection of global imbalances versus financial globali zation 
+(see Mehrling, 2011). As noted by Mehrling in “Financial Globalization versus the Nation State
+”: 
+ 
+“At its core, [the crisis of the shadow banking system] is really about financial globalization . Both words are 
+important. When I say globalization I do not mean primarily trade in goods and services, but rather the integration of 
+previously national money markets and capital markets. Securities markets are increasingly global as pools of 
+investable capital seek out the highe st risk-adjusted return, on individual investments but also on diversified portfolios 
+of investments from around the world. And money markets are also global, as national borrowers who seek more funds 
+than domestic lenders  are offering inevitably find what  they need in global funding markets, especially dollar funding 
+markets. Financial globalization has created the modern world, and it is being tested to the core by the current crisis.”  
+ 
+Undoubtedly. 
+ 
+But, it is also important to appreciate the  many imbalances of the modern, globalized world that 
+financial globalization helped create . This is because the examples above all demonstrate that 
+imbalances (whether between current account surplus versus deficit countries, capital versus labor, 
+the 1% versus the 99% or a few large versus many small asset managers) may well have contributed 
+to the deepening of the  structural linkages (perhaps even reflexively, see Soros, 2003) betw een the 
+dollar-based money and capital markets that helped create the modern, globalized world we live in. 
+ 
+Part V – Policy Dimensions 
+ 
+The macro view of the dealer ecosystem presented in Figure 36 suggests that there are at least three 
+possible entry points for policymakers to manage the financial system and enhance its stability. 
+These are at the G-SIB level, the asset manager level and the global macro level (see Figure 37). 
+ 
+First, reforming the G-SIBs to date focused on re -shaping market-based finance  through the re-
+engineering of G-SIB’s balance sheets in terms of [1] the minimum amount and quality of the capital 
+and liquidity G -SIBs must hold; [2] the maximum extent to which they may rely on short -term, 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+24 
+ 
+ 
+wholesale funding; and [3] the maximum extent to which they can be leveraged on a gross basis. The 
+result of these reforms is a set of G-SIBs that is fortified (TLAC), stabilized (NSFR), liquefied (LCR) 
+and cut down to size (SLR), but on the flipside a financial system that is less liquid than it used to be 
+as new capital, funding, liquidity and leverage rules constrain market-making (see BIS, 2014).  
+ 
+Recall our discussion of the centrality of matched -book money and risk dealing in Part II, which  
+argued that dealers are more than brokers . They are not “mere” matchmakers, but entities that are 
+willing to absorb temporary imbalances in order flows on their balance sheet – by willing to go long 
+when the market wants to go short, and short when the market wants to go long. The result is 
+inventories (of money market exposures, securities and derivative positions), sometimes long and 
+sometimes short, depending on the direction of order flows. In essence, it is this elasticity of broker-
+dealers’ balance sheets and broker-dealers’ willingness and ability to make two -way markets and 
+intermediate the resulting flows of cash  and securities on their balance sheets that is the “grease” 
+behind liquid markets. By extension, liquid markets are not some ephemeral concept, but something 
+that is quite tangible and visible on the balance sheet of broker -dealers – large volumes of matched-
+book securities financing transactions and elastic inventories are market-liquidity, and the reason 
+why market participants are able to buy and sell in large volumes without affecting prices by much. 
+ 
+In this sense, one can  interpret the G20/FSB regulatory reform agenda to date as a desire to find  a 
+better balance between the economic bene fits of deep and liquid markets, and the financial stability 
+risks inherent in the (gross) balance sheet intensity of the provision of deep and liquid markets. 
+ 
+Second, asset managers. Reduced market liquidity is the key reason behind the regulatory attention 
+shifting beyond banks, dealers, and money funds and toward asset manage rs in search for systemic 
+risks. Over time, regulatory focus here needs to coalesce around two key areas of concern. 
+ 
+On the one hand, changes in the mix of investment funds that are in the business of absorbing the 
+money demand of cash pools and the mix of public versus private money market instruments they 
+hold: an area of great importance in the wake of the SEC’s reform of prime money market funds. 
+ 
+On the other hand, the extent to which leverage in all its funded and unfunded forms of credit, 
+maturity, liquidity and FX  mismatches is present in asset management on the balance sheets of 
+investment funds, as well as changes in the instrumentality and institutional sources of this leverage. 
+ 
+All of this attention is fine and needed (especially given the reduced liquidity of secondary markets), 
+but we must ask the question of what good is it  if we were to locate and then constrain the leverage 
+used by mandates across the broader asset management complex to “beat the benchmark,” without 
+addressing the ultimate source s of search for yield : namely, the proliferation of asset -liability 
+mismatches among real money investors in search for equity-like returns with bond-like volatility.  
+ 
+Similarly, what good is it if we were to locate and quantify the footprint of institutional cash pools 
+and then frustrate th eir “do not lose ” mandates by driving them away from dealers and money 
+funds, without addressing the ultimate source of the growth of  institutional demand for shadow  
+money claims: global imbalances and the inelastic supply of public forms of money. 
+ 
+We would only be shifting the problems of leverage and private m oney around, not solv ing them. 
+This leads to the third entry point: reforming the ecosystem that banks and asset managers inhabit. 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+25 
+ 
+ 
+ 
+Part IV discussed  the extent to which institutional cash pools are reflections of imbalances in the  
+distribution of present incomes between current account surplus versus deficit countries and capital 
+versus labor, and the extent to which these imbalances were driven by the “ growth” mandates of 
+CEOs: pressures to generate growth via exports and jobs at the level of emerging market sovereign  
+CEOs driving the growth of FX reserves, and pressures to grow market share, profits and share  
+prices at the level of advanced economy corporate CEOs driving the rise of corporate cash pools. 
+ 
+It also discussed how the proliferation of structural asset -liability mismatches among  real money 
+investors are a reflection of imbalances in future promises as seen in the gap between pension funds’ 
+funded status, discount rates  and rising number of pensioners , and the secular decline in real yields ; 
+and how CIOs’ “meet liabilities” mandate drove demand for levered investments more generally. 
+ 
+And it argued that the push of the “wall of money” coming from cash rich, but safety poor cash 
+pools, and the pull of “search for yield” coming from securit ies rich, but return poor real money 
+accounts found one another at the intersection of money and capital markets  through the balance 
+sheet of broker -dealers. The secular increase in cash pools’ money demand got absorbed through 
+the secular expansion of broker-dealers’ repo liabilities, and the secular increase in search for yield 
+got financed through the symmetric expansion of broker-dealers’ reverse repo assets. Broker-dealers 
+emerged as giant intermediaries of cash versus securities and vi ce versa, with their balance sheet 
+growing from $2 trillion in 2000 to a peak of $5 trillion by 2008 and around $2.5 trillion today. 
+ 
+In this sense, we can interpret the secular rise of broker -dealers as matched-book money dealers as a 
+reflection of and rational response to the secular changes in the financial ecosystem around them. 
+ 
+This increase in the provision of private shadow money,  and on the flipside, securities financing , 
+became the  hallmarks of finance over the past two decades. But their  interpretation as “casino ” 
+banking (or “finance for finance’s sake”) missed the bigger-picture role played by broker -dealers in 
+the financial ecosystem : the provision of safe, short -term assets for the safekeeping of cash pools 
+that have outgrown the official sa fety net and had only minimal access to public money , and the 
+provision of levered betas to help real money accounts reduce structural asset-liability mismatches. 
+ 
+And from this perspective, it is easy to see the essence of the third policy approach: the re-shaping 
+of the ecosystem that G-SIBs and asset managers inhabit by aiming to eliminate (or at least mitigate) 
+imbalances in present incomes and future promises  – the drivers of cash pools and private money , 
+and search for equity-like returns with bond-like volatility via levered bond portfolios, respectively. 
+ 
+A somewhat extreme analogy to an obese person is helpful to frame the basic idea: if banking 
+reform and weeding leverage out of asset management are equivalents to bariatric surgery, reforming 
+the broader ecosystem would be the equivalent of a new diet and exercise regime for the patient. 
+ 
+Just imagine a world where exchange rates would be freely floating and the stock of reserves would 
+revert back to past benchmarks of levels sufficient to cover short-term foreign trade and debt  bills. 
+Reserves over and above this amount would be distributed among households equally. Furthermore, 
+imagine a world where idle corporate cash pools would be taxed and distributed among households. 
+ 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+26 
+ 
+ 
+Both scenarios point to a world where the volume of wholesale funding would be much diminished. 
+Instead of facing  an ecosystem that is increasingly dominated by a relatively few, very large, 
+uninsured and hence finicky and run- prone cash pools, we would be  facing an ecosystem that is 
+dominated by a large number of small, insured and hence stable retail depositors . Run-prone 
+wholesale funding would be converted into stable retail funding, the money market would shrink in 
+size and the instrumentality of intermediaries would shift away from repos to insured deposits. 
+ 
+These examples highlight the financial stability risks inherent in income inequality, whether in the 
+context of current account surplus vs. deficit countries, capital vs . labor or the 1% vs . the 99%. And 
+they also show how redistributive policies – including global currency and corporate tax reforms –  
+may help enhance financial stability. The benefits of redistributive policies are usually looked at from 
+a demand management perspective  (see Summers
+, 2014) , but their financial stability benefits 
+through their impact on the size of wholesale funding markets are also important to appreciate.  
+ 
+Similarly, imagine a world where pension promises are reneg otiated and retirement ages are raised . 
+All of a sudden, the problem of underfunded pensions would be dealt with,  and structural asset -
+liability mismatches would disappear. This would reduce search for yield  and the peddling of 
+investment strategies that promise equity -like returns with bond- like volatility. It  would lead to a 
+decline in the demand for levered betas and leverage across the broader asset management complex. 
+ 
+Finally, imagine the combined impac t that redistributive policies and renegotiat ed pension promises 
+would have on growth both “today” and “tomorrow” – more spending and hence an improvement 
+in cyclical growth today, and more labor and hence an improvement in secular (that is potential) 
+growth prospects going forward. And whatever asset-liability mismatches would remain, they would 
+be more manageable due to a structural shift up in the Treasury curve on the back of faster growth.  
+ 
+All this would mean much reduced demand for securities financing and derivatives in investment 
+management and hence a more stable financial system that is closer to th e textbook image of banks 
+that take deposits and make loans and finance real as opposed to financial economy transactions.  
+ 
+Of course, these thought experiments would be tough to implement politically both at the local and 
+at the G20 level. But they are worth pondering about to appreciate the broader context in which the 
+debate about managing the risks of shadow banking and financial stability should take place. 
+ 
+Other than the politically hard choices involved in reforming the global financial ecosystem , what 
+else could be done? There are two options: one is the concept  of dealer of last resort  (DoLR), and 
+the other the provision of more public money  by governments. Far from being abstract ideas, both 
+are being implemented as we speak –  the idea of dealer of last resort by the Bank of England, and 
+the idea of more public money by the Federal Reserve. Appreciating the opposite  directions the two 
+central banks are taking is important as they draw the contours of two different financial systems. 
+ 
+As shown on Figure 37, DoLR essentially provides liquidity insurance for dealers (directly) and to 
+the ecosystem of cash and bond portfolio managers around them (indirectly). In essence, the 
+announcement of the Bank of England on November 5
+th, 2014 that it widened access to its Sterling 
+Monetary Framework to accept dealers and central counterparties  amounts to updating Bagehot for 
+the 21 st century – backstopping the apparatus of working capital provision in the modern asset 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+27 
+ 
+ 
+management complex that Part II described as analogous to Bagehot’s real bills world of yore.  The 
+carrot of DoLR came in exchange for the sticks financial reform enacted since the financial crisis. 
+ 
+Moreover, the BoE’s announcement applies not only to the sterling money market, but also the 
+Eurodollar money market. This is because the Bank’s U.S. dollar operations are also governed by the 
+Sterling Monetary Framework (see the BoE’s Market Notice  on USD Repo Operations from 
+November 5th), which coupled with the October 31, 2013 announcement by the Bank of Canada, 
+the Bank of England, the Bank of Japan, the ECB, the Federal Reserve, and the Swiss National Bank 
+that their temporary bilateral liquidity  swap arrangements are being converted to standing  
+arrangements (which constitute a network of bilateral swap lines among the six central banks  and 
+allow for the provision of liquidity in each jurisdiction in any  of the five currencies foreign to that 
+jurisdiction) means the BoE also backstops Eurodollar funding (repo) and derivative (swap) markets. 
+ 
+Appreciating the implications of the dealer of last resort announcement for the Eurodollar market is 
+important, as it amounts to the first formal backstop of the global dollar funding markets in the 
+history of the dollar as the global reserve currency : money market funding of capital market lending 
+denominated in dollars and transacted offshore ( mostly in London) is no w effectively insured 
+against liquidity crises. In other words, the international portion of the shadow banking system is 
+now insured against liquidity “bumps” in wholesale funding (repo) and risk transfer (swap) markets. 
+Thus, we may remove the word shadow when referring to the offshore portion of shadow banking. 
+ 
+The Bank of England is now the dealer of last resort to the Eurodollar money and capital markets –  
+backstopping dollar-denominated money market funding of capital market lending outside the U.S. 
+– the international version of what the Federal Reserve could be for markets onshore in the U.S. 
+ 
+In contrast, policy discourse in the U.S. is firmly in the direction of crowding out private money with 
+the issuance of more public money. It focuses less on how to make the provision of private money 
+safer through the provision of liquidity insurance in exchange for financial reforms enacted since the 
+crisis, and more on how to crowd out  private money creation , chiefly by boosting the supply of 
+public money claims. The two main mechanisms under consideration are boosting the issuance of 
+short-term Treasury bills and the volume of overnight reverse repos (RRPs) offered by the Fed eral 
+Reserve. Both alternatives would increase the role of the public sector in absorbing the  money 
+demand of cash pools, draw funding away from private intermediaries, and would thereby enhance 
+financial stability (see Greenwood, Hanson, Rudolph and Summers, 2014 and Pozsar
+, 2011). 
+ 
+The options of both “dealer of last resort” and “more public money ” are both workable. But the 
+former lets the private sector internalize the gains from private money cre ation (and now with the 
+“carrot” of liquidity insurance, albeit with more sands in the wheels (due to re-regulation)), while the 
+latter socializes these gains. Socialized gains would show up in the form of reduced interest bills for 
+the U.S. Treasury (by f unding more of its debt on the short versus the long -end of the curve  (here, 
+think of the sovereign as a “bank”) ) and also through more remittances (that is, seigniorage  
+revenues, or public “carry”) from the Federal Reserve to the U.S. Treasury. Besides the taxpayer, the 
+main beneficiaries of more public money would be cash pools, whose portfolios would include more 
+truly riskless public money and less private money which are only riskless in good states of the 
+world. The losers in this configuration are the matched-book money dealers and the bond portfolios 
+who have heretofore intermediated and absorbed these large flows of cash vs . securities, using them 
+to generate excess returns and to create safe, short-term assets for cash pools on the flipside. 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+28 
+ 
+ 
+ 
+Figure 38 shows how the increased provision of public money w ould absorb the money demand of 
+cash pools and crowd out private money creation. The swapping of excess reserves for reverse repos 
+and boosting the supply of Treasury bills (whether in a reserve neutral or reserve draining fashion 
+(for the latter, see the TBAC recommendation to boost Treasury’s cash balances from negligible 
+amounts to $500 billion)) would both lead to shrinking bank balance sheets (as reserves are swapped 
+into RRPs deposits flow out of banks to fund RRP counterparties such as money funds)  as well as  
+shrinking dealer balance sheets as more Treasury bills and RRPs offer alternatives for money funds 
+that are safer than dealer repos. And on the flipside, reduced matched -book repo volumes mean less 
+funding for levered bond portfolios  and fewer opportunities for lending low intrinsic value 
+securities, both of which will reduce opportunities to deliver excess returns via levered beta s for 
+pension funds and other real money accounts that struggle with structural asset-liability mismatches.  
+ 
+These flows will be further amplified by two key developments on the regulatory front . First, the 
+SEC’s decision to require institutional-class prime money funds, but not government -only funds, to 
+float their NAVs. This will lead to reallocations from prime to government -only funds. Second, the 
+Supplementary Leverage Ratio  (SLR), which will restrict broker -dealers’ ability to be an elastic 
+source of supply for shadow money claims via matched -book repos. The two are closely related as 
+for reallocations from prime to government-only money funds to occur smoothly, there will have to 
+be an elastic source of eligible instruments for government -only funds to use to be able to absorb 
+new inflows. But with the SLR  frustrating broker-dealers ability to be that elastic source, supply will 
+have to come either from the U.S. Treasury or the Fed through the issuance of more Treasury bills 
+or RRPs, respectively (instruments that are practically the same and increased supplies of which have 
+the same effect in terms of redrawing the financial system and creating winners and losers). 
+ 
+If anything, this discussion of policy options suggests that crafting policy solutions for the issues 
+posed by shadow banking is not easy . We need to understand the totality of issues much better 
+before we embark on drafting policy solutions. Solutions that involve crowding out the issuance of 
+private money by the shadow banking system can solve cash pools ’ problem of a shortage of safe 
+assets, but it can exacerbate real money investors ’ problem of inadequate yields relative to return 
+targets. Dealer of Last Resort seems like a more even -handed solution, but one that should be 
+accompanied not only by a re -regulation of G -SIBs at the core of the financial ecosystem, but also 
+reforms to the ecosystem that G- SIBs inhabit and whose needs they intermediate. For example, 
+through a reduction of imbalances in the distribution of present incomes (whether in the context of 
+current account surplus vs . d eficit countries, capital vs . labor or the 1% vs. the 99%) the size of 
+wholesale funding markets could be reduced, and through an increase in retirement ages structural 
+asset-liability mismatches may be reduced at pension funds – combined, such measures would mean 
+less wholesale funding, less search for yield, and for a DoLR, fewer risks to backstop in aggregate. 
+ 
+Part VI – Conclusions 
+ 
+First, “there are no shadow banks, just a shadow banking system”: 
+ 
+The system described in this paper – a system of “money market funding of capital market lending” 
+that is knit together by interactions between cash and bond portfolio managers intermediated 
+through dealer balance sheets – is the shadow banking system. But it would be a mistake to label any 
+part of this system as a shadow bank – each player already has a name and well -defined role to play: 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+29 
+ 
+ 
+broker-dealers are market makers; cash pools (essentially treasurers) manage short -term savings and 
+seek safety; levered bond portfolios (hedge funds, mutual funds, and their blend, separate accounts) 
+manage long -term savings and seek yield to beat their benchmarks; and real money accounts 
+(pension funds, endowments, SWFs and households  at large ) allocate long -term savings to funds 
+across the asset management complex that help them bridge their growing asset-liability mismatches. 
+ 
+The totality of their interaction gives rise to c redit, maturity and liquidity transformation that is 
+similar to the function played by traditional banks. But  each of the above players are responsible for 
+only a small piece of the action, and each piece is bound together by trades done in markets 
+(intermediated through broker-dealer balance sheets), versus the balance sheet of one single bank. 
+ 
+In response to a  question of where the ERM’s anchor resided, Jean- Claude Trichet once quipped: 
+“L’ancre de systéme, c’est le systéme lui-meme” – the anchor of the system is the system itself.  And just like 
+that, a key message of this paper is… “there are no shadow banks, just a shadow banking system”.  
+ 
+Second, on money and the matter of core vs. non-core liabilities vs. assets: 
+ 
+For institutional cash pools, money begins where M2 ends. What are typically referred to as financial 
+intermediaries’ core liabilities are noncore assets in institutional cash portfolios, and what are usually 
+referred to as intermediaries noncore liabilities are core assets in institutional cash portfolios. The 
+safest of safe assets in institutional cash portfolios are Treasury bills which do not count as money in 
+benchmark measures of global liquidity, the mainstream economic literature and textbooks. 
+ 
+Third, on framing the r ise of se curities financing and the role of broker -dealers in an age of 
+structural asset-liability mismatches and the increased use of leverage in asset management:   
+ 
+Repos in today’s financial system are about the provision of working capital  by broker-dealers to 
+portfolio managers, much like real bills provided working capital for manufacturers and merchants 
+in Bagehot’s world of yore. Just as “working capital” traditionally refers to the short-term funding of 
+real economy transactions with an aim to satisfy household and business consumers by producing 
+and delivering real goods, repos effectively fund the working capital needs of levered bond 
+portfolios in order to fund financial economy transactions in the form of levered bets on th e 
+direction of interest rates and credit spreads with an aim to satisfy retail and institutional investors’ 
+wealth aspirations by delivering financial goods in the form of excess returns over a benchmark. 
+ 
+One reason behind the  shift in finance away from funding real economy transactions and toward 
+funding financial economy transactions ( the rise of securities financing – as evident from the 
+increased provision of working capital to asset managers as opposed to traders and manuf acturers) 
+may be increase d demand for the underwriting of equity -like returns with bond- like volatility for 
+pension funds and other real money accounts amid st a proliferation of structural asset -liability 
+mismatches. Asset managers use securities financing and derivatives as techniques to bridge the gap 
+between rosy return expectations and the realities of a down-drift in yields on safe, long-term assets. 
+ 
+Far from its typical label of “casino banking,” securities financing  is an important form of finance, 
+one that gained prominence with the proliferation of structural asset -liability mismatches at pension 
+funds and other real money accounts, and one that is a natural extension of the demographic cycle 
+of advanced economies where financing needs shift from f unding the construction and purchase of 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+30 
+ 
+ 
+homes and consumption (cash flows from borrowing as a supplement  to wages and salaries), to the 
+funding of pension portfolios so that the cash flows they generate are in line with the cash flows 
+promised to retirees (cash flows from investment portfolios as a substitute to wages and salaries).  
+Broker-dealers, not banks are the central intermediaries in all this through their matched repo books. 
+ 
+Fourth, on improving the scope of the U.S. Financial Accounts (formerly the Flow of Funds): 
+ 
+The Flow of Funds accounts have been designed to show who borrows, who lends, and through 
+what types of instruments. However, it offers no hints as to the asset–liability mismatches at pension 
+funds and other real money accounts ; it does not cover hedge funds and separate accounts, which 
+make up an increasing share of real money portfolios; and i t does not provide a breakdown of 
+dealers’ matched repo books to gauge the volume of funding passed on to the buyside , or the 
+purpose of that funding –  whether it was to fund a bond position, post cash collateral for securities 
+borrowed, or  raise l iquidity for margin. Moreover, the Flow of Funds accounts end where 
+derivatives begin – derivatives effectively separate the flow of risks (credit, duration, and foreign 
+exchange risks) from the flow of funds –  and hence looking at exposures to bonds without looking 
+at accompanying derivatives makes the Flow of Funds accounts’ usefulness somewhat limited. And, 
+without a sense for these measures, our ability to understand asset price dynamics is also limited. 
+ 
+To improve on this, the Flow of Funds should inc orporate measures of structural asset –liability 
+mismatches, and be augmented with a set of Flow of Collateral and Flow of Risk  satellite accounts 
+to tabulate the types of collateral that back the flow of funds and risks across the ecosystem. 
+ 
+Improvements to financial accounting would help us see beyond Bernanke’s savings glut hypothesis 
+and Shin’s banking glut hypothesis as the only possible reasons behind the pre-crisis compression of 
+the Treasury term premium and mortgage spreads, respectively, and see t hese developments also as 
+a result of the massive run -up in the volume of levered bids for these securities coming from asset 
+managers, financed through broker-dealers’ matched repo books – “the leveraged bids glut”. 
+ 
+Fifth, and finally, on crafting policy solutions that deal with the issues posed by shadow banking: 
+ 
+Economists and policymakers need to understand the totality of issues much better before they 
+embark on drafting policy solutions for shadow banking. Solutions that involve crowding out the 
+issuance of private money by the shadow banking system can solve cash pools problem of a 
+shortage of safe assets, but it can exacerbate real money investors’ problem of inadequate yields 
+relative to return targets. Dealer of Last Resort seems like a more even-handed solution, but one that 
+should be accompanied not only by a re -regulation of G-SIBs at the core of the financial ecosystem, 
+but also reforms to the ecosystem that G -SIBs “merely” inhabit and whose needs they intermediate. 
+Through a reduction of imbalances in the distribution of present incomes (whether in the context of 
+current account surplus vs . deficit countries, capital vs . labor or the 1% vs. the 99%) the size of 
+wholesale funding markets could be reduced, and through an increase in retirement a ges asset -
+liability mismatches may be reduced at pension funds. Combined, such measures would mean less 
+wholesale funding, less search for yield, and for a DoLR, fewer risks to backstop in the aggregate. 
+ 
+ 
+ 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 1: The Money Matrix 
+____________________ 
+ 
+T-Bills = Treasury bills  
+T-Notes = Treasury notes  
+T-Repos = Treasury repos  
+T-CNAVs = Treasury CNAVs 
+________________________ 
+ 
+P-Bills = Private bills 
+(CDs, commercial paper)  
+P-Notes = Private bonds 
+(corporate bonds, RMBS) 
+ 
+P-Repos = Private repos  
+P-CNAVs = Private CNAVs 
+________________________ 
+ 
+FF = fed funds borrowed 
+________________________ 
+Source: Pozsar (2014) 
+31 
+sha dow
+Liabilities
+Public Backstops Private Backstops
+(uninsured ) (term)
+Private
+…
+…
+…
+P-Bonds Deposits P-Bills
+(o/n) < (o/n) (o/n) < (o/n)
+Banks                    
+(global)
+Money Funds                 
+(prime)
+Reserves FF P-Repos P-CNAVs
+P-Notes P-Repos
+(term)
+…
+…
+…
+money
+Private Assets
+Banks                
+(local)
+Broker-Dealers         
+(credit desk)
+Reserves
+…
+Public T-Bills Public
+P-Repos P-Repos
+(o/n) < (o/n) < (o/n)
+money (term) shadow
+P-Loans Insured
+Assets
+Public Assets
+Sovereign               
+(U.S. Treasury)
+Money Funds 
+(government-only)
+…
+…
+T-Notes T-Repos
+Reserves T-Bills 
+(term)
+T-Repos T-CNAVs
+(o/n) (o/n) < (o/n)
+(term)
+Deposits 
+(insured )
+Central Bank      
+(Federal Reserve)
+Broker-Dealers           
+(rates desk)
+T-Notes Currency T-Repos T-Repos
+Reserves (o/n) < (o/n)
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 2: The Core Entities of the Shadow Banking System 
+Source: Pozsar (2014) 
+32 
+sha dow
+Liabilities
+Public Backstops Private Backstops
+Private
+(uninsured ) (term)
+…
+…
+…
+P-Bonds Deposits P-Bills
+(o/n) < (o/n) (o/n) < (o/n)
+Banks                    
+(global)
+Money Funds                 
+(prime)
+Reserves FF P-Repos P-CNAVs
+Private Assets
+Banks                
+(local)
+Broker-Dealers         
+(credit desk)
+Reserves
+…
+Public T-Bills Public
+P-Repos P-Repos
+(o/n) < (o/n) < (o/n)
+money (term) shadow
+P-Loans Insured
+Assets
+Public Assets
+Sovereign               
+(U.S. Treasury)
+Money Funds 
+(government-only)
+…
+…
+T-Notes T-Repos
+Reserves T-Bills 
+(term)
+T-Repos T-CNAVs
+(o/n) (o/n) < (o/n)
+(term)
+Central Bank      
+(Federal Reserve)
+Broker-Dealers           
+(rates desk)
+T-Notes Currency T-Repos
+Deposits 
+(insured )
+money
+T-Repos
+Reserves (o/n) < (o/n)
+P-Notes P-Repos
+(term)
+…
+…
+…
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 3: The Shadow Banking System and G-SIBs 
+Source: Pozsar (2014) 
+33 
+sha dow
+Liabilities
+Public Backstops Private Backstops
+Private
+(uninsured ) (term)
+…
+…
+…
+P-Bonds Deposits P-Bills
+(o/n) < (o/n) (o/n) < (o/n)
+Banks                    
+(global)
+Money Funds                 
+(prime)
+Reserves FF P-Repos P-CNAVs
+Private Assets
+Banks                
+(local)
+Broker-Dealers         
+(credit desk)
+Reserves
+…
+Public T-Bills Public
+P-Repos P-Repos
+(o/n) < (o/n) < (o/n)
+money (term) shadow
+P-Loans Insured
+Assets
+Public Assets
+Sovereign               
+(U.S. Treasury)
+Money Funds 
+(government-only)
+…
+…
+T-Notes T-Repos
+Reserves T-Bills 
+(term)
+T-Repos T-CNAVs
+(o/n) (o/n) < (o/n)
+(term)
+Central Bank      
+(Federal Reserve)
+Broker-Dealers           
+(rates desk)
+T-Notes Currency T-Repos
+Deposits 
+(insured )
+money
+T-Repos
+Reserves (o/n) < (o/n)
+P-Notes P-Repos
+(term)
+…
+…
+…
+Electronic copy available at: https://ssrn.com/abstract=2558945
+sha dow
+Central Bank      
+(Federal Reserve)
+Broker-Dealers           
+(rates desk)
+T-Notes Currency T-Repos T-Repos
+Reserves (o/n) < (o/n)
+Assets
+Public Assets
+Sovereign               
+(U.S. Treasury)
+Money Funds 
+(government-only)
+…
+…
+T-Notes T-Repos
+Reserves T-Bills 
+(term)
+T-Repos T-CNAVs
+(o/n) (o/n) < (o/n)
+(term)
+Private Assets
+Banks                
+(local)
+Broker-Dealers         
+(credit desk)
+Reserves
+…
+Public T-Bills Public
+Deposits 
+(insured )
+P-Repos P-Repos
+(o/n) < (o/n) < (o/n)
+money (term) shadow
+…
+…
+…
+P-Loans Insured P-Notes P-Repos
+money (term)
+Banks                    
+(global)
+Money Funds                 
+(prime)
+Reserves
+P-Bonds Deposits P-Bills
+FF P-Repos P-CNAVs
+(o/n) < (o/n) (o/n) < (o/n)
+Liabilities
+Cash Pools
+(reserve managers)
+Cash Pools
+(corporations)
+Cash Pools
+(asset managers)
+Cash Pools
+Public Backstops Private Backstops
+Private
+(uninsured ) (term)
+…
+…
+…
+(o/n)
+…
+"Cash"
+(term)
+"Cash"
+(o/n)
+"Cash"
+(o/n)
+…
+"Cash"
+(term)
+"Cash"
+"Cash"
+(term)
+(seclenders)
+…
+"Cash"
+(term)
+"Cash"
+(o/n)
+…
+Figure 4: Institutional Cash Pools 
+Source: Pozsar (2014) 
+34 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+1997 2000 07Q2 13Q3
+FX reserve managers (liquidity tranches) Corporate treasurers Asset managers and institutional investors Securities lenders
+Figure 5: Institutional Cash Pools by Type and Size, $ billion 
+Source: Pozsar (2014) 
+35 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 6: The Liquidity (or Monetary) Premium of U.S. Treasury Bills 
+Source: Greenwood, Hanson, Rudolph and Summers (2014) 
+36 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+sha dow
+Cash Pools
+(reserve managers)
+T-Notes T-Repos T-Repos "Cash"
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Broker-Dealers           
+(rates desk)
+(o/n) < (o/n) (o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+(term) (term)
+Sovereign               
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Cash Pools
+(corporations)
+…
+…
+Public T-Bills Public "Cash"
+Reserves T-Bills 
+(term)
+T-Repos T-CNAVs "Cash"
+(o/n) (o/n) < (o/n) (o/n)
+money (term) shadow (term)
+Private Assets
+Banks                
+(local)
+Broker-Dealers         
+(credit desk)
+Cash Pools
+(asset managers)
+Reserves Deposits 
+(insured )
+P-Repos P-Repos "Cash"
+(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+…
+…
+P-Loans Insured P-Notes P-Repos "Cash"
+money (term) (term)
+Banks                    
+(global)
+Money Funds                 
+(prime)
+Cash Pools
+Reserves FF
+…
+P-Bonds P-Bills Private
+P-Repos P-CNAVs "Cash"
+(o/n) < (o/n) (o/n) < (o/n) (o/n)
+[2]
+[4]
+[4]
+(seclenders)
+Public Backstops Private Backstops
+Liabilities
+Currency 
+Reserves
+[1]
+[1]
+Deposits 
+(uninsured )
+[3]
+"Cash"
+(term) (term)
+…
+…
+…
+Figure 7: Size Matters 
+Source: Pozsar (2014) 
+ 
+[1] Cash pools do not have 
+access to M0, M1 or M2… 
+ 
+=> …for cash pools, money 
+begins where M2 ends. 
+ 
+[2] Cash pools cannot get 
+enough Treasury bills… 
+ 
+=> …inelastic supply of             
+safe, short-term assets. 
+ 
+[3] Cash pools have limits   
+on un-secured credit risk… 
+ 
+=> …inelastic demand for          
+un-insured bank deposits.  
+ 
+[4] Cash pools opt for            
+second best alternatives… 
+ 
+=> …the elastic middle of 
+shadow money claims. 
+37 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 8: Between a Rock and a Hard Place 
+Source: Pozsar (2014) 
+38 
+Inelastic
+supply
+Inelastic
+demand
+Elastic
+"middle"
+Treasury Shadow Uninsured
+bills money deposits
+(sovereign)
+Secured,
+diversified undiversified
+Unsecured,Guaranteed
+Electronic copy available at: https://ssrn.com/abstract=2558945
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+7,000
+8,000
+9,000
+Households Institutions Households Institutions
+Q2-07 Q3-13
+Bank Deposits [uninsured] Money funds [institutional-class] Dealer Repos Currency [held onshore]
+Bank Deposits [insured] Money funds [retail-class] U.S. Treasury bills U.S. Treasury notes
+2007Q2 2013Q3
+Figure 9: “Core” vs. “Non-Core” – Vantage Points Matter, $ billion 
+Source: Pozsar (2014, forthcoming) 
+39 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+5,000
+5,500
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+5,000
+5,500
+00 01 02 03 04 05 06 07 08 09 10 11 12 13 14
+Securities In (reverses and securities borrowed) Securities Out (repos and securities loaned) Net Financing (inventories funded short)
+Figure 10: Re-Imagining Broker-Dealers as Mehrling’s Money Dealers, $ billion 
+Source: Federal Reserve Bank of New York (FR2004) 
+40 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+Assets Liabilities Assets Liabilities
+2008Q1 2013Q1
+Bond inventories (funded long-term) Bond inventories (funded short-term) Securities In (client funding)
+Net financing (long-term) Net financing (short-term) Securities Out (matched book)
+2013Q12008Q1
+Figure 11: Re-Imagining Broker-Dealers as Mehrling’s Money Dealers, $ billion 
+Source: Federal Reserve Board (Flow of Funds) and Federal Reserve Bank of New York (FR2004)  
+41 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+Assets Liabilities Assets Liabilities
+2008Q1 2013Q1
+Inventories (funded long-term) Inventories (funded short-term) Securities In (term) Securities In (o/n)
+Net financing (long-term) Net financing (short-term) Securities Out (term) Securities Out (o/n)
+2008Q1 2013Q1
+Figure 12: Re-Imagining Broker-Dealers as Mehrling’s Money Dealers, $ billion 
+Source: Federal Reserve Board (Flow of Funds) and Federal Reserve Bank of New York (FR2004)  
+42 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+Assets Liabilities Assets Liabilities
+2008Q1 2013Q1
+Inventories (funded long-term) Inventories (funded short-term) Securities In (term) Securities In (o/n)
+Net financing (long-term) Net financing (short-term) Securities Out (term) Securities Out (o/n)
+2008Q1 2013Q1
+=
+=
+>
+>
+20%
+42%
+21%
+17%
+Figure 13: Re-Imagining Broker-Dealers as Mehrling’s Money Dealers, $ billion 
+Source: Federal Reserve Board (Flow of Funds) and Federal Reserve Bank of New York (FR2004)  
+43 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+Assets Liabilities Assets Liabilities
+2008Q1 2013Q1
+Inventories (funded long-term) Inventories (funded short-term) Securities In (term) Securities In (o/n)
+Net financing (long-term) Net financing (short-term) Securities Out (term) Securities Out (o/n)
+2008Q1 2013Q1
+=
+=
+>
+>
+36%
+22%
+24%
+18%
+Figure 14: Re-Imagining Broker-Dealers as Mehrling’s Money Dealers, $ billion 
+Source: Federal Reserve Board (Flow of Funds) and Federal Reserve Bank of New York (FR2004)  
+44 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+00 01 02 03 04 05 06 07 08 09 10 11 12 13 14
+Securities in (Treasuries) Securities in (Treasuries and agencies) Securities in (equities)
+ex. GCF repo ex. GCF repo Prime brokerage (margin lending)
+Figure 15: Prime Brokerage vs. Fixed Income Securities Financing, $ billion 
+Source: Federal Reserve Bank of New York (FR2004) and Federal Reserve Board (Flow of Funds)  
+45 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2009 (October) 2010 (April) 2010 (September) 2011 (March) 2011 (September)
+Unsecured borrowing Borrowing via prime brokerage (equities) Borrowing via repo (bonds) Synthetic borrowing (swaps)
+Figure 16: The Sources of Hedge Fund Leverage, percent 
+Source: Financial Services Authority (February, 2012) 
+46 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+sha dow
+Cash Pools
+(reserve managers)
+T-Notes Currency 
+Reserves
+T-Repos T-Repos "Cash"
+(o/n)
+Central Bank      
+(Federal Reserve)
+Broker-Dealers           
+(rates desk)
+< (o/n) (o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+"Cash"
+(o/n) (o/n) < (o/n) (o/n)
+(term)
+Sovereign               
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Cash Pools
+(corporations)
+(term)
+(term)
+Private Assets
+Banks                
+(local)
+Broker-Dealers         
+(credit desk) …
+…
+Public T-Bills Public "Cash"
+Public Assets
+Cash Pools
+(asset managers)
+Reserves Deposits 
+(insured )
+P-Repos P-Repos "Cash"
+(o/n) < (o/n)
+"Cash"
+money (term) (term)
+< (o/n) (o/n)
+…
+…
+…
+…
+"Cash"
+(o/n) < (o/n) (o/n) < (o/n) (o/n)
+Banks                    
+(global)
+Money Funds                 
+(prime)
+Cash Pools
+(seclenders)
+Reserves FF
+"Cash"
+(term) (term)
+…
+…
+…
+…
+P-Bonds P-Bills PrivateDeposits
+(uninsured )
+Public Backstops Private Backstops
+Liabilities
+Bond Portfolios
+Bond Portfolios
+Bond Portfolios
+(hedge funds)
+(mutual funds)
+(separate accounts)
+P-Repos P-CNAVs
+P-Loans Insured P-Notes P-Repos
+money (term) shadow
+Reserves T-Bills 
+(term)
+T-Repos T-CNAVs
+Assets
+Figure 17: It’s Not Only Hedge Funds - Three Distinct Types of Levered Bond Portfolios 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+[3] 
+Source: Pozsar (2014) 
+47 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 18: The Secular Rise of Structural Asset-Liability Mismatches, percent 
+Source: Federal Reserve Board, PBOC, Public Fund Survey 
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+01 02 03 04 05 06 07 08 09 10 11 12 13
+10-year U.S. Treasury yield (nominal) China's sterilization costs (proxy) Public pension funds' return expectations (average) (median)
+48 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+(oI In)
+sha dow
+inventory
+inventory
+Deposits
+(uninsured )
+(Cash Pools and Private Money)
+Liabilities "Shadow Banking""Working Capital Provision"
+(Bond Portfolios and "Excess" Returns)
+T-Notes
+P-Notes Public Backstops Private Backstops
+IRS
+…
+…
+…
+…
+"Cash"
+CDS inventory (term)
+FXS P-Bonds Trading Private
+Risk Dealer                 
+(credit desk)
+Cash Pools
+(cash for margining) (seclenders)
+Cash T-Repos Reserves FF Matched Matched "Cash"
+(margin) (o/n) (o/n) < (o/n) books < books (o/n)
+P-Notes money (term) (term)
+… CDS
+T-Notes P-Loans Insured Trading P-Repos "Cash"
+…
+ Private Assets
+…
+…
+…
+Bond Portfolios Banks                    
+(global)
+Bond Portfolios Banks                
+(local)
+Money Dealer         
+(credit desk)
+Cash Pools
+(cash for shorting) (asset managers)
+Cash P-Repos Reserves Deposits 
+(insured )
+Matched Matched "Cash" IRS
+books (o/n) FXS(collateral) (term) (o/n) < books <
+…
+…
+Assets
+Public Trading Public "Cash"
+money inventory shadow (term)
+T-Notes (term) (o/n) books < books (o/n)
+P-Notes T-Repos Reserves T-Bills 
+(term)
+Matched Matched
+Bond Portfolios Sovereign               
+(U.S. Treasury)
+Risk Dealer            
+(rates and FX)
+Cash Pools
+(cash for funding) (corporations)
+"Cash"
+(term) (term)
+ Public Assets
+…
+…
+Trading T-Repos
+"Cash"
+Central Bank      
+(Federal Reserve)
+Money Dealer           
+(rates desk)
+Cash Pools
+(reserve managers)
+T-Notes Currency 
+Reserves
+Matched Matched
+books < books
+"Cash"
+/
+Figure 19: Levered Bond Portfolios and Three Distinct Types of Leverage 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+[3] 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Pozsar (2014) 
+49 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 20: The Dealer Ecosystem 
+Source: Mehrling, Pozsar, Sweeney and Neilson, “Bagehot Was a Shadow Banker” (2013) 
+50 
+(Levered Bond Portfolios and "Excess" Returns) (Cash Pools and "Shadow" Money)
+Cash In Cash Out
+"Working Capital Provision" "Shadow Banking"
+"Spectrum"
+Securities Out Securities In
+Trading Capital
+inventory (risk)
+…
+…
+books <
+(risk) (term)
+Risk Dealer              
+(risk for collateral )
+Matched Matched 
+books
+(risk)
+FXS
+IRS Capital Trading Capital "Cash" Capital
+CDS
+…
+…
+…
+…
+FXS (risk) inventory
+Bond Portfolios            
+("beat the benchmark" )
+Money Dealer              
+(cash for collateral )
+Cash Pools              
+("do not lose" )
+T-Notes T-Repos Matched Matched "Cash" 
+(o/n)
+CDS
+P-Notes P-Repos books < books IRS
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 21: Degrees of Hedge Fund Leverage, borrowing plus NAV as a multiple of NAV  
+Source: Financial Services Authority (February, 2012) 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+0
+2
+4
+6
+8
+10
+12
+14
+16
+Equity
+long/short
+Credit
+long/short
+Fixed income
+arbitrage
+Emerging
+markets
+Global
+macro
+Managed
+futures
+Other
+strategies
+2009 (October) 2010 (September) 2011 (September)
+51 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 22: Degrees of Mutual Fund Leverage - PIMCO Total Return Fund, $ thousand, as of 3/31/2014 
+Source: PIMCO 
+52 
+Assets Liabilities %/NAV
+[1] Cash Pool (public  and shadow money c laims):
+Cash 34,219 0.0%
+U.S. Treasury bills (sovereign) 71,039 0.0%
+U.S. Treasury repos (broker-dealers) 2,035,700 0.9%
+Certific ates of deposit (global banks) 1,896,593 0.8%
+PIMCO Central Liquidity Fund (FNAV) 18,312,080 7.9%
+"Off-matrix" miscellaneous claims (credit) 1,286,223 0.6%
+Subtotal 23,635,854 - 10.2%
+[2] Derivatives (rates, FX, c redit and vol overlays and hedges):
+Futures 102,668 4,292
+Forwards 148,100 365,553
+Options - 636,968
+Swaps 437,661 94,647
+Subtotal 688,429 1,101,460 -0.2%
+[3] Bonds (funded, loaned and short positions):
+Payable for repo borrowings 1,124,969 -0.5%
+! (average repo during the period ended 3/31/14) 5,726,277 -2.5%
+Payable for sale-buybac k transac tions 774,933 -0.3%
+Payable for short sales 1,541,302 -0.7%
+Subtotal - 3,441,204 -1.5%
+[4] Bonds (long positions):
+U.S. Treasury notes 78,021,479 33.6%
+U.S. agency RMBS 47,569,505 20.5%
+Corporate bonds 31,300,450 13.5%
+Sovereign bonds 24,055,128 10.4%
+Residential MBS 14,855,692 6.4%
+Munic ipal bonds 9,096,212 3.9%
+ABS 6,552,258 2.8%
+Loans 929,231 0.4%
+Convertibles 209,154 0.1%
+Subtotal 212,589,109 - 91.7%
+[4] Miscellaneous: 22,754,146 23,211,246 -0.2%
+[4] Totals: 259,667,538 27,753,910 231,913,628
+[4] Check (%): 100.0%
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 23: The Flow of Funds Accounts vs. Reality, percent, as of 3/31/14 
+Source: Federal Reserve Board (Flow of Funds) and PIMCO (Total Return Fund annual report)  
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+Assets Liabilities Assets Liabilities
+Bond Mutual Funds (FoF) Total Return Fund (PIMCO)
+"Cash Pool" U.S. Treasuries U.S. agencies Munis Corporates and sovereigns
+Other Derivative receivables Shares outstanding (NAV) Borrowings Derivative payables
+?
+53 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 24: The Blurring Line Between Pure Alphas and Pure Betas – The Rise of Levered Betas  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Yellow boxes indicate the presence of securities financing in each example (see Part II). In the 
+case of pure beta index funds, securities financing is present either via “cash plus” derivative 
+overlay strategies (where cash = repo) or the lending of securities that make up the index.  
+Source: Pozsar (2014) 
+54 
+Traditional
+core
+Satellite
+("2/20") (cheap)
+Core
+Levered
+betas
+Pure
+alphas betas
+Pure
+IndexMutual
+funds
+Hedge
+funds funds
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 25: Wholesale Funding and Levered (Bond) Betas - Flipsides of the Same Coin 
+Source: Pozsar (2014) 
+55 
+"Spectrum"
+("2/20") core (cheap)
+Pure Levered Pure
+funds funds funds
+alphas betas betas
+Hedge Mutual Index
+Inelastic Inelastic
+supply demand
+Satellite Traditional Core
+Treasury Shadow Uninsured
+bills money deposits
+Electronic copy available at: https://ssrn.com/abstract=2558945
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+2008Q1 2008Q1 2008Q1 2013Q1 2013Q1 2013Q1
+Broker-Dealers Banks Buyside Broker-Dealers Banks Buyside
+Money market funding of capital market lending by…
+2008Q1 2013Q1
+Figure 26: Three Sources of Levered Bids for Bonds (the Flow of Funds vs. Reality – again…) 
+Source: Federal Reserve Board (Flow of Funds) and Federal Reserve Bank of New York (FR2004)  
+56 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+2008Q1 2008Q1 2008Q1 2013Q1 2013Q1 2013Q1
+Broker-Dealers Banks Buyside
+(by type)
+Broker-Dealers Banks Buyside
+(by type)
+Money market funding of capital market lending by… M-REITs Others (levered bond portfolios other than M-REITs)
+2008Q1 2013Q1
+Figure 27: We Cannot Monitor What We Do Not Measure and We Over-Monitor What We Can Measure 
+Source: Federal Reserve Board (Flow of Funds) and Federal Reserve Bank of New York (FR2004)  
+57 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+-1.0
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+-1,000
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+7,000
+8,000
+9,000
+00 01 02 03 04 05 06 07 08 09 10 11 12 13 14
+Securities In Reverse Repos Broker-Dealers Banks Reserve Managers (FX) FX + Fed 10-year term premium (RHS)
+Pre-Crisis                                                                                                                      
+(Global Savings Glut vs. Cash Pools Glut)
+Post-Crisis                                                                                                                     
+(Global Savings Glut + QE)
+Figure 28: Levered Bids and the U.S. Treasury Term Premium vs. the Global Savings Glut  
+Source: Federal Reserve Board (Flow of Funds) and Federal Reserve Bank of New York (FR2004)  
+58 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 29: The Global Macro Context 
+Source: Pozsar (2014) expanding on Mehrling, Pozsar, Sweeney and Neilson (2013) 
+59 
+"Spectrum"
+("Rosy" Expectations )
+Bond Portfolios           
+("beat the benchmark" )
+Cash In Cash Out
+Securities Out Securities In
+Trading Capital
+inventory (risk)
+…
+…
+Risk Dealer              
+(risk for collateral )
+Matched Matched 
+booksbooks <
+FXS (risk) inventory (risk) (term) (risk)
+[5]
+IRS Capital Trading Capital "Cash" Capital
+[2]
+[4] Sterilization Costs CDS
+…
+…
+…
+… FXS ↑ "Cash Intensity"
+[1]
+P-Notes P-Repos books < books IRS Capital vs. Labour
+(global and local )
+[3] Underfunded Pensions T-Notes T-Repos Matched Matched "Cash" 
+(o/n)
+CDS Managed FX Regimes
+Imbalances Imbalances
+(future) (present)
+Macro Drivers Money Dealer              
+(cash for collateral )
+Cash Pools              
+("do not lose" )
+Macro Drivers
+(global and local )
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 30: Structural Asset-Liability Mismatches… (Funding Level of U.S. Public Pension Funds, %) 
+Source: Standard & Poor’s pre-2000 and Public Fund Survey (November 2013) post-2000 
+70%
+75%
+80%
+85%
+90%
+95%
+100%
+105%
+70%
+75%
+80%
+85%
+90%
+95%
+100%
+105%
+90 91 92 93 94 95 96 97 98 99 00 01 02 03 04 05 06 07 08 09 10 11 12
+60 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+01 02 03 04 05 06 07 08 09 10 11 12
+Equities Fixed Income Alternatives Real Estate Cash Alternatives plus (embedded) levered betas?
+?
+Figure 31: …Drive Demand for Equity-Like Returns With Bond-Like Volatility via Alternatives…, % 
+Source: Public Fund Survey (November 2013) 
+61 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 32: …(a Trend that Intensifies With Greater Asset-Liability Mismatches)… 
+Source: Caballero (2013) – Presentation on “The Shortage of Safe Assets” to the Bank of England 
+62 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 33: …and the Increased Lending of Low Intrinsic Value Securities for Reinvestment Income…  
+Source: MarkitTM Group Limitied via Keane (2013) and FSOC (2014) 
+63 
+Securities loaned, $ billions: 
+Income from securities lending:       (fees) 
+  
+(revenues) 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+Assets Liabilities Assets Liabilities
+2008Q1 2013Q1
+Inventories (funded long-term) Inventories (funded short-term) Securities In (term) Securities In (o/n)
+Net financing (long-term) Net financing (short-term) Securities Out (term) Securities Out (o/n)
+2008Q1 2013Q1
+=
+=
+Figure 34: …All of Which is Funded by Broker-Dealers as Money Dealers…, $ billion 
+Source: Federal Reserve Board (Flow of Funds) and Federal Reserve Bank of New York (FR2004)  
+64 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+1997 2000 07Q2 13Q3
+FX reserve managers (liquidity tranches) Corporate treasurers Asset managers and institutional investors Securities lenders
+Figure 35: …by Tapping into Cash Pools as Ultimate Providers of Wholesale Funding, $ billion  
+Source: Pozsar (2014) 
+65 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Figure 36: Four Simple Goals that Make the World Go ‘Round 
+Source: Pozsar (2014) 
+66 
+…primarily for yield (relative to benchmarks) Search …for safety, liquidity (and lastly) yield
+Credit, duration and liquidity risk (w/ gusto ) Risks No credit, no duration, no liquidity risk
+Safe long-term assets Assets Safe short-term assets
+"Equity-like returns w/ bond-like vol." Themes "Public vs. private money"
+Capital Markets Money
+CIO                     
+"Meet Liabilities"
+Portfolio Managers 
+"Beat the Benchmark"
+Portfolio Managers         
+"Do Not Lose"
+CEO
+"Grow"
+Trading Capital
+inventory (risk)
+…
+…
+Risk Dealer              
+(risk for collateral )
+Matched Matched 
+booksbooks <
+FXS (risk) inventory (risk) (term) (risk)
+IRS Capital Trading Capital "Cash" Capital
+Capital vs. Labour
+Sterilization Costs CDS
+…
+…
+…
+… FXS ↑ "Cash Intensity"
+P-Notes P-Repos books < books IRS
+(global and local )
+Underfunded Pensions T-Notes T-Repos Matched Matched "Cash" 
+(o/n)
+CDS Managed FX Regimes
+("Rosy" Expectations )
+Imbalances Imbalances
+(future) (present)
+Macro Drivers Bond Portfolios           
+("beat the benchmark" )
+Money Dealer              
+(cash for collateral )
+Cash Pools              
+("do not lose" )
+Macro Drivers
+(global and local )
+Electronic copy available at: https://ssrn.com/abstract=2558945
+"Crowding Out"
+(public versus private money)
+Dealer of Last Resort  (Mehrling, et al, 2013)
+(the BoE globally already, but the Fed not yet)
+Ecosystem Reform Asset Managers Regulatory Reforms Asset Managers Ecosystem Reform
+Politically hard "Systemic or not?" TLAC, LCR, NSFR, SLR "Systemic or not?" Politically hard
+CIO                     
+"Meet Liabilities"
+Portfolio Managers 
+"Beat the Benchmark"
+Portfolio Managers         
+"Do Not Lose"
+CEO
+"Grow"
+Trading Capital
+inventory (risk)
+…
+…
+Risk Dealer              
+(risk for collateral )
+Matched Matched 
+booksbooks <
+FXS (risk) inventory (risk) (term) (risk)
+IRS Capital Trading Capital "Cash" Capital
+Sterilization Costs CDS
+…
+…
+…
+… FXS ↑ "Cash Intensity"
+("Rosy" Expectations ) P-Notes P-Repos books < books
+Macro Drivers Bond Portfolios           
+("beat the benchmark" )
+Money Dealer              
+(cash for collateral )
+Cash Pools              
+("do not lose" )
+Macro Drivers
+(global and local ) (global and local )
+Underfunded Pensions T-Notes T-Repos Matched Matched "Cash" 
+(o/n)
+CDS Managed FX Regimes
+IRS Capital vs. Labour
+Level III Level II Level I Level II Level III
+G20 G20← ← FSB → →
+Figure 37: Implications for Governance 
+Source: Pozsar (2014) 
+67 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+Pub lic
+sha dow
+Assets
+↓
+↓
+↓
+↓
+(U.S. Treasury)
+Sovereign
+↑
+↓
+↓
+↓
+↓
+↑
+↑ RRPs T-Repos "Cash"
+Central Bank      
+(Federal Reserve)
+Broker-Dealers           
+(rates desk)
+(o/n) < (o/n) (o/n)
+…
+…
+…
+Reserves T-Notes T-Repos
+Cash Pools
+(hedge funds) (corporations)
+"Cash"
+(excess) (term) (term)
+likely reallocation flows
+(TGA) (o/n)
+Cash Pools
+(reserve managers)
+T-Notes RRPs 
+(o/n)
+Reserves T-Bills 
+(term)
+RRPs T-CNAVs
+Bond Portfolios Money Funds 
+(government-only)
+Public Assets
+…
+…
+T-Bills Public "Cash"
+"Cash"
+< (o/n) (o/n)
+money (term) shadow (term)
+Cash Pools
+(asset managers)
+P-Repos "Cash"
+(o/n) (o/n)
+Private Assets
+Bond Portfolios Banks                
+(local)
+Broker-Dealers         
+(credit desk)(mutual funds)
+Reserves Deposits 
+(insured )
+RRPs
+"Cash"
+money (term) (term)
+…
+…
+…
+…
+"Cash"
+(o/n) < (o/n) (o/n) < (o/n) (o/n)
+Cash Pools
+(seclenders)
+Reserves FF RRPs P-CNAVs
+Banks                    
+(global)
+Money Funds                 
+(prime)
+"Cash"
+(excess) (uninsured ) (term) (term)
+…
+…
+…
+…
+Reserves Deposits P-Bills Private
+Liabilities
+Public Backstops Private Backstops
+(separate accounts)
+Bond Portfolios
+P-Loans Insured P-Notes P-Repos
+(o/n) < (o/n) <
+Figure 38: Crowding Out and Financial Flows 
+Source: Pozsar (2014) 
+68 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+69 
+ 
+ 
+References: 
+ 
+Adrian, Tobias, Moench, Emanuel, and Shin, Hyun Song (2014), “Dynamic Leverage Asset Pricing”, 
+ FRBNY Staff Report No. 625, December. 
+Asness, Clifford, Frazzini, Andrea and Pedersen, Lasse (2012), “Leverage Aversion and Risk Parity”, 
+ Financial Analysts Journal, Volume 68, Number 1. 
+Bank of England (2013), “Liquidity insurance at the Bank of England: developments in the Sterling 
+ Monetary Framework”, October. 
+Bank of England (2013), “Central banks announce standing swap arrangements”, October. 
+Bank of England (2014), “Market Notice on USD Repo Operations”, November. 
+Bernanke, Ben (2005), “The Global Savings Glut and the U.S. Current Account Deficit”, remarks at 
+ the Sandridge Lecture, Virginia Association of Economists, Richmond, Virginia, March. 
+BIS (2014), “The ascent of the asset management sector”, Chapter 6, 84
+th Annual Report, June. 
+BIS (2014), “Market-making and proprietary trading: industry trends, drivers and policy 
+ implications”, CGFS Papers No. 52, November. 
+Brunnermeier, Markus (2009), “Deciphering the Liquidity and Credit Crunch 2007-2008”, 
+ Journal of Economic Perspectives, Volume 23, Number 1, Winter 2007, pp. 77-100.  
+Caballero, Ricardo (2013), “The Shortage of Safe Assets: Macroeconomic Policy Implications”, 
+ presentation at the Bank of England, March.  
+Carney, Mark (2014), speech at the Mansion House Bankers and Merchants Dinner, London, June. 
+Cecchetti, Stephen (2011), “Global imbalances: current accounts and financial flows”, remarks at the 
+ Myron Scholes Global Markets Forum, University of Chicago, September.  
+Citi (2014), “Enhanced Uses of Supply through Asset and Collateral Optimization and the Impact 
+ on the Securities Lending Markets”, October. 
+Claessens, Stijn, Zoltan Pozsar, Lev Ratnovski, and Manmohan Singh (2012), “Shadow Banking: 
+ Economics and Policy”, IMF Staff Discussion Note 12/12. 
+Dalio, Ray (2004), “Engineering Targeted Returns & Risks” Bridgewater Associates. 
+Dooley, Michael, Folkerts-Landau, David, and Garber, Peter (2014), “The Revived Bretton Woods 
+ System’s First Decade”, NBER working paper No. 20454, September. 
+Feroli, Michael, Kashyap, Anil, Schoenholtz, Kermit, Shin, Hyun Song (2014), “Market Tantrums 
+ and Monetary Policy”, February 2014 conference draft. 
+Foley, Stephen, 2014), “When use of pseudo-maths adds up to fraud”, Financial Times, April 16. 
+Geithner, Timothy (2014), “Stress Test”, Crown Publishers. 
+Gorton, Gary and Metrick, Andrew (2012), “Who Ran on Repo”, NBER working paper, October. 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+70 
+ 
+ 
+Greenwood, Robin, Hanson, Samuel and Stein, Jeremy (2010), “A Comparative-Advantage 
+ Approach to Government Debt Maturity”, Harvard Business School WP No. 11-035. 
+Greenwood, Robin, Hanson, Samuel, Rudolph, Joshua and Summers, Lawrence (2014), 
+ “Government Debt Management at the Zero Lower Bound”, working paper, September. 
+Gross, Bill (2003a), “Two Different Worlds (We live in...)”, PIMCO, November. 
+Gross, Bill (2003b), “Imagine”, PIMCO Investment Outlook, December. 
+Gross, Bill (2014a), remarks delivered by Bill Gross of PIMCO at the Morningstar Investment 
+ Conference, June. 
+Gross, Bill (2014b), “Bill Gross’ Farewell Letter to PIMCO”, Bloomberg, October. 
+G20 (2014), “Communique of the Meeting of G20 Finance Ministers and Central Bank Governors”, 
+ Cairns, Australia, September 20-21. 
+Haldane, Andrew (2014), “The age of asset management?”, speech at the London Business School, 
+ London, April. 
+IMF (2014), “Chapter 1: Improving the Balance between Financial and Economic Risk Taking”, 
+ GFSR,  October.  
+Keane, Frank (2013), “Securities Loans Collateralized by Cash: Reinvestment Risk, Run Risk and 
+ Incentive Issues”, FRBNY Current Issues in Economics and Finance, Vol. 12, No. 3. 
+Krishnamurthy, Arvind and Vissing-Jorgensen, Annette (2012), “The Aggregate Demand for 
+ Treasury Debt”, Journal of Political Economy, Vol. 120, No. 2 (April 2012) pp. 233-267. 
+Mackenzie, Michael and Meyer, Gregory (2014), “Gross triggers sell-off in interest rate derivative 
+ Positions”, Financial Times, October 5. 
+McCauley, Robert and Rigaudy, Jean-Francois (2010), “Managing foreign exchange reserves in the 
+ crisis and after”, BIS Papers No. 58. 
+McCauley, Robert and McGuire, Patrick, (2014), “Non-US banks’ claims on the Federal Reserve”, 
+ BIS Quarterly Review, March. 
+McGuire, Patrick and von Peter, Goetz (2009), “The U.S. dollar shortage in global banking”, 
+ BIS Quarterly Review, March, 2009. 
+Mehrling, Perry (2011), The New Lombard Street: How the Fed Became the Dealer of Last Resort, 
+ Princeton University Press. 
+Mehrling, Perry (2011), “Financial Globalization versus the Nation State”, blog, February 27. 
+Mehrling, Perry, Zoltan Pozsar, James Sweeney, and Daniel Neilson (2013), “Bagehot was a Shadow 
+ Banker: Shadow Banking, Central Banking, and the Future of Global Finance”, INET. 
+Mehrling, Perry (2014), “Eurodollars: Parallel Settlement”, lecture notes from Money and Banking, 
+ Coursera, September. 
+OECD (2013), “Action Plan on Base Erosion and Profit Shifting”. 
+Electronic copy available at: https://ssrn.com/abstract=2558945
+71 
+ 
+ 
+Pozsar, Zoltan, Tobias Adrian, Adam Ashcraft, and Hayley Boesky (2010), “Shadow Banking”, 
+ New York Fed Staff Report No. 458, July. 
+Pozsar, Zoltan (2011), “Institutional Cash Pools and the Triffin Dilemma of the U.S. Banking 
+ System”, IMF Working Paper No. 11/190. 
+Pozsar, Zoltan and Singh, Manmohan (2011), “The Nonbank-Bank Nexus and the Shadow Banking 
+ System”, IMF Working Paper No. 11/289. 
+Pozsar, Zoltan (2012), “A Macro View of Shadow Banking: Do T-Bill Shortages Pose a New Triffin 
+ Dilemma?”, in Franklin Allen et al (eds.), Is U.S. Government Debt Different?, pp. 35–44. 
+Pozsar, Zoltan (2013), “Shadow Banking and the Global Financial Eco-System”, VoxEU, 
+ November 6. 
+Pozsar, Zoltan (2014), “Shadow Banking: The Money View” OFR Working Paper 14-04, July. 
+Rajan, Raghuram (2011), “Fault Lines: How Hidden Fractures Still Threaten the World Economy”, 
+ Princeton University Press, August. 
+Shin, Hyun Song (2010a), “Financial Intermediation and the Post-Crisis Financial System”,  
+ BIS Working Paper No. 304. 
+Shin, Hyun Song (2010b), “Non-Core Liabilities Tax as a Tool for Prudential Regulation”,                    
+ Policy Memo, February 19. 
+Shin, Hyun Song (2012), “Global Banking Glut and Loan Risk Premium”, paper presented at the 
+ 12th Jacques Polak Annual Research Conference, IMF, Washington, D.C., November 10-11. 
+Soros, George (2003), “The Alchemy of Finance”, Wiley Investment Classics, July. 
+Stein, Jeremy (2011), “Monetary Policy as Financial-Stability Regulation”, NBER working paper. 
+Stein, Jeremy (2012), “Dollar Funding and Global Banks”, speech at the Global Research Forum, 
+ International Finance and Macroeconomics sponsored by the ECB, December. 
+Summers, Lawrence (2013), “Why stagnation might prove to be the new normal”, Financial Times, 
+ December 15. 
+Turner, Adair (2013), “Credit, Money and Leverage: What Wicksell, Hayek and Fisher Knew and 
+ Modern Macro Forgot”, INET working paper, September. 
+Electronic copy available at: https://ssrn.com/abstract=2558945

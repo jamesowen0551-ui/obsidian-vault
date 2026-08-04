@@ -1,0 +1,2179 @@
+13Moody’s Economy.com  www.economy.com  help@economy.com  Regional Financial Review / July 2008
+The Rise and Fall of the Shadow Banking System
+Zoltan Pozsar
+T
+his article provides an overview 
+of the constellation of forces 
+that drove the emergence of the 
+network of highly levered off-balance-
+sheet vehicles—the shadow banking 
+system—that is at the heart of the credit 
+crisis. Part one of this four-part article 
+presents the evolution of collateralized 
+debt obligations and how they changed 
+from tools to manage credit risk to a 
+source of credit risk in and of themselves. 
+Part two discusses the types of investors 
+who ended up holding subprime 
+exposure through CDOs, and why the 
+promise of risk dispersion through the 
+originate-to-distribute model failed to live 
+up to expectations. Part three defines the 
+shadow banking system, discusses the 
+causes and repercussions of its collapse, 
+and contrasts it with the traditional 
+banking system. An accompanying 
+chart provides an exhaustive view of the 
+institutions, instruments and vehicles that 
+make up the shadow banking system and 
+depicts the asset and funding flows in it. 
+Finally, part four discusses why it might 
+still be too early to call an end to the 
+credit crisis.
+Banking’s changed nature.  The 
+traditional model of banking—borrow 
+short, lend long, and hold on to 
+loans as an investment—has been 
+fundamentally reshaped by competition, 
+regulation and innovation. Everything 
+from the types of assets banks hold 
+to how they fund themselves to the 
+sources of their income have changed 
+dramatically. Competition from finance 
+companies and broker-dealers in 
+lending to consumers, corporates and 
+sovereigns; changes in rules governing 
+capital requirements; and innovations 
+in securitization and credit risk transfer 
+have been key facilitators of this 
+change, and have led to the gradual 
+emergence of the originate-to-distribute 
+model of banking.
+The originate-to-distribute model 
+has deeply changed the way credit is 
+intermediated and risk is absorbed in 
+the financial system, as these functions 
+now occur less on bank balance sheets 
+and more in capital markets. Banks 
+no longer hold on to the loans they 
+originate as investments, but instead 
+sell them to broker-dealers, who in 
+turn pool the underlying cash flows 
+and credit risks and, using dedicated 
+securities, distribute them in bespoke 
+concentrations to a range of investors 
+with unique risk appetites. To properly 
+function, the originate-to-distribute 
+model needs liquid money and securities 
+markets to intermediate credit through 
+the daisy chain of asset originators, asset 
+packagers and asset managers.
+The originate-to-distribute model 
+and the securitization of credit and its 
+transfer to investors through traded 
+capital market instruments has been 
+part of the financial landscape since the 
+1970s, when the first mortgage-backed 
+securities were issued. But this model 
+has grown increasingly more complex 
+over the past decade, as securitization 
+expanded to riskier loans and came 
+in increasingly more opaque and less 
+liquid forms such as structured finance 
+collateralized debt obligations. These 
+developments were driven by loose 
+monetary policy and depressed yields in 
+recent years and became most apparent 
+in subprime mortgage lending. Low 
+interest rates created an abundance of 
+credit for borrowers and a scarcity of 
+yield for investors. With the housing 
+boom as the backdrop, exotic mortgages 
+to borrowers with spotty credit histories 
+and investors stretched for yield made for 
+a potent mix of inputs for trouble ahead.
+Part I—CDO evolution. The 1988 
+Basel Accord was the main catalyst for 
+the growth and development of credit 
+risk transfer instruments. Following the 
+banking crises of the late 1980s, which 
+were triggered by loan defaults by Latin 
+American governments, the accord 
+applied a minimum capital requirement 
+to bank balance sheets and required 
+more capital protection for riskier 
+assets. These rules prompted banks 
+to reconfigure their assets using credit 
+risk transfer instruments such as credit 
+default swaps or CDOs.   This was done 
+either by purchasing insurance against 
+credit losses using CDSs (reducing 
+the gross risk of a loan portfolio) or by 
+removing the riskiest (first loss) portions 
+of a loan portfolio using CDOs.
+Initially, CDOs were applied to 
+corporate loans. A bank would pool 
+the corporate loans on its books (the 
+assets of a CDO) and carve up the pool’s 
+underlying cash flows into tranches with 
+varying risk profiles (the liabilities of a 
+CDO). Payouts from the pool were first 
+paid to the least risky senior tranches, 
+then the mezzanine tranches, and 
+lastly to the most risky equity tranches. 
+Conversely, losses were first allocated to 
+equity tranches, then to the mezzanines, 
+and only then to senior tranches. 
+Correspondingly, equity tranches offered 
+the highest yields and senior tranches 
+the lowest in CDOs’ capital structures.
+T ranching did not reduce the overall 
+amount of risk associated with the pool. 
+It merely skewed the distribution of risks 
+such that equity tranches ended up with 
+a concentrated dose and senior tranches 
+ended up with diluted ones. In this 
+sense, equity tranches are overleveraged 
+14 Moody’s Economy.com  www.economy.com  help@economy.com  Regional Financial Review / July 2008
+instruments, whereas senior tranches 
+are underleveraged instruments, and 
+the leverage of the entire CDO, similar 
+to whole loans and bonds, is one by 
+construction.
+1  This pooling and tranching 
+of loans allowed banks to sell credit 
+risk in concentrated forms using equity 
+tranches and to hold on to credit risk in 
+diluted form through senior tranches, 
+allowing them to set aside a much smaller 
+amount of capital than for whole loans.
+2
+This initial raison d’etre of CDOs 
+changed over time. They were no longer 
+used solely to fine-tune the risk profile of 
+a bank’s loan portfolios to manage capital 
+requirements (so-called balance sheet 
+CDOs), but also to pool traded whole 
+loans and corporate bonds, earning a 
+spread between the yield offered on these 
+assets and the payment made to various 
+tranches (arbitrage CDOs). 
+1  The distribution of risks among tranches is achieved 
+through overcollateralization and subordination. 
+Overcollateralization is achieved by structuring CDOs such 
+that value of the loan pool the CDO invests in exceeds the 
+total principal amount of rated securities issued by the 
+CDO. The size of overcollateralization is by definition equal 
+to the size of the CDO’s equity tranche. The secondary form 
+of credit enhancement in CDO structures is subordination. 
+Subordination is the sequential application of losses to the 
+securities, starting with the equity tranche and then moving 
+up the mezzanine, senior and super-senior tranches as 
+discussed above.
+2  Basel II requires a 35% risk weight on residential 
+mortgages, a 20% risk weight on AAA-rated residential 
+MBSs, and a mere 7% risk weight on AAA-rated tranches 
+of ABS CDOs that invest in residential MBSs. The sizes of 
+these risk weights are logical, as individual mortgages are 
+riskier than an MBS that invests in a pool of thousands of 
+individual mortgages. Furthermore, the AAA-rated tranches 
+are protected by overcollateralization and subordination. 
+Similarly, CDOs investing in a diversified pool of MBS 
+tranches have more credit enhancement built in through an 
+extra layer of overcollateralization and subordination. The 
+differences between individual loans, securitized loans and 
+CDOs is explained in more detailed throughout the article.
+As the 
+originate-to-
+distribute 
+model matured, 
+arbitrage CDOs 
+have become 
+an integral part 
+of the credit 
+intermediation 
+process, with 
+their role 
+changing 
+from one of 
+repackaging 
+existing loans 
+and bonds 
+to one of 
+facilitating the 
+creation of new 
+loans. Through the slicing, dicing and 
+dispersion of credit risk, CDOs enabled 
+the underwriting of some loans—subprime 
+mortgages, for example—that would 
+never have been underwritten had banks 
+been required to hold on to them as 
+investments in the form of whole loans. 
+On the flip side, CDOs also helped expand 
+homeownership to those whose personal 
+finances should have precluded them from 
+buying a home in the first place.
+At the very top of the housing and 
+securitization boom, arbitrage CDOs’ role 
+further morphed into one in which they 
+became a powerful source of demand 
+for loans in and of themselves, driving 
+the spectacular collapse in underwriting 
+standards that occurred from 2005 to 
+early 2007.
+Wrong assumptions. The assets 
+that CDOs were investing in have also 
+changed over time. The first generation 
+of arbitrage CDOs was backed by 
+investment-grade corporate loans and 
+bonds. The widening of corporate credit 
+spreads in the wake of the tech bubble 
+and corporate bankruptcies made it 
+easy to structure CDOs, as wide spreads 
+provided sufficient spread income to 
+handsomely compensate the CDOs’ 
+originators, investors and managers. 
+However, as the economy began to 
+improve in 2003, corporate spreads 
+narrowed, which made it harder to 
+structure CDOs using investment-grade 
+credit as collateral.
+In response, underwriters shifted 
+to new collateral types, such as 
+mortgage-backed securities backed by 
+subprime mortgages, and other asset-
+backed securities backed by credit card 
+receivables and auto loans (see Chart 
+1).  CDOs that invested in these new 
+collateral types came to be known as ABS 
+(or structured finance) CDOs. Through 
+the use of riskier classes of debt, ABS 
+CDOs offered fat spread incomes and 
+hence filled the vacuum created by the 
+narrowing of spreads on CDOs that 
+invested in investment-grade corporates.
+Before 2004, the market for ABS 
+CDOs was small, and ABS CDOs had a 
+well-diversified pool of assets across the 
+ABS/MBS universe. Over the 2005-2007 
+period, however, ABS CDOs’ underlying 
+portfolios became increasingly 
+concentrated in MBSs referencing 
+subprime mortgage pools. The typical 
+ABS CDO issued during this period 
+invested nearly 70% of its portfolio into 
+subprime MBS according to Moody’s 
+Economy.com estimates.
+3
+ABS CDOs have one crucial 
+difference from CDOs investing in 
+corporate bonds. T raditional CDOs invest 
+in heterogeneous pools of corporate loans 
+and bonds, spanning a range of names 
+and industries, where diversification offers 
+safety against company and industry 
+idiosyncratic events, while systematic risk 
+is controlled by having a mix of cyclical 
+and countercyclical industries in the pool.  
+ABS CDOs’ risk instead is driven by 
+economy-wide factors such as interest 
+rates, house prices, and the job market. 
+These risks are systematic and cannot 
+be diversified away.   However, such 
+a “diversification” was assumed to be 
+present, as ABS CDOs were pooled from 
+loans originated in different states with 
+separate local economies and, apart 
+from the Great Depression, the U.S. 
+never experienced falling house prices 
+or mortgage credit problems in multiple 
+regions at the same time. 
+Due to the “diversified” nature of 
+these pools, ABS CDOs were expected 
+to perform well in most circumstances, 
+but could suffer steep losses during 
+times of system-wide stress, exposing 
+investors to a “heads you win, tails 
+you loose” risk profile. This high-
+correlation tail event could be driven by 
+everything from collapsing house prices, 
+3  Because ABS CDOs’ underlying portfolios became 
+concentrated in subprime MBS, the article henceforth 
+discusses the portfolios and performance of ABS CDOs as 
+if they were entirely made up of and driven by subprime 
+mortgages. 
+Chart 1: ABS CDOs Drive Demand for Loans
+Global cash flow/hybrid arbitrage CDO issuance breakdown, %
+0
+20
+40
+60
+80
+100
+120
+140
+99 00 01 02 03 04 05 06Investment-grade bonds High-yield bonds
+Structured finance (ABS) Leveraged loans
+Emerging market and other debt Source: Lehman Brothers
+15Moody’s Economy.com  www.economy.com  help@economy.com  Regional Financial Review / July 2008
+payment shocks from ARM resets, or 
+deteriorating underwriting standards. In 
+fact, it is the combination of all of these 
+factors that undid the low-correlation 
+assumptions, which were instrumental 
+to the economics behind the structuring 
+of ABS CDOs.
+Collapsing standards. Growth 
+in the volume of CDOs outstanding 
+was especially strong during 2005 and 
+2006. The CDO market kept on growing 
+as their tranches offered fatter yields 
+than comparably rated sovereign or 
+corporate securities, which was a sure 
+sell to investors such as pension funds 
+that were struggling to match their fixed 
+obligations with low-yielding government 
+and corporate bonds. Meanwhile, broker-
+dealers earned hefty fee incomes for 
+originating and managing CDOs and 
+trading their tranches. Demand for CDOs 
+was so strong, in fact, that they ended up 
+driving demand for underlying mortgages 
+in and of themselves. Due to this demand, 
+prices of MBSs and mortgage loans 
+remained extremely buoyant, cheating 
+investors into a false sense of security as 
+underwriting standards were collapsing.
+As the prices of underlying MBSs/
+mortgages rose and their yields fell 
+correspondingly, some broker-dealers 
+decided to outright purchase mortgage 
+lenders so that they would have direct 
+access to the loans and would avoid 
+paying inflated market prices for them 
+and avoid paying fees to middlemen—this 
+was one avenue through which the roles 
+of banks, finance companies and broker-
+dealers as credit intermediaries have 
+been converging over time. Shrinking 
+yield dynamics were similar to those 
+that occurred in 2003 that made the 
+construction of CDOs from corporate 
+loans less feasible and led to the increased 
+used of ABSs to structure CDOs.
+The purchase of wholesale loan 
+originators and finance companies 
+by broker-dealers also meant that the 
+origination standards of the loans that 
+the CDOs were investing in became 
+increasingly driven by dealmakers’ 
+order books for CDOs and less by the 
+credit views of the firms (in-house or 
+independent) that originated them. 
+Underwriting standards deteriorated 
+through risk-layering, where lenders 
+offered nontraditional mortgages to risky 
+borrowers with extremely weak credit 
+controls, such as high combined loan-to-
+value ratios, reduced documentation, and 
+no down payment.
+Demand for CDOs got to the point 
+that there were simply not enough cash 
+securities to fulfill demand.
+4 This is 
+when CDO managers and underwriters 
+started to increasingly use credit default 
+swaps referencing MBSs to create so-
+called synthetic CDOs. Synthetic CDOs 
+are designed such that the portfolio 
+of the CDSs they invest in mimic the 
+performance and cash flow pattern 
+of the MBSs that the CDSs reference. 
+Because they are synthetic replicas of 
+MBS securities and their performance, 
+synthetic CDOs magnify the amount of 
+leverage and credit risks in the financial 
+system, and exponentially so, as the 
+mortgage pools the CDSs in synthetic 
+CDO portfolios primarily referenced 
+mortgages that were originated during 
+a period when underwriting standards 
+were at their weakest. According to 
+Federal Reserve estimates, the system-
+wide exposure to subprime mortgages 
+through ABS CDOs referencing BBB-rated 
+subprime MBS was 60% more than BBB-
+rated subprime MBS issuance in 2005, 
+suggesting that synthetic CDOs issued 
+that year added that much more subprime 
+exposure to the financial system over and 
+4  Cash securities refer to individual mortgages and MBSs 
+backed by pools of mortgages. The cash flows of individual 
+mortgages and MBSs are coming from the monthly interest 
+and principal payments of homeowners. Cash securities 
+also include ABS backed by pools of auto loans, credit card 
+receivables, and student loans.
+above what was already present in the 
+form of cash securities. The comparable 
+figure is 93% for 2006.
+As underwriting standards were 
+collapsing and yields on the underlying 
+cash securities were getting compressed, 
+it became increasingly difficult for 
+underwriters to offer attractive yields 
+on senior tranches. This pushed broker-
+dealers to use ever more risky assets as 
+collateral. Riskier collateral, however, 
+made it more difficult to secure AAA 
+ratings on senior tranches. Broker-dealers 
+found a solution by wrapping super-
+senior tranches with cheap insurance 
+from monoline insurers. Insurance in 
+the form of CDS contracts was cheap, 
+as the financial system was swimming 
+in massive amounts of CDS protection 
+written as a byproduct of synthetic CDO 
+issuance. Cheap insurance was good for 
+protection buyers, but proved disastrous 
+for protection sellers, who were grossly 
+under compensated for the risks they 
+took on. Similar to the synthetic CDO 
+investors, monoline insurers got exposed 
+to the worst loan vintages when deciding 
+to wrap AAA tranches.
+Matryoshka CDOlls. ABS CDOs 
+were sold to investors in various forms 
+and flavors. Their recent crop can be 
+divided into two groups based on the 
+quality of the CDOs’ collateral—high-
+grade ABS CDOs and mezzanine ABS 
+CDOs. Both types were primarily 
+investing in subprime MBS, with a 
+minority of their portfolios invested in 
+other MBS/ABS and tranches of other 
+CDOs. High-grade CDOs resecuritized 
+MBS and CDO tranches rated AAA 
+through A, while mezzanine CDOs 
+resecuritized MBS and CDO tranches 
+rated BBB (see Table 1).
+Demand was strongest for the 
+extreme ends of CDO capital structures 
+(AAA tranches offered safety, or so 
+investors believed, and above-market 
+yields, while equity tranches offered lots 
+Table 1: Matryoshka CDOlls
+% values refer to tranches' share of a structure's capital structure
+Junior AAA 5% Junior AAA 14% Junior AAA 27%
+Equity 2% Equity 1% Equity 4% Equity 3% Equity
+Unrated equity tranches provide overcollateralization. Overcollateralization means a structure holding more assets than the value of its rated tranches (AAA-BBB).
+Equity tranches get thicker and senior tranches get thinner as the quality of underlying collateral used to structure a CDO weakens.
+Source: IMF, Moody's Economy.com
+Senior
+Mezzanine
+RMBS
+(AAA)
+RMBS
+(AA-A)
+Mezzanine
+ABS CDO
+(AA-A)
+Senior AAA
+RMBS
+(BBB)
+60%
+10%
+62%
+20%
+Senior AAA
+Mezzanine
+(AA-BBB)6% Mezzanine
+(AA-BBB)
+Subprime RMBS High-grade ABS CDO CDO-squaredMezzanine ABS CDO
+Senior
+(AAA)
+Subprime
+mortgages
+88%
+Mezzanine
+(AA-BBB)
+Mezzanine
+(AA-BBB)
+Senior AAA80%
+18%
+16 Moody’s Economy.com  www.economy.com  help@economy.com  Regional Financial Review / July 2008
+of risk, but also abundant return), with 
+demand for the remaining tranches 
+relatively lukewarm. The AA, A and 
+BBB tranches that banks could not sell 
+were recycled into yet another CDO—a 
+CDO-squared—with the usual capital 
+structure of super-senior and lower-
+rated tranches and an equity cushion 
+providing overcollateralization.
+At the very top of the securitization 
+boom, some broker-dealers issued 
+CDO-cubeds, which were CDOs 
+investing in the recycled tranches of 
+CDO-squareds—CDO-cubeds were 
+CDOs of CDOs of CDOs. The sole 
+purpose of CDOs of higher power was 
+to recycle CDO tranches that could not 
+be sold as they were unattractive on a 
+stand-alone basis.
+Part II—No risk dispersion. 
+The main benefit of credit risk transfer 
+instruments is that through the 
+tranching of risk, they help ensure that 
+those most willing and able to bear 
+risk end up bearing it. Through the 
+spreading of this risk across thousands 
+of investors worldwide, no participant 
+in the financial system was supposed 
+to have an excessive exposure to risk. 
+This enhanced the overall stability of 
+the global financial system, so the 
+argument went. 
+Indeed, the losses associated 
+with mezzanine and equity tranches 
+did end up being well-diversified. A 
+large number of financial institutions 
+worldwide have disclosed manageable 
+losses from mezzanine exposures, 
+and based on the dearth of headlines, 
+equity investors, who do not typically 
+break out CDO losses in their trading 
+results, presumably 
+managed to absorb 
+or hedge these 
+exposures without a 
+material impact on 
+their operations.
+In contrast, 
+however, senior 
+exposures did not 
+end up dispersed 
+at all, as they 
+stayed with a small 
+group of banks and 
+monoline insurers 
+(see Chart 2). 
+Monoline insurers 
+have been providing 
+traditional financial 
+guarantees on municipal bonds, MBSs 
+and ABSs for decades, and have primarily 
+been guaranteeing securities that were 
+investment-grade on a stand-alone basis. 
+In recent years, monolines got into the 
+business of insuring senior tranches 
+of CDOs as well. Financial guarantors 
+have written about $125 billion worth 
+of insurance in the form of CDSs 
+referencing ABS CDOs according to the 
+Bank for International Settlements.
+Banks’ exposure was more opaque, 
+as their super-senior investments were 
+predominantly held in off-balance-
+sheet structured investment vehicles, 
+avoiding the radar of regulators and even 
+investors. SIVs were leveraged entities, 
+typically borrowing $15 for each dollar 
+of equity.
+In addition to senior CDO tranches, 
+banks also became exposed to subprime 
+risks through their massive securitization 
+pipelines. The very first ABS CDO 
+deals were underwritten first by lining 
+up investors and only then buying the 
+collateral to structure the deal. As such, 
+underwriters were only exposed to the 
+risks of the CDO for the brief period 
+that it took to assemble the CDO and 
+place it with the investors who ordered 
+them. However, as the CDO business 
+grew, banks began to build up massive 
+warehouses of mortgage loans (some 
+even bought smaller mortgage lenders 
+to serve as feeders for their booming 
+CDO business), to make sure they had 
+raw collateral for future deals. These 
+warehoused exposures were also stored 
+off balance sheets, in so-called conduits.
+Similar to SIVs, conduits were 
+treated as ongoing entities by sponsoring 
+banks, and could grow as they wished 
+by issuing more debt. Unlike SIVs, 
+however, which invested in structured 
+credits, conduits held whole loans and 
+receivables awaiting securitization. Thus, 
+conduits were not an investment vehicle, 
+but a part of banks’ securitization 
+pipelines. At their peak, conduits and 
+SIVs held $1.4 trillion and $400 billion 
+worth of assets, respectively, according to 
+the IMF .
+By design, these off-balance-sheet 
+vehicles were motivated by regulatory 
+and tax arbitrage, and allowed banks 
+to reduce the capital associated with 
+their super-senior investments, thereby 
+supercharging their returns on book 
+equity. Their growth was to a large extent 
+motivated by the 1988 Basel Accord, 
+which required more capital protection 
+against riskier assets, and as such, 
+encouraged banks to shift risky activities 
+off their balance sheet, hiding them 
+from regulators’ and investors’ scrutiny. 
+Indeed, before the subprime financial 
+crisis, few market participants knew that 
+SIVs even existed.
+While growing securitization 
+pipelines represented a growing 
+exposure to subprime mortgages, their 
+downsizing on prudential grounds and 
+leaning against competition was nearly 
+impossible, as rationalizing a pullback 
+from the hottest, most profitable 
+business around would have been hard 
+to explain to shareholders. To paraphrase 
+Citigroup’s former CEO, Charles Price, 
+as long as the music was playing, banks 
+pretty much had to play along.
+To play as safe as possible, some 
+banks hedged their pipelines, but these 
+hedges did not turn out to be as effective 
+as assumed at their inception. Hedges 
+using the ABX
+5 index were not perfect 
+because of basis risks6, and some proxy 
+5  The ABX is an index derived from the price of credit 
+default swaps referencing subprime MBSs. When concerns 
+about the quality of subprime mortgages rise, the cost 
+of insuring against a default on these securities rises, 
+and the ABX falls. Shorting the ABX is a bet that defaults 
+on subprime mortgages will rise and that the price of 
+subprime MBSs will fall. A broker-dealer with significant 
+subprime exposure in its securitization pipeline would 
+short the ABX index to protect itself from the falling price 
+of subprime mortgages. The ABX index was also used by 
+speculators, betting on a deterioration of the performance 
+of subprime mortgages.
+6  The risk is that offsetting investments in a hedging 
+strategy will not experience price changes in entirely 
+opposite directions from each other. This imperfect 
+correlation between the two investments creates the 
+potential for excess gains or losses in a hedging strategy.
+Chart 2: Breakdown of CDO Holdings by Tranche
+%, as of the first half of 2007
+0
+20
+40
+60
+80
+100
+120
+Banks Insurance
+companies
+Hedge funds Asset
+managers
+Equity Mezzanine Senior Source: Citigroup
+17Moody’s Economy.com  www.economy.com  help@economy.com  Regional Financial Review / July 2008
+hedges were completely off. One bank, 
+for example, reportedly took out short 
+positions on emerging markets that 
+it thought would retreat if subprime 
+valuations collapsed. In fact, those asset 
+classes rallied, further compounding 
+the bank’s losses. Credit protection 
+purchased from monolines was also far 
+from perfect and became most unreliable 
+when they were needed the most.
+Part III—Shadow banking system. 
+The accumulation of massive amounts 
+of senior and super-senior CDO tranches 
+in SIVs and the buildup of enormous 
+securitization pipelines through conduits 
+formed a network of highly levered off-
+balance-sheet vehicles that constituted a 
+shadow banking system. This part of the 
+article defines the shadow banking system, 
+discusses the causes and repercussions 
+of its collapse, and contrasts it with 
+the traditional banking system. An 
+accompanying map provides an exhaustive 
+view of the institutions, instruments and 
+vehicles that make up the shadow banking 
+system and depicts the asset and funding 
+flows in it (see Chart 4).
+Different investors fund their 
+investments differently. Insurance 
+companies and pension funds use no 
+leverage when making investments in 
+order to juice returns, and they fund 
+their long-term investments with funds 
+that are committed to them for the 
+long term. In contrast, both SIVs and 
+conduits funded their assets with highly 
+leveraged structures. SIVs were typically 
+15 times levered, whereas conduits’ 
+holdings were 100% debt-financed—
+essentially being levered through infinity. 
+More importantly, 
+SIVs and conduits 
+relied on short-
+term financing in 
+the asset-backed 
+commercial paper 
+market to invest in 
+long-term assets. 
+In this way, they 
+were exposed to 
+the classic maturity 
+mismatch typical 
+of banks.
+By borrowing 
+short and lending 
+long, conduits and 
+SIVs were involved 
+in the classic bank 
+business of maturity 
+transformation. In this sense, conduits 
+and SIVs were an alternative form of 
+traditional banking, the crucial difference 
+being that these alternative banks were 
+not funded by depositors, but by investors 
+in the wholesale funding market and that 
+maturity transformation did not occur on 
+bank balance sheets but through capital 
+markets in off-balance-sheet vehicles 
+outside the purview of regulators (and 
+also investors, as prior to the crisis only 
+a few market participants had heard of 
+SIVs). Another crucial difference was that 
+the safety net that is available to regulated 
+banks (the option to borrow at the Fed’s 
+discount window and FDIC insurance 
+to keep depositors from running) were 
+unavailable for the shadow banking 
+system of SIVs and conduits, and no 
+alternatives existed.
+Conduits and SIVs were not the 
+only entities whose lifeline was the 
+ABCP (wholesale funding) market. Other 
+entities included finance companies such 
+as Countrywide and Thornburg Mortgage 
+in the U.S., and Northern Rock in the 
+U.K. By borrowing short in ABCP markets 
+to underwrite loans that they then sold 
+to broker-dealers for securitization, these 
+institutions were essentially asset feeders 
+for the shadow banking system.
+In fact, any investor investing in long-
+term credit products using short-term 
+funding formed a part of the shadow 
+banking system. Such maturity 
+transformations include hedge funds and 
+broker-dealers funding investments in 
+credit products in the repo market, as well 
+as auction rate securities, variable rate 
+demand obligations, and tender-option 
+bonds.
+7  Together with the funding of 
+finance companies’ operations and the 
+holdings of conduits and SIVs in the 
+ABCP market, $6 trillion worth of credit 
+was intermediated through the shadow 
+banking system as of the second quarter 
+of 2007 according to JPMorgan 
+estimates, compared with the $10 
+trillion intermediated through regulated 
+banks funded primarily by deposits (see 
+Chart 3).
+8
+Stepping back for a moment, it is 
+interesting to compare the traditional 
+model of banking with the originate-to-
+distribute model. Under the traditional 
+model, short-term funding and long-term 
+lending occurred on banks’ balance 
+sheets—under one roof, so to speak—and 
+loans were held on to as investments; 
+loan portfolios were kept diversified and 
+those systemic risks that were impossible 
+to diversify away were hedged by building 
+up reserves of liquid and safe assets to be 
+used as cushions during bad times.
+Contrast this to the new model where 
+loans are sold after they are originated, 
+and then are securitized into ABSs; ABS 
+tranches are resecuritized into CDOs, 
+which might even be resecuritized 
+further into other CDOs; and the senior 
+tranches of CDOs (themselves long-term 
+credit instruments) are held by banks as 
+investments in off-balance-sheet SIVs, 
+which rely on short-term funding in the 
+ABCP market, where the bulk of funds 
+were provided by money market funds—
+the modern day equivalents of bank 
+deposits. Thus, credit intermediation still 
+means borrowing short and lending long, 
+even in the originate-to-distribute model 
+(see Chart 4).
+9
+Moreover, while the originate-to-
+distribute model allowed for credit risk 
+to be sliced, diced and dispersed, it did 
+not eliminate credit risk itself, and at 
+each step of the process, a myriad of 
+7  Tender option bonds are synthetic short-term floating 
+rate tax exempt bonds. They are “synthetic” because they 
+combine highly rated long-term municipal bonds with an 
+interest rate swap, thereby creating a floating rate municipal 
+bond portfolio. This portfolio is financed by a two-tier 
+debt structure, involving highly rated short-term floating 
+rate securities (the TOBs) and a smaller piece of junior 
+debt. Variable rate demand obligations differ from TOBs 
+only in that the latter is structured as an off-balance-sheet 
+special purpose vehicle, whereas the latter is not. Auction 
+rate securities are another form of floating rate municipal 
+securities with a coupon that is set every seven, 28 or 35 
+days in a Dutch auction process.
+8  Margaret Cannella and Jan Loeys. “How will the crisis 
+change markets?” JPMorgan. April 14, 2008.
+9  A guide to how to read the map is available upon request.
+Chart 3: Nonbanks Start to Behave Like Banks
+Maturity transformation as of 2007Q2
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Regulated banking system Shadow banking system
+Source: JPMorgan
+Deposits
+Repos
+ABCP
+BD repos
+BD deposits
+ABCP issuers
+ARS/TOB/VRDO
+HF repos
+$ tril
+18 Moody’s Economy.com  www.economy.com  help@economy.com  Regional Financial Review / July 2008
+Chart 4: The Shadow Banking System
+Equity
+PCF/TAF
+Traditional bank run:
+Repos
+LTD
+Equity Equity Super Senior Equity PCF
+TAF
+Treasuries
+Bank loans PDCF
+LTD TSLF Deposits
+Equity Equity Repos Capital account Equity
+Deposits
+LTD
+Equity Super Senior Equity Treasuries
+ABCP
+ARS
+TOB
+VRDO
+Equity RR
+PCF/TAF Equity Equity Super Senior Equity Equity
+Shadow bank run:
+Repos
+LTD Glossary:
+Equity Equity
+ABCP asset-backed commercial paper
+ABS asset-backed security
+ARM adjustable-rate mortgage
+ARS auction rate security
+Equity Equity CDO collateralized debt obligation
+LTA LTL CDO, ABS CDOs that invest in asset-backed securities
+CDO, Synthetic CDOs that invest in credit default swaps
+CDS credit default swap
+CLO collateralized loan obligation
+CMBS commercial mortgage-backed security
+CRE commercial real estate
+EBITDA earnings before interest, tax, depreciation and amortization
+LTD long-term debt
+LTFA long-term financial asset
+Equity Equity LTFL long-term financial liability
+LTA LTL LTRA long-term real asset
+OMO open market operations
+Deposits PCF primary credit facility (discount window lending)
+LTD PDCF Primary Dealer Credit Facility
+Equity Monoline losses make the AAA ratings on munis questionable, triggering a run on the ARS/TOB/VRDO market RMBS residential mortgage-backed security
+SIV structured investment vehicle
+STFA short-term financial asset
+STFL short-term financial liability
+TAF Term Auction Facility
+TOB tender offer bonds
+TSLF Term Securities Lending Facility
+VRDO variable rate debt obligation
+STFL LTFA LTRA LTFA LTFA STFL LTFA LTFL LTFA LTFL LTFA LTFL LTFA STFL STFA STFL LTFA LTFL LTFA LTFL
+Cash
+Cash
+Current
+account
+surpluses
+CashCash
+Term notes
+leverage: 15x
+Commercial Banks
+"Patient" Funds
+Mortgages LTD
+Triparty Repo System
+Money Market
+Cash
+Investors fear losses and raise 
+haircuts, forcing margin spiral
+Shadow bank run:
+ReposReverse
+repos (RR)
+(whole loans) (whole loans) (tranched loan pools) (tranched tranche pools)
+Real Economy
+Currency
+Bank Holding Companies
+Senior
+Uninvested
+Funds
+Other assets
+See Chart 2
+Maturity Mismatch Maturity Mismatch
+Repos
+CDS bets on the performance of RMBS and ABS tranches,
+and corporate and sovereign bonds and leveraged loans
+See Chart 2
+Mezzanine
+Senior
+See Chart 2
+Other assets
+leverage: 10x
+Repos
+See Chart 2
+Auto loans
+Student loans
+"AAA, Guaranteed!"
+Following the breakdown of the securitization market, the FHLB system starts buying mortgages from commercial 
+banks for cash; the FHLB system issues federally guaranteed debt to finance these purchases
+Senior
+Securitization Resecuritization
+Liquidity backstop: bank takes onto its balance sheet all conduit/SIV assets 
+and assumes their liabilities for contractual/reputational reasons
+Mezzanine
+RMBS
+Mezzanine
+ABS
+Mezzanine ABS CDO
+Senior
+Senior RMBS
+Senior ABS
+Senior CMBS
+Risk Originators Risk Warehouses
+Senior
+ABCP
+Mezzanine
+Finance Companies
+Loans
+for sale
+Credit cards
+Risks Originated for Sale
+CLO
+Senior
+Sovereign Wealth Funds
+Federal Reserve
+Sources of Funds
+RMBS
+High-grade ABS CDO
+Municipal
+bonds
+ABCP Conduits
+ABCP
+Mezzanine
+Senior
+Mezzanine
+Corporate Loans
+Synthetic CDO
+Mezzanine
+CMBS
+MonolinesMezzanine
+Premiums
+Hedge Funds
+Broker-Dealers
+leverage: 30x
+Other assets
+Municipal Bonds
+Deposits
+Payrolls
+EBITDA
+Taxes
+Corporate
+loans
+Leveraged
+loans
+Corporate/EM Bonds
+Repos
+Other assets
+off-balance sheet leverage
+CDO
+CDS
+Asset Managers
+Insurance Companies
+Other assets
+See Chart 2
+Credit
+protection
+Early payment defaults: loans returned to the 
+originator; originator returns cash
+Mezzanine
+Bonds
+adds to system-wide leverage
+House prices
+Commercial
+mortgages
+ARM resets
+Payrolls
+leverage: 10x
+Credit cards
+Residential
+mortgages
+Residential
+mortgages
+CMBS
+Student loans
+Consumer Credit
+Commercial Mortgages
+Auto loans
+Mezzanine
+ABS
+TOB
+VRDO
+Rents
+EBITDA
+Mezzanine
+Corporate
+bonds Senior
+leverage: 5x
+ARSs/TOBs/VRDOs
+ARS
+Maturity Mismatch
+Loans
+Taxes
+Commercial
+mortgages
+Leveraged
+loans
+Loans
+for sale
+Sovereign
+bonds
+Payrolls
+CRE prices
+Commercial Banks
+Broker-Dealers
+Securities
+for sale
+Safety Net
+Deposits
+Other assets
+See Chart 2
+Residential Mortgages
+Municipal
+bonds
+Run for the Exit...
+Equity
+investments
+Risk Bearers
+SIVs
+Equity infusions
+Private Equity Funds
+Equity
+investments
+Depositors fear losses and 
+withdraw deposits
+ABCP
+PCF (discount window) backstop FHLB System
+Investors fear losses and refuse 
+roll over short-term debt
+TAF lending post OMO breakdown
+Open market operations (OMO)
+Repos
+TSLF; PDCF backstop, post Bear Stearns
+Credit Default Swaps
+Cash
+19Moody’s Economy.com  www.economy.com  help@economy.com  Regional Financial Review / July 2008
+other risks emerged, which have probably 
+increased risks in the financial system on 
+an aggregate level. These risks include 
+liquidity risk (inability to roll over ABCP), 
+basis risk (on hedges using the ABX index 
+to protect against subprime exposure), 
+risks inherent in proxy hedging, and 
+concentration/wrong-way counterparty 
+risks with regard to monoline insurers, 
+whose ability to perform turned out to 
+be the weakest when they were needed 
+most. Moreover, because the complexity 
+of ABS CDOs and the originate-to-
+distribute model itself made it so hard to 
+dissect what was happening and what will 
+happen next during the crisis, the model 
+also comes with a heavy dose of what one 
+could call complexity risk.
+Similar to regulated banks that 
+need to be able to continuously roll over 
+their deposits to be able to fund their 
+loans and provide liquidity to those who 
+needed it, the shadow banking system 
+needed to be able to continuously roll 
+over its ABCP debt to perform the same 
+functions. Banks’ ability to continuously 
+roll over their deposits stemmed from 
+their reputations as prudent risk takers 
+and the quality of the whole loans they 
+carried on their books. The shadow 
+banking system’s ability to roll over ABCP 
+depended on the quality of the structured 
+credit products and warehoused loans 
+it held; any sign of trouble with their 
+assets could trigger ABCP investors (their 
+“depositors”) to dump and refuse to roll 
+over their debt, and a run on the shadow 
+banking system would ensue.
+Such a run was triggered by rising 
+delinquencies on subprime mortgages and 
+the associated decay in the value of RMBS 
+that held these 
+mortgages (see Chart 
+5). The falling value 
+of subprime RMBS 
+trickled through to 
+the value of CDOs 
+that referenced 
+them. Investors who 
+held these CDOs 
+such as SIVs and 
+the imploded hedge 
+funds at UBS and 
+Bear Stearns were 
+denied short-term 
+funding in the ABCP 
+and repo markets, 
+respectively, 
+triggering the run 
+on the shadow banking system. Conduits 
+that held risky mortgages awaiting 
+securitization also were denied funding, 
+as were finance companies such as 
+Countrywide and Thornburg Mortgage 
+whose lifeline was the ABCP market. 
+Finance companies’ troubles were further 
+exacerbated by the fact that they were 
+stuck with mortgages for which demand 
+evaporated as the performance of earlier 
+vintages deteriorated rapidly. Unable 
+to get funding and to recycle into cash 
+the mortgages they originated, finance 
+companies’ lifelines were cut off and they 
+came dangerously close to bankruptcy, 
+with Northern Rock succumbing.
+The increase in system-wide leverage 
+that made deleveraging during the crisis 
+so painful did not build up in the hedge 
+fund universe (the concern du jour prior 
+to the credit crisis) or the regulated 
+banking system, but in the short-term 
+ABCP markets that were the lifeline of the 
+shadow banking system. Indeed, regulated 
+banks’ capital ratios were quite stable 
+through just before the subprime crisis, 
+but have fallen significantly since. Capital 
+ratios fell as funding from the ABCP 
+market dried up and the shadow banking 
+system outright “collapsed” onto the 
+regulated banking system and all the credit 
+risk that was shoved off to off-balance-
+sheet vehicles during the previous decades 
+became reintermediated onto regulated 
+banks’ balance sheets through the liquidity 
+backstops provided to conduits and the 
+reputational risks associated with SIVs. The 
+forced reintermediation of these credits 
+led to an involuntary expansion of bank 
+balance sheets at a time when mark-to-
+market losses on reintermediated assets 
+were eating away at bank capital. These 
+developments pushed bank capital ratios 
+lower and forced banks to pull back on 
+discretionary lending.
+To date, the pullback on discretionary 
+lending was most obvious in the 
+interbank market where spreads remain 
+elevated, and among hedge funds and 
+private equity funds who now have to 
+operate in a world where leverage is more 
+expensive and also harder to come by 
+from banks than before. For hedge funds, 
+the pullback in discretionary lending also 
+came in the form of increased margins 
+on borrowed securities and haircuts on 
+securities pledged as collateral when 
+borrowing short-term funds. Increased 
+margins and haircuts were the primary 
+drivers of deleveraging in the financial 
+system and contagion across asset classes.
+A pullback in discretionary lending 
+to the real economy is also evident 
+in the drying up of the issuance of 
+commercial mortgage-backed securities, 
+and the virtual disappearance of the 
+nonconforming mortgage market and 
+lending against home equity. The 
+possibility that this pullback will spread 
+to other loan types as their credit quality 
+weakens in tandem with the economy, 
+together with the tightening in loan 
+underwriting standards across all loan 
+types, is a downside risk to the economy 
+that could keep growth well below 
+potential once the near-term technical 
+positives of the rebate checks and lean 
+inventories fade going into 2009.
+Three lessons from the crisis are 
+abundantly clear. First, as the associated 
+write-downs to the tune of close to $450 
+billion
+10 and subsequent rounds of capital 
+raising illustrate, through the originate-
+to-distribute model the regulated banking 
+system created far more credit and offered 
+far more liquidity guarantees than what 
+their capital bases were able to support. 
+With only about $350 billion
+11 in capital 
+raised to date, the banking system 
+maintains a capital deficit compared with 
+pre-crisis levels. Less bank capital and a 
+more careful handling of leverage raise the 
+risk that the reduced availability of credit 
+will hold back the economy’s rebound 
+from the currently unfolding recession. 
+Second, the originate-to-distribute 
+model and the strong demand for and 
+10  Write-down league table, FT .com.
+11  GFSR Market Update, July 28, 2008, IMF .
+Chart 5: The Rise and Fall of the Shadow Banking System
+Asset-backed commercial paper outstanding
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+1.1
+1.2
+01 02 03 04 05 06 07 08
+Source: Federal Reserve
+$ tril
+20 Moody’s Economy.com  www.economy.com  help@economy.com  Regional Financial Review / July 2008
+from CDOs also enabled and encouraged 
+the underwriting of some loans (subprime 
+mortgages and leveraged loans) that 
+would never have been made if banks had 
+to hold on to them as whole loans.
+Third, the originate-to-distribute 
+model empowered credit markets to 
+grow very large in size and significance 
+relative to regulated banks in the credit 
+intermediation process, but without 
+access to a safety net that was available 
+for regulated banks in times of stress. 
+This safety net vacuum caused the demise 
+of Carlyle Capital and Bear Stearns 
+in March 2008 (see Chart 6), which 
+eventually prompted the Fed to create the 
+Term Securities Lending Facility and the 
+Primary Dealer Credit Facility.
+Part IV—The beginning of the 
+end. With the financial crisis over a 
+year old, hopes that the worst is already 
+past are rising. It is important to note, 
+however, that there are historical 
+precedents for aftershocks following 
+financial crises with lags as long as 12 
+months. Securitized taxi cab loans in 
+Thailand were one trigger of the Asian 
+financial crisis,
+12 leading to a series of 
+currency devaluations in Southeast Asia 
+in August 1997, followed by a global 
+recession. The recession led to a collapse 
+in crude oil prices, which in turn led to 
+falling tax revenues in Russia and the 
+subsequent Russian debt default; this, 
+in turn, triggered the Long-Term Capital 
+Management crisis in August 1998. The 
+link between the Asian financial crisis 
+12  Jamie Dimon, CEO, JPMorgan Chase, panel discussion 
+on Systemic Financial Risk at the 2008 World Economic 
+Forum in Davos.
+Chart 6: The Run on Bear Stearns
+Bear Stearns' liquidity pool, daily from 2/22 to 3/13
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+2/22 2/24 2/26 2/28 3/1 3/3 3/5 3/7 3/9 3/11 3/13
+Sources: SEC, BOE Financial Stability Report
+$ bil
+Chart 7: A False Sense of Security
+% of outstanding leveraged loans in default or bankruptcy
+0
+2
+4
+6
+8
+10
+12
+Y E 9 7 9 89 90 00 10 20 30 40 50 60 7 0 8 Q 1
+Source: S&P Leveraged Commentary and Data
+and its 
+aftershocks—the 
+Russian debt 
+default and the 
+LTCM crisis—was 
+the real economy.
+Similarly, 
+the currently 
+unfolding 
+recession in the 
+U.S. is a threat to 
+the performance 
+of leveraged 
+loans and a slew 
+of other types 
+of credit, from 
+nonmortgage 
+consumer credit 
+to commercial mortgages and land 
+development loans. Just as it took one 
+year to get from the Asian crisis to the 
+LTCM crisis, credit aftershocks could 
+occur this summer and into 2009.
+Some caveats are in order, however. 
+Credit losses from commercial 
+mortgages and land development 
+loans will be smaller and easier to 
+absorb than losses on subprime 
+exposures because (individually) 
+their outstanding volume is smaller 
+than that of subprime mortgages, and 
+because their underwriting standards 
+never collapsed as much as those on 
+subprime mortgages.  Further, because 
+these loans are far less often securitized 
+than subprime mortgages, associated 
+losses will primarily be borne by the 
+balance sheets of thousands of smaller 
+commercial banks, savings institutions 
+and credit unions, as opposed to capital 
+market participants.
+In contrast, 
+leveraged loans 
+and credit default 
+swaps associated 
+with firms that 
+were taken private 
+at the height of 
+the private equity 
+boom could haunt 
+broker-dealers and 
+hedge funds as the 
+economy weakens. 
+While default 
+rates on leveraged 
+loans are still near 
+historic lows, 
+these indicators 
+do not necessarily 
+reflect strong performance, but rather lax 
+covenants (see Chart 7). Problems with 
+leveraged loans and associated privately 
+held firms will surface this year and next 
+as the economy slows further, revenues 
+weaken, and high leverage multiples 
+create problems. This could lead to 
+bankruptcies and layoffs in a wide 
+range of non-housing related industries 
+(housing-related industries have been 
+the main source of layoffs to date), 
+which could potentially exacerbate 
+consumer credit woes over and beyond 
+what is expected today. Concerns 
+involving leveraged loans can be placed 
+into four groups.
+First, similar to what has happened 
+in the subprime mortgage space, there has 
+also been an increase in risk layering in 
+the leveraged loan space in recent years. 
+High loan-to-value ratios, interest-only 
+and negative amortization loans, cash-out 
+refinancings and home equity loans, zero 
+down mortgages, and excessive house 
+price gains all have their equivalents 
+in the leveraged loan space, taking the 
+forms of high debt-to-EBITDA multiples, 
+covenant-lite and payment-in-kind toggle 
+notes,
+13 dividend recapitalizations, equity 
+13  Covenant-lite loans came with an option to stop paying 
+cash interest if companies ran into cash flow problems. 
+Payment-in-kind toggle notes, also known as piks, give 
+companies the option to pay interest either in cash or in 
+kind by issuing investors more notes over a given period. 
+The ability to suspend interest payments—a drain on cash 
+flows—was a significant factor in the willingness of private 
+equity firms to buy companies in cyclical industries, 
+because it gives them time to ride out an economic 
+downturn. Covenant-lite loans and piks are symptoms 
+of the relaxation of lending standards during the private 
+equity boom.
+21Moody’s Economy.com  www.economy.com  help@economy.com  Regional Financial Review / July 2008
+bridge loans, and purchase multiple 
+expansions, respectively (see Chart 8).
+Second, arguments that the covenant-
+lite and payment-in-kind loans should allow 
+firms to sail through the economy’s rough 
+patch miss the importance of trade creditors. 
+Thus, while it is true that weaker covenants 
+mean that bank creditors can no longer exert 
+discipline over borrowers, the firms that make 
+up the borrowers’ supply chain still can. 
+Suppliers’ refusal to extend trade credit, or 
+difficulties in obtaining short-term funding in 
+the commercial paper market, can also push 
+firms into bankruptcy. Indeed, several firms in 
+the retail sector that were taken private (Linens 
+‘n Things, for example) have already filed for 
+bankruptcy, and several more are struggling. 
+Others are exercising their options not to pay 
+interest on their debt, suggesting that they are 
+facing cash flow problems.
+Third, the flip side of delayed 
+bankruptcies is that firms are bleeding 
+cash for a longer time than usual, 
+potentially reducing recovery rates and 
+the chances of successful emergence from 
+bankruptcy.  This, indeed, is a major 
+downside risk for the real economy.
+Fourth, according to the IMF , over 
+$600 billion in leveraged loans are set 
+to mature from 2008 to 2010, posing 
+significant refinancing risks. The terms of 
+the refinanced loans will be significantly 
+stricter and their sizes smaller because 
+of recent bank losses; this could spell 
+trouble for deals that only looked 
+attractive when credit was abundant and 
+loan terms lax. Maturity on leveraged 
+loans is so short because most private 
+equity funds intended to keep their 
+investments private for only a few years, 
+and then exit them via an initial public 
+offering into a buoyant market.
+Coming corporate bankruptcies as 
+the downturn takes hold also will test 
+the CDS market (see Chart 9). Investors 
+have hedged and spread around much 
+of the 
+corporate 
+credit risk 
+through 
+CDSs. 
+Moreover, 
+CDSs 
+on debt 
+involving 
+firms that 
+have gone 
+private 
+have grown 
+exponentially 
+in recent 
+years. The 
+currently 
+unfolding 
+recession will be the first true test of CDSs 
+as a whole. Since a vast majority of CDSs 
+are unfunded—that is, they are not backed 
+by collateral that eliminates the risk that 
+a counterparty will be unable to meet its 
+obligations—they represent a fault line 
+in the financial system similar to the way 
+subprime ARMs did prior to their resets 
+(see Chart 10).
+Problems could develop if the recession 
+is deeper and longer than expected, and if 
+firms with significant amounts of debt 
+outstanding and associated CDSs default. 
+That the deepest housing recession since 
+the Great Depression would pass without 
+the bankruptcy of a major homebuilder, or 
+that a larger, cyclically sensitive business 
+that was taken private in recent years under 
+a saddle of debt would survive the recession 
+unharmed, is increasingly unlikely.
+Such credit events could cause 
+serious payment shocks to investors 
+who have written unfunded protection 
+for such events, as well as hedge shocks 
+for those who purchased unfunded 
+protection for the same events. While 
+CDSs on financial institutions’ debt have 
+been receding lately, interbank rates 
+remain elevated and banks keep hoarding 
+massive amounts of cash. One reason for 
+caution and the buildup of cash reserves 
+could be to guard against payment and 
+hedge risks on CDSs.
+To paraphrase Churchill, in 
+conclusion, now this is not the end, but it 
+is, perhaps, the beginning of the end. As 
+the economy slides further into recession 
+and risks remain that the recovery will be 
+hindered by reduced credit availability in 
+the banking system, there is plenty of bad 
+news that could potentially roll in.
+Chart 9: Synthetic CDOs Mainly Reference Corporates...
+Global synthetic CDO issuance
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+05 06 07 08
+ABS Other Corporate
+Source: Creditflux Data+
+$ bil
+Chart 10: ...And Only a Minority Have Real Money Behind Them
+Global synthetic CDO issuance
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+05 06 07 08
+Funded Unfunded
+Source: Creditflux Data+
+$ bil
+Chart 8: Leverage Levels Got to Historical Highs
+Average large LBO leverage multiples, debt/EBITDA
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+97 98 99 00 01 02 03 04 05 06 07
+Source: S&P Leveraged Buyout Review
+22 Moody’s Economy.com  www.economy.com  help@economy.com  Regional Financial Review / July 2008
+The map of the financial system 
+presented in The Rise and Fall of the 
+Shadow Banking System tracks the 
+creation, securitization and dissemination 
+of credit risk only. It does not track 
+the flow of corporate equities or the 
+securitization of conforming mortgages 
+by the GSEs. This appendix explains the 
+map in six steps. First the institutions 
+and instruments involved in creating 
+loans and securities are discussed. 
+Second the flows of these securities 
+within the shadow banking system 
+is presented. Third, the institutions 
+investing in these securities is discussed. 
+Fourth, the way these investments are 
+financed is discussed and the run on the 
+shadow banking system is traced. Fifth, 
+the capital and liquidity injections into 
+the financial system and steps taken to 
+avoid a systemic meltdown are discussed.
+Risk originators. In the originate-
+to-distribute model, loans are sold and 
+pooled with thousands of other loans. 
+Using structured credit instruments 
+(ABSs and CDOs, broadly speaking), the 
+underlying cash flows and credit risks 
+of loan pools are tranched, and then 
+distributed in bespoke concentrations to 
+a broad group of investors with unique 
+risk appetites. To properly function, 
+the originate-to-distribute model needs 
+liquid money and securities markets at 
+all times to intermediate credit through 
+the daisy chain of asset originators 
+(finance companies and commercial 
+banks), asset packagers (broker-dealers 
+and some hedge funds) and asset 
+managers (hedge funds, SIVs, pension 
+funds and insurance companies).
+Three types of institutions feed 
+the originate-to-distribute model with 
+loans. These are finance companies, 
+commercial banks and broker-dealers. 
+The dotted lines linking these loan 
+originators with loan types indicate 
+what type of lending these institutions 
+are primarily engaged in. Thus, finance 
+companies originate mortgages, auto 
+loans, credit card loans and student 
+loans. Examples of such firms include(ed) 
+New Century Financial, Thornburg 
+Mortgage, Capital One and GMAC.
+In addition to the above loan 
+types, commercial banks also originate 
+commercial mortgages and corporate 
+loans. Corporate loans include 
+commercial and industrial loans, loans 
+to finance companies, land development 
+loans, as well as leveraged loans.
+Broker-dealers also underwrite 
+leveraged loans, and also corporate, 
+sovereign and municipal bonds. 
+Standalone broker-dealers include 
+Goldman Sachs, Morgan Stanley, Lehman 
+Brothers and Merrill Lynch.
+Standalone commercial banks of any 
+real size are hard to find, as competition 
+from finance companies and broker-
+dealers for transactions that used to 
+be structured as bank loans forced 
+commercial banks do diversify their 
+business lines. Such diversified financial 
+institutions are called bank holding 
+companies, which combine commercial 
+banks and broker-dealers under one 
+roof. Examples include Citigroup and 
+JPMorgan Chase.
+The performance of the loans these 
+institutions originate depend on the 
+originators’ underwriting standards as well 
+as the performance of the real economy 
+(black dotted line). The performance of 
+each loan type is driven by a unique set of 
+macroeconomic variables.
+Asset flows. Once originated, loans 
+are sold. Sold loans are warehoused in 
+asset-backed commercial paper conduits, 
+where they await securitization.
+Securitization involves the pooling of 
+thousands of individual loans and carving 
+up their cash flows into senior, mezzanine 
+and equity tranches. Residential 
+mortgages are packaged into residential 
+mortgage-backed securities (RMBS), 
+consumer credit receivables into asset-
+backed securities (ABS) and commercial 
+mortgages into commercial mortgage-
+backed securities (CMBS).
+Leveraged loans are packaged 
+into collateralized loan obligations 
+(CLOs), while corporate and emerging 
+market bonds into collateralized debt 
+obligations (CDOs). These credits 
+are not channeled through conduits, 
+however. These securitizations are all 
+one-layer securitizations, as they have 
+direct exposure to the underlying loans. 
+Corporate and emerging market are also 
+sold in whole forms to investors. Asset 
+flows are mapped with solid black lines.
+In recent years, RMBSs (and 
+especially subprime RMBSs) and ABSs 
+were increasingly recycled into ABS 
+CDOs. ABS CDOs came in two flavors—
+high-grade CDOs and mezzanine CDOs. 
+High-grade CDOs recycled the senior 
+tranches of RMBSs and ABSs, while 
+mezzanine tranches recycled mezzanine 
+tranches of RMBSs and ABSs. Both issued 
+super-senior, senior, mezzanine and 
+equity tranches against their portfolio.
+Synthetic CDOs were another 
+form of two-layer securitization. 
+Synthetic CDOs invest in CDSs and 
+are structured such that their cash 
+flows and performance mimic those 
+of the cash securities that the CDSs in 
+their portfolio reference. Through the 
+synthetic creation of credit exposure, 
+CDOs add to the amount of leverage 
+in the financial system. CDSs used to 
+issue synthetic CDOs reference anything 
+from the tranches of RMBS, CMBS and 
+ABS securities, leveraged loans involving 
+companies that were taken private, and 
+corporate and sovereign bonds (these 
+linkages are represented by dashed 
+purple lines). The “raw material” for 
+synthetic CDOs comes form the credit 
+default swap market where CDSs are 
+written. Of the notional $1.4 trillion in 
+synthetic CDOs issued between 2005 
+and March 2008, some $1.3 trillion 
+invested in CDSs referencing corporates, 
+with the remainder investing in CDSs 
+referencing ABSs, according to data from 
+Creditflux (see Chart 9 in main article).
+Importantly, 85% of these synthetic 
+CDOs are unfunded (see Chart 10 in 
+main article), meaning that they are not 
+backed by collateral that eliminates the 
+risk that a counterparty will be unable 
+Appendix: 
+A Map of the Shadow Banking System
+23Moody’s Economy.com  www.economy.com  help@economy.com  Regional Financial Review / July 2008
+to meet its obligations. Also note, that 
+synthetic CDOs discussed here are only a 
+very small subset of the nearly $60 trillion 
+(notional) CDS market. 
+The volume of CDSs written on ABSs 
+to create synthetic ABS CDOs depressed 
+the price of credit protection in a classic 
+insurance cycle. Monoline insurers 
+guaranteeing the performance of senior 
+and super-senior RMBS, ABS and ABS 
+CDO tranches had no choice but to offer 
+these guarantees at depressed premiums 
+(dashed red lines leading from monolines 
+to senior tranches).
+Risk bearers. ABSs, ABS CDOs, CLOs 
+and traditional CDOs were disseminated 
+across a wide range of investors with varying 
+risk appetites. These investors include 
+SIVs, commercial banks, broker-dealers, 
+hedge funds, asset managers, and insurance 
+companies (for a breakdown of each 
+investors’ holding of these securities see 
+Chart 2 in main article).
+Of these investors, only asset 
+managers and insurance companies were 
+not exposed to maturity mismatch, as they 
+fund their assets with long-term liabilities. 
+All other investors were financing their 
+investments in these long-term credit 
+instruments using short-term funds, 
+exposing themselves to the classic maturity 
+mismatch of banks (maturity mismatches 
+in the financial system are marked with red 
+boxes at the bottom of the page).
+Any institution that was financing 
+long-term credit assets with short-term 
+funds formed a part of the shadow banking 
+system. These institutions include finance 
+companies funding their loan originations 
+using ABPC; loan warehouses financing 
+their inventories using ABCP; SIVs funding 
+their investments 
+using ABCP; broker-
+dealers and hedge 
+funds financing 
+credit investments 
+using repos; as well 
+as ARSs/TOBs/
+VRDOs investing in 
+municipal bonds.
+These short-
+term funding sources 
+are marked with 
+yellow boxes. Any 
+sign of trouble with 
+these structures’ 
+assets could trigger 
+a run on the shadow 
+banking system.
+Funding flows. Such a run was 
+triggered by ARM resets in early 2007. As 
+resets triggered early payment defaults on 
+loans, conduits exercised their options 
+to sell defaulted loans back to their 
+originator (dashed green line). Originators 
+were obliged to buy them back, shielding 
+conduits from losses. This shield soon 
+broke, however, when some finance 
+companies ran out of cash to buy back 
+loans. Such a cash crunch led to the 
+bankruptcy of New Century Financial. 
+With the performance of earlier loan 
+vintages deteriorating rapidly, conduits 
+stopped buying new mortgages altogether 
+and the securitization market froze.
+Unable to recycle into cash the 
+mortgages they originated, some mortgage 
+lenders came dangerously close to 
+bankruptcy, with Northern Rock in the 
+U.K. succumbing. That no U.S. lender 
+suffered the same fate was largely due 
+to the Federal Home Loan Bank (FHLB) 
+system, which by issuing federally 
+guaranteed debt, stepped in to buy all 
+the mortgages that banks originated for 
+sale, but could not sell all of a sudden. 
+The FHLB system (and indirectly the 
+government) scooped up mortgages to the 
+tune of $240 billion during the second half 
+of 2007 (see Chart 1).
+Soaring delinquencies and defaults 
+also started to hit the value of RMBSs 
+and ABSs CDOs, causing the demise 
+Dillon Read Capital Management at UBS 
+and two hedge funds at Bear Stearns 
+during the summer of 2007. As these 
+hedge funds were forced to unwind 
+their positions by their prime brokers, 
+their assets were sold at fire-sale prices. 
+These fire-sale prices of these securities 
+were reinforced by a massive wave of 
+downgrades of ABS CDOs by the ratings 
+agencies. The new marks and downgrades 
+triggered a loss of confidence in ABS 
+CDOs and structures exposed to them, 
+notably SIVs.
+Money market funds quickly dumped 
+all their ABCP holdings, and with no other 
+investor willing to step in, the lifeline of 
+conduits and SIVs was cut off (see Chart 5 
+in main article; solid red lines marked with 
+explosion marks). A run on the shadow 
+banking ensued (thick solid orange line 
+running off the map).
+This is when conduits’ contractual 
+liquidity backstops provided by 
+commercial banks (or more precisely, the 
+commercial bank arms of bank holding 
+companies) kicked in, leading to a 
+massive re-intermediation of loans back 
+on to regulated banks’ balance sheets 
+(dashed blue lines leading from conduits 
+to commercial banks). SIVs did not have 
+contractual backstops with banks, but 
+banks chose bring them onto their balance 
+sheets nonetheless, due to reputational 
+reasons and to avoid the fire sale of SIVs’ 
+AAA rated assets at depressed prices. This 
+involuntary expansion in bank balance 
+sheets (and simultaneous realization of 
+mark-to-market losses as assets were 
+reintermediated at depressed prices) 
+depressed capital ratios and forced banks 
+to pull back on discretionary lending. 
+The pullback in discretionary lending 
+and heightened counterparty risk led to 
+massive strains in interbank lending.
+Capital and liquidity injections. 
+Rate cuts did not help much to ease strains 
+in the interbank market, as the primary 
+dealers (broker-dealers) through which 
+the Fed injects liquidity into the interbank 
+market were hoarding the cash they received 
+from the Fed (dashed green line with 
+explosion mark). Primary dealers had every 
+incentive to hoard cash, as many of them 
+were suffering from subprime exposure and/
+or internal hedge fund problems.
+An alternative that existed for banks 
+was to borrow at the Fed’s discount 
+window (dashed green line). This, 
+however came with a stigma and the 
+public perception that a bank is having 
+financial problems. Banks were trying 
+to avoid such perceptions at all cost 
+in an environment where the fear of 
+counterparties going under was running 
+high. Banks were unwilling to use the 
+discount window even after repeated 
+Chart 1: Filling the Void
+Purchases of mortgages, two-quarter moving sum
+-100
+-50
+0
+50
+100
+150
+200
+250
+300
+350
+400
+00 01 02 03 04 05 06 07
+FHLB system
+Issuers of ABSs
+Source: Federal Reserve $ bil
+24 Moody’s Economy.com  www.economy.com  help@economy.com  Regional Financial Review / July 2008
+reductions of the penalty margin that 
+applies to discount window loans. Banks 
+remained starved for funds.
+In response, the Fed introduced 
+the Term Auction Facility (TAF; dashed 
+black line). TAF disseminates funds 
+at an auction, where banks can bid 
+anonymously, solving the problem of 
+stigma (see Chart 2). Furthermore, 
+depository institutions could bid for 
+these funds directly at the Fed, which 
+solved the issue of primary dealers 
+hoarding cash and not letting it flow 
+through to the interbank market.
+As subprime losses were mounting 
+and the value of highly-rated securities 
+were plummeting, monoline insurers 
+came under increased pressure. Mark-to-
+market losses on the value of securities 
+whose AAA-ratings they guaranteed 
+threatened the AAA ratings of monolines 
+themselves. In a tug of war between 
+the monolines, short-sellers, banks, 
+regulators and 
+ratings agencies, 
+monolines were 
+forced to raise more 
+capital to maintain 
+their AAA-ratings.
+Injections 
+came from private 
+equity funds. Private 
+equity funds went 
+into the crisis with 
+a massive war chest 
+of uncommitted 
+funds. Monolines 
+were not the only 
+firms hat in hand for 
+capital. Bank holding 
+companies and 
+broker-dealers raised over $350 billion 
+in capital from Middle Eastern and Asian 
+sovereign wealth funds (dashed blue lines 
+from private equity funds and SWFs).
+Uncertainty about monolines’ AAA 
+ratings destabilized the municipal bond 
+market, where many securities were 
+wrapped by monolines to obtain AAA 
+ratings (dashed red line with explosion 
+mark going from monolines to municipal 
+bonds). This in turn prompted money 
+markets to withdraw from the short-term 
+ARS/TOB/VRDO market.
+As the ABCP and short-term muni 
+markets were collapsing and bank 
+balance sheets were hemorrhaging, 
+troubles were also running high in 
+the repo market. The falling price of 
+securities with an exposure to subprime 
+mortgages forced deleveraging across the 
+board. With markets for problem assets 
+frozen, investors were forced to sell their 
+good assets.
+This in turn led to an increase in 
+correlation across asset classes (making 
+it increasingly hard to remain hedged 
+as the turmoil unfolded) and increased 
+volatility. The increase in volatility 
+across all asset classes, together with 
+the massive losses at broker-dealers, 
+prompted prime brokers to raise margins 
+and haircuts on securities lending to 
+hedge funds.
+A dangerous margin spiral ensued, 
+where forced sales trigger plummeting 
+prices, more forced liquidations, and 
+still higher haircuts. This dynamic 
+culminated in the Bear Stearns’ 
+liquidity crisis in March (see Chart 
+6 in main article; solid red line with 
+explosion mark next to broker-dealers), 
+constituting another form of a run on 
+the shadow banking system (thick solid 
+orange line running off the map).
+To break this margin spiral, the Fed 
+introduced two new liquidity facilities 
+lending against less liquid collateral; 
+these facilities were the TSLF and the 
+PDCF (dashed black line leading from 
+the Federal Reserve through the triparty 
+repo system to broker-dealers). The TSLF 
+allows primary dealers (whose lifeline is 
+the repo market) to exchange AAA-rated 
+RMBS, CMBS and ABS in exchange for 
+T reasury securities. The dealers then can 
+take the T reasurys to the T reasury repo 
+market to raise cash.
+The TSLF did not only make 
+dealers’ balance sheets more liquid, but 
+also helped the liquidity of the above 
+securities and hence the price of ABS 
+CDOs that reference those securities. 
+All this improved liquidity in the entire 
+triparty repo system and also in the repo 
+Chart 2: TAF Borrowing
+Auctions held every other week on Mondays
+20
+30
+40
+50
+60
+70
+80
+1/14 1/28 2/11 2/25 3/10 3/24 4/7 4/21 5/5 5/19
+Source: Federal Reserve
+$ bil
+Chart 3: TSLF Borrowing
+Weekly auctions held on Thursdays
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+1/10 1/24 2/7 2/21 3/6 3/20 4/3 4/17 5/1 5/15
+Source: Federal Reserve $ bil
+Chart 4: PDCF Borrowing
+Standby facility, average outstanding balance during week
+0
+5
+10
+15
+20
+25
+30
+35
+40
+1/9 1/23 2/6 2/20 3/5 3/19 4/2 4/16 4/30 5/15
+Source: Federal Reserve $ bil
+25Moody’s Economy.com  www.economy.com  help@economy.com  Regional Financial Review / July 2008
+market that exists between hedge funds 
+and broker-dealers (solid red and 
+black lines between hedge funds and 
+broker-dealers).
+The PDCF , is a standby borrowing 
+facility where primary dealers can obtain 
+funds (as opposed to T reasurys under 
+the TSLF) from the Fed in exchange for 
+most major types of investment grade 
+securities (see Charts 3 and 4).
+What the 
+TSLF and PDCF 
+accomplish is 
+that by providing 
+liquidity against 
+less liquid 
+collateral, they 
+allow deleveraging 
+to proceed in 
+an orderly way 
+(as opposed to 
+the destructive 
+manner that 
+caused the demise 
+of Carlyle Capital 
+and Bear Stearns), 
+minimizing 
+potential damages 
+that it might pose 
+to systematically important broker-
+dealers, the financial system as a whole 
+and the real economy. All they do is to 
+smooth deleveraging, but not prevent it.
+With the introduction of the TAF , 
+the TSLF and the PDCF , the Fed sold 
+over $260 billion in T reasurys from 
+its balance sheet, and replaced it with 
+riskier assets that serve as collateral for 
+the new lending facilities. Together with 
+the $240 billion in mortgages scooped 
+up by the FHLB system, the federal 
+government assumed some $500 billion 
+in credit risk on its balance sheet.
+Only the FHLB system’s purchases 
+were financed by freshly issued debt; the 
+Fed’s purchases were financed through 
+the sale of T reasurys (see Chart 5). 
+The inclusion of mortgages purchased 
+by Fannie Mae and Freddie Mac and 
+the $30 billion in mortgage assets that 
+collateralize the $29 billion credit line by 
+the New Y ork Fed to grease JPMorgan’s 
+takeover of Bear Stearns would further 
+inflate these figures.
+Pandora’s box? The black box of 
+credit default swaps (CDS) has yet to be 
+tested in a recession. Banks and broker-
+dealers are net buyers of protection 
+and hedge funds, asset managers and 
+insurance companies are net sellers of 
+protection (dashed purple lines linking 
+to net buyers’ assets and net sellers’ 
+liabilities). The performance of the 
+real economy and leveraged loans and 
+corporate bonds hold the key to the 
+severity of losses on CDSs and potential 
+aftershocks in the financial system in 
+2008 and 2009.
+Chart 5: The Fed's Expanding Toolbox
+Assets of the Federal Reserve
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+O'07 N D J'08 F M A M
+Treasurys Repos TAF PDCF TSLF
+Source: Federal Reserve
+$ tril
+82 Moody’s Economy.com  www.economy.com  help@economy.com  Regional Financial Review / July 2008
+© 2008, Moody’s Analytics, Inc. (“Moody’s”) and/or its licensors.  All rights reserved.  The  information and materials contained herein are protected by United 
+States copyright, trade secret, and/or trademark law, as well as other state, national, and international laws and regulations.  Except and to the extent as otherwise 
+expressly agreed to, such information and materials are for the exclusive use of Moody’s subscribers, and may not be copied, reproduced, repackaged, further 
+transmitted, transferred, disseminated, redistributed or resold, or stored for subsequent use for any purpose, in whole or in part.  Moody’s has obtained all 
+information from sources believed to be reliable. Because of the possibility of human and mechanical error as well as other factors, however, all information contained 
+herein is provided “ AS IS” without warranty of any kind.  UNDER NO CIRCUMSTANCES SHALL Moody’s OR ITS LICENSORS BE LIABLE TO YOU OR ANY 
+OTHER PERSON IN ANY MANNER FOR ANY LOSS OR DAMAGE CAUSED BY , RESULTING FROM, OR RELATING TO, IN WHOLE OR IN PART , ERRORS OR 
+DEFICIENCIES CONTAINED IN THE INFORMATION PROVIDED, INCLUDING BUT NOT LIMITED TO ANY INDIRECT , SPECIAL, INCIDENTAL, PUNITIVE, 
+OR CONSEQUENTIAL DAMAGES HOWEVER THEY ARISE.  The financial reporting, analysis, projections, observations, and other information contained herein are 
+statements of opinion and not statements of fact or recommendations to purchase, sell, or hold any securities.  Each opinion must be weighed solely as one factor in 
+any investment decision made by or on behalf of any user of the information contained herein.

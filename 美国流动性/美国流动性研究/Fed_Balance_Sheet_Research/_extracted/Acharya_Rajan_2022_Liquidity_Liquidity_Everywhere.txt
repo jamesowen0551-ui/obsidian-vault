@@ -1,0 +1,644 @@
+
+===== PAGE 1 =====
+RESEARCH BRIEF • FEBRUARY 2022
+Liquidity, Liquidity Everywhere, not a Drop  
+to Use: Why Flooding Banks with Central Bank 
+Reserves May Not Expand Liquidity
+Based on BFI Working Paper No. 2022-19, “Liquidity, Liquidity Everywhere, not a Drop to Use: Why Flooding Banks with Central Bank 
+Reserves May Not Expand Liquidity,” by Viral V. Acharya, NYU Stern School of Business; and Raghuram Rajan, Chicago Booth.  
+This Brief was written by Acharya and Rajan for publication at VoxEU. 
+KEY TAKEAWAYS
+ ü Greater liquid holdings do not seem 
+to make markets for liquidity more 
+immune to liquidity shocks.
+ ü In times of stress, the demand for 
+liquidity can significantly rise and 
+liquid commercial banks, desiring 
+to maintain unimpeachable balance 
+sheets, may provide only limited 
+re-intermediation of liquidity and 
+contribute significantly to liquidity 
+shortages.
+ ü Commercial banks do not fully 
+internalize prospective stress 
+before it occurs or take sufficient 
+steps to avoid it. Consequently, 
+central bank balance sheet 
+expansion may even actually 
+exacerbate the problem. 
+ ü Further, the broader economy can 
+be negatively impacted as this 
+stress may attenuate any positive 
+effects of central bank balance sheet 
+expansion on economic activity.
+Despite a significant expansion in central bank balance 
+sheets, some markets like the US money market have 
+experienced increasing interest rate volatility, including 
+significant spikes in the repo rate, notably in September 
+2019 (see Copeland, Duffie and Yang (2021), Correa, 
+Du, and Liao (2021), D’Avernas and Vanderweyer (2021), 
+and Yang (2021)).  This apparent disruption in money 
+markets that depend intimately on the availability of 
+liquidity seems puzzling when the cash and central bank 
+reserves held by the US private sector at the end of 2019 
+were around 4 times their holdings before the Global 
+Financial Crisis in 2007. Greater liquid holdings do not 
+seem to have made markets for liquidity more immune to 
+liquidity shocks. Indeed, markets were disrupted yet again 
+in March 2020 at the onset of the COVID-19 pandemic 
+and the banking system was found short in its ability to 
+accommodate the demand for liquidity. In response, the 
+Federal Reserve expanded its balance sheet yet more 
+(see, for example, Kovner and Martin (2020)), buying 
+financial assets from the private sector and placing large 
+quantities of liquid reserves with it (or promising to do so). 
+Where had all the prior liquidity gone?  
+5757 S. University Ave. 
+Chicago, IL 60637 
+Main: 773.702.5599 
+bfi.uchicago.edu
+===== PAGE 2 =====
+Our recent paper “Liquidity, Liquidity Everywhere, 
+Not a Drop to Use: Why Flooding Banks with 
+Central Bank Reserves May Not Expand Liquidity” 
+(Acharya and Rajan, 2021) focuses on this question, 
+not so much to explain the microstructure of interest 
+rate spikes, but to analyze more general theoretical 
+underpinnings of the consequences of central bank 
+balance sheet expansion.  It seems natural that the 
+liquid central bank reserves issued to finance central 
+bank balance sheet expansion should enhance the 
+supply of liquidity, bringing down illiquidity premia 
+in the market, and reducing the cost to firms of 
+financing. Yet this view neglects three key private 
+sector responses. 
+First, central banks effectively issue these reserves 
+to commercial banks (henceforth “banks”), which 
+have to finance them. For a variety of reasons, the 
+best way for a bank to finance short-term assets 
+is with short-term liabilities such as deposits. Such 
+financing could initially happen near-automatically 
+– the central banks buy financial assets from non-
+banks, who deposit the proceeds in their banks, 
+giving the commercial banks both reserves and 
+offsetting deposits. In times of liquidity stress, this 
+offsetting liability could claim some of the liquidity 
+created by the central bank.
+Indeed, the evidence suggests this is the case (see 
+Exhibit 1). The Federal Reserve bought financial 
+assets between November 2010 and June 2011 
+(“QE II”), between September 2012 and October 
+2014 (“QE III”), and between March 2020 to the end 
+of 2020 (the Pandemic Intervention which is still 
+continuing). Exhibit 1, put together from the Flow 
+of Funds data, suggests that commercial banks 
+increased their assets considerably over the same 
+period – so central bank reserves did not simply 
+substitute for existing bank assets. Furthermore, 
+bank deposit issuance was a multiple of the increase 
+in commercial bank holdings of reserve balances 
+and repos in each case. Of course, banks may also 
+have expanded their holdings of other liquid assets 
+such as vault cash and securities over these periods, 
+but the increase in deposits exceeds even these. 
+Indeed, in both QEII and the Pandemic purchases, 
+the increase in bank deposits exceeds the overall 
+increase in bank assets, while in QE III, it is 80 
+percent of the increase (the period of QE III was 
+also one when bank loans went up considerably, 
+along with bank liquid assets). In both QE III and the 
+Pandemic Intervention, uninsured deposits account 
+for the majority of the deposit financing. In Exhibit 
+2, we plot the cumulative increase in outstanding 
+reserves against the rise in uninsured deposits over 
+the last two decades, which confirms this financing 
+pattern cumulates across programs. These data 
+inform our modeling choices. 
+Second, the liquid reserves themselves get further 
+encumbered. While a number of papers have 
+focused on regulatory encumbrances such as 
+capital requirements that inhibit banks’ use of 
+reserves, encumbrances may also be endogenous. 
+For example, banks with liquid assets sitting on their 
+balance sheets want to earn returns to that liquidity. 
+So they sell it – by offering contingent lines of credit 
+or guaranteeing margin calls on speculation (see, for 
+example, Anderson, Du, and Schlusche (2021)), so 
+long as liquidity will be available when they need it. 
+Unfortunately, they typically oversell liquidity relative 
+to what is societally optimal. 
+Third, and perhaps most novel, in times of 
+liquidity stress healthy banks may see a valuable 
+convenience yield to liquid reserves – for instance, 
+because it is dry powder in case conditions worsen. 
+Consequently, healthy banks may hoard liquidity 
+rather than lending it out to stressed banks. A 
+collateral benefit is that they avoid tainting their 
+balance sheets by lending to stressed banks and 
+may thereby also attract flight-to-safety deposits 
+that leave these banks looking for a safe home. 
+Put differently, new sources of demand as well 
+as constraints on supply may offset the new 
+supply of liquidity. Consequently, it is possible that 
+central bank balance sheet expansion under some 
+circumstances does not reduce illiquidity premia, 
+but may even enhance them. Instead of enhancing 
+financial stability, it makes the financial system 
+more fragile. Rather than expanding real activity, 
+it dis-incentivizes it. While these are extreme 
+possibilities, the norm may be that central bank 
+balance sheet expansion contributes much less 
+to liquidity, financial stability, and real activity 
+than suggested by an analysis that abstracts from 
+these three considerations.1   
+In our theoretical model (Acharya and Rajan, 2021), 
+we assume the central bank wants to expand 
+its balance sheet, buying financial assets from 
+the public markets with newly issued reserves. 
+We take any direct effect of the asset purchases 
+1 Indeed, it has been hard to discern unambiguously the net macroeconomic effects of these interventions; see, for instance, Fabo, Jancokova, Kempf, and Pastor (2021).
+2
+Research Brief: “Liquidity, Liquidity Everywhere, not a Drop to Use: Why Flooding Banks with Central Bank Reserves May Not Expand Liquidity”  
+Becker Friedman Institute at the University of Chicago · 1126 E. 59th Street, Chicago, IL 60637 · Main: 773.702.5599 · bfi.uchicago.edu 
+===== PAGE 3 =====
+Exhibit 1 · Incremental Depository Institution Balance Sheets
+Note
+Incremental Depository Institution Balance Sheets
+QE II (Between November 2010 and June 2011)
+QE III (Between September 2012 and October 2014)
+Pandemic (Between March 2020 to end 2020)
+Debt
+Cash Bonds
+94,351
+-103,791
+18,748
+-11,639
+194,070
+60 -62,773
+Securities Holding Company Investment 42,870
+Loans Commercial Paper -46,539
+Miscellaneous Loans -80,632
+Repos
+Reserves
+Miscellaneous
+Uninsured Deposits
+Insured Deposits
+-315,306
+1,264,014
+-534,919
+Deposits/Total Liabilities 2.73361
+Deposits/(Cash+Securities+Repos+Reserves 2.63361
+Deposits/(Repos+Reserves)
+Uninsured Deposits/(Uninsured+Insured Deposits
+Uninsured Deposits/(Repos+Reserves)
+3.99655
+-2.93217
+-0.73368
+Deposits/Total Liabilities 0.80124
+Deposits/(Cash+Securities+Repos+Reserves 1.43187
+Deposits/(Repos+Reserves)
+Uninsured Deposits/(Uninsured+Insured Deposits
+Uninsured Deposits/(Repos+Reserves)
+2.51177
+3.69679
+1.47179
+ASSETS LIABILITIES
+Debt
+Cash Bonds
+504,642
+804,170
+-64,076
+-29,398
+713,351
+11,191 -112,030
+Securities Holding Company Investment 332,381
+Loans Commercial Paper -86,743
+Miscellaneous Loans 108,019
+Repos
+Reserves
+Miscellaneous
+Uninsured Deposits
+Insured Deposits
+184,540
+-810,496
+2,528,429
+ASSETS LIABILITIES
+191,799 266,715
+191,799 2,144,100
+Deposits/Total Liabilities 1.03324
+Deposits/(Cash+Securities+Repos+Reserves 1.20581
+Deposits/(Repos+Reserves)
+Uninsured Deposits/(Uninsured+Insured Deposits
+Uninsured Deposits/(Repos+Reserves)
+2.07736
+1.17604
+0.56612
+Debt
+Cash Bonds
+1,041,056
+289,404
+272,661
+179,821
+1,282,417
+15,843 26,083
+Securities Holding Company Investment 202,606
+Loans Commercial Paper 26,651
+Miscellaneous Loans -227,272
+Repos
+Reserves
+Miscellaneous
+Uninsured Deposits
+Insured Deposits
+-125,790
+1,317,938
+1,719,650
+ASSETS LIABILITIES
+3,081,202 2,939,866
+: Sheets were obtained from Flow of Funds data Z1.111 – Level Data: U.S.-Chartered Depository Institutions.
+All entries under Assets and Liabilities are increments, i.e., changes, for that entry in Millions of Dollars; all ratios are increment or change in the numerator divided by that for the denominator. 
+3
+Research Brief: “Liquidity, Liquidity Everywhere, not a Drop to Use: Why Flooding Banks with Central Bank Reserves May Not Expand Liquidity”  
+Becker Friedman Institute at the University of Chicago · 1126 E. 59th Street, Chicago, IL 60637 · Main: 773.702.5599 · bfi.uchicago.edu 
+===== PAGE 4 =====
+on economic activity as given, so as to focus on 
+what happens to liquidity after that. We assume 
+the reserves eventually find their way back to 
+commercial bank balance sheets (so cash holdings 
+with the public do not go up), and the banks 
+optimally issue liabilities to finance them. Key to 
+the analysis is the mix of how banks finance these 
+reserves. In keeping with the evidence in Exhibits 
+1 and 2, we assume that banks finance a large 
+portion of the reserve expansion by issuing short-
+term liabilities. We are agnostic as to why longer-
+term financing (that is, capital) is costlier for banks, 
+but assume functional forms that make it so. 
+We also assume that after commercial banks get 
+reserves, make loans, and set their capital structure 
+to accord with these assets, there is a probability 
+that the demand for liquidity in the real economy 
+will increase significantly, and will be concentrated 
+on some banks. Call these the stressed banks. We 
+assume that their wholesale depositors, fearful 
+of any loss, withdraw their cash in such states, 
+increasing the stressed banks’ need for funds. A 
+fraction of healthy banks will choose to become 
+tainted by lending their reserves to stressed banks, 
+making money on the lending. The remaining 
+fraction of healthy banks will abstain from lending 
+so as to be seen as safe, thereby attracting the 
+flight-to-safety deposits fleeing stressed banks. 
+To start with, we take the fraction of safe and 
+tainted banks among healthy banks as given and 
+endogenize it later. Finally, we assume that not all 
+the central bank reserves held on commercial bank 
+balance sheets can be used to pay withdrawers – 
+some reserves are encumbered because regulators 
+demand set-asides or the banks create further 
+contingent claims on reserves. 
+The financing of partially encumbered reserves 
+with short-term deposits, coupled with reserve 
+hoarding by some of the healthy banks that are 
+recipients of flight-to-safety deposits, sets up an 
+interesting dynamic when liquidity is stressed: 
+loan rates in the interbank market can shoot up 
+as stressed banks try and attract liquidity from 
+healthy banks. Importantly, the extent of illiquidity, 
+and therefore the premium paid on borrowing in 
+this situation (which will also affect the fire-sale 
+prices of illiquid financial assets), need not fall 
+in the reserves the central bank issues ex ante. 
+Indeed, under plausible circumstances, every 
+additional dollar of reserves the central bank 
+issues up front can increase the net demand for 
+liquidity in situations of liquidity stress, and can 
+increase the interbank borrowing premium. 
+A higher anticipated bank borrowing rate in the 
+future then cascades up front into a higher rate 
+for term loans made by banks, lower investment 
+by firms, and lower aggregate activity. Somewhat 
+perversely, therefore, higher central bank reserve 
+issuance can create more headwinds even to 
+current activity by increasing future, and thus 
+current, borrowing premia. Put differently, the 
+expansion in available reserve assets may be 
+outweighed by claims created on them, or more 
+succinctly, the ex-ante supply of reserves affects 
+the ex-post demand for them.
+Importantly, individual banks take the expected rates 
+in the interbank market as given, and do not take 
+account of the effects of their financing or activity 
+choices on those rates. Ex ante, if they financed 
+their own reserve holdings with more long-term 
+capital (as the social planner would desire), there 
+would be less call on liquidity when the economy 
+is liquidity stressed. However, such financing is not 
+privately optimal (as suggested by Caballero and 
+Krishnamurthy (2003), Lorenzoni (2008) and Stein 
+(2012)), and not observed in practice. 
+Consider the second contributor to liquidity stress, 
+the extent of reserve encumbrance.  Why might 
+only a fraction of a dollar set aside as reserves 
+be available to pay out on a future date? Two 
+possibilities are speculation and regulation. A bank 
+holding highly liquid reserves, with the reserves 
+being required only in situations of liquidity stress, 
+will want to try and “sell” liquidity in all the states 
+it does not need it, for instance, by backstopping 
+the liquidity needs of firms or speculators for a fee. 
+To the extent that such backstopping cannot be 
+fine-tuned, it will spill over into the states where the 
+economy is liquidity-stressed and there is a high 
+value for liquidity. The amount of free liquidity in 
+such states will shrink relative to the ex-ante size of 
+In times of liquidity stress  
+healthy banks may see a 
+valuable convenience yield to 
+liquid reserves—for instance, 
+because it is dry powder 
+in case conditions worsen. 
+Consequently, healthy banks 
+may hoard liquidity rather than 
+lending it out to stressed banks.
+4
+Research Brief: “Liquidity, Liquidity Everywhere, not a Drop to Use: Why Flooding Banks with Central Bank Reserves May Not Expand Liquidity”  
+Becker Friedman Institute at the University of Chicago · 1126 E. 59th Street, Chicago, IL 60637 · Main: 773.702.5599 · bfi.uchicago.edu 
+===== PAGE 5 =====
+the reserves.  Indeed, defaults on such speculative 
+trades (or even the price impact of unwinding 
+trades because of increasing haircuts or margins, 
+see Aramonte, Schrimpf, and Shin (2021)) may be a 
+source of ex-post contagion in the financial sector. 
+To reduce such contagion, regulation of 
+centralized clearing may require dealer banks 
+to encumber a portion of the liquid assets as 
+guarantee funds for the settlement of defaulted 
+trades; similarly, regulation may require non-
+centrally cleared positions of dealer banks to 
+also be backed by liquid assets for prudential 
+management of the ex-post risks they pose. Such 
+liquidity regulations, in response to speculation, 
+are another source of encumbrance. 
+This raises an obvious question. Shouldn’t the 
+regulator suspend a liquidity requirement imposed 
+ex ante when stress materializes ex post? If so, 
+more reserves will be available to alleviate market 
+illiquidity. Diamond and Kashyap (2016) explain 
+why the regulator may not want to release banks 
+from holding reserves for fear that localized stress 
+morphs into a full-blown panic. Furthermore, 
+ratchet effects whereby supervisors scrutinize 
+reductions in reserves closely no matter what the 
+prior level held (see Nelson (2019)) would also 
+contribute to reserves being hard to deploy. 
+Consider now the third influence on ex-post 
+liquidity – reserve hoarding by profit-maximizing 
+banks. We assume banks see a convenience 
+yield in directly holding reserves in times of 
+stress. Given this benefit to holding liquidity, 
+healthy banks can choose between two options: 
+to either remain perceptibly safe and attract 
+flight-to-safety deposits (with their associated 
+convenience yield); or to lend in the interbank 
+market and realize the associated rents but in the 
+process become tainted and attract none of the 
+flight-to-safety reserve flows. The interbank rate 
+will have to move up to convince banks to lend 
+and forego the convenience yield that comes 
+from attracting flight-to-safety deposits. Clearly, 
+It is possible that central bank 
+balance sheet expansion under 
+some circumstances does not 
+reduce illiquidity premia, but may 
+even enhance them. Instead of 
+enhancing financial stability, it 
+makes the financial system more 
+fragile. Rather than expanding 
+real activity, it dis-incentivizes it.
+Exhibit 2 · Reserves of Depository Institutions and Uninsured Deposit Liabilities
+Note
+Reserves of Depository Institutions and Uninsured Deposit Liabilities
+Notes: The data are from the Federal Reserve Bank of St Louis database (FRED).
+Shaded areas indicate US recessions. 
+Source: Board of Governors of the Federal Reserve System (US) 
+0
+2,000
+4,000
+6,000
+8,000 Billion Dollars
+2002 2004 2006 2008 2010 2012 2014 2016 2018 2020
+1,000
+3,000
+5,000
+7,000
+US-Chartered Depository Institutions; 
+Uninsured Transaction and Nontransaction Deposits; 
+Liability (Includes Savings and Loans Beginning 2012q1), 
+Level/1000
+Reserves of Depository Institutions: Total
+s: The data are from the Federal Reserve Bank of St Louis database (FRED). Shaded areas indicate US recessions.  Source: Board of Governors of the Federal Reserve System (US) 
+5
+Research Brief: “Liquidity, Liquidity Everywhere, not a Drop to Use: Why Flooding Banks with Central Bank Reserves May Not Expand Liquidity”  
+Becker Friedman Institute at the University of Chicago · 1126 E. 59th Street, Chicago, IL 60637 · Main: 773.702.5599 · bfi.uchicago.edu 
+===== PAGE 6 =====
+the higher the perceived convenience yield, the 
+higher the interbank rate will have to be. Indeed, 
+the interbank market may remain shut altogether 
+because it is cheaper for stressed banks to raise 
+capital than to pay the exorbitant required rate. 
+The bottom line though is liquidity hoarding 
+by healthy banks can contribute to the ex-post 
+shortage even if aggregate liquidity is plentiful.
+In sum, the key problem is that central bank 
+reserves are placed with commercial banks. 
+Commingled with those balance sheets, they 
+influence other activities (lending, deposit 
+financing, hoarding) that have the potential 
+for significantly enhancing the net demand for 
+liquidity. If, instead, central bank reserves were 
+placed directly with households, or with financial 
+intermediaries that did not issue claims on liquidity, 
+the effects we hypothesize would be mitigated (as 
+argued, for instance, by Greenwood, Hanson and 
+Stein, 2016), but not entirely eliminated. 
+What, for instance, if the central bank issues 
+reserves directly to the non-bank private financial 
+sector? Here again, a desire to match the duration 
+of liabilities with assets to reduce risk will result 
+in non-banks financing with short-term liabilities. 
+Many of the consequences we have documented 
+and modeled for banks will follow. In April 2021, 
+the Federal Reserve reinstated the supplementary 
+leverage ratio (SLR) for commercial banks. This 
+is a regulatory capital requirement that was 
+suspended in April 2020 in the wake of the 
+pandemic (see Covas, 2021). Given the increased 
+cost to banks of funding reserves with long-term 
+capital, they released reserves. Interestingly, 
+money market funds, themselves funded with 
+short term liabilities, took on the reserves and 
+redeposited them at the central bank via overnight 
+reverse-repo facilities. This suggests the natural 
+form of reserve funding is short-term even in the 
+non-bank financial sector.
+Given current practice, our paper suggests that 
+under certain circumstances, there is a threshold 
+size of the central bank balance sheet beyond 
+which further expansion will increase the severity 
+of future liquidity problems. Consequently, the 
+balance sheet size that is optimal from a purely 
+monetary perspective may be excessive from 
+a financial stability perspective. More generally, 
+even though the central bank has no direct cost of 
+creating additional fiat money (Friedman (1969)), 
+our paper proposes a social cost stemming 
+from the reactions of market participants with 
+consequences for financial stability.    
+Much of the related literature has focused on 
+frictions such as market segmentation, capital 
+regulation, and timing mismatches (from intraday 
+payments and Treasury sales) to explain price 
+spikes in usually liquid money markets. To alleviate 
+these spikes, a number of commentators suggest 
+that the central bank provide more liquidity 
+in stressed times to a wider array of market 
+participants (see the G30 Report on US Treasury 
+Markets 2021), that it permanently expand the 
+quantum of reserves (Copeland, Duffie, and 
+Yang (2021)), or that it reduce or eliminate 
+capital requirements against reserves (Liang 
+and Parkinson (2020)). While these proposals 
+will likely reduce stress ex post, we also need an 
+ex-ante analysis of why the system is so fragile 
+despite abundant reserves to understand the full 
+consequences of the proposed policies.2 
+ 
+Regulation of centralized clearing 
+may require dealer banks to 
+encumber a portion of the liquid 
+assets as guarantee funds for 
+the settlement of defaulted 
+trades; similarly, regulation may 
+require non-centrally cleared 
+positions of dealer banks to also 
+be backed by liquid assets for 
+prudential management of the 
+ex-post risks they pose. Such 
+liquidity regulations, in response 
+to speculation, are another source 
+of encumbrance.  
+2 Most closely related to our paper is Diamond, Jiang, and Ma (2021), who ask how the reserve build-up by the Federal Reserve could affect bank lending. Using 
+structural estimation methods, they conclude the $2.7 trillion increase in Fed reserves from quantitative easing reduced bank lending by over $500 billion. Our 
+focus instead is on the effects of reserves on ex-post liquidity, and how that would impact corporate lending. Even though our papers are complementary given 
+their focus, the implications, for example on whether capital requirements should be relaxed ex ante for reserve holdings, are different.
+6
+Research Brief: “Liquidity, Liquidity Everywhere, not a Drop to Use: Why Flooding Banks with Central Bank Reserves May Not Expand Liquidity”  
+Becker Friedman Institute at the University of Chicago · 1126 E. 59th Street, Chicago, IL 60637 · Main: 773.702.5599 · bfi.uchicago.edu 
+===== PAGE 7 =====
+For instance, reducing capital requirements on 
+reserves could make them more available ex 
+post, but it will increase the short-term financing 
+of reserves, which contributes to the problem. 
+Similarly, the central bank can certainly flood the 
+market with reserves ex post. Such intervention is 
+not without cost. Ex post, it crowds out lending by 
+healthy banks, increasing the scale of the needed 
+intervention. Ex ante, market participants are even 
+more inclined to write future claims on liquidity and 
+ever more reliant on the central bank backstop. 
+Consequently, we should expect escalating and 
+more frequent central bank interventions over 
+time, with broader categories of assets accepted 
+as collateral for the central bank intervention, and 
+potential distortions creeping into asset prices 
+as well as asset allocations. In our analysis, such 
+growing liquidity dependency of the system on the 
+central bank is a concerning possibility. 
+Put differently, the shrinking of central bank 
+balance sheets that is currently being discussed 
+by major central banks will have to be managed 
+carefully so as to avoid market disruption. That 
+the central bank’s balance sheet is many times 
+historical levels does not mean that the liquidity 
+provided exceeds the private sector’s needs – the 
+latter have grown along with the growth of the 
+central bank balance sheet. Indeed, the private 
+sector will have to be weaned off dependence 
+on the central bank’s balance sheet. That is likely 
+to be a delicate task requiring central bank skill, 
+determination, and patience. 
+We have likely only scratched the surface in 
+modeling and sketching out implications of the 
+phenomenon that the ex-ante supply of reserves 
+affects the ex-post demand for them. There is 
+clearly more work to be done in understanding 
+and mitigating liquidity stress implied by this 
+phenomenon. 
+ 
+CLOSING TAKEAWAY
+Given current practice, our paper 
+suggests that under certain 
+circumstances, there is a threshold 
+size of the central bank balance 
+sheet beyond which further 
+expansion will increase the severity 
+of future liquidity problems. 
+Consequently, the balance sheet 
+size that is optimal from a purely 
+monetary perspective may be 
+excessive from a financial stability 
+perspective. 
+References
+Acharya, Viral V. and Raghuram G Rajan, “Liquidity, Liquidity Everywhere, Not a Drop to Use – Why Flooding Banks with Central 
+Bank Reserves May Not Expand Liquidity”, Working Paper, NYU Stern School of Business.
+Anderson, Alyssa, Wenxin Du, and Bernd Schlusche, 2021, “Arbitrage Capital of Global Banks”, working paper.
+Aramonte, Sirio, Andreas Schrimpf, and Hyun Song Shin (2021), Non-Bank Financial Intermediaries and Financial Stability, working 
+paper, Bank for International Settlements.
+Caballero, Ricardo and Arvind Krishnamurthy (2003) “Excessive Dollar Debt: Financial Development and Underinsurance”, Journal 
+of Finance, 58, 867-893.
+Copeland, Adam, Darrell Duffie and Yilin (David) Yang (2021) “Reserves Were Not So Ample After All”, Working Paper, Federal 
+Reserve Bank of New York.
+Correa, Ricardo, Wenxin Du, and Gordon Liao (2021), “US Banks and Global Liquidity”, working paper, University of Chicago Booth School.
+Covas, Francisco (2021), “Take-up at the Federal Reserve’s ON RRP facility: Much Larger and More Persistent than Planned, Getting 
+Larger, and the Reasons Why”, Bank Policy Institute.
+ 
+7
+Research Brief: “Liquidity, Liquidity Everywhere, not a Drop to Use: Why Flooding Banks with Central Bank Reserves May Not Expand Liquidity”  
+Becker Friedman Institute at the University of Chicago · 1126 E. 59th Street, Chicago, IL 60637 · Main: 773.702.5599 · bfi.uchicago.edu 
+===== PAGE 8 =====
+READ THE WORKING PAPER 
+NO. 2022-19 · JANUARY 2022
+Liquidity, Liquidity Everywhere, not a Drop 
+to Use: Why Flooding Banks with Central 
+Bank Reserves May Not Expand Liquidity 
+bfi.uchicago.edu/working-paper/202219
+ABOUT OUR SCHOLAR
+Raghuram G. Rajan
+Katherine Dusak Miller Distinguished Service 
+Professor of Finance, Chicago Booth
+chicagobooth.edu/faculty/directory/r/raghuram-
+g-rajan
+D’Avernas Adrien and Quentin Vandeweyer (2021) “Intraday Liquidity and Money Market Dislocations”, Working Paper, University  
+of Chicago Booth School of Business.
+Diamond, D. and A. Kashyap (2016), “Liquidity Requirements, liquidity choice, and financial stability”, Handbook of Macroeconomics, 
+Volume 2, 2016, Pages 2263-2303.
+Diamond, William, Zhengyang Jiang, and Yiming Ma (2021), “The Reserve Supply Channel of Unconventional Monetary Policy”, 
+SSRN working paper.
+Fabo, Brian, Martina Jancokova, Elisabeth Kempf, and Lubos Pastor, (2021), “Fifty Shades of QE: Comparing Findings of Central 
+Bankers and Academics”, SSRN working paper. 
+Friedman, Milton, 1969, The Optimum Quantity of Money, Macmillan. 
+G30 Report on US Treasury Markets: U.S. Treasury Markets – Steps Toward Increased Resilience
+Greenwood, Robin, Samuel G. Hanson and Jeremy C. Stein (2016) “The Federal Reserve’s Balance Sheet as a Financial-Stability 
+Tool”, Federal Reserve Bank of Kansas City’s 2016 Economic Policy Symposium in Jackson Hole.
+Kovner, Anna and Antoine Martin (2020) “Expanding the Toolkit: Facilities Established to Respond to the COVID-19 Pandemic”, 
+Federal Reserve Bank of New York Liberty Street Economics.
+Liang, Nellie and Pat Parkinson (2020) “Enhancing liquidity of the US Treasury market under stress”, Working Paper #72, Hutchins 
+Center on Fiscal & Monetary Policy at Brookings.
+Lorenzoni, Guido, “Inefficient Credit Booms,” Review of Economic Studies, 75 (2008), 809–833.
+Nelson, Bill (2019) “Fed’s Balance Sheet Can and Should Get Much Smaller”, Remarks at Brookings Symposium on Repo Market 
+Disruption, Bank Policy Institute. 
+Stein (2012) “Monetary Policy as Financial Stability Regulation”, Quarterly Journal of Economics, 127(1), 57-95.
+Yang (2021) “What Quantity of Reserves is Sufficient?” Working Paper, Stanford GSB.
+8
+Research Brief: “Liquidity, Liquidity Everywhere, not a Drop to Use: Why Flooding Banks with Central Bank Reserves May Not Expand Liquidity”  
+Becker Friedman Institute at the University of Chicago · 1126 E. 59th Street, Chicago, IL 60637 · Main: 773.702.5599 · bfi.uchicago.edu 

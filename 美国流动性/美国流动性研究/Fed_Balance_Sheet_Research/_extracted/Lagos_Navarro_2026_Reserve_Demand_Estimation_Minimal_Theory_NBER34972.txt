@@ -1,0 +1,578 @@
+
+===== PAGE 1 =====
+NBER WORKING PAPER SERIES
+RESERVE DEMAND ESTIMATION WITH MINIMAL THEORY
+Ricardo Lagos
+Gaston Navarro
+Working Paper 34972
+http://www.nber.org/papers/w34972
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+March 2026, Revised May 2026
+We thank Francisco Amor for superb research assistance. The views expressed are those of the 
+authors and do not necessarily reflect those of the Federal Reserve Bank of Richmond, the Federal 
+Reserve System, or the National Bureau of Economic Research.
+At least one co-author has disclosed additional relationships of potential relevance for this research. 
+Further information is available online at http://www.nber.org/papers/w34972
+NBER working papers are circulated for discussion and comment purposes. They have not been 
+peer-reviewed or been subject to the review by the NBER Board of Directors that accompanies 
+official NBER publications.
+© 2026 by Ricardo Lagos and Gaston Navarro. All rights reserved. Short sections of text, not to 
+exceed two paragraphs, may be quoted without explicit permission provided that full credit, 
+including © notice, is given to the source.
+===== PAGE 2 =====
+Reserve Demand Estimation with Minimal Theory 
+Ricardo Lagos and Gaston Navarro
+NBER Working Paper No. 34972
+March 2026, Revised May 2026
+JEL No. E4, E41, E5, E50
+ABSTRACT
+We propose a new reserve-demand estimation strategy—a middle ground between atheoretical 
+reduced-form econometric approaches and fully structural quantitative-theoretic approaches. The 
+strategy consists of an econometric specification that satisfies core restrictions implied by theory 
+and controls for changes in administered-rate spreads that induce rotations and shifts in reserve 
+demand. The resulting approach is as user-friendly as existing reduced-form econometric methods 
+but improves upon them by incorporating a minimal set of theoretical restrictions that any reserve 
+demand must satisfy. We apply this approach to U.S. data and obtain reserve-demand estimates that 
+are broadly consistent with the structural estimates in Lagos and Navarro (2023).
+Ricardo Lagos
+New York University
+Department of Economics
+and NBER
+ricardo.lagos@nyu.edu
+Gaston Navarro
+Federal Reserve Bank of Richmond
+gaston.navarro@rich.frb.org
+===== PAGE 3 =====
+1 Introduction
+There are currently two approaches to reserve-demand estimation. The first specifies the inter-
+bank rate as a function of the quantity of reserves, and econometrically estimates the parameters
+of the function. Because the choice of functional form is typically not disciplined by economic
+theory, we refer to this approach asno-theory estimation. Examples include Hamilton (1996,
+1997), Carpenter and Demiralp (2006), Afonso et al. (2022), and López-Salido and Vissing-
+Jorgensen (2023). The second approach, proposed by Lagos and Navarro (2023), isstructural:
+it uses a fully specified equilibrium theory of interbank-rate determination in an over-the-counter
+market structure, estimates or calibrates the structural parameters using micro data, and pro-
+duces a quantitative-theoretic estimate of the aggregate demand for reserves.
+The no-theory approach is appealing for its simplicity but is pervaded by empirical chal-
+lenges. First, it can have poor extrapolation properties, since the out-of-sample shape of the
+reserve demand is entirely determined by the arbitrary choice of functional form. Second, com-
+monly used functional forms violate elementary theoretical shape restrictions. Third, due to the
+lack of theoretical guidance, this approach cannot identify the global shape of the reserve de-
+mand over periods in which the relationship is likely to have shifted or rotated due to structural
+changes in regulation or market structure.
+The structural approach disciplines the global shape of the demand curve using economic
+theory and micro data, and identifies (e.g., via quantitative counterfactuals) the policy and
+microstructure variables that shift and rotate the demand for reserves. However, it can be
+computationally demanding for everyday use by practitioners.
+We propose a new reserve-demand estimation strategy—a middle ground between the no-
+theory reduced-form and the quantitative-theoretic structural approaches. The strategy consists
+of an econometric specification that satisfies core restrictions implied by theory and controls for
+monetary-policy variables that induce rotations and shifts in the demand for reserves. The
+resulting approach is as user-friendly as no-theory reduced-form methods, while incorporating a
+minimal set of theoretical restrictions that any reserve demand ought to satisfy. We refer to it as
+the minimal-theory approach. We apply this approach to U.S. data and obtain reserve-demand
+estimates that are broadly consistent with the quantitative-theoretic structural estimates in
+Lagos and Navarro (2023).
+2 Data
+We use time-series data on five variables: effective fed funds rate (EFFR), quantity of re-
+serves (Q), interest on reserves (IOR), discount-window rate (DWR), and overnight reverse
+repo rate (ONRRP). All data series are downloaded from FRED, whose respective codes are
+EFFR, WRESBAL, IOER (before August 2021) or IORB (after August 2021), DPCREDIT, and
+RRPONTSYAWARD. Figure 1 plots the five variables for the period 2010/01/01–2025/06/04.
+Figure 2 displays a scatterplot of the weekly aggregate quantity of reserves (Q) against the
+EFFR–IOR spread for the period 2010/01/01–2025/06/04. This is the space in which one would
+seek to identify a tight, downward-sloping relationship resembling a reserve-demand schedule.
+2
+===== PAGE 4 =====
+No such relationship is immediately evident in the raw data. This is not surprising given
+the large policy changes, motivated by concerns about financial stability, that materially altered
+banks’ incentives to hold reserves during this period. Two prominent examples are the Liquidity
+Coverage Ratio (LCR), which was phased in between January 2015 and January 2017, and the
+Supplementary Leverage Ratio (SLR), which has been in effect since January 2018.
+These large policy shifts suggest it is not reasonable to regard all the data points in Figure
+2 as lying on a single reserve-demand schedule. The identification challenge is that capturing
+substantial variation in the supply of reserves necessarily entails spanning a long period of time,
+during which the demand for reserves is itself likely to have shifted due to structural changes, for
+example, in the market structure of interbank markets or in banks’ incentives to hold reserves
+arising from changes in policy, regulation, or internal portfolio-allocation frameworks.
+For this reason, when considering the sample period 2010/01/01–2025/06/04, which we
+refer to as thefull sample, we divide it into four subsamples corresponding to distinct regu-
+latory frameworks. The first subsample is 2010/01/01–2014/09/30, which corresponds to the
+period preceding the phase-in of GFC-inspired regulation. The second subsample is 2014/10/01–
+2016/12/31, which corresponds to the LCR (Liquidity Coverage Ratio) and SLR (Supplemen-
+tary Leverage Ratio) phase-in period. The third subsample is 2017/01/01–2019/09/11, which
+corresponds to the period after GFC-inspired regulation was fully phased in, up to the money-
+market spikes of September 2019. The fourth subsample corresponds to the post-COVID pe-
+riod 2021/09/01–2025/06/04. Figure 3 displays a scatterplot of the weekly EFFR–IOR spread
+against the quantity of reserves, with observations color-coded by subsample.
+To control for theadministered-rate regime, we further divide each regulatory subsample
+according to the DWR–IOR and IOR–ONRRP spreads. Regime 0 corresponds to subsample 1
+(the subsample preceding GFC-inspired regulation), during which DWR− IOR = 50 bps and
+IOR −ONRRP = 25 bps throughout. Regimes 1–4 consist of trading days from subsamples 2
+and 3, sorted as follows. Regime 1: days with DWR− IOR = 50 bps and IOR− ONRRP =
+25 bps. Regime 2: days with DWR−IOR = 55 bps and IOR−ONRRP = 20 bps. Regime 3:
+days with DWR−IOR = 60 bps and IOR−ONRRP = 15 bps. Regime 4: days with DWR−
+IOR = 65 bps and IOR−ONRRP = 10 bps. Regime 5 consists of trading days in subsample 4
+with DWR − IOR = 10 bps and IOR− ONRRP = 10 bps. Figure 4 displays a scatterplot of
+the weekly EFFR–IOR spread against the quantity of reserves, with observations color-coded
+by administered-rate regime.
+Our formal analysis focuses on subsamples 2 and 3 (2014/10/01–2019/09/11), which be-
+gins with the phase-in of GFC-inspired regulation and ends with the money-market spikes of
+September 2019. This is the period that Lagos and Navarro (2023) uses for their structural
+estimation, and it is the period during which the Fed’s Trading Desk was not accommodating
+money-market conditions on a daily basis. For some of our estimations, we extend the sample
+back to 2010/01/01 to facilitate comparison with the recent literature.1
+1ExtendingtheanalysistoperiodsinwhichtheTradingDeskactivelyaccommodatesmoney-marketconditions
+introduces well-known identification challenges that can be addressed as in Hamilton (1997), Carpenter and
+Demiralp (2006), or Afonso et al. (2022). Appendix A (Section A.5) in Lagos and Navarro (2023) contains a
+more detailed discussion of these issues, including a review of the three identification strategies.
+3
+===== PAGE 5 =====
+3 Structural approach
+In this section, we briefly review the quantitative-theoretic structural approach to reserve-
+demand estimation proposed in Lagos and Navarro (2023). The model consists of a large
+number of banks that start the trading day with given reserve balances, are subject to random
+payment shocks, and can borrow and lend reserves in a dynamic over-the-counter market to
+buffer payment shocks and maximize the end-of-day payoff from holding reserves. Lagos and
+Navarro (2023) calibrate the model to match a broad set of bank- and market-level statistics and
+compute the equilibrium, thereby obtaining the mappingι = D(Q) from the aggregate quantity
+of reserves,Q, to the equilibrium value-weighted interbank rate,ι. The mappingD(·)constitutes
+the quantitative-theoretic estimate of reserve demand implied by the structural model.
+Figure 5 illustrates the baseline structural estimates of aggregate reserve demand from Lagos
+and Navarro (2023). The vertical axis plots the EFFR–IOR spread, and the top horizontal axis
+plots total reserves(TOTRESNS from FRED). The bottom horizontal axis plotsactive excess
+reserves, the empirical reserve measure used by Lagos and Navarro (2023) to compute reserve
+demand in the quantitative theory.2
+The dots in Figure 5 represent empirical observations of active excess reserves and the corre-
+sponding EFFR–IOR spread for each trading day in the sample period 2017/01/20–2019/09/11.
+Guided by the structural theory, which implies that reserve demand shifts and rotates with
+changes in administered-rate spreads, the sample is divided into four subsamples corresponding
+to the IOR–ONRRP spread: 10 bps (2019/05/02–2019/09/11, red dots), 15 bps (2018/12/20–
+2019/05/01, greendots), 20bps(2018/06/14–2018/12/19, orangedots), and25bps(2017/01/20–
+2018/06/13, blue dots).3
+Along with the data, the figure depicts four quantitative-theoretic reserve-demand curves.
+The solid (red) curve is generated by the baseline calibration, which targets an IOR–ONRRP
+spread of 10 bps. The fact that this curve fits the red data points in the subsample with
+IOR − ONRRP = 10 bps is not surprising, since the baseline calibration targets the average
+EFFR–IOR spread and the local slope of the empirical demand curve within this subsample.
+What is informative about the quantitative-theoretic structural approach is that it allows us
+to trace reserve demand over the full range of reserve levels, including regions beyond those
+observed in the narrow calibration subsample with IOR− ONRRP = 10 bps. The remaining
+three curves are counterfactual reserve demands obtained by changing only the IOR–ONRRP
+spread to 15 bps (green dashed curve), 20 bps (orange dash–dot curve), and 25 bps (blue long–
+short dashed curve). Despite the fact that no parameters other than the IOR–ONRRP spread
+were changed, these counterfactual reserve demands fit the data points in the corresponding
+subsamples reasonably well, thereby providing an out-of-sample validation of the quantitative
+predictions of the theory.4
+2Active excess reserves are obtained from total reserves by subtracting reserves held by banks that did not
+participate in the interbank market during the baseline calibration year, as well as reserve requirements arising
+from Regulation D and the LCR. Lagos and Navarro (2023) (Appendix C, Section C.5.5) provide an empirical
+transformation that mapsactive excess reserves into total reserves.
+3The DWR–ONRRP spread is constant at 75 bps throughout the sample period 2017/01/20–2019/09/11.
+4In Appendix E (Section E.2), Lagos and Navarro (2023) extend this time-series validation exercise using
+4
+===== PAGE 6 =====
+In (Q,EFFR −IOR) space, the structural demands in Figure 5 have two properties, which
+we regard asminimal theoretical restrictionsthat any reserve-demand estimate ought to satisfy:
+1. Logistic shape, with:
+(a) upper asymptote at DWR−IOR.
+(b) lower asymptote at or above ONRRP−IOR.
+2. Reaches the upper asymptote nearQ = 0.
+Properties 1 and 2 are minimal theoretical restrictions shared by a wide range of models of
+interbank markets. They arise not only in the dynamic over-the-counter equilibrium of Lagos
+and Navarro (2023), but also in the competitive static model of Poole (1968), which has long
+served as the canonical framework for studying the demand for reserves.
+The equilibrium rate on dayt in the model of Lagos and Navarro (2023), which we denote
+by rt, admits a simple representation:
+rt = ωt iW
+t + (1 − ωt)
+
+ω iO
+t + (1 − ω) iR
+t
+
+, (1)
+where iR
+t = IOR, iW
+t = DWR, iO
+t = ONRRP, and ωt ∈ [0, 1] and ω ∈ [0, 1] are determined in
+equilibrium by the structural model. Intuitively, the equilibrium interbank rate,rt, is a convex
+combination of the maximum rate that participating institutions are willing to pay to borrow
+reserves, iW
+t , and the minimum rate they are willing to accept to lend reserves, which in the
+United States isiR
+t for some institutions, such as commercial banks, andiO
+t for others, such as
+Government Sponsored Enterprises (GSEs).5
+In the structural model, the weights ωt and ω are complicated functions of parameters,
+which include the frequency and size of each bank’s payment shocks, banks’ trading frequency,
+their relative market power in bilateral lending operations, and the cross-sectional beginning-of-
+day distribution of reserves, which determines the aggregate supply of reserves,Q. Intuitively,
+however, ωt tends to decrease with Q, reflecting the fact that most trades in a market with
+abundant reserves will involve borrowers and lenders whose marginal value of a unit of reserves
+is close to their minimum acceptable rates. And conversely, in a market with scarce reserves,
+most trades will involve borrowers and lenders whose marginal value of a unit of reserves is close
+to their maximum willingness-to-pay rate. The weightω tends to be very large (close to 1) if
+the equilibrium exhibits many lenders with minimum acceptable rateiO
+t and very low market
+power in bilateral negotiations. For example, if most excess reserves are held by GSEs, which
+data from 2023—a representative post-COVID year with abundant reserves—and show that the model-generated
+demand fits the data well across the full range of reserves observed in the extended sample. We do not include
+this additional validation in Figure 5 (e.g., as done in Figure 26 in Lagos and Navarro (2023)) to simplify the
+exposition, as it requires recalibrating a structural parameter to match the average spread between the interbank
+rate and the IOR observed in 2023. This structural adjustment may reflect post-COVID changes in regulation
+and macro conditions, such as that Regulation D was operative in 2019 but not in 2023, and possibly lower
+inflation in 2019—two factors outside the model that would have shifted the demand for reserves.
+5A “stigma premium” may be added toiW
+t to capture the fact that some institutions may be reluctant to
+borrow reserves from the Fed at the discount window.
+5
+===== PAGE 7 =====
+are not eligible to earn the IOR and have very low market power in bilateral negotiations, then
+ω will be close to 1, and the equilibrium interbank rate will be close toiO
+t when reserves are
+abundant.
+Subtracting iR
+t from both sides of (1) yields a simple representation of the equilibrium spread
+st ≡ rt − iR
+t , the theoretical counterpart of the empirical spread EFFR−IOR:
+st = ωt ¯st + (1 − ωt) ω st, (2)
+where ¯st ≡ iW
+t − iR
+t and st ≡ iO
+t − iR
+t .
+4 No-theory estimation
+There are currently two well-known no-theory estimation specifications for reserve demand. The
+first assumes that the EFFR–IOR spread is an affine function of the logarithm of the quantity of
+reserves (López-Salido and Vissing-Jorgensen (2023)). The second assumes that the EFFR–IOR
+spread is a sigmoid function of the quantity of reserves (Afonso et al. (2022)).
+4.1 Semi-log demand
+Consider the following baseline semi-log specification:
+st =
+4X
+i=0
+ci I{regime i} + b ln(Qt) + εt, (3)
+where st = EFFR −IOR (in percentage points),Qt denotes the quantity of reserves (in billions
+of dollars), and I{regime i} is a dummy variable for administered-rate regimei ∈ { 0, 1, 2, 3, 4}.
+The parametersb and {ci}4
+i=0 are estimated by OLS. The data are weekly, and the sample period
+is 2010/06/01–2019/09/11. The coefficient of interest,b, is estimated to be−0.109, statistically
+significant at the 1% level.6 In economic terms, a 10% increase in reserves lowers the EFFR–IOR
+spread by about 1.09 basis points.7
+As illustrated in Figure 6, the semi-log specification has two shortcomings. First, the esti-
+mated demand does not have a logistic shape, does not have an upper asymptote at DWR−IOR,
+and does not have a lower asymptote at or above ONRRP−IOR, which violates restriction 1.
+Second, the demand curve does not reach the upper asymptote nearQ = 0, which violates
+restriction 2.
+6The standard error is0.011 (Newey–West, robust to autocorrelation up to 13 lags).
+7This estimate is similar in magnitude to the 1.83 basis points reported by López-Salido and Vissing-Jorgensen
+(2023) for the sample period 2009–2022. The semi-log specification in López-Salido and Vissing-Jorgensen (2023)
+differs from (3) in that it does not include administered-rate dummies and instead includes bank deposits as an
+additional control variable. We favor (3) because the administered-rate dummies control for shifts and rotations
+in reserve demand induced by changes in administered-rate spreads, consistent with the structural theory, and
+because this specification avoids the endogeneity concerns that arise when including bank deposits as a regressor.
+Another difference with López-Salido and Vissing-Jorgensen (2023) is that their sample extends past the money-
+market spikes of September 2019, which raises endogeneity concerns due to the fact that the Fed’s Trading Desk
+has been actively accommodating money-market conditions since then.
+6
+===== PAGE 8 =====
+Figure 7 compares the no-theory logistic demands with the structural demands from Lagos
+andNavarro(2023). Whilebotharerelativelysimilarin-sample, theno-theorysemi-logdemands
+do not match the shape of the structural demands well for very large or very low levels of
+reserves. In particular, the semi-log demands predict EFFR–IOR spreads that are unreasonably
+high as reserves become very scarce, and unreasonably low when reserves become very abundant.
+Becausetheout-of-samplepredictionsaresounreliable, thisapproachisnotwellsuitedforpolicy
+analysis that requires global estimates of the reserve demand, such as estimating the minimum
+level of reserves required for the Fed to operate a floor system.
+4.2 Sigmoid demand
+Consider the following logistic sigmoid specification:
+st = D (Qt)
+with
+D (Qt) ≡ ω (Qt) ¯s + [1 − ω (Qt)] s,
+and
+ω (Qt) ≡ 1
+1 + eα(Qt−Q0) , (4)
+where st ≡ EFFR − IOR, Qt is the quantity of reserves, and the parameters(α, Q0, ¯s, s) are
+estimated separately by NLS for administered-rate regimes 1–4. The data are weekly, and the
+sample period is 2014/10/01–2019/09/11.8 Table 1 reports the estimated parameter values.
+As illustrated in Figure 8, the logistic specification has two shortcomings. First, it does not
+have an upper asymptote at DWR−IOR, violating restriction 1(a). Second, it does not reach
+the upper asymptote nearQ = 0, violating restriction 2.
+Figure 9 compares the no-theory logistic demands with the structural demands from Lagos
+and Navarro (2023). While both are relatively similar in-sample, the no-theory logistic demands
+do not match the shape of the structural demands well for intermediate and low levels of re-
+serves. In particular, the no-theory logistic specification predicts EFFR–IOR spreads that are
+unreasonably low as reserves shrink. Because the out-of-sample predictions are so unreliable,
+this approach is not well suited for policy analysis that requires global estimates of the reserve
+demand.
+8In their Appendix G, Afonso et al. (2022) follow this approach assumingD(·) is a transformation of the
+arctan function. Motivated by concerns about structural shifts in reserve demand, they split their full sample
+period (2010–2021/03/29) according to the different low-frequency cycles of expansion and contraction of the
+Federal Reserve balance sheet. Specifically, they consider the initial post-GFC expansionary period (2010–2014),
+the subsequent post-GFC and pre-COVID contractionary period (2015–2020/3/13), and the most recent post-
+COVID expansionary period (2020/03/16–2021/03/29). They do not, however, attempt to control for shifts and
+rotations caused by changes in administered-rate spreads. The sample we consider here, which is the union of
+subsamples 2 and 3 in Section 2, largely overlaps with their pre-COVID contractionary period, but we consider
+different administered-rate regimes to control for shifts and rotations induced by monetary-policy implementation
+decisions. See Lagos and Navarro (2023) (Appendix D) for other econometric specifications and sample periods.
+7
+===== PAGE 9 =====
+5 Minimal-theory logistic
+The demand representation (2) describes a broad class of interbank market models, whose
+relevant differences are summarized by the specifications ofωt ∈ [0, 1] and ω ∈ [0, 1]. The
+structural model in Lagos and Navarro (2023) develops an equilibrium theory ofωt and ω,
+grounded in over-the-counter trading frictions and bank-level heterogeneity and disciplined by
+micro data (such as the frequency and size of payment shocks, trading frequency, relative market
+power, and beginning-of-day reserve distributions). A practical challenge in Lagos and Navarro
+(2023) is that computingωt and ω requires solving for the model equilibrium at every point on
+a grid of reserve levels, which can be computationally intensive.
+The econometric strategy we propose here is to approximate (2) by usingωt ≈ ω (Qt) with
+ω (Qt) given by (4), and to estimate(ω, α, Q0) by NLS, subject to the restrictionD(0; ¯st, st) =
+k¯st for some k close to 1, where D (Qt; ¯st, st) ≡ ω (Qt) ¯st + [1 − ω (Qt)] ω st. This leads to a
+specification that is easy to estimate but still grounded in minimal theory, while sidestepping
+the computational burden of repeatedly solving the structural model to computeωt and ω.
+The constraintD(0; ¯st, st) = k¯st ensures that the demand curve is close to its upper asymp-
+tote near Q = 0, consistent with restriction 2. According to the structural theory,k will be
+close to 1 if banks’ required reserves are nonnegative and their trading frequencies are sufficiently
+high, that is, if the over-the-counter interbank market is sufficiently close to the perfectly com-
+petitive benchmark.9 Here we adoptk = 0.9, which is the value consistent with the structural
+estimation in Lagos and Navarro (2023). The parameters(ω, α, Q0) are estimated separately
+for each of administered-rate regimes 1–4 using weekly data for 2014/10/01–2019/09/11. Table
+2 reports the results.10
+Figure 10 illustrates the estimated minimal-theory logistic demands, which satisfy all the
+minimaltheoreticalrestrictions. Theyhavealogisticshapewithupperasymptoteat ¯st andlower
+asymptote no smaller thanst, thus satisfying restriction 1. The NLS constraintD(0; ¯st, st) = k¯st
+with k = 0.9 ensures that the demands attain 90% of their upper asymptotes atQ = 0, thus
+satisfying restriction 2.
+Figure 11 compares the minimal-theory logistic demands with the structural demands of
+Lagos and Navarro (2023). The global shapes of the two sets of demands are strikingly similar.
+For very large levels of reserves, the in-sample fit of the minimal-theory logistic demands is some-
+what better than that of the structural demands because the latter tend to slightly over-predict
+the EFFR–IOR spread in this region. For intermediate and low levels of reserves outside the
+sample, the shapes of the two sets of demands are very similar, with both predicting reasonable
+values of the EFFR–IOR spread as reserves shrink.
+9To visualize this, notice that the sigmoid demand is a smooth approximation to the perfectly competitive
+demand, which is a step correspondence given byDc(Q) = I{Q<Q0}¯s + I{Q0<Q}s, and Dc(Q0) ∈ [s, ¯s]. Hence,
+D(0; ¯st, st) is close to¯st for large enoughα, provided that0 ≤ Q0.
+10The estimated values ofQ0 for administered-rate regimes 1–4 are 936.6, 913.2, 892.6, and 874.2, respectively.
+8
+===== PAGE 10 =====
+6 What is the minimum “ample” quantity of reserves?
+The defining characteristic of a floor system is that the baseline quantity of reserves supplied
+by the central bank is “ample enough,” i.e., no smaller than a levelQ∗, so that the market
+operates on a region of the reserve-demand schedule that is sufficiently flat for the interbank
+rate to remain insensitive to autonomous variations in the supply of reserves. In this section, we
+use our reserve-demand estimates to determine the level of reservesQ∗ required to implement
+alternative operational definitions of an interbank rate being “insensitive enough”.
+In the United States, the supply of reserves is largely determined by the Federal Reserve
+but it is also affected by autonomous variations (“supply shocks”) generated by transactions in
+which the Fed is not a counterparty, such as transactions involving private-sector bank accounts
+and the account that the U.S. Treasury holds at the Fed.11 Figure 12, taken from Lagos and
+Navarro (2023), shows the distribution of reserve-supply shocks over the period January 2011–
+July 2019. In what follows, we use this empirical distribution to define two notions of the
+minimum ample quantity of reserves and compute the corresponding estimates. The first is the
+minimum quantity of reserves that ensures sufficiently low volatility of the EFFR–IOR spread.
+The second is the minimum quantity of reserves that ensures the EFFR–IOR spread remains
+within a specified band with sufficiently high probability on any given day.
+6.1 Rate volatility
+One feature of floor systems that central banks view as desirable is that, when the supply of
+reserves is sufficiently ample, the central bank can keep the volatility of the interbank rate below
+a specified tolerance level on any given day.
+In this section, we combine the empirical demand estimates from the previous sections with
+the estimated distribution of reserve-supply shocks to compute, for each aggregate quantity of
+reserves, the standard deviation of the EFFR–IOR spread. Figure 13 displays the standard
+deviation of the EFFR–IOR spread (in basis points) implied by the no-theory semi-log, the
+no-theory logistic, and the minimal-theory logistic specifications. As is clear from the figure,
+the relationship between the standard deviation of the spread and the quantity of reserves is
+quite different across the three specifications.
+For example, suppose the central bank wishes to ensure that the standard deviation of the
+EFFR–IOR spread does not exceed half a basis point. Figure 13 shows that the minimum
+“ample” quantity of reserves required to achieve this objective is about $2 tn under the minimal-
+theory logistic specification, and about $2.5 tn under either of the no-theory specifications.
+Under the no-theory logistic specification, the same objective is also achieved with aggregate
+supplies of reserves below $1.5 tn, which is not plausible. Under the no-theory semi-log speci-
+fication, even $3.5 tn would not be sufficient to reduce the standard deviation below a quarter
+of a basis point, reflecting the fact that the semi-log demand curve flattens too slowly.
+11For example, whenever corporations or households pay taxes or purchase Treasury securities from the Trea-
+sury, reserves are transferred from private banks to the Treasury’s account, which, from the perspective of
+domestic banks, constitutes an aggregate reserve-supply drain. Conversely, autonomous reserve-supply increases
+occur whenever the Treasury makes payments to the private sector.
+9
+===== PAGE 11 =====
+6.2 Monetary Confidence Bands
+Floor systems are appealing to central banks that implement monetary policy by targeting an
+interbank rate because by supplying a sufficiently ample quantity of reserves, the central bank
+can keep the interbank rate within a desired band. For instance, one of the Fed’s operational
+objectives under a floor system may be to keep the EFFR–IOR spread within a specified range
+with sufficiently high probability on any given day.
+In this section, we combine the empirical demand estimates from the previous sections with
+the estimated distribution of reserve-supply shocks to computeMonetary Confidence Bands
+(MCBs) for the EFFR–IOR spread. Intuitively, for each aggregate quantity of reserves,Qt, the
+MCBs define a band around the estimated demand curvest = D(Qt) such that the EFFR–IOR
+spread st lies within the band for a specified confidence level. For example, the 99% MCB is
+a band around the demand curve such that the EFFR–IOR spread lies within the band with
+99% probability on any given day, accounting for the randomness in the supply of reserves
+generated by reserve-supply shocks. MCBs provide an estimate of the minimum quantity of
+reserves required to keep the EFFR–IOR spread within a specified target range with a desired
+confidence level. For this reason, they are a useful tool for monetary-policy implementation.
+The MCBs are constructed as follows. Let Zp denote the pth percentile of the empirical
+distribution of reserve-supply shocks reported in the bottom panel of Figure 12. We define the
+“p% MCB” as the pair of functions(s(Q), s(Q)), where s(Q) ≡ D
+
+Q + Z 100+p
+2
+
+and s(Q) ≡
+D
+
+Q + Z 100−p
+2
+
+. The idea is that supply shocks introduce randomness in reserve supply, which
+in turn induces randomness in the EFFR–IOR spread. For a given beginning-of-day reserve
+supply Q, the equilibrium rate lies within the 99% MCB (D(Q + Z99.5), D(Q + Z0.5)) with
+probability 99%.
+The top-left panel of Figure 14 displays the 99% MCBs corresponding to the reserve demand
+estimated with the minimal-theory logistic specification, and to the structural demand from
+Lagos and Navarro (2023), both for administered-rate regime 1. The top-right, bottom-left,
+and bottom-right panels correspond to administered-rate regimes 2, 3, and 4, respectively. The
+data and the axes are the same as in Figures 7, 9, and 11. Figure 14 shows that, while not
+identical, there is a substantial overlap of the MCBs of the minimal-theory logistic demands
+and the structural demands of Lagos and Navarro (2023). For example, suppose the central
+bank wants the EFFR–IOR spread to remain below 10 basis points with 99% probability on
+any given day. The bottom-right panel of Figure 14 shows that the minimum “ample” quantity
+of reserves required to achieve this objective is about $1.3 tn under the quantitative-theoretic
+structural estimation of Lagos and Navarro (2023), and about $1.7 tn under the minimal-theory
+logistic estimation.
+7 Conclusion
+Existing reduced-form econometric approaches to reserve-demand estimation lack theoretical
+guidance, leading to poor out-of-sample extrapolation properties and violations of elemen-
+tary theoretical shape restrictions. We have proposed a new approach to reserve-demand
+10
+===== PAGE 12 =====
+estimation—a middle ground between the no-theory reduced-form and quantitative-theoretic
+structural approaches. It is a nonstructural econometric specification that satisfies the two core
+restrictions implied by the theory, and controls for the monetary-policy variables that induce
+rotations and shifts in the demand for reserves, namely the DWR–IOR spread and the ONRRP–
+IOR spread. Our approach is as user-friendly as the no-theory approaches, but satisfies the min-
+imal theoretical restrictions that any reserve-demand schedule ought to satisfy. We find that
+a little theory goes a long way. Unlike existing no-theory approaches, our new minimal-theory
+approach produces reserve-demand estimates for the U.S. that are broadly consistent with the
+structural estimates in Lagos and Navarro (2023).
+11
+===== PAGE 13 =====
+References
+Afonso, G., D. Giannone, G. La Spada, and J. C. Williams (2022): “Scarce, Abundant,
+or Ample? A Time-Varying Model of the Reserve Demand Curve,” Working Paper 1019,
+Federal Reserve Bank of New York.
+Carpenter, S. and S. Demiralp (2006): “The Liquidity Effect in the Federal Funds Market:
+Evidence from Daily Open Market Operations,”Journal of Money, Credit and Banking, 38,
+901–920.
+Hamilton, J. D. (1996): “The Daily Market for Federal Funds,”Journal of Political Economy,
+104, 26–56.
+——— (1997): “Measuring the Liquidity Effect,”American Economic Review, 87, 80–97.
+Lagos, R. and G. Na v arro (2023): “Monetary Policy Operations: Theory, Evidence, and
+Tools for Quantitative Analysis,” Working Paper 31370, National Bureau of Economic Re-
+search.
+López-Salido, D. and A. Vissing-Jorgensen (2023): “Reserve Demand, Interest Rate
+Control, and Quantitative Tightening,” Manuscript, Federal Reserve Board.
+Poole, W. (1968): “Commercial Bank Reserve Management in a Stochastic Model: Implica-
+tions for Monetary Policy,”The Journal of Finance, 23, 769–791.
+12
+===== PAGE 14 =====
+Figure 1: Time series of EFFR (green),Q (grey), and the administered rates, DWR (red), IOR (orange), and ONRRP
+(blue), for the period 2010/01/01–2025/06/04.
+13
+===== PAGE 15 =====
+Figure 2: Scatterplot of weekly EFFR–IOR spread and quantity of reserves for the period 2010/01/01–2025/06/04.
+14
+===== PAGE 16 =====
+Figure 3: Scatterplot of weekly EFFR–IOR spread and quantity of reserves for the period 2010/01/01–2025/06/04, divided
+into four subsamples defined by regulatory regimes.
+15
+===== PAGE 17 =====
+Figure 4: Scatterplot of weekly EFFR–IOR spread and quantity of reserves for the period 2010/01/01–2025/06/04, with
+subsamples divided into administered-rate regimes defined by the size of the IOR–ONRRP spread.
+16
+===== PAGE 18 =====
+Figure 5: Structural reserve demands from Lagos and Navarro (2023), and empirical scatterplot of daily EFFR–ONRRP
+spread and quantity of reserves for each subsample defined by the IOR–ONRRP spread throughout the sample period
+2017/01/20–2019/09/11.
+17
+===== PAGE 19 =====
+Figure 6: Semi-log demands by administered-rate regime, estimated over the sample period 2010/06/01 to 2019/09/11.
+18
+===== PAGE 20 =====
+Figure 7: No-theory semi-log demands for the sample period 2010/06/01 to 2019/09/11 vs. structural demands from Lagos
+and Navarro (2023).
+19
+===== PAGE 21 =====
+Table 1: No-theory logistic demand estimation
+Coefficients No-theory logistic
+α 0.0033***
+(0.0011)
+s -0.1460***
+(0.0140)
+s 0.1026
+(0.0631)
+Q0 1805.047***
+(163.101)
+Observations 259
+R-squared 0.967
+Root MSE 0.018
+Root MSE /|mean(st)| 0.224
+Root MSE / s.e.(st) 0.325
+Notes: Newey-West standard errors in parentheses (13
+lags). *** p < 0.01, ** p < 0.05, * p < 0.1.
+20
+===== PAGE 22 =====
+Figure 8: Logistic demands by administered-rate regime, estimated over the sample period 2014/10/01–2019/09/11.
+21
+===== PAGE 23 =====
+Figure 9: No-theory logistic demands for the sample period 2014/10/01–2019/09/11 vs. structural demands from Lagos
+and Navarro (2023).
+22
+===== PAGE 24 =====
+Table 2: Minimal-theory logistic demand estimation
+Coefficients Minimal-theory logistic
+α 0.0026***
+(0.000082)
+ω 0.4985***
+(0.0241)
+Observations 259
+R-squared 0.845
+Root MSE 0.022
+Root MSE /|mean(st)| 0.270
+Root MSE / s.e.(st) 0.392
+Notes: Newey-West standard errors in parentheses (13 lags).
+*** p < 0.01, ** p < 0.05, * p < 0.1. *** p < 0.01.
+23
+===== PAGE 25 =====
+Figure 10: Minimal-theory demands by administered-rate regime, estimated for the sample period 2014/10/01–2019/09/11.
+24
+===== PAGE 26 =====
+Figure 11: Minimal-theory logistic demands for the sample period 2014/10/01–2019/09/11 vs. structural demands from
+Lagos and Navarro (2023).
+25
+===== PAGE 27 =====
+(a) Total reserves: deviations from 40-day moving average
+(b) Estimated distribution of reserve-draining shocks
+Figure 12: Reserve-supply shocks
+Notes: Top panel: deviations of the weekly aggregate quantity of reserves from a 40-day two-sided moving average.
+Bottom panel: histogram of these deviations for January 2011–July 2019, together with the corresponding kernel density
+estimate. (See Appendix A.4 of Lagos and Navarro (2023) for details.)
+26
+===== PAGE 28 =====
+Figure 13: EFFR volatility comparisons across reduced-form models.
+Notes: Sample corresponds to administered-rate regime 4, 2019/05/02–2019/09/11.
+27
+===== PAGE 29 =====
+Administered-rate regime 1
+ Administered-rate regime 2
+Administered-rate regime 3
+ Administered-rate regime 4
+Figure 14: MCBs for minimal-theory logistic demands and for the structural demands from Lagos and Navarro (2023).
+28
