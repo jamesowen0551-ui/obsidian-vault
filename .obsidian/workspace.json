@@ -29,32 +29,13 @@
             "id": "d27b2ac56d8659c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/A股最强？——反转因子深度解析.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "A股最强？——反转因子深度解析"
-            }
-          },
-          {
-            "id": "326379fffe7dabd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POSZAR研究/From Exorbitant Privilege to Existential Trilemma.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "From Exorbitant Privilege to Existential Trilemma"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,8 +208,10 @@
       "nexus-ai-chat-importer:Nexus AI Chat Importer - Import new file": false
     }
   },
-  "active": "326379fffe7dabd6",
+  "active": "d27b2ac56d8659c2",
   "lastOpenFiles": [
+    "POSZAR研究/From Exorbitant Privilege to Existential Trilemma.pdf",
+    "POSZAR研究/From Exorbitant Privilege to Existential Trilemma.md",
     "企业信贷投向生产性与非生产性/Rajan_Zingales_1998_详细笔记.md",
     "企业信贷投向生产性与非生产性/King_Levine_1993_详细笔记.md",
     "企业信贷投向生产性与非生产性/BIS_WP490_详细笔记.md",
@@ -263,8 +246,6 @@
     "研究专题/股债相关性文献清单.md",
     "Claude对话存档/为什么构建的组合里把仓位和久期混在一起看了.md",
     "claude_conversations/20260529_缇庤仈鍌ㄨ鎭細璁笌甯傚満鍒╃巼璧板娍璇嗗埆.md",
-    "claude_conversations/20260528_鍐呭瀹℃煡.md",
-    "inbox/A股最强？——反转因子深度解析.md",
-    "inbox/理解股债负相关性，一个宏观因子视角.md"
+    "claude_conversations/20260528_鍐呭瀹℃煡.md"
   ]
 }
