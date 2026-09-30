@@ -1,0 +1,9092 @@
+How the Financial System Works
+1
+- A Map of Money Flows in the Global Financial Ecosystem -
+by Zoltan Pozsar
+An Appendix to the paper “Shadow Banking: The Money View” (Pozsar, 2014)
+Senior Adviser
+Office of Financial Research, U.S. Treasury
+2. The Hierarchy of Access.
+2
+3. The Hierarchy of Uses..
+4. The Dealer Eco-System.
+1. The Hierarchy of Money.
+5. The Macro Perspective.
+6. Policy Implications...
+Four core institutions:
+Central bank,…
+Source: Pozsar (2014)
+3
+Central Bank      
+(Federal Reserve)
+Source: Pozsar (2014)
+4
+Four core institutions:
+Central bank, banks (small and 
+big),…
+Central Bank      
+(Federal Reserve)
+Banks                          
+(retail)
+Banks                             
+(wholesale)
+Source: Pozsar (2014)
+5
+Four core institutions:
+Central bank, banks (small and 
+big), dealers,…
+Central Bank      
+(Federal Reserve) Dealer Banks      
+Banks                          
+(retail) Dealer Banks      
+Banks                             
+(wholesale)
+Source: Pozsar (2014)
+6
+Four core institutions:
+Central bank, banks (small and 
+big), dealers and money funds.
+Central Bank      
+(Federal Reserve) Dealer Banks      
+Money Funds
+Banks                          
+(retail) Dealer Banks      
+Money FundsBanks                             
+(wholesale)
+Four core money claims:
+Currency,…
+Source: Pozsar (2014)
+7
+Central Bank      
+(Federal Reserve) Dealer Banks      
+Currency
+Money Funds
+Banks                          
+(retail) Dealer Banks      
+Money Funds
+Liabilities
+Banks                             
+(wholesale)
+Source: Pozsar (2014)
+8
+Four core money claims:
+Currency, deposits,…
+Liabilities
+Banks                     
+(wholesale)
+Deposits
+(o/n)
+Banks                        
+(retail) Dealer Banks      
+Deposits
+Money Funds
+(o/n)
+Central Bank      
+(Federal Reserve) Dealer Banks      
+Currency
+Money Funds
+Source: Pozsar (2014)
+9
+Four core money claims:
+Currency, deposits, repos,…
+(o/n)
+Liabilities
+Banks                     
+(wholesale)
+Deposits
+(o/n)
+Banks                        
+(retail) Dealer Banks      
+Deposits
+Money Funds
+Repos
+(o/n)
+Central Bank      
+(Federal Reserve) Dealer Banks      
+Currency Repos
+(o/n)
+Money Funds
+Source: Pozsar (2014)
+10
+Four core money claims:
+Currency, deposits, repos             
+and constant NAV shares.
+(o/n)
+Liabilities
+CNAVs
+(o/n)
+Banks                        
+(wholesale)
+Deposits
+(o/n)
+CNAVs
+Banks                  
+(retail) Dealer Banks
+Deposits
+Money Funds
+(o/n)
+Repos
+(o/n)
+Central Bank      
+(Federal Reserve) Dealer Banks      
+Currency Repos
+(o/n)
+Money Funds
+Source: Pozsar (2014)
+11
+Two categories of assets:
+Public assets:
+T-Bills – Treasury bills
+T-Notes – Treasury notes
+Private assets:
+P-Bills - CD, CP, ECP, etc.
+P-Notes - bonds, RMBS, ABS
+Liabilities
+Deposits CNAVs
+(o/n) (o/n)
+Repos
+(o/n) (o/n)
+Banks                        
+(wholesale) Money Funds
+(o/n)
+Private Assets
+Banks                  
+(retail) Dealer Banks
+Deposits
+(o/n)
+Money Funds
+CNAVs
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve) Dealer Banks      
+Currency Repos
+Source: Pozsar (2014)
+12
+Two categories of assets:
+Public assets:
+T-Bills – Treasury bills
+T-Notes – Treasury notes
+Private assets:
+P-Bills - CD, CP, ECP, etc.
+P-Notes - bonds, RMBS, ABS
+Liabilities
+CNAVs
+(o/n)
+Deposits
+(o/n)
+(o/n)
+Private Assets
+Banks                
+(retail) Dealer Banks      
+Deposits
+Money Funds
+(o/n)
+CNAVs
+Dealer Banks        
+T-Notes Currency Repos
+(o/n)
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Banks                
+(wholesale)
+Money Funds
+(o/n)
+Repos
+Source: Pozsar (2014)
+13
+Two categories of assets:
+Public assets:
+T-Bills – Treasury bills
+T-Notes – Treasury notes
+T-Repos – Treasury repos
+Private assets:
+P-Bills - CD, CP, ECP, etc.
+P-Notes - bonds, RMBS, ABS
+Liabilities
+Deposits CNAVs
+(o/n) (o/n)
+Repos
+(o/n) (o/n)
+Banks                
+(wholesale) Money Funds
+(o/n)
+Private Assets
+Banks                
+(retail) Dealer Banks      
+Deposits
+… (o/n)
+T-Notes
+Money Funds 
+CNAVs
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks         
+(government desk)       
+T-Notes Currency T-Bills T-Repos
+Source: Pozsar (2014)
+14
+Two categories of assets:
+Public assets:
+T-Bills – Treasury bills
+T-Notes – Treasury notes
+T-Repos – Treasury repos
+T-CNAVs – Treasury CNAVs
+Private assets:
+P-Bills - CD, CP, ECP, etc.
+P-Notes - bonds, RMBS, ABS
+Liabilities
+Deposits CNAVs
+(o/n) (o/n)
+Repos
+(o/n) (o/n)
+Banks                
+(wholesale) Money Funds
+(o/n)
+Private Assets
+Banks                
+(retail) Dealer Banks      
+Deposits
+… (o/n)
+T-Notes
+Money Funds 
+(government-only)
+T-Bills T-CNAVs
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks         
+(government desk)       
+T-Notes Currency T-Bills T-Repos
+Source: Pozsar (2014)
+15
+Two categories of assets:
+Public assets:
+T-Bills – Treasury bills
+T-Notes – Treasury notes
+T-Repos – Treasury repos
+T-CNAVs – Treasury CNAVs
+Private assets:
+P-Bills - CD, CP, ECP, etc.
+P-Notes - bonds, RMBS, ABS
+…
+T-Notes
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks           
+(government desk)
+T-Notes Currency T-Bills T-Repos
+(o/n)
+Money Funds         
+(government-only)
+T-Bills T-CNAVs
+Private Assets
+Banks                         
+(retail) Dealer Banks               
+P-Loans Deposits
+Money Funds        
+(o/n) (o/n)
+Banks                                
+(wholesale)
+Deposits
+(o/n)
+(o/n)
+Repos
+Liabilities
+CNAVs
+(o/n)
+Source: Pozsar (2014)
+16
+Two categories of assets:
+Public assets:
+T-Bills – Treasury bills
+T-Notes – Treasury notes
+T-Repos – Treasury repos
+T-CNAVs – Treasury CNAVs
+Private assets:
+P-Bills - CD, CP, ECP, etc.
+P-Notes - bonds, RMBS, ABS
+P-Notes Deposits CNAVs
+Liabilities
+… (o/n) (o/n)
+P-Loans
+(o/n) (o/n)
+Banks                                
+(wholesale) Money Funds         
+T-Notes
+Money Funds         
+(government-only)
+Private Assets
+Banks                         
+(retail) Dealer Banks               
+P-Loans Deposits
+(o/n)
+Repos
+T-Bills T-CNAVs
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks           
+(government desk)
+T-Notes Currency T-Bills T-Repos
+… (o/n)
+Source: Pozsar (2014)
+17
+Two categories of assets:
+Public assets:
+T-Bills – Treasury bills
+T-Notes – Treasury notes
+T-Repos – Treasury repos
+T-CNAVs – Treasury CNAVs
+Private assets:
+P-Bills - CD, CP, ECP, etc.
+P-Notes - bonds, RMBS, ABS
+P-Repos – private repos
+P-Notes Deposits CNAVs
+Liabilities
+… (o/n) (o/n)
+P-Loans
+(o/n)
+… (o/n)
+Banks                                
+(wholesale) Money Funds    
+T-Notes
+Money Funds         
+(government-only)
+Private Assets
+Banks                         
+(retail)
+Dealer Banks                 
+(credit desk)
+P-Loans Deposits P-Bills
+P-Notes
+(o/n)
+P-Repos
+T-Bills T-CNAVs
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks           
+(government desk)
+T-Notes Currency T-Bills T-Repos
+… (o/n)
+Source: Pozsar (2014)
+18
+Two categories of assets:
+Public assets:
+T-Bills – Treasury bills
+T-Notes – Treasury notes
+T-Repos – Treasury repos
+T-CNAVs – Treasury CNAVs
+Private assets:
+P-Bills - CD, CP, ECP, etc.
+P-Notes - bonds, RMBS, ABS
+P-Repos – private repos
+P-CNAVs – private CNAVs
+P-Notes Deposits P-Bills P-CNAVs
+Liabilities
+… (o/n) (o/n)
+P-Loans
+(o/n)
+… (o/n)
+Banks                                
+(wholesale)
+Money Funds         
+(prime)
+T-Notes
+Money Funds         
+(government-only)
+Private Assets
+Banks                         
+(retail)
+Dealer Banks                 
+(credit desk)
+P-Loans Deposits P-Bills
+P-Notes
+(o/n)
+P-Repos
+T-Bills T-CNAVs
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks           
+(government desk)
+T-Notes Currency T-Bills T-Repos
+… (o/n)
+Source: Pozsar (2014)
+19
+Deposits’ special function:
+Banks form the backbone of       
+the payments system and fa-
+cilitate the net payments
+(via deposits) of all enti-
+ties that are lower in the 
+system-hierarchy, including 
+dealers and money funds.
+T-Bills T-CNAVs
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks      
+(government desk)
+T-Notes Currency T-Bills T-Repos
+… (o/n)
+T-Notes
+Money Funds 
+(government-only)
+Private Assets
+Banks                     
+(retail)
+Dealer Banks      
+(credit desk)
+P-Loans Deposits P-Bills
+P-Notes
+(o/n)
+P-Repos
+(o/n)
+… (o/n)
+Banks                     
+(wholesale)
+Money Funds            
+(prime)
+P-Notes Deposits P-Bills P-CNAVs
+Liabilities
+… (o/n) (o/n)
+P-Loans
+Source: Pozsar (2014)
+20
+Storing payment surpluses:
+What happens with net pay-
+ment surpluses at the end of 
+the day? Through what ins-
+truments are money balances 
+stored within the system?
+For every institution, money  
+is something different.
+This is the intra-system 
+hierarchy of money…
+P-Notes Deposits P-Bills P-CNAVs
+Liabilities
+… (o/n) (o/n)
+P-Loans
+(o/n)
+… (o/n)
+Banks                     
+(wholesale)
+Money Funds            
+(prime)
+T-Notes
+Money Funds 
+(government-only)
+Private Assets
+Banks                     
+(retail)
+Dealer Banks      
+(credit desk)
+P-Loans Deposits P-Bills
+P-Notes
+(o/n)
+P-Repos
+T-Bills T-CNAVs
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks      
+(government desk)
+T-Notes Currency T-Bills T-Repos
+… (o/n)
+Source: Pozsar (2014)
+21
+Intra-system money hierarchy:
+Reserves at the Fed
+are money for banks.
+(o/n)
+…
+P-Loans
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Reserves
+P-Loans
+Dealer Banks 
+(government desk)
+T-Notes Currency T-Bills T-Repos
+(o/n)
+…
+T-Notes
+Money Funds            
+(prime)
+Reserves
+(o/n)
+T-Bills T-CNAVs
+Money Funds 
+(government-only)
+Private Assets
+Banks                 
+(retail)
+Dealer Banks        
+(credit desk)
+Reserves Deposits P-Bills P-Repos
+(o/n) (o/n) (o/n)
+…
+P-Notes
+…
+Liabilities
+(o/n) (o/n) (o/n)
+Banks                      
+(wholesale)
+Deposits P-Bills P-CNAVs
+Source: Pozsar (2014)
+22
+Intra-system money hierarchy:
+o/n T-Repos with wholesale   
+banks are money for dealers.
+(o/n)
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Reserves
+Banks                              
+(wholesale)…
+P-Loans
+Dealer Banks 
+(government desk)
+T-Notes Currency T-Repos T-Repos
+(o/n) (o/n)
+…
+T-Notes
+(o/n)
+Money Funds 
+(government-only)
+T-Bills T-CNAVs
+Private Assets
+Banks                         
+(retail)
+Dealer Banks              
+(credit desk)
+Reserves Deposits P-Bills P-Repos
+(o/n) (o/n) (o/n)
+…
+P-Loans
+…
+P-Notes
+Money Funds            
+(prime)
+Liabilities
+Reserves T-Repos P-Bills P-CNAVs
+(o/n) (o/n) (o/n)
+…
+Deposits
+(o/n)
+Source: Pozsar (2014)
+23
+Intra-system money hierarchy:
+o/n T-Repos w/ dealers are 
+money for government MFs.
+P-Loans
+…
+P-Loans
+(o/n)
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Reserves
+Private Assets
+Banks                      
+(retail)
+(o/n) (o/n)
+…
+Dealer Banks 
+(government desk)
+T-Notes Currency T-Repos T-Repos
+(o/n) (o/n)
+…
+T-Notes
+Money Funds 
+(government-only)
+Reserves Deposits P-Bills P-Repos
+T-Repos T-CNAVs
+(o/n) (o/n)
+(o/n)
+… …
+Dealer Banks            
+(credit desk)
+(o/n)
+P-Notes
+Banks                     
+(wholesale)
+Money Funds            
+(prime)
+Liabilities
+T-Bills
+…
+Deposits
+(o/n)
+Reserves T-Repos P-Bills P-CNAVs
+(o/n) (o/n)
+Source: Pozsar (2014)
+24
+Intra-system money hierarchy:
+o/n P-Repos with dealers                 
+are money for prime MFs.
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+T-Notes Currency T-Repos T-Repos
+Reserves (o/n) (o/n)
+(o/n)
+…
+T-Notes
+(o/n) (o/n)
+Money Funds 
+(government-only)
+T-Repos T-CNAVs
+…
+T-Bills
+Private Assets
+Banks                 
+(retail)
+Dealer Banks          
+(credit desk)
+Reserves Deposits P-Repos P-Repos
+(o/n) (o/n) (o/n)
+…
+P-Loans P-Notes
+…
+Banks                       
+(wholesale)
+Money Funds            
+(prime)
+Reserves T-Repos P-Repos P-CNAVs
+Liabilities
+…
+(o/n)
+P-Loans Deposits P-Bills
+(o/n)
+(o/n) (o/n) (o/n) (o/n)
+…
+…
+Source: Pozsar (2014)
+25
+Liabilities
+?
+P-Loans Deposits P-Bills
+(o/n)
+(o/n) (o/n) (o/n) (o/n)
+…
+…
+…
+Banks                       
+(wholesale)
+Money Funds            
+(prime)
+Reserves T-Repos P-Repos P-CNAVs
+P-Loans P-Notes
+P-Repos
+(o/n) (o/n) (o/n) (o/n)
+…
+…
+T-Bills
+Private Assets
+Banks                 
+(retail)
+Dealer Banks          
+(credit desk)
+Reserves Deposits P-Repos
+(o/n) (o/n)
+…
+Money Funds 
+(government-only)
+T-Repos T-CNAVs
+(o/n) (o/n)
+(o/n)
+…
+T-Notes
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+T-Notes Currency T-Repos T-Repos
+Reserves
+Source: Pozsar (2014)
+26
+The sovereign as a “bank”:
+Without the sovereign the 
+money matrix is incomplete.
+We do not typically think 
+of her as a bank, but the 
+sovereign is also capable 
+of absorbing money demand.
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+T-Notes Currency T-Repos T-Repos
+Reserves (o/n) (o/n)
+(o/n)
+…
+T-Notes
+(o/n) (o/n) (o/n) (o/n)
+Sovereign               
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Reserves T-Bills T-Repos T-CNAVs
+…
+Private Assets
+Banks                     
+(retail)
+Dealer Banks                    
+(credit desk)
+Reserves Deposits P-Repos
+…
+…
+(o/n) (o/n) (o/n) (o/n)
+P-Loans
+T-Bills
+P-Repos
+P-Notes
+Banks                  
+(wholesale)
+Money Funds            
+(prime)
+Reserves T-Repos P-Repos P-CNAVs
+(o/n) (o/n) (o/n) (o/n)
+…
+…
+…
+Liabilities
+P-Loans Deposits P-Bills
+(o/n)
+Source: Pozsar (2014)
+27
+What are money-like claims?
+Par at maturity versus
+par on demand claims.
+Par at maturity in the       
+near term (o/n < 1 yr).
+Breakable and negotiable 
+claims that do not trade               
+at par in real time (puts            
+prior to maturity subject            
+to penalty, market risks).
+Liabilities
+P-Loans Deposits P-Bills
+(term) (term)
+(o/n) (o/n) (o/n) (o/n)
+…
+…
+…
+Banks                     
+(wholesale)
+Money Funds            
+(prime)
+Reserves T-Repos P-Repos P-CNAVs
+P-Repos
+P-Notes P-Repos
+(term) (term)
+P-Loans Deposits
+T-Bills T-Bills
+(term) (term)
+…
+…
+Private Assets
+Banks               
+(retail)
+Dealer Banks      
+(credit desk)
+Reserves Deposits P-Repos
+…
+…
+…
+…
+(o/n) (o/n) (o/n) (o/n)
+T-Notes T-Repos
+(o/n) (o/n) (o/n) (o/n)
+Sovereign          
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Reserves T-Bills T-Repos T-CNAVs
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+T-Notes Currency T-Repos T-Repos
+Reserves (o/n) (o/n)
+(o/n)
+…
+…
+(term)
+The alchemy of banking:
+Take more [o/n liquidity],
+give less [o/n liquidity]
+and put the rest in term…
+Source: Pozsar (2014)
+28
+(term)
+T-Notes Currency T-Repos T-Repos
+T-Notes T-Repos
+(term)
+…
+<
+Sovereign                  
+(U.S. Treasury)
+(o/n) (o/n)
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+…
+T-Bills
+(term)
+Reserves (o/n) (o/n)
+Reserves T-Bills
+(o/n)
+…
+P-Loans
+T-Repos T-CNAVs
+…
+…
+<
+Money Funds 
+(government-only)
+(o/n) (o/n)
+T-Bills
+Private Assets
+Banks                    
+(retail)
+Dealer Banks             
+(credit desk)
+…
+…
+…
+< <(o/n) (o/n) (o/n) (o/n)
+(o/n) (o/n) (o/n)
+Reserves Deposits P-Repos P-Repos
+Deposits P-Notes P-Repos
+(term) (term)
+Reserves T-Repos P-Repos P-CNAVs
+Banks                     
+(wholesale)
+Money Funds            
+(prime)
+(o/n)
+…
+…
+…
+<<
+Liabilities
+P-Loans Deposits P-Bills
+(term) (term)
+Liabilities
+(term) (term)
+…
+…
+…
+P-Loans Deposits P-Bills
+(o/n)
+(term) (term)
+Banks                    
+(wholesale)
+Money Funds                      
+(prime)
+(o/n) < (o/n) (o/n) <
+Reserves T-Repos P-Repos P-CNAVs
+…
+…
+…
+Deposits P-Notes P-Repos
+Private Assets
+Banks                      
+(retail)
+Dealer Banks                       
+(credit desk)
+Reserves Deposits P-Repos P-Repos
+(o/n) < (o/n) (o/n) < (o/n)
+…
+…
+T-Bills T-Bills
+(term) (term)
+Sovereign               
+(U.S. Treasury)
+Money Funds            
+(government-only)
+(o/n) (o/n) (o/n) < (o/n)
+Reserves T-Bills T-Repos T-CNAVs
+T-Notes T-Repos
+(term)
+(o/n) < (o/n)
+…
+…(o/n)
+…
+P-Loans
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks           
+(government desk)
+T-Notes Currency T-Repos T-Repos
+Reserves
+Source: Pozsar (2014)
+29
+The alchemy of banking:
+Take more [o/n liquidity],
+give less [o/n liquidity]
+and put the rest in term…
+…this exposes “banks” to               
+rollover risks, and if           
+there is a run you ask:
+“do I have enough [o/n] 
+liquidity to survive?”.
+Different institutions               
+have different sets of    
+backups for survival if               
+o/n liquidity runs out.
+It is the type and mix of 
+these backups (or “puts”)        
+that determine the strength    
+of money claims’ promise of        
+at par on demand liquidity.            
+Hierarchy of liquidity puts:
+Money funds can borrow                
+only limited amounts.
+If this option is exhausted 
+money funds must sell.
+In a panic, this will likely 
+spiral into a fire sale.
+Source: Pozsar (2014)
+30
+(term)
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+T-Notes Currency T-Repos T-Repos
+…
+T-Bills
+(term)
+Reserves (o/n) < (o/n)
+…
+…(o/n)
+T-Notes T-Repos
+(term)
+Money Funds            
+(funding/market)
+Sovereign                
+(U.S. Treasury)
+Reserves T-Bills T-Repos T-CNAVs
+(o/n) (o/n) (o/n) < (o/n)
+Reserves Deposits P-Repos P-Repos
+…
+T-Bills
+Private Assets
+Banks                      
+(retail)
+Dealer Banks             
+(credit desk)
+(o/n) < (o/n) (o/n) < (o/n)
+(o/n)
+(term) (term)
+(o/n) <
+…
+…
+…
+Deposits P-Notes P-Repos
+<
+…
+…
+…
+Reserves T-Repos P-Repos P-CNAVs
+Money Funds            
+(funding/market)
+Banks                   
+(wholesale)
+P-Loans
+…
+Liabilities
+(term) (term)
+P-Loans Deposits P-Bills
+(o/n) (o/n)
+Hierarchy of liquidity puts:
+Dealers have more room to 
+borrow against their assets.
+If this option is exhausted 
+dealers must sell too.
+In a panic, this will likely 
+spiral into a fire sale too.
+Source: Pozsar (2014)
+31
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+T-Notes Currency T-Repos T-Repos
+…
+T-Bills
+(term)
+Reserves
+(term)
+(o/n) < (o/n)
+…
+…
+T-Notes T-Repos
+(term)
+Sovereign              
+(U.S. Treasury)
+Money Funds            
+(funding/market)
+Reserves T-Bills T-Repos T-CNAVs
+(o/n) (o/n) (o/n) < (o/n)
+…
+T-Bills
+Private Assets
+Banks                          
+(retail)
+(o/n) < (o/n) (o/n) < (o/n)
+< (o/n)
+(term) (term)
+P-Bills
+Reserves Deposits P-Repos P-Repos
+…
+…
+…
+Deposits P-Notes P-Repos
+Reserves T-Repos P-Repos P-CNAVs
+Banks                    
+(wholesale)
+Money Funds            
+(funding/market)
+Deposits
+(o/n) < (o/n) (o/n)
+(o/n)
+P-Loans
+…
+Dealer Banks                     
+(funding/market)
+Liabilities
+Dealer Banks                     
+(funding/market)
+(term) (term)
+…
+…
+…
+P-Loans
+Hierarchy of liquidity puts:
+Borrowing against assets and 
+selling assets is access to 
+funding and market liquidity.
+Funding and market liquidity 
+are private liquidity puts.
+They both depend on private 
+market participants (banks  
+and dealers) for execution.
+Source: Pozsar (2014)
+32
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks                     
+(funding/market)
+T-Notes Currency T-Repos T-Repos
+Reserves (o/n) < (o/n)
+…
+…
+T-Notes T-Repos
+(term)
+Reserves T-Bills T-Repos T-CNAVs
+Sovereign            
+(U.S. Treasury)
+Money Funds            
+(funding/market)
+(o/n) (o/n) (o/n) < (o/n)
+…
+…
+T-Bills T-Bills
+(term) (term)
+Private Assets
+Banks                      
+(retail)
+Dealer Banks                     
+(funding/market)
+Reserves Deposits P-Repos P-Repos
+(o/n) < (o/n) (o/n) < (o/n)
+…
+…
+…
+Deposits P-Notes P-Repos
+Reserves T-Repos P-Repos P-CNAVs
+(o/n) < (o/n) (o/n) <
+Liabilities
+(term) (term)
+(o/n)
+P-Loans
+…
+Private Liquidity Puts
+…
+…
+…
+P-Loans Deposits P-Bills
+(o/n)
+(term) (term)
+Banks                     
+(wholesale)
+Money Funds            
+(funding/market)
+Hierarchy of liquidity puts:
+Retail and wholesale banks              
+can borrow against assets or 
+put them to the central bank. 
+Retail and wholesale banks 
+hardly ever have to sell.
+This is access to funding              
+as well as lender of last 
+resort (LoLR) liquidity. 
+Source: Pozsar (2014)
+33
+(term)
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks                     
+(funding/market)
+T-Notes Currency T-Repos T-Repos
+…
+T-Bills
+(term)
+Reserves (o/n) < (o/n)
+…
+…(o/n)
+T-Notes T-Repos
+(term)
+Sovereign                
+(U.S. Treasury)
+Money Funds            
+(funding/market)
+Reserves T-Bills T-Repos T-CNAVs
+(o/n) (o/n) (o/n) < (o/n)
+…
+T-Bills
+Private Assets
+Dealer Banks                     
+(funding/market)
+(o/n) < (o/n) (o/n) < (o/n)
+< (o/n)
+(term) (term)
+P-Bills
+Reserves Deposits P-Repos P-Repos
+…
+…
+…
+Deposits P-Notes P-Repos
+Reserves T-Repos P-Repos P-CNAVs
+Money Funds            
+(funding/market)
+(o/n) < (o/n) (o/n)
+Private Liquidity Puts
+P-Loans
+…
+Liabilities
+Banks             
+(funding/LoLR)
+Banks            
+(funding/LoLR)
+(term) (term)
+…
+…
+…
+P-Loans Deposits
+Hierarchy of liquidity puts:
+The sovereign has a monetary 
+backstop (usually a taboo; 
+often used during WWI & II  
+and recently the OMT, see 
+McCulley and Pozsar, 2012).
+Source: Pozsar (2014)
+34
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks                     
+(funding/market)
+T-Notes Currency T-Repos T-Repos
+(term)
+Reserves (o/n) < (o/n)
+(o/n)
+…
+…
+T-Notes T-Repos
+Sovereign                 
+(monetary backtop)
+Money Funds            
+(funding/market)
+Reserves T-Bills T-Repos T-CNAVs
+(o/n) (o/n) (o/n) < (o/n)
+…
+…
+T-Bills T-Bills
+(term) (term)
+Private Assets
+Banks            
+(funding/LoLR)
+Dealer Banks                     
+(funding/market)
+Reserves Deposits P-Repos P-Repos
+(o/n) < (o/n) (o/n) < (o/n)
+…
+…
+…
+…
+P-Loans Deposits P-Notes P-Repos
+Reserves T-Repos P-Repos P-CNAVs
+(o/n)
+(term) (term)
+Banks            
+(funding/LoLR)
+Money Funds            
+(funding/market)
+(o/n) < (o/n) (o/n) <
+…
+…
+…
+P-Loans Deposits P-Bills
+Private Liquidity Puts
+Liabilities
+(term) (term)
+Hierarchy of liquidity puts:
+LoLR and monetary backstops 
+are public liquidity puts.
+Source: Pozsar (2014)
+35
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks                     
+(funding/market)
+T-Notes Currency T-Repos T-Repos
+(term)
+Reserves (o/n) < (o/n)
+(o/n)
+…
+…
+T-Notes T-Repos
+Sovereign                 
+(monetary backtop)
+Money Funds            
+(funding/market)
+Reserves T-Bills T-Repos T-CNAVs
+(o/n) (o/n) (o/n) < (o/n)
+…
+…
+T-Bills T-Bills
+(term) (term)
+Private Assets
+Banks         
+(funding/LoLR)
+Dealer Banks                     
+(funding/market)
+Reserves Deposits P-Repos P-Repos
+(o/n) < (o/n) (o/n) < (o/n)
+…
+…
+…
+…
+P-Loans Deposits P-Notes P-Repos
+Reserves T-Repos P-Repos P-CNAVs
+(o/n)
+(term) (term)
+Banks         
+(funding/LoLR)
+Money Funds            
+(funding/market)
+(o/n) < (o/n) (o/n) <
+…
+…
+…
+P-Loans Deposits P-Bills
+Public Liquidity Puts Private Liquidity Puts
+Liabilities
+(term) (term)
+Hierarchy of liquidity puts:
+LoLR and monetary backstops 
+are public liquidity puts.
+But official liquidity puts 
+are of value only if one has 
+the capital to put up the 
+haircut at the central bank   
+to borrow the needed funds.
+If capital is short the 
+hierarchy of credit puts 
+overrides the hierarchy                   
+of liquidity puts.
+Source: Pozsar (2014)
+36
+Public Liquidity Puts Private Liquidity Puts
+Liabilities
+(term) (term)
+…
+…
+…
+P-Loans Deposits P-Bills
+(o/n)
+(term) (term)
+Banks          
+(funding/LoLR)
+Money Funds            
+(funding/market)
+(o/n) < (o/n) (o/n) <
+Reserves T-Repos P-Repos P-CNAVs
+…
+…
+…
+…
+P-Loans Deposits P-Notes P-Repos
+Private Assets
+Banks            
+(funding/LoLR)
+Dealer Banks                     
+(funding/market)
+Reserves Deposits P-Repos P-Repos
+(o/n) < (o/n) (o/n) < (o/n)
+…
+…
+T-Bills T-Bills
+(term) (term)
+Sovereign                 
+(monetary backtop)
+Money Funds            
+(funding/market)
+Reserves T-Bills T-Repos T-CNAVs
+(o/n) (o/n) (o/n) < (o/n)
+(o/n)
+(o/n)
+…
+…
+T-Notes T-Repos
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks                     
+(funding/market)
+T-Notes Currency T-Repos T-Repos
+(term)
+Reserves (o/n) <
+Hierarchy of credit puts:
+T-Bills are guaranteed.
+Source: Pozsar (2014)
+37
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve) Dealer Banks           
+T-Notes Currency T-Repos T-Repos
+(term)
+Reserves (o/n) < (o/n)
+…
+…
+T-Notes T-Repos
+(term)
+Reserves T-Bills T-Repos T-CNAVs
+Sovereign          
+(guaranteed) Money Funds          
+(o/n) (o/n) (o/n) < (o/n)
+Private Assets
+Banks Dealer Banks                
+(o/n) <
+…
+…
+…
+(o/n) (o/n) < (o/n)
+(o/n)(o/n) < (o/n)
+…
+…
+T-Bills T-Bills
+(term)
+Reserves Deposits P-Repos P-Repos
+Deposits P-Notes P-Repos
+(term) (term)
+<
+…
+…
+…
+Reserves T-Repos P-Repos P-CNAVs
+Banks Money Funds          
+(o/n)
+P-Loans
+…
+Liabilities
+(term) (term)
+P-Loans Deposits P-Bills
+(o/n)
+Hierarchy of credit puts:
+Deposits are government 
+insured up to $250,000.
+Source: Pozsar (2014)
+38
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve) Dealer Banks           
+T-Notes Currency T-Repos T-Repos
+(term)
+Reserves (o/n) < (o/n)
+…
+…
+T-Notes T-Repos
+(term)
+Reserves T-Bills T-Repos T-CNAVs
+Sovereign          
+(guaranteed) Money Funds          
+(o/n) (o/n) (o/n) < (o/n)
+Private Assets
+Banks                   
+(insured) Dealer Banks                
+(o/n) <
+…
+…
+…
+(o/n) (o/n) < (o/n)
+(o/n)(o/n) < (o/n)
+…
+…
+T-Bills T-Bills
+(term)
+Reserves Deposits P-Repos P-Repos
+Deposits P-Notes P-Repos
+(term) (term)
+<
+…
+…
+…
+Reserves T-Repos P-Repos P-CNAVs
+Banks Money Funds          
+(o/n)
+P-Loans
+…
+Liabilities
+(term) (term)
+P-Loans Deposits P-Bills
+(o/n)
+Hierarchy of credit puts:
+Guarantees and insurance                 
+are public credit puts.
+Source: Pozsar (2014)
+39
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve) Dealer Banks           
+T-Notes Currency T-Repos T-Repos
+Reserves (o/n) < (o/n)
+…
+…
+T-Notes T-Repos
+(term)
+Reserves T-Bills T-Repos T-CNAVs
+Sovereign          
+(guaranteed) Money Funds          
+(o/n) (o/n) (o/n) < (o/n)
+…
+…
+T-Bills T-Bills
+(term) (term)
+Private Assets
+Banks         
+(insured) Dealer Banks                
+Reserves Deposits P-Repos P-Repos
+(o/n) < (o/n) (o/n) < (o/n)
+…
+…
+…
+Deposits P-Notes P-Repos
+Reserves T-Repos P-Repos P-CNAVs
+(o/n) < (o/n) (o/n) <
+Liabilities
+(term) (term)
+(o/n)
+P-Loans
+…
+Public Credit Puts
+…
+…
+…
+P-Loans Deposits P-Bills
+(o/n)
+(term) (term)
+Banks Money Funds          
+Hierarchy of credit puts:
+Repos are secured claims.
+Source: Pozsar (2014)
+40
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks           
+(secured)
+T-Notes Currency T-Repos T-Repos
+(term)
+Reserves (o/n) < (o/n)
+…
+…
+T-Notes T-Repos
+(term)
+Reserves T-Bills T-Repos T-CNAVs
+Sovereign          
+(guaranteed) Money Funds          
+(o/n) (o/n) (o/n) < (o/n)
+Private Assets
+Banks                  
+(insured)
+Dealer Banks                
+(secured)
+(o/n) <
+…
+…
+…
+(o/n) (o/n) < (o/n)
+(o/n)(o/n) < (o/n)
+…
+…
+T-Bills T-Bills
+(term)
+Reserves Deposits P-Repos P-Repos
+Deposits P-Notes P-Repos
+(term) (term)
+<
+…
+…
+…
+Reserves T-Repos P-Repos P-CNAVs
+Banks          Money Funds          
+(o/n)
+P-Loans
+…
+Liabilities
+(term) (term)
+P-Loans Deposits P-Bills
+Public Credit Puts
+(o/n)
+Hierarchy of credit puts:
+Money fund shares are backed 
+either by secured and guaran-
+teed assets, or secured and 
+diversified assets. They may          
+also have reputational puts    
+to their sponsor (weak puts).
+Source: Pozsar (2014)
+41
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks           
+(secured)
+T-Notes Currency T-Repos T-Repos
+(term)
+Reserves (o/n) < (o/n)
+…
+…
+T-Notes T-Repos
+(term)
+Reserves T-Bills T-Repos T-CNAVs
+Sovereign          
+(guaranteed)
+Money Funds          
+(secured/guaranteed)
+(o/n) (o/n) (o/n) < (o/n)
+Private Assets
+Banks                 
+(insured)
+Dealer Banks                
+(secured)
+(o/n) <
+…
+…
+…
+(o/n) (o/n) < (o/n)
+(o/n)(o/n) < (o/n)
+Reserves Deposits P-Repos P-Repos
+Deposits P-Notes P-Repos
+(term) (term)
+Reserves T-Repos P-Repos P-CNAVs
+Banks Money Funds          
+(secured/diversified)
+Liabilities
+(term) (term)
+<
+Public Credit Puts
+…
+…
+…
+P-Loans Deposits
+(o/n)
+P-Loans
+…
+P-Bills
+(o/n)
+…
+…
+T-Bills T-Bills
+(term)
+Source: Pozsar (2014)
+42
+Hierarchy of credit puts:
+Collateral, diversification 
+and reputational puts are         
+all private credit puts.
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks           
+(secured)
+T-Notes Currency T-Repos T-Repos
+Reserves (o/n) < (o/n)
+…
+…
+T-Notes T-Repos
+(term)
+Reserves T-Bills T-Repos T-CNAVs
+Sovereign          
+(guaranteed)
+Money Funds          
+(secured/guaranteed)
+(o/n) (o/n) (o/n) < (o/n)
+…
+…
+T-Bills T-Bills
+(term) (term)
+Private Assets
+Banks                   
+(insured)
+Dealer Banks                
+(secured)
+Reserves Deposits P-Repos P-Repos
+(o/n) < (o/n) (o/n) < (o/n)
+…
+…
+…
+Deposits P-Notes P-Repos
+Reserves T-Repos P-Repos P-CNAVs
+(o/n) < (o/n) (o/n) <
+Liabilities
+(term) (term)
+(o/n)
+P-Loans
+…
+Public Credit Puts Private Credit Puts
+…
+…
+…
+P-Loans Deposits P-Bills
+(o/n)
+(term) (term)
+Banks Money Funds          
+(secured/diversified)
+Hierarchy of credit puts:
+Un-insured deposits are un-
+secured and un-diversified.
+Source: Pozsar (2014)
+43
+Liabilities
+Banks                          
+(un-insured)
+(term)
+(term)
+…
+…
+…
+P-Loans
+< (o/n) (o/n)
+Public Credit Puts Private Credit Puts
+Reserves T-Repos P-Repos P-CNAVs
+Money Funds          
+(secured/diversified)
+Deposits 
+(term)
+Deposits P-Notes P-Repos
+(term) (term)
+Reserves Deposits P-Repos P-Repos
+…
+…
+T-Bills T-Bills
+(term)
+Private Assets
+Banks                 
+(insured)
+Dealer Banks                
+(secured)
+(o/n) <
+…
+…
+…
+(o/n) (o/n) < (o/n)
+< (o/n)
+P-Bills
+(o/n)
+Sovereign          
+(guaranteed)
+Money Funds          
+(secured/guaranteed)
+(o/n) (o/n) (o/n) < (o/n)
+Reserves T-Bills T-Repos T-CNAVs
+T-Notes T-Repos
+(term)
+(o/n) < (o/n)
+…
+…(o/n)
+P-Loans
+…
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks           
+(secured)
+T-Notes Currency T-Repos T-Repos
+Reserves
+The hierarchy of money:
+The types of assets and the 
+types of backstops behind  
+money claims yield four              
+basic categories of money.
+Purely public, hybrid and 
+purely private money claims. 
+Source: Pozsar (2014)
+44
+Pur ely
+Money Funds 
+(government-only)
+Money Funds                 
+(prime)
+Sovereign               
+(U.S. Treasury) (i.e. the FDIC) on all deposits < $250K.
+Banks                
+(retail)
+Private Assets
+Purely public money:
+Ability to tax and money creation at will
+T-Bills
+[1]
+[2]
+[3]
+[4]
+(o/n) < (o/n)
+Deposits P-Bills
+Private-public money:
+Explicit liquidity puts from the Fed, and
+explicit credit puts from the sovereign
+…
+T-Bills
+T-CNAVs
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+T-Notes Currency T-Repos T-Repos
+Purely
+public
+Reserves (o/n) < (o/n)
+…
+…
+T-Notes T-Repos
+Reserves T-Repos
+(o/n)
+P-Loans
+…
+Liabilities
+Private
+…
+…
+public P-Notes P-Repos
+Banks                    
+(wholesale)
+Reserves T-Repos P-Repos P-CNAVs
+(o/n) < (o/n) (o/n)
+Public Backstops Private Backstops
+(term) (term)
+(term)
+Reserves Deposits P-Repos P-Repos
+(o/n) < (o/n) < (o/n)
+Dealer Banks         
+(credit desk)
+…
+…
+private
+…
+P-Loans
+(term)
+(term) No official puts, not even implicitly via 
+the collateral involved. Peripheral money
+Purely private money:
+but no direct puts on the liability side.
+puts via Treasury collateral involved,
+Implicit official liquidity and credit
+Public-private money:Public
+private
+< (o/n)
+The hierarchy of money:
+The types of assets and the 
+types of backstops behind  
+money claims yield four              
+basic categories of money.
+Purely public, hybrid and 
+purely private money claims. 
+Source: Pozsar (2014)
+45
+sha dow
+Liabilities
+Private
+Public Backstops Private Backstops
+(term) (term)
+…
+…
+…
+P-Loans Deposits P-Bills
+(o/n) < (o/n) (o/n) < (o/n)
+the collateral involved. Peripheral money
+Banks                    
+(wholesale)
+Money Funds                 
+(prime)
+Reserves T-Repos P-Repos P-CNAVs
+P-Loans money P-Notes P-Repos
+(term) No official puts, not even implicitly via 
+… Insured
+…
+… [4] Private shadow money:
+Deposits P-Repos P-Repos
+(o/n) < (o/n) < (o/n)
+money (term) shadow
+Implicit official liquidity and credit
+Private Assets
+puts via Treasury collateral involved,
+Banks                
+(retail)
+Dealer Banks         
+(credit desk)
+but no direct puts on the liability side.
+Reserves
+…
+Public T-Bills Public [3] Public shadow money:
+Reserves T-Bills T-Repos T-CNAVs
+(o/n) (o/n) < (o/n)
+(term)
+Explicit liquidity puts from the Fed, and
+Sovereign               
+(U.S. Treasury)
+Money Funds 
+(government-only)
+explicit credit puts from the sovereign
+(i.e. the FDIC) on all deposits < $250K.
+…
+…
+T-Notes T-Repos [2] Insured money:
+T-Repos
+Reserves (o/n) < (o/n)
+Assets
+Public Assets
+[1] Public money:
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk) Ability to tax and money creation at will
+T-Notes Currency T-Repos
+The hierarchy of money:
+The types of assets and the 
+types of backstops behind  
+money claims yield four 
+basic categories of money.
+Purely public, hybrid and 
+purely private money claims. 
+Traditional money supply…
+Source: Pozsar (2014)
+46
+sha dow
+[1] Public money (M0, or base money):
+Central Bank      
+(Federal Reserve)
+Dealer Banks                                 
+(government desk) Ability to tax and money creation at will
+T-Notes Currency M0 T-Repos T-Repos
+Reserves (o/n) < (o/n)
+Explicit liquidity puts from the Fed, and
+explicit credit puts from the sovereign
+(i.e. the FDIC) on all deposits < $250K.
+…
+…
+T-Notes T-Repos [2] Insured money (M1 and M2):
+Money Funds                    
+(government-only)
+Assets
+Public Assets
+(term)
+Reserves T-Bills T-Repos T-CNAVs
+(o/n) (o/n) < (o/n)
+Deposits P-Repos P-Repos
+(o/n) < (o/n)
+Private AssetsReserves T-Repos
+Deposits
+Public shadow money:
+money (term) shadow
+Implicit official liquidity and credit
+[3]
+P-Loans
+… [4] Private shadow money:
+money P-Notes P-Repos
+P-CNAVs
+puts via Treasury collateral involved,
+Banks              
+(retail)
+Dealer Banks                     
+(credit desk)
+but no direct puts on the liability side.
+Reserves
+…
+< (o/n)
+(o/n)
+the collateral involved. Peripheral money
+Banks                   
+(wholesale)
+(term) No official puts, not even implicitly via 
+Sovereign              
+(U.S. Treasury)
+Liabilities
+< (o/n) (o/n) < (o/n)
+…
+…
+…
+P-Bills
+Insured M1 
+M2
+…
+…
+Public T-Bills Public
+Money Funds                
+(prime)
+P-Repos
+Public Backstops Private Backstops
+(term) (term)
+P-Loans Private
+The hierarchy of money:
+The types of assets and the 
+types of backstops behind  
+money claims yield four 
+basic categories of money.
+Purely public, hybrid and 
+purely private money claims. 
+Traditional money supply
+vs. shadow money supply.
+Source: Pozsar (2014)
+47
+sha dow
+P-Loans
+…
+Liabilities
+M1 
+M2
+M3
+M3
+M3
+…
+…
+…
+Reserves T-Repos P-Repos P-CNAVs
+(o/n) < (o/n) (o/n) < (o/n)
+Public Backstops Private Backstops
+(term) (term)
+P-Loans Deposits P-Bills Private
+money P-Notes P-Repos
+No official puts, not even implicitly via 
+the collateral involved. Peripheral money
+(term)
+Money Funds           
+(prime)
+Assets
+Public Assets
+(term)
+Explicit liquidity puts from the Fed, and
+explicit credit puts from the sovereign
+(i.e. the FDIC) on all deposits < $250K.
+…
+…
+T-Notes T-Repos [2] Insured money (M1 and M2):
+Reserves T-Bills T-Repos
+(o/n)
+Banks                    
+(wholesale)
+Insured
+…
+… [4] Private shadow money (M3):
+< (o/n) < (o/n)
+money shadow
+Private Assets
+[1] Public money (M0, or base money):
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk) Ability to tax and money creation at will
+T-Notes Currency T-Repos
+(term)
+T-Repos
+Reserves (o/n) < (o/n)M0
+…
+Public T-Bills Public [3] Public shadow money (M3):
+P-Repos
+T-CNAVs
+(o/n) (o/n) < (o/n)
+Implicit official liquidity and credit
+puts via Treasury collateral involved,
+Banks              
+(retail)
+Dealer Banks                
+(credit desk)
+but no direct puts on the liability side.
+Reserves Deposits P-Repos
+Money Funds 
+(government-only)
+Sovereign             
+(U.S. Treasury)
+The hierarchy of money:
+The types of assets and the 
+types of backstops behind  
+money claims yield four 
+basic categories of money.
+Purely public, hybrid and 
+purely private money claims. 
+Traditional money supply
+vs. shadow money supply.
+The shadow banking system…
+Source: Pozsar (2014)
+48
+sha dow
+Money Funds              
+(government-only)
+Money Funds                
+(prime)
+Sovereign                  
+(U.S. Treasury)
+[1] Public money (M0, or base money):
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk) Ability to tax and money creation at will
+T-Notes Currency M0 T-Repos T-Repos
+Reserves (o/n) < (o/n)
+(term) shadow
+Implicit official liquidity and credit
+…
+Public
+Assets
+Public Assets
+(term)
+Explicit liquidity puts from the Fed, and
+explicit credit puts from the sovereign
+(i.e. the FDIC) on all deposits < $250K.
+…
+…
+T-Notes T-Repos [2] Insured money (M1 and M2):
+Reserves T-Bills T-Repos T-CNAVs
+(o/n) (o/n) < (o/n)
+[3] Public shadow money (M3):
+money
+T-Bills Public M3
+Private Assets
+puts via Treasury collateral involved,
+Banks               
+(retail)
+Dealer Banks                       
+(credit desk)
+but no direct puts on the liability side.
+Reserves Deposits P-Repos P-Repos
+(o/n) < (o/n) < (o/n)
+… Insured M1 
+M2
+…
+…
+(term) No official puts, not even implicitly via 
+the collateral involved. Peripheral money
+Banks                     
+(wholesale)
+[4] Private shadow money (M3):
+P-Loans money P-Notes P-Repos
+(o/n)
+…
+…
+…
+P-Loans Deposits P-Bills
+Reserves T-Repos M3 P-Repos P-CNAVs
+(o/n) < (o/n) (o/n) <
+Liabilities
+Public Backstops Private Backstops
+M3(term) (term)
+Private
+The hierarchy of money:
+The types of assets and the 
+types of backstops behind  
+money claims yield four 
+basic categories of money.
+Purely public, hybrid and 
+purely private money claims. 
+Traditional money supply
+vs. shadow money supply.
+The shadow banking system…
+[1] Public-private subsystem 
+(public collateral, maturity 
+and liquidity transformation 
+see Carney and Panetta, 2011)
+Source: Pozsar (2014)
+49
+sha dow
+Liabilities
+Public Backstops Private Backstops
+M3(term) (term)
+Private
+(o/n)
+…
+…
+…
+P-Loans Deposits P-Bills
+Reserves T-Repos M3 P-Repos P-CNAVs
+(o/n) < (o/n) (o/n) <
+No official puts, not even implicitly via 
+the collateral involved. Peripheral money
+Banks                   
+(wholesale)
+[4] Private shadow money (M3):
+P-Loans money P-Notes P-Repos
+T-Bills Public M3
+Private Assets
+puts via Treasury collateral involved,
+Banks                 
+(retail)
+Dealer Banks                    
+(credit desk)
+but no direct puts on the liability side.
+Reserves Deposits P-Repos P-Repos
+(o/n) < (o/n) < (o/n)
+… Insured M1 
+M2
+…
+…
+(term)
+Assets
+Public Assets
+(term)
+Explicit liquidity puts from the Fed, and
+explicit credit puts from the sovereign
+(i.e. the FDIC) on all deposits < $250K.
+…
+…
+T-Notes T-Repos [2] Insured money (M1 and M2):
+Reserves T-Bills T-Repos T-CNAVs
+(o/n) (o/n) < (o/n)
+[3] Public shadow money (M3):
+money
+Money Funds                        
+(government-only)
+Money Funds                
+(prime)
+Sovereign              
+(U.S. Treasury)
+[1] Public money (M0, or base money):
+Central Bank      
+(Federal Reserve)
+Dealer Banks             
+(government desk) Ability to tax and money creation at will
+T-Notes Currency M0 T-Repos T-Repos
+Reserves (o/n) < (o/n)
+(term) shadow
+Implicit official liquidity and credit
+…
+Public
+The hierarchy of money:
+The types of assets and the 
+types of backstops behind  
+money claims yield four 
+basic categories of money.
+Purely public, hybrid and 
+purely private money claims. 
+Traditional money supply
+vs. shadow money supply.
+The shadow banking system…
+[1] Public-private subsystem 
+(public collateral, maturity 
+and liquidity transformation 
+see Carney and Panetta, 2011)
+[2] Purely private subsystem  
+(private collateral, credit, 
+maturity and liquidity trafo,
+see Pozsar et al, 2010)
+Source: Pozsar (2014)
+50
+sha dow
+Liabilities
+Public Backstops Private Backstops
+M3(term) (term)
+Private
+(o/n)
+…
+…
+…
+P-Loans Deposits P-Bills
+Reserves T-Repos M3 P-Repos P-CNAVs
+(o/n) < (o/n) (o/n) <
+No official puts, not even implicitly via 
+the collateral involved. Peripheral money
+Banks                  
+(wholesale)
+[4] Private shadow money (M3):
+P-Loans money P-Notes P-Repos
+T-Bills Public M3
+Private Assets
+puts via Treasury collateral involved,
+Banks                    
+(retail)
+Dealer Banks                
+(credit desk)
+but no direct puts on the liability side.
+Reserves Deposits P-Repos P-Repos
+(o/n) < (o/n) < (o/n)
+… Insured M1 
+M2
+…
+…
+(term)
+Assets
+Public Assets
+(term)
+Explicit liquidity puts from the Fed, and
+explicit credit puts from the sovereign
+(i.e. the FDIC) on all deposits < $250K.
+…
+…
+T-Notes T-Repos [2] Insured money (M1 and M2):
+Reserves T-Bills T-Repos T-CNAVs
+(o/n) (o/n) < (o/n)
+[3] Public shadow money (M3):
+money
+Money Funds 
+(government-only)
+Money Funds                 
+(prime)
+Sovereign                        
+(U.S. Treasury)
+[1] Public money (M0, or base money):
+Central Bank      
+(Federal Reserve)
+Dealer Banks               
+(government desk) Ability to tax and money creation at will
+T-Notes Currency M0 T-Repos T-Repos
+Reserves (o/n) < (o/n)
+(term) shadow
+Implicit official liquidity and credit
+…
+Public
+Enter the Fed’s RRPs:
+Recall that only banks and  
+the sovereign can have re-
+serve accounts at the Fed.
+For dealers, money is o/n                 
+T-Repos with large banks.
+For money funds, money is             
+o/n T-Repos with dealers.
+No longer…
+Source: Pozsar (2014)
+51
+sha dow
+Liabilities
+Public Backstops Private Backstops
+M3(term) (term)
+Private
+(o/n)
+…
+…
+…
+P-Loans Deposits P-Bills
+Reserves T-Repos M3 P-Repos P-CNAVs
+(o/n) < (o/n) (o/n) <
+Banks                     
+(wholesale)
+P-Loans money P-Notes P-Repos
+T-Bills Public M3
+Private Assets
+Banks               
+(retail)
+Dealer Banks                       
+(credit desk)
+Reserves Deposits P-Repos P-Repos
+(o/n) < (o/n) < (o/n)
+… Insured M1 
+M2
+…
+…
+(term)
+Assets
+Public Assets
+(term)
+…
+…
+T-Notes T-Repos
+Reserves T-Bills T-Repos T-CNAVs
+(o/n) (o/n) < (o/n)
+money
+Money Funds              
+(government-only)
+Money Funds                
+(prime)
+Sovereign                  
+(U.S. Treasury)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+T-Notes Currency M0 T-Repos T-Repos
+Reserves (o/n) < (o/n)
+(term) shadow
+…
+Public
+Enter the Fed’s RRPs:
+RRPs effectively give money 
+funds and dealers, the core 
+entities of the shadow ban-
+king system, access to a re-
+serve account at the Fed for 
+the very first time in U.S. 
+monetary history. Do appre-
+ciate the evolutionary sig-
+nificance of this step and 
+look beyond the view that    
+the only significance of    
+RRPs is that they will help 
+the Fed control short rates.
+RRPs are likely a station,     
+not a destination (more on 
+this shortly in Part II).
+Source: Pozsar (2014)
+52
+sha dow
+M0
+Central Bank      
+(Federal Reserve)
+Dealer Banks                      
+(government desk)
+T-Notes RRP RRPs T-Repos
+(o/n) (o/n) < (o/n)
+Assets
+Public Assets
+Reserves (term)
+Sovereign             
+(U.S. Treasury)
+Money Funds 
+(government-only)
+…
+…
+Currency T-Notes T-Repos
+Reserves T-Bills RRPs T-CNAVs
+(o/n) (o/n) < (o/n)
+money (term) shadow
+…
+Public T-Bills Public M3
+Private Assets
+Banks                     
+(retail)
+Dealer Banks               
+(credit desk)
+Reserves Deposits RRPs P-Repos
+(o/n) < (o/n) < (o/n)
+… Insured M1 
+M2
+…
+…
+(term)
+Banks                     
+(wholesale)
+Money Funds              
+(prime)
+P-Loans money P-Notes P-Repos
+M3(term) (term)
+(o/n)
+…
+…
+…
+P-Loans Deposits P-Bills
+T-Repos    
+(o/n)
+Reserves             
+(o/n) M3 RRPs P-CNAVs
+< (o/n) <
+Private
+Liabilities
+Public Backstops Private Backstops
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+Public Money Insured Money Private Shadow Money Public Shadow Money
+Q3-13
+Reserves Reverse Repos T-Bills Demand Deposits Dealer Repos [o/n] Securities Loaned CNAVs
+Overnight money claims by type:
+$ billions
+Source: Federal Reserve Z.1 and H.8, New York Fed (FR 2004), FDIC, U.S. Treasury 
+53
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+Insured Money Public Money Private Shadow Money Public Shadow Money
+Q3-13
+T-Bills T-Notes w/ RM < 1 yr. Small TDs and savings deposits Large TDs Dealer Repos [term] Securities Loaned
+Term money claims by type:
+$ billions
+Source: Federal Reserve Z.1 and H.8, New York Fed (FR 2004) and author’s calculations 
+54
+2. The Hierarchy of Access.
+55
+3. The Hierarchy of Uses..
+4. The Dealer Eco-System.
+1. The Hierarchy of Money.
+5. The Macro Perspective.
+6. Policy Implications...
+Retail cash investors:
+Mom and pop depositors.            
+Holdings of cash and              
+insured bank deposits. 
+Source: Pozsar (2014)
+56
+Sovereign                        
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Money Funds          
+(prime)
+(term)
+Public Backstops Private Backstops
+…
+P-Loans Deposits P-Bills
+(o/n)
+…
+…
+(term)
+Banks               
+(wholesale)
+Deposits P-Notes
+Liabilities
+(term) (term)
+P-Repos
+(o/n) < (o/n) (o/n) <
+Reserves T-Repos P-Repos P-CNAVs
+(term)
+Private Assets
+Banks             
+(insured)
+Dealer Banks                          
+(credit desk)
+Reserves Deposits P-Repos P-Repos
+(o/n) < (o/n) (o/n) < (o/n)
+…
+…
+…
+…
+T-Bills T-Bills
+(term) (term)
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+T-Notes Currency T-Repos T-Repos
+Reserves (o/n) < (o/n)
+Reserves T-Bills T-Repos
+(o/n)
+P-Loans
+…
+…
+…
+T-CNAVs
+T-Notes T-Repos
+(o/n) (o/n) (o/n) < (o/n)
+…
+Institutional cash pools:
+At least $10bn in cash AuM
+(see Pozsar, 2011 and 2012).
+Cash portfolio managers (PM).
+Mandate: “Do not lose”.
+Restricted to invest mostly
+in money market instruments.
+Source: Pozsar (2014)
+57
+(term)
+<
+Dealer Banks             
+(credit desk)
+Reserves Deposits
+(o/n) (o/n)
+Reserves T-Repos P-Repos P-CNAVs
+(o/n) (o/n) (o/n) (o/n)
+(term)
+(term)
+(o/n)
+Sovereign                        
+(U.S. Treasury)
+Money Funds             
+(prime)
+Money Funds 
+(government-only)
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks         
+(government desk)
+T-Notes Currency T-Repos T-Repos
+Reserves (o/n) (o/n)
+…
+<
+…
+Reserves T-Bills T-Repos T-CNAVs
+T-Repos
+Private Assets
+Banks                      
+(retail)
+…
+Deposits P-Bills
+Public Backstops Private Backstops
+(o/n) (o/n) (o/n) (o/n)
+…
+T-Bills
+(term)
+< <
+…
+< <
+Liabilities
+T-Notes
+T-Bills
+P-Notes
+(term)
+(term) (term)
+…
+…
+P-Loans
+…
+…
+…
+Deposits P-Repos
+Banks                     
+(wholesale)
+P-Repos P-Repos
+(o/n)
+(o/n)
+P-Loans
+…
+Institutional cash pools:
+At least $10bn in cash AuM
+(see Pozsar, 2011 and 2012).
+Cash portfolio managers (PM).
+Mandate: “Do not lose”.
+Restricted to invest mostly
+in money market instruments.
+[1] FX reserve managers’ 
+liquidity tranches.
+Source: Pozsar (2014)
+58
+…
+"Cash"
+(term)
+Sovereign                        
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks         
+(government desk)
+Cash PM                
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+…Reserves (o/n) < (o/n) (o/n)
+(o/n)
+…
+…
+(o/n)
+T-Notes T-Repos Equity
+(term) (permanent)
+(o/n)(o/n)
+…
+…
+T-Bills T-Bills
+Reserves T-Bills T-Repos T-CNAVs
+<(o/n)
+(term) (term)
+Private Assets
+Banks                      
+(retail)
+Dealer Banks             
+(credit desk)
+Reserves Deposits P-Repos P-Repos
+(o/n) < (o/n) (o/n) <
+P-Loans Deposits P-Notes P-Repos
+(term) (term)
+(o/n)
+…
+…
+…
+…
+Reserves T-Repos P-Repos P-CNAVs
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Banks                     
+(wholesale)
+Public Backstops Private Backstops
+Liabilities
+Money Funds             
+(prime)
+(term) (term)
+P-Loans Deposits P-Bills
+Institutional cash pools:
+At least $10bn in cash AuM
+(see Pozsar, 2011 and 2012).
+Cash portfolio managers (PM).
+Mandate: “Do not lose”.
+Restricted to invest mostly
+in money market instruments.
+[1] FX reserve managers’ 
+liquidity tranches.
+[2] Global corporate cash 
+balances (on and offshore).
+Source: Pozsar (2014)
+59
+…
+"Cash"
+(term)
+…
+"Cash"
+(term)
+Sovereign                        
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks         
+(government desk)
+Cash PM                
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+…Reserves (o/n) < (o/n) (o/n)
+(o/n)
+…
+…
+…(o/n)
+T-Notes T-Repos Equity
+(term) (permanent)
+Cash PM              
+(corporations)
+(o/n) (o/n)
+"Cash"
+(o/n)
+…
+…
+T-Bills T-Bills
+Reserves T-Bills T-Repos T-CNAVs
+<(o/n)
+Equity
+(term) (term) (permanent)
+Private Assets
+Banks                      
+(retail)
+Dealer Banks             
+(credit desk)
+Reserves Deposits P-Repos P-Repos
+(o/n) < (o/n) (o/n) <
+P-Loans Deposits P-Notes P-Repos
+(term) (term)
+(o/n)
+…
+…
+…
+…
+Reserves T-Repos P-Repos P-CNAVs
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Banks                     
+(wholesale)
+Public Backstops Private Backstops
+Liabilities
+Money Funds             
+(prime)
+(term) (term)
+P-Loans Deposits P-Bills
+Institutional cash pools:
+At least $10bn in cash AuM
+(see Pozsar, 2011 and 2012).
+Cash portfolio managers (PM).
+Mandate: “Do not lose”.
+Restricted to invest mostly
+in money market instruments.
+[1] FX reserve managers’ 
+liquidity tranches.
+[2] Global corporate cash 
+balances (on and offshore).
+[3] Institutional investors’ 
+pooled cash balances.
+Source: Pozsar (2014)
+60
+…
+"Cash"
+(term)
+…
+"Cash"
+(term)
+…
+"Cash"
+(term)
+Sovereign                        
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks         
+(government desk)
+Cash PM                
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+…Reserves (o/n) < (o/n) (o/n)
+(o/n)
+…
+…
+…(o/n)
+T-Notes T-Repos Equity
+(term) (permanent)
+Cash PM              
+(corporations)
+(o/n) (o/n)
+"Cash"
+(o/n)
+…
+…
+T-Bills T-Bills
+Reserves T-Bills T-Repos T-CNAVs
+<(o/n)
+Equity
+(term) (term) (permanent)
+Private Assets
+Banks                      
+(retail)
+Dealer Banks             
+(credit desk)
+Cash PM                 
+(asset managers)
+Reserves Deposits P-Repos P-Repos "Cash"
+(o/n) < (o/n) (o/n) <
+P-Loans Deposits P-Notes P-Repos
+(term) (term)
+(o/n) (o/n)
+…
+…
+…
+…
+…
+Equity
+(temporary)
+Reserves T-Repos P-Repos P-CNAVs
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Banks                     
+(wholesale)
+Public Backstops Private Backstops
+Liabilities
+Money Funds             
+(prime)
+(term) (term)
+P-Loans Deposits P-Bills
+Institutional cash pools:
+At least $10bn in cash AuM
+(see Pozsar, 2011 and 2012).
+Cash portfolio managers (PM).
+Mandate: “Do not lose”.
+Restricted to invest mostly
+in money market instruments.
+[1] FX reserve managers’ 
+liquidity tranches.
+[2] Global corporate cash 
+balances (on and offshore).
+[3] Institutional investors’ 
+pooled cash balances.
+[4] Seclenders’ cash colla-
+teral reinvestment accounts.
+Source: Pozsar (2014)
+61
+…
+"Cash"
+(term)
+…
+"Cash"
+(term)
+…
+"Cash"
+(term)
+…
+"Cash"
+(term)
+Sovereign                        
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks         
+(government desk)
+Cash PM                
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+…Reserves (o/n) < (o/n) (o/n)
+(o/n)
+…
+…
+…(o/n)
+T-Notes T-Repos Equity
+(term) (permanent)
+Cash PM              
+(corporations)
+(o/n) (o/n)
+"Cash"
+(o/n)
+…
+…
+T-Bills T-Bills
+Reserves T-Bills T-Repos T-CNAVs
+<(o/n)
+Equity
+(term) (term) (permanent)
+Private Assets
+Banks                      
+(retail)
+Dealer Banks             
+(credit desk)
+Cash PM                 
+(asset managers)
+Reserves Deposits P-Repos P-Repos "Cash"
+(o/n) < (o/n) (o/n) <
+P-Loans Deposits P-Notes P-Repos
+(collateral)
+(term) (term)
+(o/n) (o/n)
+…
+…
+…
+…
+…
+Equity
+(temporary)
+Public Backstops Private Backstops
+Liabilities
+Money Funds             
+(prime)
+Cash PM                 
+(seclenders)
+Reserves T-Repos P-Repos P-CNAVs "Cash"
+(o/n)
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Cash
+(term) (term)
+P-Loans Deposits P-Bills
+Banks                     
+(wholesale)
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+1997 2000 07Q2 13Q3
+Reserve managers Corporations Institutional Investors Securities lenders
+Institutional cash pools:
+$ billions
+Source: Federal Reserve Z.1, BIS, ICI and author’s calculations 
+62
+Tough to be safe on scale:
+[1] Cash pools do not have 
+access to M0, M1 or M2.
+Source: Pozsar (2014)
+63
+(temporary)
+Equity
+Equity
+P-Loans
+…
+(permanent)
+(term)
+(permanent)
+(term)
+…
+(term)
+Banks                
+(retail)
+Dealer Banks           
+(credit desk)
+(o/n)
+(term)
+Equity
+……
+Money Funds 
+(government-only)
+Reserves P-Repos P-Repos
+P-Bills
+(o/n)
+"Cash"
+(o/n)
+Reserves
+Public Backstops Private Backstops
+P-CNAVs "Cash"
+Liabilities
+…
+"Cash"
+…
+"Cash"
+…
+"Cash"
+…
+(term) (term)
+…
+…
+…
+T-Notes
+Banks                    
+(wholesale)
+P-Loans Deposits
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks       
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes T-Repos T-Repos "Cash"
+(o/n)
+Cash PM              
+(corporations)
+Reserves T-Repos T-CNAVs "Cash"
+(o/n) (o/n)
+…
+<
+(o/n)
+Private Assets
+Cash PM            
+(asset managers)
+…
+P-Notes
+<
+P-Repos
+(term)
+(term)
+Deposits 
+(insured)
+(collateral)
+Insured 
+money
+Cash PM            
+(seclenders)
+T-Repos P-Repos
+…
+(o/n) (o/n)
+"Cash"
+Money Funds                 
+(prime)
+…
+Cash
+…
+[1]
+[1]
+…
+< (o/n) < (o/n)
+T-Bills
+T-Repos
+(term)
+(o/n) < (o/n)
+(o/n) < (o/n)
+Sovereign             
+(U.S. Treasury)
+Currency 
+Reserves
+T-Bills
+Public 
+money
+(o/n)
+Source: Pozsar (2014)
+64
+Tough to be safe on scale:
+[1] Cash pools do not have 
+access to M0, M1 or M2…
+ …for cash pools, money                
+begins where M2 ends.
+(temporary)
+Equity
+Equity
+P-Loans
+…
+(permanent)
+(term)
+(permanent)
+(term)
+…
+(term)
+Banks                
+(retail)
+Dealer Banks           
+(credit desk)
+(o/n)
+(term)
+Equity
+……
+Money Funds 
+(government-only)
+Reserves P-Repos P-Repos
+P-Bills
+(o/n)
+"Cash"
+(o/n)
+Reserves
+Public Backstops Private Backstops
+P-CNAVs "Cash"
+Liabilities
+…
+"Cash"
+…
+"Cash"
+…
+"Cash"
+…
+(term) (term)
+…
+…
+…
+T-Notes
+Banks                    
+(wholesale)
+P-Loans Deposits
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks       
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes T-Repos T-Repos "Cash"
+(o/n)
+Cash PM              
+(corporations)
+Reserves T-Repos T-CNAVs "Cash"
+(o/n) (o/n)
+…
+<
+(o/n)
+Private Assets
+Cash PM            
+(asset managers)
+…
+P-Notes
+<
+P-Repos
+(term)
+(term)
+Deposits 
+(insured)
+(collateral)
+Insured 
+money
+Cash PM            
+(seclenders)
+T-Repos P-Repos
+…
+(o/n) (o/n)
+"Cash"
+Money Funds                 
+(prime)
+…
+Cash
+…
+[1]
+[1]
+…
+< (o/n) < (o/n)
+T-Bills
+T-Repos
+(term)
+(o/n) < (o/n)
+(o/n) < (o/n)
+Sovereign             
+(U.S. Treasury)
+Currency 
+Reserves
+T-Bills
+Public 
+money
+(o/n)
+Source: Pozsar (2014)
+65
+Tough to be safe on scale:
+[1] Cash pools do not have 
+access to M0, M1 or M2.
+ For cash pools, money                
+begins where M2 ends.
+[2] Cash pools cannot get 
+enough U.S. Treasury bills…
+[2]
+Public Backstops Private Backstops
+Liabilities
+(term) (term) (term)
+P-Loans Deposits P-Bills "Cash"
+(o/n) (collateral)
+…
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Reserves T-Repos P-Repos P-CNAVs "Cash" Cash
+Equity
+(term) (term) (temporary)
+Banks                    
+(wholesale)
+Money Funds                 
+(prime)
+Cash PM            
+(seclenders)
+…
+…
+…
+P-Loans Insured 
+money
+P-Notes P-Repos "Cash"
+"Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+Private Assets
+[1]
+Banks                
+(retail)
+Dealer Banks           
+(credit desk)
+Cash PM            
+(asset managers)
+Reserves Deposits 
+(insured)
+P-Repos P-Repos
+Public 
+money
+T-Bills "Cash" Equity
+(term) (term) (permanent)
+(o/n) < (o/n) (o/n)
+…
+…
+Sovereign             
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Cash PM              
+(corporations)
+Reserves T-Bills 
+(not enough )
+T-Repos T-CNAVs "Cash"
+…(o/n)
+…
+T-Notes T-Repos "Cash" Equity
+(term) (term) (permanent)
+T-Repos "Cash"
+…(o/n) < (o/n) (o/n)
+…
+…
+Assets
+Public Assets
+[1]
+Central Bank      
+(Federal Reserve)
+Dealer Banks       
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency 
+Reserves
+T-Repos
+Source: Pozsar (2014)
+66
+Tough to be safe on scale:
+[1] Cash pools do not have 
+access to M0, M1 or M2.
+ For cash pools, money                
+begins where M2 ends.
+[2] Cash pools cannot get 
+enough U.S. Treasury bills…
+ …inelastic supply of             
+public money claims.
+[2]
+Public Backstops Private Backstops
+Liabilities
+(term) (term) (term)
+P-Loans Deposits P-Bills "Cash"
+(o/n) (collateral)
+…
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Reserves T-Repos P-Repos P-CNAVs "Cash" Cash
+Equity
+(term) (term) (temporary)
+Banks                    
+(wholesale)
+Money Funds                 
+(prime)
+Cash PM            
+(seclenders)
+…
+…
+…
+P-Loans Insured 
+money
+P-Notes P-Repos "Cash"
+"Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+Private Assets
+[1]
+Banks                
+(retail)
+Dealer Banks           
+(credit desk)
+Cash PM            
+(asset managers)
+Reserves Deposits 
+(insured)
+P-Repos P-Repos
+Public 
+money
+T-Bills "Cash" Equity
+(term) (term) (permanent)
+(o/n) < (o/n) (o/n)
+…
+…
+Sovereign             
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Cash PM              
+(corporations)
+Reserves T-Bills 
+(not enough )
+T-Repos T-CNAVs "Cash"
+…(o/n)
+…
+T-Notes T-Repos "Cash" Equity
+(term) (term) (permanent)
+T-Repos "Cash"
+…(o/n) < (o/n) (o/n)
+…
+…
+Assets
+Public Assets
+[1]
+Central Bank      
+(Federal Reserve)
+Dealer Banks       
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency 
+Reserves
+T-Repos
+Source: Pozsar (2014)
+67
+Tough to be safe on scale:
+[1] Cash pools do not have 
+access to M0, M1 or M2.
+ For cash pools, money                
+begins where M2 ends.
+[2] Cash pools cannot get 
+enough U.S. Treasury bills…
+ …inelastic supply of             
+public money claims.
+[3] Cash pools have limits
+on un-secured credit risk…
+[3]
+Public Backstops Private Backstops
+Liabilities
+(term) (term)
+Deposits 
+(uninsured)
+P-Loans P-Bills "Cash"
+(o/n) (collateral)
+…
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Reserves T-Repos P-Repos P-CNAVs "Cash" Cash
+Equity
+(term) (term) (temporary)
+Banks                    
+(wholesale)
+Money Funds                 
+(prime)
+Cash PM            
+(seclenders)
+…
+…
+…
+P-Loans Insured 
+money
+P-Notes P-Repos "Cash"
+"Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+Private Assets
+[1]
+Banks                
+(retail)
+Dealer Banks           
+(credit desk)
+Cash PM            
+(asset managers)
+Reserves Deposits 
+(insured)
+P-Repos P-Repos
+Public 
+money
+T-Bills "Cash" Equity
+(term) (term) (permanent)
+(o/n) (o/n) < (o/n) (o/n)
+…
+…
+[2]
+Sovereign             
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Cash PM              
+(corporations)
+Reserves T-Bills 
+(not enough )
+T-Repos T-CNAVs "Cash"
+…
+…
+T-Notes T-Repos "Cash" Equity
+(term) (term) (permanent)
+T-Repos "Cash"
+…(o/n) < (o/n) (o/n)
+…
+…
+Assets
+Public Assets
+[1]
+Central Bank      
+(Federal Reserve)
+Dealer Banks       
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency 
+Reserves
+T-Repos
+Source: Pozsar (2014)
+68
+Tough to be safe on scale:
+[1] Cash pools do not have 
+access to M0, M1 or M2.
+ For cash pools, money                
+begins where M2 ends.
+[2] Cash pools cannot get 
+enough U.S. Treasury bills…
+ …inelastic supply of             
+public money claims.
+[3] Cash pools have limits
+on un-secured credit risk…
+ …inelastic demand for          
+un-insured bank deposits.
+[3]
+Public Backstops Private Backstops
+Liabilities
+(term) (term)
+Deposits 
+(uninsured)
+P-Loans P-Bills "Cash"
+(o/n) (collateral)
+…
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Reserves T-Repos P-Repos P-CNAVs "Cash" Cash
+Equity
+(term) (term) (temporary)
+Banks                    
+(wholesale)
+Money Funds                 
+(prime)
+Cash PM            
+(seclenders)
+…
+…
+…
+P-Loans Insured 
+money
+P-Notes P-Repos "Cash"
+"Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+Private Assets
+[1]
+Banks                
+(retail)
+Dealer Banks           
+(credit desk)
+Cash PM            
+(asset managers)
+Reserves Deposits 
+(insured)
+P-Repos P-Repos
+Public 
+money
+T-Bills "Cash" Equity
+(term) (term) (permanent)
+(o/n) (o/n) < (o/n) (o/n)
+…
+…
+[2]
+Sovereign             
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Cash PM              
+(corporations)
+Reserves T-Bills 
+(not enough )
+T-Repos T-CNAVs "Cash"
+…
+…
+T-Notes T-Repos "Cash" Equity
+(term) (term) (permanent)
+T-Repos "Cash"
+…(o/n) < (o/n) (o/n)
+…
+…
+Assets
+Public Assets
+[1]
+Central Bank      
+(Federal Reserve)
+Dealer Banks       
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency 
+Reserves
+T-Repos
+Tough to be safe on scale:
+[1] Cash pools do not have 
+access to M0, M1 or M2.
+ For cash pools, money                
+begins where M2 ends.
+[2] Cash pools cannot get 
+enough U.S. Treasury bills…
+ …inelastic supply of             
+public money claims.
+[3] Cash pools have limits
+on un-secured credit risk…
+ …inelastic demand for          
+un-insured bank deposits.
+[4] Cash pools opt for               
+second best alternatives…
+Source: Pozsar (2014)
+69
+sha dow
+Liabilities
+[4]
+[4]
+Public Backstops Private Backstops
+P-Loans Deposits 
+(uninsured)
+P-Bills Private "Cash"
+(term) (term)
+(o/n) (collateral)
+…
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Banks                    
+(wholesale)
+Money Funds                 
+(prime)
+Cash PM            
+(seclenders)
+Reserves T-Repos P-Repos P-CNAVs "Cash" Cash
+Equity
+(term) (term) (temporary)
+[3]
+…
+…
+…
+P-Loans Insured 
+money
+P-Notes P-Repos "Cash"
+"Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+Private Assets
+[1]
+Banks                
+(retail)
+Dealer Banks           
+(credit desk)
+Cash PM            
+(asset managers)
+Reserves Deposits 
+(insured)
+P-Repos P-Repos
+Public 
+money
+T-Bills Public "Cash" Equity
+(term) shadow (term) (permanent)
+(o/n) (o/n) < (o/n) (o/n)
+…
+…
+[2]
+Sovereign             
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Cash PM              
+(corporations)
+Reserves T-Bills 
+(not enough )
+T-Repos T-CNAVs "Cash"
+…
+…
+T-Notes T-Repos "Cash" Equity
+(term) (term) (permanent)
+T-Repos "Cash"
+…(o/n) < (o/n) (o/n)
+…
+…
+Assets
+Public Assets
+[1]
+Central Bank      
+(Federal Reserve)
+Dealer Banks       
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency 
+Reserves
+T-Repos
+Tough to be safe on scale:
+[1] Cash pools do not have 
+access to M0, M1 or M2.
+ For cash pools, money                
+begins where M2 ends.
+[2] Cash pools cannot get 
+enough U.S. Treasury bills…
+ …inelastic supply of             
+public money claims.
+[3] Cash pools have limits
+on un-secured credit risk…
+ …inelastic demand for          
+un-insured bank deposits.
+[4] Cash pools opt for               
+second best alternatives…
+ …the elastic middle of 
+shadow money claims.
+Source: Pozsar (2014)
+70
+sha dow
+Liabilities
+[4]
+[4]
+Public Backstops Private Backstops
+P-Loans Deposits 
+(uninsured)
+P-Bills Private "Cash"
+(term) (term)
+(o/n) (collateral)
+…
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Banks                    
+(wholesale)
+Money Funds                 
+(prime)
+Cash PM            
+(seclenders)
+Reserves T-Repos P-Repos P-CNAVs "Cash" Cash
+Equity
+(term) (term) (temporary)
+[3]
+…
+…
+…
+P-Loans Insured 
+money
+P-Notes P-Repos "Cash"
+"Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+Private Assets
+[1]
+Banks                
+(retail)
+Dealer Banks           
+(credit desk)
+Cash PM            
+(asset managers)
+Reserves Deposits 
+(insured)
+P-Repos P-Repos
+Public 
+money
+T-Bills Public "Cash" Equity
+(term) shadow (term) (permanent)
+(o/n) (o/n) < (o/n) (o/n)
+…
+…
+[2]
+Sovereign             
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Cash PM              
+(corporations)
+Reserves T-Bills 
+(not enough )
+T-Repos T-CNAVs "Cash"
+…
+…
+T-Notes T-Repos "Cash" Equity
+(term) (term) (permanent)
+T-Repos "Cash"
+…(o/n) < (o/n) (o/n)
+…
+…
+Assets
+Public Assets
+[1]
+Central Bank      
+(Federal Reserve)
+Dealer Banks       
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency 
+Reserves
+T-Repos
+Search for safety vs. yield:
+Search for yield begins               
+where the matrix ends…
+Onshore:
+[5] CD
+[6] CPSource: Pozsar (2014)
+71
+sha dow
+Liabilities
+[4]
+[4]
+Public Backstops Private Backstops
+P-Loans Deposits 
+(uninsured)
+P-Bills Private "Cash"
+(term) (term)
+(o/n) (collateral)
+…
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Banks                    
+(wholesale)
+Money Funds                 
+(prime)
+Cash PM            
+(seclenders)
+Reserves T-Repos P-Repos P-CNAVs "Cash" Cash
+Equity
+(term) (term) (temporary)
+[3]
+…
+…
+…
+P-Loans Insured 
+money
+P-Notes P-Repos "Cash"
+"Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+Private Assets
+[1]
+Banks                
+(retail)
+Dealer Banks           
+(credit desk)
+Cash PM            
+(asset managers)
+Reserves Deposits 
+(insured)
+P-Repos P-Repos
+Public 
+money
+T-Bills Public "Cash" Equity
+(term) shadow (term) (permanent)
+(o/n) (o/n) < (o/n) (o/n)
+…
+…
+[2]
+Sovereign             
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Cash PM              
+(corporations)
+Reserves T-Bills 
+(not enough )
+T-Repos T-CNAVs "Cash"
+…
+…
+T-Notes T-Repos "Cash" Equity
+(term) (term) (permanent)
+T-Repos "Cash"
+…(o/n) < (o/n) (o/n)
+…
+…
+Assets
+Public Assets
+[1]
+Central Bank      
+(Federal Reserve)
+Dealer Banks       
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency 
+Reserves
+T-Repos
+Search for safety vs. yield:
+Search for yield begins               
+where the matrix ends…
+Onshore:     Offshore:
+[5] CD      [7] ECD
+[6] CP      [8] ECPSource: Pozsar (2014)
+72
+sha dow
+Liabilities
+[4]
+[4]
+Public Backstops Private Backstops
+P-Loans Deposits 
+(uninsured)
+P-Bills Private "Cash"
+(term) (term)
+(o/n) (collateral)
+…
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Banks                    
+(wholesale)
+Money Funds                 
+(prime)
+Cash PM            
+(seclenders)
+Reserves T-Repos P-Repos P-CNAVs "Cash" Cash
+Equity
+(term) (term) (temporary)
+[3]
+…
+…
+…
+P-Loans Insured 
+money
+P-Notes P-Repos "Cash"
+"Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+Private Assets
+[1]
+Banks                
+(retail)
+Dealer Banks           
+(credit desk)
+Cash PM            
+(asset managers)
+Reserves Deposits 
+(insured)
+P-Repos P-Repos
+Public 
+money
+T-Bills Public "Cash" Equity
+(term) shadow (term) (permanent)
+(o/n) (o/n) < (o/n) (o/n)
+…
+…
+[2]
+Sovereign             
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Cash PM              
+(corporations)
+Reserves T-Bills 
+(not enough )
+T-Repos T-CNAVs "Cash"
+…
+…
+T-Notes T-Repos "Cash" Equity
+(term) (term) (permanent)
+T-Repos "Cash"
+…(o/n) < (o/n) (o/n)
+…
+…
+Assets
+Public Assets
+[1]
+Central Bank      
+(Federal Reserve)
+Dealer Banks       
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency 
+Reserves
+T-Repos
+RRPs and cash pools:
+Unlike individuals, banks             
+and now shadow banks, cash 
+pools still do not have a 
+direct access to the Fed’s 
+liabilities (the ultimate  
+form of money, and the sa-
+fest of safe assets around).
+That is, corporations and 
+asset managers are still 
+constrained to holding               
+mostly shadow money claims.
+But the quality of shadow 
+money claims is now much      
+better because they are                 
+now backed (at least in                  
+part) by something better 
+(RRPs) than ever before.
+Source: Pozsar (2014)
+73
+sha dow
+Public Backstops Private Backstops
+Liabilities
+P-Loans Deposits 
+(uninsured)
+P-Bills Private "Cash"
+(term) (term)
+(o/n) (collateral)
+…
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Banks                    
+(wholesale)
+Money Funds                 
+(prime)
+Cash PM            
+(seclenders)
+Reserves T-Repos RRPs P-CNAVs "Cash" Cash
+Equity
+(term) (term) (temporary)
+[3]
+…
+…
+…
+…
+P-Loans Insured 
+money
+P-Notes P-Repos "Cash"
+P-Repos "Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+Private Assets
+[1] [4]
+Banks                
+(retail)
+Dealer Banks           
+(credit desk)
+Cash PM            
+(asset managers)
+Reserves Deposits 
+(insured)
+RRPs
+…
+Public 
+money
+T-Bills Public "Cash" Equity
+(term) shadow (term) (permanent)
+RRPs T-CNAVs "Cash"
+…(o/n) (o/n) < (o/n) (o/n)
+…
+Equity
+(term) (term) (permanent)
+[2]
+Sovereign             
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Cash PM              
+(corporations)
+Currency 
+Reserves
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Cash PM            
+(reserve managers)
+T-Notes RRPs 
+(o/n)
+RRPs T-Repos "Cash"
+…(o/n)
+Assets
+Public Assets
+[1] [4]
+Central Bank      
+(Federal Reserve)
+Dealer Banks       
+(government desk)
+< (o/n)
+Reserves T-Bills 
+(not enough )
+RRPs and cash pools:
+Consider RRPs potential as    
+a macro-prudential tool.
+Required minimum RRP balan-
+ces for shadow banks could 
+become equivalent to what 
+minimum reserve requirements 
+are for traditional banks.
+The implementation of mini-
+mum RRP balances would in-
+crease the safety of shadow 
+money claims further still.
+This could be an evolution-
+ary step toward Mehrling’s
+“dealer of last resort” in 
+Bagehot 21st century sense.
+Source: Pozsar (2014)
+74
+sha dow
+Public Backstops Private Backstops
+Liabilities
+P-Loans Deposits 
+(uninsured)
+P-Bills Private "Cash"
+(term) (term)
+(o/n) (collateral)
+…
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Banks                    
+(wholesale)
+Money Funds                 
+(prime)
+Cash PM            
+(seclenders)
+Reserves T-Repos RRPs P-CNAVs "Cash" Cash
+Equity
+(term) (term) (temporary)
+[3]
+…
+…
+…
+…
+P-Loans Insured 
+money
+P-Notes P-Repos "Cash"
+P-Repos "Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+Private Assets
+[1] [4]
+Banks                
+(retail)
+Dealer Banks           
+(credit desk)
+Cash PM            
+(asset managers)
+Reserves Deposits 
+(insured)
+RRPs
+…
+Public 
+money
+T-Bills Public "Cash" Equity
+(term) shadow (term) (permanent)
+RRPs T-CNAVs "Cash"
+…(o/n) (o/n) < (o/n) (o/n)
+…
+Equity
+(term) (term) (permanent)
+[2]
+Sovereign             
+(U.S. Treasury)
+Money Funds 
+(government-only)
+Cash PM              
+(corporations)
+Currency 
+Reserves
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Cash PM            
+(reserve managers)
+T-Notes RRPs 
+(o/n)
+RRPs T-Repos "Cash"
+…(o/n)
+Assets
+Public Assets
+[1] [4]
+Central Bank      
+(Federal Reserve)
+Dealer Banks       
+(government desk)
+< (o/n)
+Reserves T-Bills 
+(not enough )
+0
+500
+1,000
+1,500
+2,000
+2,500
+Private Shadow Money Public Shadow Money Insured Money Public Money
+Q3-13
+Demand Deposits Dealer Repos [o/n] Securities Loaned CNAVs [Institutional Class] T-Bills
+Cash pools’ access to overnight money:
+$ billions
+75
+Source: Haver, Federal Reserve Board, Federal Reserve Bank of New York, FDIC
+0
+500
+1,000
+1,500
+2,000
+2,500
+Private Shadow Money Public Shadow Money Insured Money Public Money
+Q3-13
+Demand Deposits Dealer Repos [o/n] Securities Loaned CNAVs [Institutional Class] T-Bills
+Not all un-insured demand deposits belong to cash pools:
+$ billions
+76
+Source: Haver, Federal Reserve Board, Federal Reserve Bank of New York, FDIC
+Banks with $50 < assets < $100 billion:  
+4,200 accts., each $2.2 million on avg.
+Banks with assets of over $100 billion:  
+24,800 accts, each $2.9 million on avg.
+0
+500
+1,000
+1,500
+2,000
+2,500
+Public Money Private Shadow Money Public Shadow Money Insured Money
+Q3-13
+T-Bills T-Notes w/ RM < 1 yr. Savings and Small TDs Large TDs Dealer Repos [term] Secs. Loaned
+Cash pools’ access to term money:
+$ billions
+77
+Source: Haver, Federal Reserve Board, Federal Reserve Bank of New York
+0
+500
+1,000
+1,500
+2,000
+2,500
+Public Money Private Shadow Money Public Shadow Money Insured Money
+Q3-13
+T-Bills T-Notes w/ RM < 1 yr. Savings and Small TDs Large TDs Dealer Repos [term] Secs. Loaned
+Not all large time deposits belong to cash pools:
+$ billions
+78
+Source: Haver, Federal Reserve Board, Federal Reserve Bank of New York
+We do not know what share of large time deposits 
+belong to cash pools vs. SMEs and the wealthy. 
+2. The Hierarchy of Access.
+79
+3. The Hierarchy of Uses..
+4. The Dealer Eco-System.
+1. The Hierarchy of Money.
+5. The Macro Perspective.
+6. Policy Implications...
+Source: Pozsar (2014)
+80
+Money creation:
+Retail banks create money
+and credit ex nihilo (see                     
+for example Turner, 2013).
+Clear links to the real 
+economy through loans.
+Public Backstops Private Backstops
+Liabilities
+(local) (term) (term)
+P-Repos P-CNAVs "Cash"
+(o/n) < (o/n) (o/n)
+(term)
+P-Loans Deposits P-Bills "Cash"
+< (o/n) (o/n)
+…
+…
+…
+…
+(collateral)
+Cash
+"Cash"
+(term)
+Banks               
+(wholesale) …
+P-Loans
+(local)
+Equity
+(temporary)
+…
+Reserves Deposit
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM             
+(asset managers)
+Reserves Deposits 
+(o/n)
+P-Repos P-Repos "Cash"
+(term)
+Money Funds                
+(prime)
+Cash PM             
+(seclenders) …
+…
+…
+…
+…
+Deposits 
+(term)
+P-Notes P-Repos
+Equity
+(term) (term) (permanent)
+(o/n) < (o/n) < (o/n) (o/n)
+…(o/n) (o/n) < (o/n) (o/n)
+Reserves T-Bills 
+(o/n)
+T-Repos T-CNAVs "Cash"
+Assets
+Public Assets
+…
+…
+Private Assets
+…
+T-Bills 
+(term)
+T-Bills "Cash"
+(term) (term) (permanent)
+Money Funds     
+(government-only)
+Cash PM              
+(corporations)
+Sovereign             
+(U.S. Treasury)
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash" Equity
+Cash PM          
+(reserve managers)
+T-Notes Currency 
+Reserves
+T-Repos T-Repos "Cash"
+…(o/n) <
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+(o/n)
+(o/n)
+T-Notes Currency 
+Reserves
+T-Repos T-Repos "Cash"
+…(o/n) < (o/n) (o/n)
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Cash PM          
+(reserve managers)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Reserves T-Bills 
+(o/n)
+T-Repos T-CNAVs "Cash"
+Equity
+(term) (term) (permanent)
+Sovereign             
+(U.S. Treasury)
+Money Funds     
+(government-only)
+Cash PM              
+(corporations)
+Assets
+Public Assets
+T-Bills 
+(term)
+T-Bills "Cash" Equity
+(term) (term) (permanent)
+…(o/n) (o/n) < (o/n) (o/n)
+…
+…
+…
+Private Assets
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM             
+(asset managers)
+Reserves Deposits 
+(o/n)
+P-Repos P-Repos "Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+Equity
+(local) (term) (term) (temporary)
+…
+…
+…
+…
+P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+Banks               
+(wholesale)
+Money Funds                
+(prime)
+Cash PM             
+(seclenders)
+Reserves Deposit P-Repos P-CNAVs "Cash" Cash
+(term)
+P-Loans Deposits P-Bills "Cash"
+(o/n) (collateral)
+…
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Public Backstops Private Backstops
+Liabilities
+(local) (term) (term)
+Source: Pozsar (2014)
+81
+Money dealing:
+Money dealing is borrowing             
+and lending of short-term 
+money in the unsecured and 
+secured and local and global 
+(Eurodollar) money markets.
+There are at least six             
+forms of money dealing…  
+T-Notes Currency 
+Reserves
+T-Repos T-Repos "Cash"
+…(o/n) < (o/n) (o/n)
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Cash PM          
+(reserve managers)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Reserves T-Bills 
+(o/n)
+T-Repos T-CNAVs "Cash"
+Equity
+(term) (term) (permanent)
+Sovereign             
+(U.S. Treasury)
+Money Funds     
+(government-only)
+Cash PM              
+(corporations)
+Assets
+Public Assets
+T-Bills 
+(term)
+T-Bills "Cash" Equity
+(term) (term) (permanent)
+…(o/n) (o/n) < (o/n) (o/n)
+…
+…
+…
+Private Assets
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM             
+(asset managers)
+Reserves FF         
+(o/n)
+P-Repos P-Repos "Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+Equity
+(local) (term) (term) (temporary)
+…
+…
+…
+…
+P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+Banks               
+(wholesale)
+Money Funds                
+(prime)
+Cash PM             
+(seclenders)
+FF FF P-Repos P-CNAVs "Cash" Cash[1]
+(term)
+P-Loans Deposits P-Bills "Cash"
+(o/n) (collateral)
+…
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Public Backstops Private Backstops
+Liabilities
+(local) (term) (term)
+Source: Pozsar (2014)
+82
+Money dealing:
+[1] Interbank money dealing   
+in the federal funds market. 
+(o/n)
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Cash PM          
+(reserve managers)
+Currency 
+Reserves
+T-Repos T-Repos "Cash"
+…(o/n) <
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+(o/n)
+[2]T-Notes
+Reserves T-Bills 
+(o/n)
+T-Repos T-CNAVs "Cash"
+Equity
+(term) (term) (permanent)
+Sovereign             
+(U.S. Treasury)
+Money Funds     
+(government-only)
+Cash PM              
+(corporations)
+Assets
+Public Assets
+T-Bills 
+(term)
+T-Bills "Cash" Equity
+(term) (term) (permanent)
+…(o/n) (o/n) < (o/n) (o/n)
+…
+…
+…
+Private Assets
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM             
+(asset managers)
+Reserves FF         
+(o/n)
+P-Repos P-Repos
+…
+P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+"Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+Cash PM             
+(seclenders)
+[1] FF FF P-Repos P-CNAVs "Cash" Cash
+Equity
+(local) (term) (term) (temporary)
+Banks               
+(wholesale)
+Money Funds                
+(prime)
+…
+…
+…
+(term)
+P-Loans Deposits P-Bills "Cash"
+(o/n) (collateral)
+…
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+Public Backstops Private Backstops
+Liabilities
+(local) (term) (term)
+Source: Pozsar (2014)
+83
+Money dealing:
+[1] Interbank money dealing  
+in the federal funds market.
+[2] Interdealer money dea-
+ling in the GCF repo market.
+T-Notes Currency 
+Reserves
+[2] T-Repos T-Repos "Cash"
+…(o/n) < (o/n) (o/n)
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Cash PM          
+(reserve managers)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Reserves T-Bills 
+(o/n)
+T-Repos T-CNAVs "Cash"
+Equity
+(term) (term) (permanent)
+Sovereign             
+(U.S. Treasury)
+Money Funds     
+(government-only)
+Cash PM              
+(corporations)
+Assets
+Public Assets
+T-Bills 
+(term)
+T-Bills "Cash" Equity
+(term) (term) (permanent)
+…(o/n) (o/n) < (o/n) (o/n)
+…
+…
+…
+[3]
+Private Assets
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM             
+(asset managers)
+Reserves FF         
+(o/n)
+P-Repos P-Repos
+…
+P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+"Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+Cash PM             
+(seclenders)
+[1] FF FF P-Repos P-CNAVs "Cash" Cash
+Equity
+(local) (term) (term) (temporary)
+(term)
+P-Loans Deposits P-Bills "Cash"
+(o/n) (collateral)
+…
+…
+…
+…
+(o/n) < (o/n) (o/n) < (o/n)
+[3]
+Public Backstops Private Backstops
+Liabilities
+(local) (term) (term)
+Banks               
+(wholesale)
+Money Funds                
+(prime)
+…
+…
+…
+Source: Pozsar (2014)
+84
+Money dealing:
+[1] Interbank money dealing  
+in the federal funds market.
+[2] Interdealer money dea-
+ling in the GCF repo market.
+[3] Interlinked money dea-
+ling in the TRP repo market 
+(cash PM -> MMF -> dealer).
+Cash PM          
+(reserve managers)
+T-Notes Currency 
+Reserves
+[2] T-Repos T-Repos "Cash"
+…(o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+< (o/n)
+Equity
+(term) (term) (permanent)
+Sovereign             
+(U.S. Treasury)
+Money Funds     
+(government-only)
+Cash PM              
+(corporations)
+(o/n)
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+(o/n) (o/n) < (o/n) (o/n)
+…
+…
+…
+Reserves T-Bills 
+(o/n)
+[3] T-Repos T-CNAVs
+Assets
+Public Assets
+T-Bills 
+(term)
+T-Bills "Cash"
+(o/n) (o/n)
+Equity
+(term) (term) (permanent)
+"Cash"
+…
+Private Assets
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM             
+(asset managers)
+Reserves FF         
+(o/n)
+P-Repos P-Repos "Cash"
+…(o/n) < (o/n) <
+…
+Equity
+(local) (term) (term) (temporary)
+…
+…
+…
+…
+…
+P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+Banks               
+(wholesale)
+Money Funds                
+(prime)
+Cash PM             
+(seclenders)
+[1] FF FF [3] P-Repos P-CNAVs "Cash" Cash
+(o/n) < (o/n) (o/n) < (o/n) (o/n) (collateral)
+…
+…
+…
+…
+Public Backstops Private Backstops
+Liabilities
+(global) (term) (term) (term)
+P-Loans Deposits P-Bills "Cash"[4]
+Source: Pozsar (2014)
+85
+Money dealing:
+[1] Interbank money dealing  
+in the federal funds market.
+[2] Interdealer money dea-
+ling in the GCF repo market.
+[3] Interlinked money dea-
+ling in the TRP repo market 
+(cash PM -> MMF -> dealer).
+[4] Interoffice money dea-
+ling via the NY branches                
+of foreign banks, funded               
+by selling Yankee CD and                     
+CP to prime money funds              
+(see Shin, 2011 and 2013).
+Cash PM          
+(reserve managers)
+T-Notes Currency 
+Reserves
+[2] T-Repos T-Repos "Cash"
+…(o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+< (o/n)
+Equity
+(term) (term) (permanent)
+Sovereign             
+(U.S. Treasury)
+Money Funds     
+(government-only)
+Cash PM              
+(corporations)
+(o/n)
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+(o/n) (o/n) < (o/n) (o/n)
+…
+…
+…
+Reserves T-Bills 
+(o/n)
+[3] T-Repos T-CNAVs
+Assets
+Public Assets
+T-Bills 
+(term)
+T-Bills "Cash"
+(o/n) (o/n)
+Equity
+(term) (term) (permanent)
+"Cash"
+…
+Private Assets
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM             
+(asset managers)
+Reserves FF         
+(o/n)
+P-Repos P-Repos "Cash"
+…(o/n) < (o/n) <
+…
+Equity
+(local) (term) (term) (temporary)
+…
+…
+…
+…
+…
+P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+…
+…
+…
+…
+…
+Banks               
+(wholesale)
+Money Funds                
+(prime)
+Cash PM             
+(seclenders)
+[1] FF FF [3] P-Repos P-CNAVs "Cash" Cash
+(o/n) < (o/n) (o/n) < (o/n) (o/n) (collateral)
+Public Backstops Private Backstops
+Liabilities
+(global) (term) (global) (o/n) (term)
+[5][4] P-Loans Deposits P-Bills P-CNAVs "Cash"
+Source: Pozsar (2014)
+86
+Money dealing:
+[1] Interbank money dealing  
+in the federal funds market.
+[2] Interdealer money dea-
+ling in the GCF repo market.
+[3] Interlinked money dea-
+ling in the TRP repo market 
+(cash PM -> MMF -> dealer).
+[4] Interoffice money dea-
+ling via the NY branches                
+of foreign banks, funded               
+by selling Yankee CD and                     
+CP to prime money funds              
+(see Shin, 2011 and 2013).
+[5] Crossborder money dea-
+ling via the headquarters               
+of foreign banks selling 
+Eurodollar CD and CP to               
+prime money market funds.
+Cash PM          
+(reserve managers)
+T-Notes Currency 
+Reserves
+[2] T-Repos T-Repos "Cash"
+…(o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+< (o/n)
+Equity
+(term) (term) (permanent)
+Sovereign             
+(U.S. Treasury)
+Money Funds     
+(government-only)
+Cash PM              
+(corporations)
+(o/n)
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+[6]
+(o/n) (o/n) < (o/n) (o/n)
+…
+…
+…
+Reserves T-Bills 
+(o/n)
+[3] T-Repos T-CNAVs
+Assets
+Public Assets
+T-Bills 
+(term)
+T-Bills "Cash"
+(o/n) (o/n)
+Equity
+(term) (term) (permanent)
+"Cash"
+…
+Private Assets
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM             
+(asset managers)
+Reserves FF         
+(o/n)
+[6] P-Repos P-Repos "Cash"
+…(o/n) < (o/n) <
+…
+Equity
+(local) (term) (term) (temporary)
+…
+…
+…
+…
+…
+P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+Banks               
+(wholesale)
+Money Funds                
+(prime)
+Cash PM             
+(seclenders)
+[1] FF FF [3] P-Repos P-CNAVs "Cash" Cash
+(o/n) < (o/n) (o/n) < (o/n) (o/n) (collateral)
+…
+…
+…
+…
+Liabilities
+"Cash"
+(global) (term) (global) (term)
+[4] P-Loans Deposits [5] P-Bills
+Public Backstops Private Backstops
+Source: Pozsar (2014)
+87
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Dealers’ buy-side clients: 
+risk portfolio managers (PM).
+88
+Source: Pozsar (2014)
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+(term)
+Reserves P-Repos
+(o/n) <
+(o/n)
+P-Repos
+Sovereign             
+(U.S. Treasury)
+<
+…
+P-Loans
+(local)
+Deposits 
+(term)
+Banks               
+(wholesale)
+…
+…
+T-Repos
+(o/n)
+…
+"Cash"
+Money Funds     
+(government-only)
+…
+Cash PM            
+(reserve managers)
+T-Notes T-Repos "Cash"
+T-Notes T-Repos
+(o/n)
+Cash PM              
+(corporations)
+Reserves T-Repos T-CNAVs "Cash"
+…
+"Cash"
+(permanent)
+…
+Equity
+(term)
+"Cash"
+(term)
+Cash PM             
+(seclenders)
+"Cash"
+(o/n) < (o/n) (o/n)
+(o/n)
+…
+Money Funds                
+(prime)
+…
+Equity
+(temporary)
+(o/n) <
+P-Repos
+(o/n)
+Cash PM            
+(asset managers)
+Equity
+(term) (permanent)(term)
+Liabilities
+(global) (term) (global)
+(o/n) (o/n)
+…
+…
+…
+P-Loans Deposits P-Bills
+(term)
+< (o/n) <
+…
+"Cash"
+Risk PM     
+Risk PM
+Risk PM    
+Public Backstops Private Backstops
+(term)
+…
+…
+…
+P-Notes P-Repos
+Private Assets
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+…
+…
+T-Bills
+Cash
+(collateral)
+FF FF
+(o/n) (o/n)
+(o/n)
+Currency 
+Reserves
+T-Bills 
+(o/n)
+T-Bills 
+(term)
+FF         
+(o/n)
+"Cash"P-CNAVs
+(o/n)
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Mandate: “Beat benchmark”.    
+Three forms of leverage…
+89
+Source: Pozsar (2014)
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+(term)
+Reserves P-Repos
+(o/n) <
+(o/n)
+P-Repos
+Sovereign             
+(U.S. Treasury)
+<
+…
+P-Loans
+(local)
+Deposits 
+(term)
+Banks               
+(wholesale)
+…
+…
+T-Repos
+(o/n)
+…
+"Cash"
+Money Funds     
+(government-only)
+…
+Cash PM            
+(reserve managers)
+T-Notes T-Repos "Cash"
+T-Notes T-Repos
+(o/n)
+Cash PM              
+(corporations)
+Reserves T-Repos T-CNAVs "Cash"
+…
+"Cash"
+(permanent)
+…
+Equity
+(term)
+"Cash"
+(term)
+Cash PM             
+(seclenders)
+"Cash"
+(o/n) < (o/n) (o/n)
+(o/n)
+…
+Money Funds                
+(prime)
+…
+Equity
+(temporary)
+(o/n) <
+P-Repos
+(o/n)
+Cash PM            
+(asset managers)
+Equity
+(term) (permanent)(term)
+Liabilities
+(global) (term) (global)
+(o/n) (o/n)
+…
+…
+…
+P-Loans Deposits P-Bills
+(term)
+< (o/n) <
+…
+"Cash"
+Risk PM     
+Risk PM
+Risk PM    
+Public Backstops Private Backstops
+(term)
+…
+…
+…
+P-Notes P-Repos
+Private Assets
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+…
+…
+T-Bills
+Cash
+(collateral)
+FF FF
+(o/n) (o/n)
+(o/n)
+Currency 
+Reserves
+T-Bills 
+(o/n)
+T-Bills 
+(term)
+FF         
+(o/n)
+"Cash"P-CNAVs
+(o/n)
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Mandate: “Beat benchmark”.
+Three forms of leverage…
+Type 1:
+90
+Source: Pozsar (2014)
+T-Repos "Cash"
+…(o/n) < (o/n) (o/n)
+(o/n)
+T-Notes Currency 
+Reserves
+T-Repos
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Money Funds     
+(government-only)
+Cash PM              
+(corporations)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+…(o/n) (o/n) < (o/n) (o/n)
+…
+…
+…
+Reserves T-Bills 
+(o/n)
+T-Repos T-CNAVs "Cash"
+T-Bills 
+(term)
+T-Bills "Cash" Equity
+(term) (term) (permanent)
+"Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+Reserves FF         
+(o/n)
+P-Repos P-Repos
+Equity
+(local) (term) (term) (temporary)
+…
+…
+…
+P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+Risk PM    Banks               
+(wholesale)
+Money Funds                
+(prime)
+Cash PM             
+(seclenders)
+FF FF P-Repos P-CNAVs
+Private Assets
+Risk PM Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+(asset managers)
+"Cash" Cash
+(o/n) < (o/n) (o/n) < (o/n) (o/n) (collateral)
+…
+…
+…
+…
+P-Loans Deposits P-Bills
+Public Backstops Private Backstops
+Liabilities
+"Cash"
+(global) (term) (global) (term)
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Mandate: “Beat benchmark”.
+Three forms of leverage…
+Type 1:
+Type 2:
+91
+Source: Pozsar (2014)
+T-Repos "Cash"
+…(o/n) < (o/n) (o/n)
+(o/n)
+T-Notes Currency 
+Reserves
+T-Repos
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Money Funds     
+(government-only)
+Cash PM              
+(corporations)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+…(o/n) (o/n) < (o/n) (o/n)
+…
+…
+…
+Reserves T-Bills 
+(o/n)
+T-Repos T-CNAVs "Cash"
+T-Bills 
+(term)
+T-Bills "Cash" Equity
+(term) (term) (permanent)
+"Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+Reserves FF         
+(o/n)
+P-Repos P-Repos
+Equity
+(local) (term) (term) (temporary)
+…
+…
+…
+P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+Risk PM    Banks               
+(wholesale)
+Money Funds                
+(prime)
+Cash PM             
+(seclenders)
+FF FF P-Repos P-CNAVs
+Private Assets
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+(asset managers)
+"Cash" Cash
+(o/n) < (o/n) (o/n) < (o/n) (o/n) (collateral)
+…
+…
+…
+…
+P-Loans Deposits P-Bills
+Public Backstops Private Backstops
+Liabilities
+"Cash"
+(global) (term) (global) (term)
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Mandate: “Beat benchmark”.
+Three forms of leverage…
+Type 1:
+Type 2:
+Type 3:
+92
+Source: Pozsar (2014)
+T-Repos "Cash"
+…(o/n) < (o/n) (o/n)
+(o/n)
+T-Notes Currency 
+Reserves
+T-Repos
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Money Funds     
+(government-only)
+Cash PM              
+(corporations)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Assets
+Public Assets
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+…(o/n) (o/n) < (o/n) (o/n)
+…
+…
+…
+Reserves T-Bills 
+(o/n)
+T-Repos T-CNAVs "Cash"
+T-Bills 
+(term)
+T-Bills "Cash" Equity
+(term) (term) (permanent)
+"Cash"
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+Reserves FF         
+(o/n)
+P-Repos P-Repos
+Equity
+(local) (term) (term) (temporary)
+…
+…
+…
+P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+Risk PM                               
+(cash for margining)
+Banks               
+(wholesale)
+Money Funds                
+(prime)
+Cash PM             
+(seclenders)
+FF FF P-Repos P-CNAVs
+Private Assets
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+(asset managers)
+"Cash" Cash
+(o/n) < (o/n) (o/n) < (o/n) (o/n) (collateral)
+…
+…
+…
+…
+P-Loans Deposits P-Bills
+Public Backstops Private Backstops
+Liabilities
+"Cash"
+(global) (term) (global) (term)
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Mandate: “Beat benchmark”.
+Three forms of leverage…
+Type 1:
+Type 2:
+Type 3:
+93
+Source: Pozsar (2014)
+T-Notes
+(RMBS)
+T-Repos
+(term)
+Public Assets
+Assets
+T-Bills 
+(term)
+(o/n)
+…
+Reserves T-Bills 
+(o/n)
+Risk PM            
+(M-REIT)
+Sovereign             
+(U.S. Treasury)
+…
+Equity
+Public Backstops Private Backstops
+Liabilities
+"Cash"
+(global) (term) (global) (term)
+(collateral)
+…
+…
+…
+…
+P-Loans Deposits P-Bills
+Risk PM                               
+(cash for margining)
+Banks               
+(wholesale)
+Money Funds                
+(prime)
+Cash PM             
+(seclenders)
+FF FF P-Repos P-CNAVs
+Private Assets
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+(asset managers)
+"Cash" Cash
+(o/n) < (o/n) (o/n) < (o/n) (o/n)
+Equity
+(local) (term) (term) (temporary)
+…
+…
+…
+P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+Reserves FF         
+(o/n)
+P-Repos P-Repos
+(permanent)
+…(o/n) < (o/n) (o/n)
+…
+…
+"Cash"
+…
+T-Repos T-CNAVs "Cash"
+(term) (term)(temporary)
+(term) < (term) (o/n)
+(o/n)
+Equity
+Money Funds     
+(government-only)
+Cash PM              
+(corporations)
+T-Bills "Cash" Equity
+(term) (term) (permanent)
+T-Notes T-Repos "Cash"
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes T-Repos
+…
+…
+…
+Currency 
+Reserves
+T-Repos "Cash"
+…
+94
+Source: Pozsar (2014)
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Mandate: “Beat benchmark”.
+Three forms of leverage…
+Type 1:
+Type 2:
+Type 3:
+(term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Money Funds     
+(government-only)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+T-CNAVs
+…Reserves (term) <
+"Cash"
+…(term) (o/n) (o/n) < (o/n) (o/n)
+…
+T-Notes T-Repos Reserves T-Bills 
+(o/n)
+T-Repos
+Equity
+(temporary) (term) (term) (permanent)
+…
+…
+…
+Equity
+Assets
+T-Bills 
+(term)
+T-Bills "Cash"
+Private Assets
+Equity
+(temporary)
+…
+Risk PM                
+("real money")
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+(short seller)
+Reserves FF         
+(o/n)
+P-Repos P-Repos "Cash"T-Notes
+P-Notes
+Equity
+(local) (term) (term) (temporary)
+…(o/n) < (o/n) < (o/n) (o/n)
+…
+…
+P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+…
+…
+Risk PM                               
+(cash for margining)
+Banks               
+(wholesale)
+Money Funds                
+(prime)
+Cash PM             
+(seclenders)
+FF FF P-Repos P-CNAVs "Cash" Cash
+(o/n) < (o/n) (o/n) < (o/n) (o/n) (collateral)
+…
+…
+…
+…
+Liabilities
+"Cash"
+(global) (term) (global) (term)
+P-Loans Deposits P-Bills
+Public Backstops Private Backstops
+95
+Source: Pozsar (2014)
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Mandate: “Beat benchmark”.
+Three forms of leverage…
+Type 1:
+Type 2:
+Type 3:
+(
+(term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Money Funds     
+(government-only)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+T-CNAVs
+…Reserves (term) <
+"Cash"
+…(term) (o/n) (o/n) < (o/n) (o/n)
+…
+T-Notes T-Repos Reserves T-Bills 
+(o/n)
+T-Repos
+Equity
+(temporary) (term) (term) (permanent)
+…
+…
+…
+Equity
+Assets
+T-Bills 
+(term)
+T-Bills "Cash"
+(o/n)
+P-Repos P-Repos
+(o/n) < (term) < (o/n)
+Risk PM                
+(seclender)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+(short seller)
+Cash P-Repos Reserves P-ReposFF         [A]
+(collat.)
+Shorts
+(P-Notes)
+(o/n) < (o/n) (o/n) < (o/n) (o/n) (collateral)
+Risk PM                               
+(cash for margining)
+Banks               
+(wholesale)
+Money Funds                
+(prime)
+Cash PM             
+(seclenders)
+FF FF P-Repos P-CNAVs
+Private Assets
+…
+T-Notes
+P-Notes
+…
+Equity
+…
+…
+…
+…
+P-Loans Deposits P-Bills
+Public Backstops Private Backstops
+Liabilities
+"Cash"
+(global) (term) (global) (term)
+(temporary)
+…
+(term)
+"Cash" Cash
+Equity
+(local) (term) (term) (temporary)
+P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+(o/n)
+…
+…
+…
+…
+…
+96
+Source: Pozsar (2014)
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Mandate: “Beat benchmark”.
+Three forms of leverage…
+Type 1:
+Type 2:
+Type 3:
+(
+[B]
+(term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Money Funds     
+(government-only)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+T-CNAVs
+…Reserves (term) <
+"Cash"
+…(term) (o/n) (o/n) < (o/n) (o/n)
+…
+T-Notes T-Repos Reserves T-Bills 
+(o/n)
+T-Repos
+Equity
+(temporary) (term) (term) (permanent)
+…
+…
+…
+Equity
+Assets
+T-Bills 
+(term)
+T-Bills "Cash"
+Risk PM                
+(seclender)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+(short seller)
+Shorts
+(collat.) (term) (o/n) < (o/n) (term) < (o/n) (o/n) (P-Notes)
+Cash P-Repos [A] Reserves FF         P-Repos P-Repos P-Repos
+…
+Private Assets
+…
+…
+…
+…
+Equity
+P-Notes (temporary) (local) (term) (term) (temporary)
+…
+…
+T-Notes Equity P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+FF FF P-Repos P-CNAVs
+Banks               
+(wholesale)
+Money Funds                
+(prime)
+Cash PM             
+(seclenders)
+Liabilities
+"Cash"
+(global) (term) (global) (term)
+P-Loans Deposits P-Bills
+(collat.)
+Risk PM
+(cash for margining)
+Public Backstops Private Backstops
+…
+…
+…
+…
+"Cash" Cash
+(o/n) < (o/n) (o/n) < (o/n) (o/n)
+97
+Source: Pozsar (2014)
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Mandate: “Beat benchmark”.
+Three forms of leverage…
+Type 1:
+Type 2:
+Type 3:
+(
+Equity
+(temporary)
+…
+CDS
+IRS
+…
+CDS
+IRS
+FXS
+T-Notes
+P-Notes
+…
+…
+…
+…
+"Cash" Cash
+(o/n) < (o/n) (o/n) <
+Public Backstops Private Backstops
+Liabilities
+"Cash"
+(global) (term) (global) (term)
+P-Loans Deposits P-Bills
+P-Notes (temporary) (local) (term) (term) (temporary)
+(o/n) (o/n) (collat.)
+FF FF P-Repos P-CNAVs
+…
+Private Assets
+…
+…
+…
+…
+… FXS
+T-Notes Equity P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash" Equity
+Risk PM Banks               
+(wholesale)
+Money Funds                
+(prime)
+Cash PM             
+(seclenders)(tactical hedger)
+(collat.) (term) (o/n) < (o/n) (term) < (o/n) (o/n)
+Cash P-Repos Reserves FF         P-Repos P-Repos "Cash"
+Equity
+(temporary) (term) (term) (permanent)
+…
+…
+…
+Equity
+Assets
+T-Bills 
+(term)
+T-Bills "Cash"
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+("overlay investor")
+"Cash"
+…(term) (o/n) (o/n) < (o/n) (o/n)
+…
+T-Notes T-Repos Reserves T-Bills 
+(o/n)
+T-Repos
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Money Funds     
+(government-only)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+T-CNAVs
+…Reserves (term) < (term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+98
+Source: Pozsar (2014)
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Mandate: “Beat benchmark”.
+Three forms of leverage…
+Type 1:
+Type 2:
+Type 3:
+(
+Liabilities
+(term)
+Public Backstops Private Backstops
+"Cash"
+P-Notes (temporary) (global) (term)
+T-Notes Equity P-Loans Deposits
+(o/n) (collat.)
+FXS
+…
+…
+…
+IRS
+… (o/n) < (o/n)
+CDS FF FF
+Equity
+P-Notes (temporary) (local) (term) (term) (temporary)
+"Cash" Cash
+…
+…
+Private Assets
+…
+…
+…
+…
+… FXS
+T-Notes Equity P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+Risk PM Banks               
+(wholesale)
+Cash PM             
+(seclenders)(tactical hedger)
+CDS
+(collat.) (term) (o/n) < (o/n) (term) < (o/n) (o/n) IRS
+Cash P-Repos Reserves FF         P-Repos P-Repos "Cash"
+Equity
+(temporary) (term) (permanent)
+…
+…
+Equity
+Assets
+T-Bills 
+(term)
+"Cash"
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+("overlay investor")
+"Cash"
+…(term) (o/n) (o/n)
+…
+T-Notes T-Repos Reserves T-Bills 
+(o/n)
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+…Reserves (term) < (term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+99
+Source: Pozsar (2014)
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Mandate: “Beat benchmark”.
+Three forms of leverage…
+Type 1:
+Type 2:
+Type 3:
+(
+Liabilities
+…
+(term)
+Public Backstops Private Backstops
+Swaps P-Bills "Cash"
+(collat.) (o/n) (collat.)
+Cash
+… FXS
+(o/n) (o/n) IRS
+FF Swaps
+P-Notes (temporary) (global) (term) (uncoll.) (term)
+T-Notes Equity P-Loans Deposits
+Deposits 
+(term)
+P-Notes P-Repos "Cash"
+FXS
+…
+…
+…
+…
+…
+Swaps "Cash"
+IRS
+… (o/n) < (o/n) (collat.) <
+CDS FF
+…
+…
+Private Assets
+…
+…
+…
+…
+P-Repos "Cash"
+Risk PM Banks               
+(wholesale)
+Dealer Banks             
+(CDS)
+Cash PM             
+(seclenders)(tactical hedger)
+Equity
+P-Notes (temporary) (local) (term) (term) (temporary)
+T-Notes Equity P-Loans
+CDS
+(collat.) (term) (o/n) < (o/n) (term) <
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+("overlay investor")
+Cash P-Repos Reserves FF         P-Repos
+Equity
+(temporary) (uncoll.) (term) (term) (permanent)
+…
+…
+…
+Equity
+Assets
+T-Bills 
+(term)
+Swaps P-Bills "Cash"
+Risk PM                
+(cash for shorting)
+"Cash"
+…(term) (o/n) (collat.) < (collat.) (o/n)
+…
+T-Notes T-Repos Reserves T-Bills 
+(o/n)
+Swaps
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Dealer Banks                 
+(IRS and FXS)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Swaps
+…Reserves (term) < (term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+100
+Source: Pozsar (2014)
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Mandate: “Beat benchmark”.
+Three forms of leverage…
+Type 1:
+Type 2:
+Type 3:
+(
+"Cash" Cash
+Cash P-Repos Reserves FF         P-Repos P-Repos "Cash" CDS
+Risk PM Banks               
+(wholesale)
+Dealer Banks             
+(CDS)
+Cash PM             
+(seclenders)(tactical hedger)
+"Cash" Equity
+P-Notes (temporary) (local)
+Liabilities
+CDS FF FF Swaps Swaps
+Private Assets
+(term)
+Public Backstops Private Backstops
+Swaps P-Bills "Cash"
+P-Notes (temporary) (global) (term) (uncoll.) (term)
+T-Notes Equity P-Loans Deposits
+(collat.) (o/n) (collat.)
+FXS
+…
+…
+…
+…
+…
+IRS
+… (o/n) < (o/n) (collat.) <
+(term) (term) (temporary)
+…
+… FXS
+T-Notes Equity P-Loans Deposits 
+(term)
+P-Notes P-Repos
+…
+…
+…
+…
+…
+(collat.) (term) (o/n) < (o/n) (term)
+Equity
+(temporary) (uncoll.) (term) (term) (permanent)
+< (o/n) (o/n) IRS
+Equity
+Assets
+T-Bills 
+(term)
+Swaps P-Bills "Cash"
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+("overlay investor")
+"Cash"
+…(term) (o/n) (collat.) < (collat.) (o/n)
+…
+T-Notes T-Repos Reserves T-Bills 
+(o/n)
+Swaps
+…
+…
+…
+…
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Dealer Banks                 
+(IRS and FXS)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Swaps
+…Reserves (term) < (term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+101
+Source: Pozsar (2014)
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Mandate: “Beat benchmark”.
+Three forms of leverage…
+Type 1:
+Type 2:
+Type 3:
+(
+Liabilities
+T-Bills 
+(o/n)
+(term)
+Public Backstops Private Backstops
+Swaps P-Bills "Cash"
+(collat.) (o/n) (collat.)
+…
+… FXS
+< (o/n)
+P-Notes (temporary) (global) (term) (uncoll.) (term)
+T-Notes Equity P-Loans Deposits
+FXS
+…
+…
+…
+…
+…
+Swaps "Cash" Cash
+IRS
+… (o/n) < (o/n) (collat.) <
+CDS FF FF Swaps
+Banks               
+(wholesale)
+Dealer Banks             
+(CDS)
+Cash PM             
+(seclenders)(tactical hedger)
+"Cash" Equity
+P-Notes (temporary) (local) (term) (term) (temporary)
+T-Notes Equity P-Loans Deposits 
+(term)
+P-Notes P-Repos
+Cash P-Repos Reserves FF         
+(o/n) IRS
+…
+…
+Private Assets
+…
+…
+…
+P-Repos P-Repos "Cash" CDS
+(collat.) (term) (o/n) < (o/n) (term)
+Risk PM
+Equity
+(temporary) (uncoll.) (term) (term) (permanent)
+…
+…
+…
+…
+Equity
+Assets
+T-Bills 
+(term)
+Swaps P-Bills "Cash"
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+("overlay investor")
+"Cash"
+…(term) (o/n) (collat.) < (collat.) (o/n)
+…
+T-Notes T-Repos Reserves Swaps
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Dealer Banks                 
+(IRS and FXS)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Swaps
+…Reserves (term) < (term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+102
+Source: Pozsar (2014)
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Mandate: “Beat benchmark”.
+Three forms of leverage…
+Type 1:
+Type 2:
+Type 3:
+(…
+Liabilities
+(term)
+Public Backstops Private Backstops
+Swaps P-Bills "Cash"
+FXS (temporary) (global) (term) (uncoll.) (term)
+IRS Equity P-Loans Deposits
+(collat.) (o/n) (collat.)
+CDS
+…
+…
+…
+…
+…
+…
+Margin 
+call
+Swap 
+payables (o/n) < (o/n) (collat.) <
+FF FF Swaps
+(tactical hedger)
+Equity
+P-Notes (temporary) (local) (term) (term) (temporary)
+Swaps "Cash" Cash
+IRS
+…
+…
+Private Assets
+…
+…
+…
+…
+… FXS
+T-Notes Equity P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+Risk PM Banks               
+(wholesale)
+Dealer Banks             
+(CDS)
+Cash PM             
+(seclenders)
+(collat.) (term) (o/n) < (o/n) (term) < (o/n) receivs.
+Cash P-Repos Reserves FF         P-Repos P-Repos Swap CDS
+"Cash" Equity
+(temporary) (uncoll.) (term) (term) (permanent)
+…
+…
+…
+…
+…
+Equity
+Assets
+T-Bills 
+(term)
+Swaps P-Bills
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+("overlay investor")
+"Cash"
+…(term) (o/n) (o/n) (collat.) < (collat.) (o/n)
+T-Notes T-Repos Reserves T-Bills Swaps
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Dealer Banks                 
+(IRS and FXS)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Swaps
+…Reserves (term) < (term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+103
+Source: Pozsar (2014)
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Mandate: “Beat benchmark”.
+Three forms of leverage…
+Type 1:
+Type 2:
+Type 3:
+(…
+Liabilities
+…
+Equity
+(temporary)
+Public Backstops Private Backstops
+FXS (global) (term) (uncoll.) (term) (term)
+P-Loans Deposits Swaps P-Bills
+CDS
+…
+…
+…
+…
+…
+IRS "Cash"
+"Cash" Cash
+(o/n) < (o/n) (collat.) < (collat.)
+Cash 
+(margin)
+P-Repos 
+(o/n)
+FF FF
+(o/n) (collat.)
+Swaps Swaps
+Cash PM             
+(seclenders)(tactical hedger)
+Equity
+P-Notes (temporary) (local) (term) (term) (temporary)
+IRS
+…
+…
+Private Assets
+…
+…
+…
+…
+[A]
+… FXS
+T-Notes Equity P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+Risk PM Banks               
+(wholesale)
+Dealer Banks             
+(CDS)
+(collat.) (term) (o/n) < (o/n) (o/n) < (o/n) receivs.
+Cash P-Repos Reserves FF         P-Repos P-Repos Swap CDS
+"Cash" Equity
+(temporary) (uncoll.) (term) (term) (permanent)
+…
+…
+…
+…
+…
+Equity
+Assets
+T-Bills 
+(term)
+Swaps P-Bills
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+("overlay investor")
+"Cash"
+…(term) (o/n) (o/n) (collat.) < (collat.) (o/n)
+T-Notes T-Repos Reserves T-Bills Swaps
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Dealer Banks                 
+(IRS and FXS)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Swaps
+…Reserves (term) < (term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+104
+Source: Pozsar (2014)
+Money dealing:
+[6] Client-driven money dea-
+ling in the DvP repo market.
+Mandate: “Beat benchmark”.
+Three forms of leverage…
+Type 1:
+Type 2:
+Type 3:
+(…CDS
+…
+Swaps P-Bills "Cash"IRS Equity P-Loans Deposits
+…
+…
+…
+…
+…
+"Ca sh"
+(collat.) (o/n) (collat.)
+Liabilities
+(term)FXS (temporary) (global) (term) (uncoll.) (term)
+Public Backstops Private Backstops
+(term) (temporary)
+Cash 
+(margin)
+FF FFP-Repos 
+(o/n)
+[A]
+Risk PM Banks               
+(wholesale) (seclenders)
+Cash PM
+[B]
+Swaps Swaps Cash
+(o/n) < (o/n) (collat.) <
+IRS
+…
+…
+Private Assets
+…
+…
+…
+… FXS
+T-Notes Equity P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+Dealer Banks             
+(CDS)(tactical hedger)
+Equity
+P-Notes (temporary) (local) (term)
+(collat.) (term) (o/n) < (o/n) (o/n) < (o/n) receivs.
+Cash P-Repos Reserves FF         P-Repos P-Repos Swap CDS
+"Cash" Equity
+(temporary) (uncoll.) (term) (term) (permanent)
+…
+…
+…
+…
+…
+Equity
+Assets
+T-Bills 
+(term)
+Swaps P-Bills
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+("overlay investor")
+"Cash"
+…(term) (o/n) (o/n) (collat.) < (collat.) (o/n)
+T-Notes T-Repos Reserves T-Bills Swaps
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Dealer Banks                 
+(IRS and FXS)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Swaps
+…Reserves (term) < (term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+105
+Source: Pozsar (2014)
+Where is the real economy?
+Money market funding of 
+capital market lending
+(see Mehrling et al, 2013).
+(…
+(term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Dealer Banks                 
+(IRS and FXS)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Swaps
+…Reserves (term) <
+"Cash"
+…(term) (o/n) (o/n) (collat.) < (collat.) (o/n)
+T-Notes T-Repos Reserves T-Bills Swaps
+"Cash" Equity
+(temporary) (uncoll.) (term) (term) (permanent)
+…
+…
+…
+…
+…
+Equity
+Assets
+T-Bills 
+(term)
+Swaps P-Bills
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+(asset managers)
+Cash P-Repos Reserves FF         P-Repos P-Repos "Cash" CDS
+(collat.) (term) (o/n) < (o/n) (o/n) < (o/n) (o/n) IRS
+…
+…
+Private Assets
+…
+…
+…
+…
+(term) (temporary)
+FXS
+T-Notes Equity P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash" Equity
+(collat.)
+CDS
+…
+…
+…
+…
+…
+…
+Cash
+(o/n) (o/n) < (o/n) (collat.) <
+FF FF Swaps Swaps
+(seclenders)
+Swaps P-Bills "Cash"
+FXS (temporary) (global) (term) (uncoll.) (term)
+IRS Equity P-Loans Deposits
+"Cash"
+…
+Public Backstops Private Backstops
+Liabilities
+(term)
+(collat.) (o/n)
+Risk PM Banks               
+(wholesale)
+Dealer Banks             
+(CDS)
+Cash PM
+(cash for margining)
+Cash 
+(margin)
+P-Repos 
+P-Notes (temporary) (local) (term)
+106
+Source: Pozsar (2014)
+Where is the real economy?
+Money market funding of 
+capital market lending…
+[1] Funded risk PMs’     
+securities portfolios,…
+(…
+(term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Dealer Banks                 
+(IRS and FXS)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Swaps
+…Reserves (term) <
+"Cash"
+…(global) (term) (o/n) (o/n) (collat.) < (collat.) (o/n)
+T-Notes T-Repos Reserves T-Bills Swaps
+"Cash" Equity
+(temporary) (uncoll.) (term) (term) (permanent)
+…
+…
+…
+…
+…
+Equity
+Assets
+T-Bills 
+(term)
+Swaps P-Bills
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+(asset managers)
+Cash P-Repos Reserves FF         P-Repos P-Repos "Cash" CDS
+(collat.) (term) (o/n) < (o/n) (o/n) < (o/n) (o/n) IRS
+…
+…
+Private Assets
+…
+…
+…
+…
+(term) (term) (temporary)
+… FXS
+T-Notes Equity P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+(collat.)
+CDS
+…
+…
+…
+…
+…
+…
+"Cash" Cash
+(o/n) (o/n) < (o/n) (collat.) < (collat.)
+FF FF Swaps Swaps
+Swaps P-Bills "Cash"
+FXS (temporary) (global) (term) (uncoll.) (term)
+IRS Equity P-Loans Deposits
+[1]
+Public Backstops Private Backstops
+Liabilities
+(term)
+(o/n)
+Risk PM Banks               
+(wholesale)
+Dealer Banks             
+(CDS)
+Cash PM
+(cash for margining) (seclenders)
+Cash 
+(margin)
+P-Repos 
+Equity
+P-Notes (temporary) (local)
+107
+Source: Pozsar (2014)
+Where is the real economy?
+Money market funding of 
+capital market lending…
+[2] Foreign banks’ USD 
+securities portfolios,…
+(…
+(term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Dealer Banks                 
+(IRS and FXS)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Swaps
+…Reserves (term) <
+(global) (term) (o/n) (o/n) (collat.) < (collat.)
+[1] T-Notes T-Repos Reserves T-Bills 
+(o/n)
+…
+…
+…
+…
+…
+Swaps "Cash"
+…
+Equity
+(temporary) (uncoll.) (term) (term) (permanent)
+Equity
+Assets
+T-Bills 
+(term)
+Swaps P-Bills "Cash"
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+(asset managers)
+P-Repos "Cash" CDS
+(collat.) (term) (o/n) < (o/n) (o/n) <
+Cash P-Repos Reserves FF         P-Repos
+(o/n) (o/n) IRS
+…
+…
+Private Assets
+…
+…
+…
+…
+Equity
+P-Notes (temporary) (local) (term) (term) (temporary)
+… FXS
+T-Notes Equity P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+Risk PM Banks               
+(wholesale)
+Dealer Banks             
+(CDS)
+Cash PM
+(cash for margining) (seclenders)
+Cash 
+(margin)
+P-Repos "Cash" Cash
+(o/n) (o/n) < (o/n) (collat.) < (collat.)
+FF FF Swaps Swaps
+(o/n) (collat.)
+CDS
+…
+…
+…
+…
+…
+…
+Swaps P-Bills "Cash"
+FXS (temporary) (global) (term) (uncoll.) (term)
+IRS Equity [2] P-Loans Deposits 
+Public Backstops Private Backstops
+Liabilities
+(term)
+108
+Source: Pozsar (2014)
+Where is the real economy?
+Money market funding of 
+capital market lending…
+[3] Large U.S. banks’ 
+securities portfolios,…
+(…
+Public Backstops Private Backstops
+Liabilities
+(term) (term)[3]
+Swaps P-Bills "Cash"
+FXS (temporary) (global) (term) (uncoll.)
+IRS Equity [2] P-Notes Deposits 
+(o/n) (collat.)
+CDS
+…
+…
+…
+…
+…
+…
+"Cash" Cash
+(o/n) (o/n) < (o/n) (collat.) < (collat.)
+FF FF Swaps Swaps
+Risk PM Banks               
+(wholesale)
+Dealer Banks             
+(CDS)
+Cash PM
+(cash for margining) (seclenders)
+Cash 
+(margin)
+P-Repos 
+Equity
+P-Notes (temporary) (local) (term) (term) (temporary)
+… FXS
+T-Notes Equity P-Loans Deposits 
+(term)
+P-Notes P-Repos "Cash"
+(o/n) (o/n) IRS
+…
+…
+Private Assets
+…
+…
+…
+…
+P-Repos "Cash" CDS
+(collat.) (term) (o/n) < (o/n) (o/n) <
+Cash P-Repos Reserves FF         P-Repos
+Equity
+(temporary) (uncoll.) (term) (term) (permanent)
+Equity
+Assets
+T-Bills 
+(term)
+Swaps P-Bills "Cash"
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+(asset managers)
+(o/n)
+…
+…
+…
+…
+…
+Swaps "Cash"
+…(global) (term) (o/n) (o/n) (collat.) < (collat.)
+[1] T-Notes T-Repos Reserves T-Bills 
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Dealer Banks                 
+(IRS and FXS)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Swaps
+…Reserves (term) < (term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+109
+Source: Pozsar (2014)
+Where is the real economy?
+Money market funding of 
+capital market lending…
+[4] Dealer banks’ securities 
+inventories (net financing).
+(…
+Public Backstops Private Backstops
+Liabilities
+(uncoll.) (term) (term)
+Swaps P-Bills "Cash"
+FXS (temporary) [3] (global) (term)
+IRS Equity [2] P-Notes Deposits 
+(o/n) (collat.)
+CDS
+…
+…
+…
+…
+…
+…
+"Cash" Cash
+(o/n) (o/n) < (o/n) (collat.) < (collat.)
+FF FF Swaps Swaps
+Risk PM Banks               
+(wholesale)
+Dealer Banks             
+(CDS)
+Cash PM
+(cash for margining) (seclenders)
+Cash 
+(margin)
+P-Repos 
+Equity
+P-Notes (temporary) (local) (term) (term) (temporary)(global)
+… FXS
+T-Notes Equity P-Loans Deposits 
+(term)
+[4] P-Notes P-Repos "Cash"
+(o/n) (o/n) IRS
+…
+…
+Private Assets
+…
+…
+…
+…
+P-Repos "Cash" CDS
+(collat.) (term) (o/n) < (o/n) (o/n) <
+Cash P-Repos Reserves FF         P-Repos
+Equity
+(temporary) (uncoll.) (term) (term) (permanent)
+Equity
+Assets
+T-Bills 
+(term)
+Swaps P-Bills "Cash"
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+(asset managers)
+(o/n)
+…
+…
+…
+…
+…
+Swaps "Cash"
+…(global) (term) (o/n) (o/n) (collat.) < (collat.)
+[1] T-Notes T-Repos Reserves T-Bills 
+Equity
+(term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Dealer Banks                 
+(IRS and FXS)
+Cash PM              
+(corporations)
+(global)
+Public Assets
+(o/n)
+…
+…
+…
+[4] T-Notes T-Repos "Cash"
+Swaps
+…Reserves (term) < (term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+110
+Source: Pozsar (2014)
+Not all repos are equal:
+Most repos are responsible   
+for facilitating price dis-
+covery in a market making
+context, but not funding               
+the real economy directly.
+(…
+[Ø]
+[Ø]
+Public Backstops Private Backstops
+Liabilities
+(uncoll.) (term)
+Risk PM Banks               
+(wholesale)
+Dealer Banks             
+(CDS)
+(o/n)
+P-Repos
+FF FF Swaps Swaps
+(term)
+Swaps P-Bills "Cash"
+FXS (temporary) [3] (global) (term)
+IRS Equity [2] P-Notes Deposits 
+(o/n) (collat.)
+CDS
+…
+…
+…
+…
+…
+…
+(o/n) (o/n) < (o/n) (collat.) < (collat.)
+P-Notes (temporary) (local) (global) (term) (term) (temporary)
+"Cash" Cash
+…
+…
+Private Assets
+…
+…
+…
+…
+… FXS
+T-Notes Equity P-Loans Deposits 
+(term)
+[4] P-Notes P-Repos "Cash"
+Cash PM
+(cash for margining) (seclenders)
+Cash 
+(margin)
+P-Repos 
+Equity
+"Cash" CDS
+(collat.) (term) (o/n) < (o/n) (o/n) <
+Cash P-Repos Reserves FF         P-Repos
+(o/n) IRS
+Equity
+(temporary) (uncoll.) (term) (term) (permanent)
+Equity
+Assets
+T-Bills 
+(term)
+Swaps P-Bills "Cash"
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+(asset managers)
+(o/n)
+…
+…
+…
+…
+…
+Swaps "Cash"
+…(global) (term) (o/n) (o/n) (collat.) < (collat.)
+[1] T-Notes T-Repos Reserves T-Bills 
+Equity
+(global) (term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Dealer Banks                 
+(IRS and FXS)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+[4] T-Notes T-Repos "Cash"
+Swaps
+…Reserves (term) < (term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+111
+Source: Pozsar (2014)
+RRPs and risk PMs:
+Through RRPs, the Fed will 
+have direct control over 
+haircuts and leverage. Fed 
+haircuts will be the floor.
+(…
+…(o/n) (o/n) < (o/n) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes RRPs RRPs T-Repos "Cash"
+T-Notes T-Repos Reserves T-Bills 
+Equity
+(global) (term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Money Funds  
+(government-only)
+Cash PM              
+(corporations)
+Currency 
+Public Assets
+…
+…
+…
+…
+T-Notes T-Repos "Cash"
+(o/n)
+…
+…
+…
+…
+T-CNAVs "Cash"
+…(term) (o/n) (o/n) (o/n) < (o/n)
+RRPs
+Cash P-Repos Reserves FF         
+Equity
+(temporary) (term) (term) (permanent)
+Equity
+Assets
+T-Bills 
+(term)
+T-Bills "Cash"
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+(asset managers)
+(o/n) IRS
+…
+…
+Private Assets
+…
+…
+…
+RRPs P-Repos "Cash" CDS
+(collat.) (term) (o/n) < (o/n) (o/n)
+… FXS
+T-Notes Equity P-Loans Deposits 
+(term)
+P-Notes P-Repos
+Cash PM
+(cash for margining) (seclenders)
+RRPs
+"Cash" Equity
+P-Notes (temporary) (local) (global) (term) (term) (temporary)
+Cash 
+(margin)
+P-Repos FF FF
+Risk PM Banks               
+(wholesale)
+"Cash" Cash
+(o/n) (o/n) < (o/n) (o/n) <
+IRS Equity P-Notes Deposits 
+(o/n) (o/n) (collat.)
+CDS
+…
+…
+…
+…
+…
+(term)
+P-Bills "Cash"
+FXS (temporary) (global) (term)
+Reserves
+Public Backstops Private Backstops
+Liabilities
+(term)
+P-CNAVs
+Money Funds     
+(prime)
+…
+< (o/n)
+(global)
+112
+Source: Pozsar (2014)
+RRPs and risk PMs:
+Fed will have control over 
+market-based credit cycles. 
+This will raise the cost of 
+leverage for risk PMs and 
+reduce seclending volumes.
+(…
+…(o/n) (o/n) < (o/n) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes RRPs RRPs T-Repos "Cash"
+T-Notes T-Repos Reserves T-Bills 
+Equity
+(global) (term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Money Funds  
+(government-only)
+Cash PM              
+(corporations)
+Currency 
+Public Assets
+…
+…
+…
+…
+T-Notes T-Repos "Cash"
+(o/n)
+…
+…
+…
+…
+T-CNAVs "Cash"
+…(term) (o/n) (o/n) (o/n) < (o/n)
+RRPs
+Cash P-Repos Reserves FF         
+Equity
+(temporary) (term) (term) (permanent)
+Equity
+Assets
+T-Bills 
+(term)
+T-Bills "Cash"
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+(asset managers)
+(o/n) IRS
+…
+…
+Private Assets
+…
+…
+…
+RRPs P-Repos "Cash" CDS
+(collat.) (term) (o/n) < (o/n) (o/n)
+… FXS
+T-Notes Equity P-Loans Deposits 
+(term)
+P-Notes P-Repos
+Cash PM
+(cash for margining) (seclenders)
+RRPs
+"Cash" Equity
+P-Notes (temporary) (local) (global) (term) (term) (temporary)
+Cash 
+(margin)
+P-Repos FF FF
+Risk PM Banks               
+(wholesale)
+"Cash" Cash
+(o/n) (o/n) < (o/n) (o/n) <
+IRS Equity P-Notes Deposits 
+(o/n) (o/n) (collat.)
+CDS
+…
+…
+…
+…
+…
+(term)
+P-Bills "Cash"
+FXS (temporary) (global) (term)
+Reserves
+Public Backstops Private Backstops
+Liabilities
+(term)
+P-CNAVs
+Money Funds     
+(prime)
+…
+< (o/n)
+(global)
+2. The Hierarchy of Access.
+113
+3. The Hierarchy of Uses..
+4. The Dealer Eco-System.
+1. The Hierarchy of Money.
+5. The Macro Perspective.
+6. Policy Implications...
+114
+“If you can’t explain it to   
+a six year old you don’t un-
+derstand it yourself.”
+Albert Einsteinxxxx
+Source: Pozsar (2014)
+(…
+Public Backstops Private Backstops
+Liabilities
+(uncoll.) (term) (term)
+Swaps P-Bills "Cash"
+FXS (temporary) (global) (term)
+IRS Equity P-Notes Deposits 
+(collat.) (o/n) (collat.)
+CDS
+…
+…
+…
+…
+…
+…
+Swaps "Cash" Cash
+(o/n) (o/n) < (o/n) (collat.) <
+Cash 
+(margin)
+P-Repos FF FF
+Risk PM Banks               
+(wholesale)
+Dealer Banks             
+(CDS)
+Cash PM
+(cash for margining) (seclenders)
+Swaps
+"Cash" Equity
+P-Notes (temporary) (local) (global) (term) (term) (temporary)
+…
+… FXS
+T-Notes Equity P-Loans Deposits 
+(term)
+P-Notes P-Repos
+< (o/n) (o/n) IRS
+…
+…
+Private Assets
+…
+…
+…
+P-Repos P-Repos "Cash" CDS
+(collat.) (term) (o/n) < (o/n) (o/n)
+Cash P-Repos Reserves FF         
+Equity
+(temporary) (uncoll.) (term) (term) (permanent)
+Equity
+Assets
+T-Bills 
+(term)
+Swaps P-Bills "Cash"
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash PM            
+(asset managers)
+(o/n)
+…
+…
+…
+…
+…
+Swaps "Cash"
+…(global) (term) (o/n) (o/n) (collat.) < (collat.)
+T-Notes T-Repos Reserves T-Bills 
+Equity
+(global) (term) (term) (permanent)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Dealer Banks                 
+(IRS and FXS)
+Cash PM              
+(corporations)
+Public Assets
+(o/n)
+…
+…
+…
+T-Notes T-Repos "Cash"
+Swaps
+…Reserves (term) < (term) (o/n)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+Cash PM            
+(reserve managers)
+T-Notes Currency T-Repos T-Repos "Cash"
+“If you can’t explain it to   
+a six year old you don’t un-
+derstand it yourself.”
+Albert Einsteinxxxx
+115
+Source: Pozsar (2014)
+…
+(…
+FXS
+CDS
+IRS"Cash"
+Public Backstops Private Backstops
+Liabilities
+(uncoll.) (term)
+Swaps P-Bills
+FXS (temporary) (global) (term)
+IRS Equity P-Notes Deposits 
+CDS
+…
+…
+…
+…
+…
+(o/n) (o/n) < (o/n) (collat.) < (collat.)
+FF FF Swaps Swaps
+Risk PM Banks               
+(wholesale)
+Dealer Banks             
+(CDS)(cash for margining)
+Cash 
+(margin)
+P-Repos 
+P-Notes (temporary) (local) (global) (term)
+T-Notes Equity P-Loans Deposits 
+(term)
+P-Notes P-Repos
+(o/n)
+…
+…
+Private Assets
+…
+…
+…
+…
+P-Repos
+(collat.) (term) (o/n) < (o/n) (o/n) <
+Risk PM                
+(cash for shorting)
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+Cash P-Repos Reserves FF         P-Repos
+Equity
+(temporary) (uncoll.) (term) (temporary)
+…
+…
+…
+…
+Equity
+Assets
+T-Bills 
+(term)
+Swaps P-Bills
+(global) (term) (o/n) (o/n) (collat.) < (collat.)
+T-Notes T-Repos Reserves T-Bills Swaps
+(global) (term)
+Risk PM            
+(cash for funding)
+Sovereign             
+(U.S. Treasury)
+Dealer Banks                 
+(IRS and FXS)
+Cash PM              
+(search for safety)
+Public Assets
+(o/n)
+…
+…
+T-Notes T-Repos
+Swaps
+Reserves (term) < (term)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+T-Notes Currency T-Repos T-Repos
+“If you can’t explain it to   
+a six year old you don’t un-
+derstand it yourself.”
+Albert Einsteinxxxx
+116
+Source: Pozsar (2014)
+…
+CDS
+IRS
+FXS
+Public Backstops Private Backstops
+Liabilities
+(uncoll.) (term)
+Swaps P-Bills
+(global) (term)
+P-Notes Deposits 
+…
+…
+…
+…
+(o/n) < (o/n) (collat.) < (collat.)
+FF FF Swaps Swaps
+Banks               
+(wholesale)
+Dealer Banks             
+(CDS)
+(local) (global) (term)
+P-Loans Deposits 
+(term)
+P-Notes P-Repos
+(o/n)
+Private Assets
+…
+…
+…
+…
+P-Repos
+(o/n) < (o/n) (o/n) <
+Reserves FF         P-Repos
+Equity
+(temporary) (uncoll.) (term) (temporary)
+Equity
+Assets
+T-Bills 
+(term)
+Swaps P-Bills
+Banks                 
+(retail)
+Dealer Banks            
+(credit desk)
+…
+…
+…
+… FXS
+"Cash" CDS
+P-Notes P-Repos (o/n) (o/n) (collat.) < (collat.) IRS
+T-Notes T-Repos Reserves T-Bills Swaps
+(global) (term)
+Risk PM            
+(search for yield)
+Sovereign             
+(U.S. Treasury)
+Dealer Banks                 
+(IRS and FXS)
+Cash PM              
+(search for safety)
+Public Assets
+(o/n)
+…
+…
+T-Notes T-Repos
+Swaps
+Reserves (term) < (term)
+Central Bank      
+(Federal Reserve)
+Dealer Banks 
+(government desk)
+T-Notes Currency T-Repos T-Repos
+“If you can’t explain it to   
+a six year old you don’t un-
+derstand it yourself.”
+Albert Einsteinxxxx
+117
+Source: Pozsar (2014)
+…
+Money Dealers              
+(cash for collateral)
+Money Dealers              
+(cash for collateral)
+Public Backstops Private Backstops
+Liabilities
+(uncoll.) (term)
+Swaps P-Bills
+(global) (term)
+P-Notes Deposits 
+…
+…
+…
+…
+(o/n) < (o/n) (collat.) < (collat.)
+FF FF Swaps Swaps
+Banks               
+(wholesale)
+Dealer Banks             
+(CDS)
+(local) inventory (net)
+P-Loans Deposits 
+(term)
+Trading Financing
+books
+Private Assets
+…
+…
+…
+…
+Matched
+(o/n) < (o/n) books <
+Reserves FF         Matched
+(temporary) (uncoll.) (term) (temporary)
+Banks                 
+(retail)
+FXS
+IRS Equity
+Assets
+T-Bills 
+(term)
+Swaps P-Bills Equity
+FXS
+CDS
+…
+…
+…
+…
+"Cash" CDS
+P-Notes P-Repos (o/n) (o/n) (collat.) < (collat.) IRS
+T-Notes T-Repos Reserves T-Bills Swaps
+inventory (net)
+Risk PM            
+(search for yield)
+Sovereign             
+(U.S. Treasury)
+Dealer Banks                 
+(IRS and FXS)
+Cash PM              
+(search for safety)
+Public Assets
+(o/n)
+…
+…
+Trading Financing
+Swaps
+Reserves books < books
+Central Bank      
+(Federal Reserve)
+T-Notes Currency Matched Matched
+“If you can’t explain it to   
+a six year old you don’t un-
+derstand it yourself.”
+Albert Einsteinxxxx
+118
+Source: Pozsar (2014)
+…
+Public Backstops Private Backstops
+Liabilities
+inventory (net)
+Trading Financing
+(global) (term)
+P-Notes Deposits 
+…
+…
+…
+…
+(o/n) < (o/n) books < books
+FF FF Matched Matched
+Banks               
+(wholesale)
+Risk Dealers                
+(risk for collateral)
+(local) inventory (net)
+P-Loans Deposits 
+(term)
+Trading Financing
+books
+Private Assets
+…
+…
+…
+…
+Matched
+(o/n) < (o/n) books <
+Reserves FF         Matched
+(temporary) inventory (net) (temporary)
+Banks                 
+(retail)
+Money Dealers              
+(cash for collateral)
+FXS
+IRS Equity
+Assets
+T-Bills 
+(term)
+Trading Financing Equity
+FXS
+CDS
+…
+…
+…
+…
+"Cash" CDS
+P-Notes P-Repos (o/n) (o/n) books < books IRS
+T-Notes T-Repos Reserves T-Bills Matched
+inventory (net)
+Risk PM            
+(search for yield)
+Sovereign             
+(U.S. Treasury)
+Cash PM              
+(search for safety)
+Risk Dealers                
+(risk for collateral)
+Public Assets
+(o/n)
+…
+…
+Trading Financing
+Matched
+Reserves books < books
+Central Bank      
+(Federal Reserve)
+Money Dealers              
+(cash for collateral)
+T-Notes Currency Matched Matched
+“If you can’t explain it to   
+a six year old you don’t un-
+derstand it yourself.”
+Albert Einsteinxxxx
+119
+Source: Pozsar (2014)
+…
+Public Backstops Private Backstops
+Liabilities
+(global) (term)
+P-Notes Deposits 
+…
+…
+(o/n) < (o/n)
+FF FF
+Banks               
+(wholesale)
+(local) inventory (net)
+P-Loans Deposits 
+(term)
+Trading Financing
+books
+Private Assets
+…
+…
+…
+…
+Matched
+(o/n) < (o/n) books <
+Reserves FF         Matched
+(temporary) inventory (net) (temporary)
+Banks                 
+(retail)
+Risk Dealers                
+(risk for collateral)
+FXS
+IRS Equity
+Assets
+T-Bills 
+(term)
+Trading Financing Equity
+FXS
+CDS
+…
+…
+…
+…
+"Cash" CDS
+P-Notes P-Repos (o/n) (o/n) books < books IRS
+T-Notes T-Repos Reserves T-Bills Matched
+Risk PM            
+(search for yield)
+Sovereign             
+(U.S. Treasury)
+Money Dealers              
+(cash for collateral)
+Cash PM              
+(search for safety)
+Public Assets
+(o/n)
+Matched
+Reserves
+Central Bank      
+(Federal Reserve)
+T-Notes Currency 
+“If you can’t explain it to   
+a six year old you don’t un-
+derstand it yourself.”
+Albert Einsteinxxxx
+120
+Source: Pozsar (2014)
+…
+inventory (net)
+Trading Financing
+books
+…
+…
+Matched
+books <
+Risk Dealers                
+(risk for collateral)
+Matched
+FXS (temporary) inventory (net) (temporary)
+FXS
+IRS Equity Trading Financing Equity
+CDS
+…
+…
+…
+CDS
+P-Notes P-Repos books < books IRS
+T-Notes T-Repos Matched
+Risk PM            
+(search for yield)
+Money Dealers              
+(cash for collateral)
+Cash PM              
+(search for safety)
+Matched "Cash"
+121
+The dealer eco-system:
+Source: Mehrling et al (2013) – Bagehot Was a Shadow Banker
+…
+"Cash"
+Financing
+inventory (net)
+Trading 
+…
+…
+Matched 
+booksbooks <
+Risk Dealer              
+(risk for collateral)
+Matched
+Equity
+FXS (temporary) inventory (net) (temporary)
+IRS Equity Trading Financing
+Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+Matched
+IRS
+CDS
+…
+…
+… FXS
+CDS
+P-Notes P-Repos books < books
+T-Notes T-Repos Matched
+122
+Source: Mehrling et al (2013) – Bagehot Was a Shadow Banker
+The dealer eco-system:
+Risk and cash PMs… 
+…
+"Cash"
+inventory (net)
+…
+…
+Trading Financing
+books <
+(temporary)
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+books
+FXS (temporary) inventory (net)
+IRS Equity Trading Financing Equity
+IRS
+CDS
+…
+…
+… FXS
+P-Notes P-Repos books < books
+Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+T-Notes T-Repos Matched Matched CDS
+123
+Source: Mehrling et al (2013) – Bagehot Was a Shadow Banker
+The dealer eco-system:
+Risk and cash PMs and money and risk dealers.
+…
+"Cash"
+inventory (net)
+…
+…
+Trading Financing
+books <
+(temporary)
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+books
+FXS (temporary) inventory (net)
+IRS Equity Trading Financing Equity
+IRS
+CDS
+…
+…
+… FXS
+P-Notes P-Repos books < books
+Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+T-Notes T-Repos Matched Matched CDS
+124
+Source: Mehrling et al (2013) – Bagehot Was a Shadow Banker
+The dealer eco-system:
+Risk and cash PMs and money and risk dealers.
+Matched book…
+…
+"Cash"
+inventory (net)
+…
+…
+Trading Financing
+books <
+(temporary)
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+books
+FXS (temporary) inventory (net)
+IRS Equity Trading Financing Equity
+IRS
+CDS
+…
+…
+… FXS
+P-Notes P-Repos books < books
+Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+T-Notes T-Repos Matched Matched CDS
+125
+Source: Mehrling et al (2013) – Bagehot Was a Shadow Banker
+The dealer eco-system:
+Risk and cash PMs and money and risk dealers.
+Matched book and “inventory” (net) positions.
+…
+"Cash"
+inventory (net)
+…
+…
+Trading Financing
+books <
+(temporary)
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+books
+FXS (temporary) inventory (net)
+IRS Equity Trading Financing Equity
+IRS
+CDS
+…
+…
+… FXS
+P-Notes P-Repos books < books
+Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+T-Notes T-Repos Matched Matched CDS
+126
+Search for yield versus search for safety:
+Risk PMs are security rich but return poor. They always search for yield.
+Cash PMs are cash rich but safety poor. They primarily search for safety.
+Source: Pozsar (2014)
+…
+inventory (net)
+…
+…
+Trading Financing
+books <
+(temporary)
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+books
+FXS (temporary) inventory (net)
+IRS Equity Trading Financing Equity
+CDS
+…
+…
+… FXS
+P-Notes P-Repos books < books IRS
+Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+T-Notes T-Repos Matched Matched "Cash" CDS
+127
+Source: Pozsar (2014)
+Natural complements:
+Risk PMs repo securities out and cash in.
+Cash PMs repo cash out and securities in.
+…
+Securities Out
+Cash In
+Securities In
+Cash Out
+inventory (net)
+…
+…
+Trading Financing
+books <
+(temporary)
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+books
+FXS (temporary) inventory (net)
+IRS Equity Trading Financing Equity
+CDS
+…
+…
+… FXS
+P-Notes P-Repos books < books IRS
+Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+T-Notes T-Repos Matched Matched "Cash" CDS
+128
+The role of collateral:
+Collateral gives sense of safety for cash lenders.
+Cash enables risk taking via funding and shorting.
+Source: Pozsar (2014)
+…
+"Cash"
+Securities Out Securities In
+Cash In Cash Out
+inventory (net)
+…
+…
+Trading Financing
+books <
+(temporary)
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+books
+FXS (temporary) inventory (net)
+IRS Equity Trading Financing Equity
+IRS
+CDS
+…
+…
+… FXS
+P-Notes P-Repos books < books
+Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+T-Notes T-Repos Matched Matched CDS
+129
+The role of collateral:
+Swaps positions give rise to un-secured derivatives receivables for those in the money.
+Collateral gives sense of safety for those in the money, who are de facto cash lenders.
+Source: Pozsar (2014)
+…
+Cash In Cash Out
+Securities Out Securities In
+inventory (net)
+…
+…
+Trading Financing
+books <
+(temporary)
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+books
+FXS (temporary) inventory (net)
+Equity
+CDS
+…
+…
+… FXS
+IRS Equity Trading Financing
+IRS
+Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+T-Notes T-Repos Matched Matched "Cash" CDS
+P-Notes P-Repos books < books
+…
+IRS
+Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+T-Notes T-Repos Matched Matched "Cash" CDS
+DvP
+TRPDvPP-Notes P-Repos books < books
+(temporary)
+IRS Equity Trading Financing Equity
+CDS
+…
+…
+… FXS
+FXS (temporary) inventory (net)
+Securities Out Securities In
+$1,983 $1,983 $964
+-
+DvP
+Cash In Cash Out
+GCF
+(inter-dealer)
+- - $1,608
+$463 $463
+Net- $589 --
+$2,446$2,446
+Reverse Repo Transactions Repo Transactions
+Total
+GCF
+-
+DvP
+$3,035
+$463
+$3,035
+$1,608
+$964
+Total
+GCF
+TRP
+$463
+130
+Sizing the U.S. repo market:                                                                                  
+$ trillions as of 2012Q2
+Cash PMs placed over $3 trillion in cash with dealers. Of this, $2.5 trillion were lent on, 
+with the difference used to finance inventories. Risk PMs absorbed $2 trillion in funding.
+Source: Pozsar (2014) and Copeland et al (2012)
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+Assets Liabilities Assets Liabilities
+Q2-07 Q3-13
+Secs. In [SI] RRs [SI] Secs. Borrowed [SI] Secs. Out [SO] RPs [SO] Secs. Loaned [SO] Balance
+131
+Money dealing using public bonds by motive:                                                                                  
+$ trillions 
+Source: Haver, Federal Reserve Bank of New York
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+Assets Liabilities Assets Liabilities
+Q2-07 Q3-13
+Secs. In [SI] RRs [SI] Secs. Borrowed [SI] Secs. Out [SO] RPs [SO] Secs. Loaned [SO] Balance
+132
+Money dealing using private bonds by motive:                                                                                 
+$ trillions
+Source: Haver, Federal Reserve Bank of New York
+2. The Hierarchy of Access.
+133
+3. The Hierarchy of Uses..
+4. The Dealer Eco-System.
+1. The Hierarchy of Money.
+5. The Macro Perspective.
+6. Policy Implications...
+134
+Source: Pozsar (2014)
+Macro imbalances shaping the eco-system:
+Present and future macro imbalances shape the contours of the global financial                 
+eco-system. What dealer banks do is a reflection of the eco-system they inhabit.
+…
+Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+T-Notes T-Repos Matched Matched "Cash" CDS
+CDS
+…
+…
+… FXS
+P-Notes P-Repos books < books IRS
+FXS (temporary) inventory (net) (temporary)
+IRS Equity Trading Financing Equity
+…
+…
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+booksbooks <
+Trading Financing
+inventory (net)
+Imbalances
+(future)
+Imbalances
+(present)
+Macro Drivers
+(global and local)
+Macro Drivers
+(global and local)
+Cash In Cash Out
+Securities Out Securities In
+135
+Source: Pozsar (2014)
+Macro imbalances shaping the eco-system:
+The secular rise of cash PMs has been driven by…
+[1] the secular rise of managed FX regimes and FX reserves’ so-called “liquidity tranches”.
+…
+Cash In Cash Out
+Securities Out Securities In
+Trading Financing
+inventory (net)
+…
+…
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+booksbooks <
+FXS (temporary) inventory (net) (temporary)
+IRS Equity Trading Financing Equity
+CDS
+…
+…
+… FXS
+[1]
+P-Notes P-Repos books < books IRS
+(global and local)
+T-Notes T-Repos Matched Matched "Cash" CDS Managed FX Regimes
+Imbalances Imbalances
+(future) (present)
+Macro Drivers Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+Macro Drivers
+(global and local)
+136
+Source: Pozsar (2014)
+Macro imbalances shaping the eco-system:
+The secular rise of cash PMs has been driven by…
+[2] the secular rise of corporate profits vs. stagnant wages and capex (see Summers, 2013).
+…
+[2]Capital vs. Labour
+Cash In Cash Out
+Securities Out Securities In
+Trading Financing
+inventory (net)
+…
+…
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+booksbooks <
+FXS (temporary) inventory (net) (temporary)
+IRS Equity Trading Financing Equity
+CDS
+…
+…
+… FXS
+[1]
+P-Notes P-Repos books < books IRS
+(global and local)
+T-Notes T-Repos Matched Matched "Cash" CDS Managed FX Regimes
+Imbalances Imbalances
+(future) (present)
+Macro Drivers Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+Macro Drivers
+(global and local)
+137
+Source: Pozsar (2014)
+Macro imbalances shaping the eco-system:
+The secular rise of cash PMs has been driven by…
+[3] the secular rise of a highly concentrated asset management complex (see OFR, 2013).
+…
+[3]Cash Pooling (AMX)
+Cash In Cash Out
+Securities Out Securities In
+Trading Financing
+inventory (net)
+…
+…
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+booksbooks <
+FXS (temporary) inventory (net) (temporary)
+IRS Equity Trading Financing Equity
+CDS
+…
+…
+… FXS
+[1]
+P-Notes P-Repos books < books IRS Capital vs. Labour [2]
+(global and local)
+T-Notes T-Repos Matched Matched "Cash" CDS Managed FX Regimes
+Imbalances Imbalances
+(future) (present)
+Macro Drivers Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+Macro Drivers
+(global and local)
+138
+Source: Pozsar (2014)
+Macro imbalances shaping the eco-system:
+The secular rise of risk PMs has been driven by…
+[4] the secular rise in underfunded pension promises (see Caballero, 2013).
+…[4] Underfunded Pensions
+FXS (temporary) inventory (net)
+Cash In Cash Out
+Securities Out Securities In
+Trading Financing
+inventory (net)
+…
+…
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+booksbooks <
+(temporary)
+Cash Pooling (AMX) [3]
+IRS Equity Trading Financing Equity
+CDS
+…
+…
+… FXS
+[1]
+P-Notes P-Repos books < books IRS Capital vs. Labour [2]
+(global and local)
+T-Notes T-Repos Matched Matched "Cash" CDS Managed FX Regimes
+Imbalances Imbalances
+(future) (present)
+Macro Drivers Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+Macro Drivers
+(global and local)
+139
+Source: Pozsar (2014)
+Macro imbalances shaping the eco-system:
+The secular rise of risk PMs has been driven by…
+[5] the secular rise in FX reserves’ sterilization costs (see Borio et al, 2008).
+…
+[5]
+Cash In Cash Out
+Securities Out Securities In
+Trading Financing
+inventory (net)
+…
+…
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+booksbooks <
+FXS (temporary) inventory (net) (temporary)
+FXS Cash Pooling (AMX) [3]
+IRS Equity Trading Financing Equity
+CDS
+…
+…
+…
+[1]
+Sterilization Costs P-Notes P-Repos books < books IRS Capital vs. Labour [2]
+[4] Underfunded Pensions T-Notes T-Repos Matched Matched "Cash" CDS Managed FX Regimes
+Imbalances Imbalances
+(future) (present)
+Macro Drivers Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+Macro Drivers
+(global and local) (global and local)
+140
+Source: Pozsar (2014)
+Macro imbalances shaping the eco-system:
+The secular rise of risk PMs has been driven by…
+[6] the secular decline in yields and un-changed return expectations (see BlackRock, 2013).
+…
+[6]
+Cash In Cash Out
+Securities Out Securities In
+Trading Financing
+inventory (net)
+…
+…
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+booksbooks <
+FXS (temporary) inventory (net) (temporary)
+IRS Equity Trading Financing Equity
+"Rosy" Expectations CDS
+…
+…
+… FXS Cash Pooling (AMX) [3]
+[1]
+[5] Sterilization Costs P-Notes P-Repos books < books IRS Capital vs. Labour [2]
+[4] Underfunded Pensions T-Notes T-Repos Matched Matched "Cash" CDS Managed FX Regimes
+Imbalances Imbalances
+(future) (present)
+Macro Drivers Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+Macro Drivers
+(global and local) (global and local)
+141
+Source: Pozsar (2014)
+Four simple goals that make the eco-system go ‘round:
+[1] CIOs aim to generate enough return to fulfil their mandate to “meet liabilities”. 
+This is why CIOs look beyond long-only strategies and allocate to leveraged risk PMs.
+…
+Imbalances Imbalances
+(future) (present)
+Macro Drivers Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+Macro Drivers
+(global and local) (global and local)
+Underfunded Pensions T-Notes T-Repos Matched Matched "Cash" CDS Managed FX Regimes
+Sterilization Costs P-Notes P-Repos books < books IRS Capital vs. Labour
+"Rosy" Expectations CDS
+…
+…
+… FXS Cash Pooling (AMX)
+FXS (temporary) inventory (net) (temporary)
+IRS Equity Trading Financing Equity
+…
+…
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+booksbooks <
+Trading Financing
+inventory (net)
+CIOs
+"Meet Liabilities"
+142
+Source: Pozsar (2014)
+Four simple goals that make the eco-system go ‘round:
+[2] Risk PMs aim to generate enough return to fulfil their mandate to “beat benchmarks”. 
+Risk PMs get leverage from dealers, who get the cash to provide leverage from cash PMs.
+…
+Risk PMs
+"Beat the Benchmark"
+CIOs
+"Meet Liabilities"
+Trading Financing
+inventory (net)
+…
+…
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+booksbooks <
+FXS (temporary) inventory (net) (temporary)
+FXS Cash Pooling (AMX)
+IRS Equity Trading Financing Equity
+Sterilization Costs P-Notes P-Repos books < books IRS Capital vs. Labour
+Underfunded Pensions T-Notes T-Repos Matched Matched "Cash" CDS Managed FX Regimes
+"Rosy" Expectations CDS
+…
+…
+…
+Imbalances Imbalances
+(future) (present)
+Macro Drivers Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+Macro Drivers
+(global and local) (global and local)
+143
+Source: Pozsar (2014)
+Four simple goals that make the eco-system go ‘round:
+[3] Cash PMs aim to generate some return while fulfilling their mandate to “do not lose”. 
+Cash PMs minimize credit risk by lending against collateral and are fanned by imbalances.
+…
+Cash PMs
+"Do Not Lose"
+CIOs Risk PMs
+"Meet Liabilities" "Beat the Benchmark"
+Trading Financing
+inventory (net)
+…
+…
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+booksbooks <
+FXS (temporary) inventory (net) (temporary)
+FXS Cash Pooling (AMX)
+IRS Equity Trading Financing Equity
+Sterilization Costs P-Notes P-Repos books < books IRS Capital vs. Labour
+Underfunded Pensions T-Notes T-Repos Matched Matched "Cash" CDS Managed FX Regimes
+"Rosy" Expectations CDS
+…
+…
+…
+Imbalances Imbalances
+(future) (present)
+Macro Drivers Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+Macro Drivers
+(global and local) (global and local)
+144
+Source: Pozsar (2014)
+Four simple goals that make the eco-system go ‘round:
+[4] CEOs at both the corporate and national levels are mandated to “grow” their profits and 
+economies, respectively and this contributes to the skewed distribution of present incomes.
+…
+CEOs
+"Grow"
+CIOs Risk PMs Cash PMs
+"Meet Liabilities" "Beat the Benchmark" "Do Not Lose"
+Trading Financing
+inventory (net)
+…
+…
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+booksbooks <
+IRS Equity Trading Financing Equity
+…
+…
+…
+Imbalances Imbalances
+(future) (present)
+Macro Drivers Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+Macro Drivers
+(global and local)
+IRS Capital vs. Labour
+(global and local)
+Underfunded Pensions T-Notes T-Repos Matched
+FXS (temporary) inventory (net) (temporary)
+Matched "Cash" CDS Managed FX Regimes
+"Rosy" Expectations CDS
+Sterilization Costs P-Notes P-Repos books < books
+FXS Cash Pooling (AMX)
+2. The Hierarchy of Access.
+145
+3. The Hierarchy of Uses..
+4. The Dealer Eco-System.
+1. The Hierarchy of Money.
+5. The Macro Perspective.
+6. Policy Implications...
+146
+Source: Pozsar (2014)
+Implications for macro and asset price models:
+These goal-driven rigidities are not included in asset price models. Topics for future 
+research include the extent to which these compress the 10-year Treasury term premium.
+…
+CEOs
+"Grow"
+CIOs Risk PMs Cash PMs
+"Meet Liabilities" "Beat the Benchmark" "Do Not Lose"
+Trading Financing
+inventory (net)
+…
+…
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+booksbooks <
+IRS Equity Trading Financing Equity
+…
+…
+…
+Imbalances Imbalances
+(future) (present)
+Macro Drivers Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+Macro Drivers
+(global and local)
+IRS Capital vs. Labour
+(global and local)
+Underfunded Pensions T-Notes T-Repos Matched
+FXS (temporary) inventory (net) (temporary)
+Matched "Cash" CDS Managed FX Regimes
+"Rosy" Expectations CDS
+Sterilization Costs P-Notes P-Repos books < books
+FXS Cash Pooling (AMX)
+147
+Source: Pozsar (2014)
+Implications for global macro-financial accounting:
+None of these aspects of the eco-system are measured by the U.S. Flow of Funds Accounts. The 
+Flow of Funds accounts need a set of Flow of Collateral and Flow or Risk satellite accounts.
+…
+CEOs
+"Grow"
+CIOs Risk PMs Cash PMs
+"Meet Liabilities" "Beat the Benchmark" "Do Not Lose"
+Trading Financing
+inventory (net)
+…
+…
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+booksbooks <
+IRS Equity Trading Financing Equity
+…
+…
+…
+Imbalances Imbalances
+(future) (present)
+Macro Drivers Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+Macro Drivers
+(global and local)
+IRS Capital vs. Labour
+(global and local)
+Underfunded Pensions T-Notes T-Repos Matched
+FXS (temporary) inventory (net) (temporary)
+Matched "Cash" CDS Managed FX Regimes
+"Rosy" Expectations CDS
+Sterilization Costs P-Notes P-Repos books < books
+FXS Cash Pooling (AMX)
+148
+Source: Pozsar (2014)
+Implications for governance:
+…
+Level IIILevel IILevel II Level I
+?FSB?
+Trading Financing
+Level III
+CIOs Risk PMs Cash PMs CEOs
+"Meet Liabilities" "Beat the Benchmark" "Do Not Lose" "Grow"
+inventory (net)
+…
+…
+Risk Dealer              
+(risk for collateral)
+Matched Matched 
+booksbooks <
+FXS (temporary) inventory (net) (temporary)
+IRS Equity Trading Financing Equity
+…
+…
+… FXS Cash Pooling (AMX)
+P-Notes P-Repos books < books IRS
+G20 G20
+Macro Drivers Risk PM            
+(search for yield)
+Money Dealer              
+(cash for collateral)
+Cash PM              
+(search for safety)
+Macro Drivers
+(global and local) (global and local)
+Underfunded Pensions T-Notes T-Repos Matched Matched "Cash" CDS Managed FX Regimes
+Sterilization Costs Capital vs. Labour
+"Rosy" Expectations CDS
+149
+Conclusions:
+A Macro View on Shadow Banking
+150
+1. Bond portfolios are getting more and more leveraged and
+bonds are becoming more and more valuable as collateral.
+2. Leveraged bond portfolios help asset-liability matching
+in an ever-lower yield environment and collateral gives
+cash pools safety in a system w/ an outdated safety net.
+3. Credit, maturity and liquidity transformation is a start,
+but ask “why”: to manage future and present imbalances.
+4. Credit transformation: bond-like volatility and equity-
+like returns to help CIOs meet future promises (“theme”).
+5. Maturity and liquidity transformation: safe, short-term
+assets for the safekeeping of skewed incomes (“theme”).
+6. RRPs are about more than just controlling short rates.
+They give shadow banks access to a reserve account at the
+Fed, and are a first step toward “dealer of last resort”.
+151
+References:
+152
+Pozsar, Zoltan, 2014, “Shadow Banking: The Money View,” Office of
+Financial Research (OFR) Working Paper(forthcoming).
+Pozsar, Zoltan, 2013, “Shadow Banking and the Global Financial
+Eco-System,” VoxEU.
+Mehrling, Perry, Pozsar, Zoltan, Sweeney, James, Neilson, Dan, 2013,
+“Bagehot Was a Shadow Banker: Shadow Banking, Central Banking and
+the Future of Global Finance,” INET Working Paper.
+Claessens, Stijn, Pozsar, Zoltan, Singh, Manmohan, Lev, Ratnovski 2013,
+“Shadow Banking: Economics and Policy,” IMF SDN 12/12.
+Pozsar, Zoltan and McCulley, Paul, 2012, “Why Banking Works One Large
+Confidence Trick,” Financial Times.
+Pozsar, Zoltan and Singh, Manmohan, 2011, “The Nonbank-Bank Nexus and
+the Shadow Banking System,” IMF WP 11/289.
+Pozsar, Zoltan, 2011, “Institutional Cash Pools and the Triffin Dilemma
+of the U.S. Banking System,” IMF WP 11/190.
+153
+Data Appendix:
+0
+2,000
+4,000
+6,000
+8,000
+10,000
+12,000
+Assets Liabilities Assets Liabilities
+Q2-07 Q3-13
+Loans PRBs PUBs RRs FF lent Reserves Balance DDs SDs LDs RPs GDF FF borrowed
+[1]
+[2]
+[3]
+[1]
+[2]
+[3]
+U.S. Chartered Banks:
+$ billions
+Source: Haver, Federal Reserve Z.1, H.8 and author’s calculations 
+154
+0
+500
+1,000
+1,500
+2,000
+2,500
+Assets Liabilities Assets Liabilities
+Q2-07 Q3-13
+Loans PRBs PUBs RRs FF lent Reserves Balance DDs SDs LDs RPs FF borrowed GDF
+[1]
+[2]
+[3]
+[4]
+[1]
+[2]
+[3]
+[4]
+New York Branches of Foreign Banks:
+$ billions
+Source: Haver, Federal Reserve Z.1, H.8 and author’s calculations 
+155
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+Assets Liabilities
+Q3-13
+RR [o/n] SB [o/n] RR [< 30] SB [< 30] RR [30+] SB [30+] RP [o/n]
+SL [o/n] RP [< 30] SL [< 30] RP [30+] SL [30+] Net financing
+[1]
+[2]
+[3]
+[4]
+Securities In Securities Out
+Cash Out Cash In
+Dealer Banks’ “Government” Trading Desks:
+$ billions
+Source: Haver, New York Fed (FR 2004) and author’s calculations 
+156
+0
+50
+100
+150
+200
+250
+Assets Liabilities
+Q3-13
+RR [o/n] SB [o/n] RR [term] SB [term] RP [o/n] SL [o/n] RP [term] SL [term] Net financing
+[3]
+[2]
+[1]
+Cash Out Cash In
+Securities In Securities Out
+Dealer Banks’ “Credit” Trading Desks:
+$ billions
+Source: Haver, New York Fed (FR 2004) and author’s calculations 
+157
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1,000
+Assets Liabilities Assets Liabilities
+2007 January 2014
+Repos T-Bills T-Notes w/ RM < 1 Yr. GSEs Other CNAV [o/n]
+[1]
+[2]
+[1]
+[2]
+Government-Only Money Funds:
+$ billions
+Source: Haver, SEC and author’s calculations 
+158
+0
+200
+400
+600
+800
+1,000
+1,200
+1,400
+1,600
+1,800
+2,000
+Assets Liabilities Assets Liabilities
+2007 January 2014
+Repos [o/n] T-Bills T-Notes w/ RM < 1 Yr. GSEs LTDs CP Other CNAV [o/n]
+[1]
+[2]
+[3]
+[4] [4]
+[3]
+[2]
+[1]
+Prime Money Funds:
+$ billions
+Source: Haver, SEC and author’s calculations 
+159
+0
+50
+100
+150
+200
+250
+300
+350
+Assets Liabilities Assets Liabilities
+Q2-07 Q3-13
+Balance Agency RMBS Repos
+Mortgage REITs:
+$ billions
+Source: Haver, Federal Reserve Z.1 
+160
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Assets Liabilities Assets Liabilities
+Q2-07 Q3-13
+Balance U.S. dollar assets U.S. dollar liabilities
+Offshore Dollar Banking:
+$ trillions
+Source: BIS 
+161

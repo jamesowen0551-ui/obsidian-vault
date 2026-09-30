@@ -1,0 +1,1418 @@
+ 
+Institutional Cash Pools and the                        
+Triffin Dilemma of the U.S. Banking System 
+Zoltan Pozsar 
+ 
+WP/11/190
+  
+ 
+© 2011 International Monetary Fund WP/11/190  
+IMF Working Paper 
+Research Department  
+Institutional Cash Pools and the Triffin Dilemma of the U.S. Banking System1  
+Prepared by Zoltan Pozsar  
+Authorized for distribution by Stijn Claessens   
+August 2011 
+Abstract 
+Through the profiling of institutional cash pools, this paper explains the rise of the "shadow" 
+banking system from a demand-side perspective. Explaining the rise of shadow banking from 
+this angle paints a very different picture than the supply-side angle that views it as a story of 
+banks’ funding preferences and arbitrage. Institutional cash pools prefer to avoid too much 
+unsecured exposure to banks even through insured deposits. Short-term government 
+guaranteed securities are the next best choice, but their supply is insufficient. The shadow 
+banking system arose to fill this vacuum. One way to manage the size of the shadow banking 
+system is by adopting the supply management of Treasury bills as a macroprudential tool. 
+JEL Classification Numbers: E4; G2 
+Keywords: institutional cash pools; shadow banking; Treasury bills; money; macroprudential 
+Author’s E-Mail Address: ZPozsar@imf.org 
+ 
+                                                
+ 
+1I am grateful to Elena Liapkova for her encouragement to persevere and to search for the bigger picture; Lena, this 
+paper is for you. The paper benefitted from discussions with James Aitken, Péter Benczúr, Olivier Blanchard,                
+Stijn Claessens, Júlia Király, Matt King, Michael King, Richhild Moessner, Perry Mehrling, Grace Li,                         
+Rebecca McCaughrin, Sami Mesrour, Krisztián Orbán, Phil Prince, Lev Ratnovski, Reimo Juks, Manmohan Singh, 
+James Sweeney, Márta Szegö, Elöd Takáts, Tamás Vojnits, Eric Van Wetering, and seminar participants at the 
+Bank of Canada, the Bank of England, the Bank of International Settlements, the U.K.’s Independent Commission 
+on Banking, the International Monetary Fund, the National Bank of Hungary, and the Sveriges Riksbank. 
+ 
+This Working Paper should not be reported as representing the views of the IMF. 
+The views expressed in this Working Paper are those of the author(s) and do not necessarily 
+represent those of the IMF or IMF policy. Working Papers describe research in progress by the 
+author(s) and are published to elicit comments and to further debate. 
+ 2 
+ 
+ Contents Page 
+I. Introduction ............................................................................................................................3 
+II. What Are Institutional Cash Pools? ......................................................................................4 
+III. Profiling Institutional Cash Pools ........................................................................................6 
+IV. Cash Equivalents and Monetary Aggregates .....................................................................11 
+V. The Triffin Dilemma of the U.S. Banking System .............................................................17 
+VI. Policy Alternatives for Dealing With Institutional Cash Pools .........................................21 
+VII. Conclusions ......................................................................................................................24  
+Figure 
+1. The Secular Rise of Institutional Cash Pools .......................................................................6 
+2. The Average Size of Institutional Cash Pools in 2007 ........................................................7 
+3. Institutional Cash Pools’ Priortized Investment Objectives ................................................8 
+4. Not Enough Banks to Source Safety for Cash Pools ...........................................................8 
+5. Not Enough Short-Term Government-Guaranteed Instruments ........................................10 
+6. Institutional Treasurers Never Put All Their Eggs in One Basket .....................................12 
+7. Broad Money and Its Components (Stacked) ....................................................................14 
+8. The Preferred Habitat of Institutional Cash Pools is in Non-M2 Types of Money ...........15 
+9. Filling the Vacuum of Short-Term Government Guaranteed Debt ...................................17 
+10. Broad Money and Its Components (Unstacked) ................................................................19 
+11. Has the Effectiveness of Deposit Insurance Been Eroded” ...............................................20 
+ 
+Appendix Figure 
+1. Non-Financial Corporations’ Holdings of Cash and Cash Equivalents, Totals .................26 
+2. High Net-Worth Individuals ..............................................................................................26 
+3. Long-Term Mutual Funds’ Holdings of Cash and Cash Equivalents ................................27 
+4. Securities Lenders’ Holdings of Cash and Cash Equivalents ............................................27 
+5. Cash and Cash Equivalents as a Share of Total Assets .....................................................28 
+6. Non-Financial Corporations’ Holdings of Cash and Cash Equivalents, Averages ...........28 
+7. Top Holdings of Cash and Cash Equivalent ......................................................................29 
+8. The Number of FDIC Insured Banks in the U.S. ...............................................................29 
+9. Counterparty Diversification for Cash Investing is Getting Harder and Harder ...............30 
+10. Yield Difference Between 3-month CDs and Other Instruments ......................................30 
+11. Securities Lenders’ Cash Collateral Reinvestment Accounts’ Composition .....................31 
+12. The Portfolio Allocation of the Rest of the World’s Short-Term Dollar Balances ...........32 
+13. The Frequency of Banking Crises ......................................................................................32 
+14. Still Not Enough Banks to Source Safety for Cash Pools .................................................33 
+References ................................................................................................................................34 
+ 3 
+I.   INTRODUCTION 
+This paper aims to answer the question why the bulk of institutional cash pools are not 
+invested directly in deposits in the traditional banking system but in deposit alternatives and 
+primarily in the so-called “shadow” banking system. It analyzes the portfolio allocation 
+rationale of institutional cash pools with the aim to better understand the systemic risks 
+inherent in their allocations presently. 
+ 
+To the best of the author’s knowledge, this paper is the first to study the phenomenon of 
+institutional cash pools and to ask why wholesale funding markets have grown, what the 
+growing presence of institutional cash pools means for financial stability, and whether, in the 
+context of the rise of institutional cash pools, the effectiveness of an official safety net for 
+banks and deposits only has been eroding over time. 
+ 
+The paper builds on other analyses that link the recent financial crisis to demand for safe 
+assets (see Acharya and Schnabl
+ (2009), Caballero (2010), and Bernanke (2011)). According 
+to these views, the financial crisis was driven by an insatiable demand from the rest of the 
+world for safe, high-quality (that is, AAA) debt instruments, which the U.S. financial system 
+produced through the securitization of lower-quality ones. 
+ 
+This paper adds two new dimensions to these views. First, it differentiates between demand 
+for long-term AAA assets (the focus of the a bove papers) and short-term AAA assets (the 
+focus of the present paper). 
+ 
+Second, it expands the discussion of the demand for AAA assets from fo reign central banks’ 
+demand for long-term AAA assets, to U.S. domiciled, but globally active non-financial 
+corporations’ and U.S. domiciled institutional investors’ demand for short-term AAA assets. 
+ 
+Throughout this paper, the demand for short-term AAA assets is referred to as the demand 
+for insured deposit alternatives (see Gorton
+ (2010), Stein (2010) and Krishnamurthy and 
+Vissing-Jorgensen (2010)), and demand for them is explained by the secular rise of 
+institutional cash pools. 
+ 
+In the context of the global savings glut, institutional cash pools’ demand for short-term 
+AAA assets can be viewed as the flipside of foreign central banks’ demand for long-term 
+AAA assets. In turn, cash pools’ demand for short-term AAA assets is the principal source of 
+marginal demand for maturity transformation in the financial system. 
+ 
+The paper has five conclusions. First, insured deposit alternatives dominate institutional cash 
+pools’ investment portfolios relative to deposits. The principal reason for this is not search 
+for yield, but search for principal safety and liquidity. 
+ 
+Second, between 2003 and 2008, institutional cash pools’ demand for insured deposit 
+alternatives exceeded the outstanding amount of short-term government guaranteed 
+instruments not held by foreign official investors by a cumulative of at least $1.5 trillion; the 
+“shadow” banking system rose to fill this gap. From this perspective, the rise of “shadow” 
+banking has an under-appreciated demand-side dimension to it. 
+ 4 
+ 
+Third, institutional cash pools’ preferred habitat is not deposits, but insured deposit 
+alternatives. This is to say that institutional cash pools’ money demand is satisfied by non-
+M2 types of money. This is because institutional cash pools’ money demand is not for 
+transaction purposes, but for liquidity and collateral management as well as investing 
+purposes, which aren’t best met by deposits, but by Treasury bills and repos. 
+ 
+Fourth, the larger institutional cash pools and their demand for insured deposit alternatives 
+grows relative to the supply of short-term government guaranteed instruments in the financial 
+system, the less effective deposit insurance and lender of last resort access for banks only will 
+be as stabilizing forces in times of crises. 
+ 
+Fifth, an elegant way to solve the financial system’s fragility due to the rise of institutional 
+cash pools and “shadow” banking would be to issue more Treasury bills and to explicitly 
+incorporate the supply management of bills into the macroprudential tool kit. While not 
+without costs or alternatives, this approach is less troublesome and complicated than the 
+alternative of intense real-time monitoring and regulation of the shadow banking system. 
+ 
+The paper has six remaining sections. Section II measures the size of institutional cash pools 
+in the non-financial corporate sector in the U.S. and globally, and among institutional 
+investors in the U.S. Section III discusses the philosophy of how institutional cash pools 
+attain security for their funds. Section IV discusses the portfolio allocation details of 
+institutional cash pools and—in light of these details—highlights the gap between the 
+accounting concept of cash equivalents and the scope of traditional monetary aggregates. 
+Section V discusses the U.S. banking system’s Triffin dilemma. Section VI provides policy 
+recommendations and asks whether Basel III, higher deposit insurance limits and the repeal 
+of Regulation Q will adequately deal with the secular rise of institutional cash pools and the 
+systemic risks their safety preferences engender. Finally, Section VII concludes with offering 
+an alternative, “non-arbitrage” explanation of the raison d’etre of the “shadow” banking 
+system, and accordingly, proposes to rename it the market-based
+ financial system.2 
+ 
+II.   WHAT ARE INSTITUTIONAL CASH POOLS? 
+The term institutional cash pool refers to large, centrally managed, short-term cash balances 
+of global non-financial corporations and institutional investors such as asset managers, 
+securities lenders and pension funds (see Pozsar (2011)). Institutional cash pools have 
+become increasingly prominent since the 1990s, driven by three secular developments in the 
+non-financial corporate and institutional investor landscapes: 
+ 
+                                                
+ 
+2Also see Chapter 1 of the Bank of Canada’s June 2011 Financial System Review: Emerging from the Shadows: 
+Market-Based Financing in Canada. 
+ 5 
+First, the rise of globalization and the related rise of (i) large, global corporations and 
+centrally managed corporate cash pools3, and (ii) inequality, whereby an increasingly small 
+core of the global population controls an increasingly large share of incomes and wealth.4 
+ 
+Second, the rise of asset management, and the related rise of (i) the centralized liquidity 
+management of mutual funds, separate accounts and hedge funds within fund complexes, and 
+(ii) securities lending, and the related rise of cash collateral reinvestment pools. 
+ 
+Third, the rise of derivatives-based investment styles—such as futures-based duration 
+positioning, liability-driven investing and synthetic ETFs—which involve overlaying 
+derivatives (such as futures and total return swaps) onto separately managed cash pools. 
+ 
+The common features of institutional cash pools are that they are large (typically at least $1 
+billion in size) and centrally managed. The central management of cash pools refers to the 
+aggregation (or pooling) of cash balances from all subsidiaries worldwide in the case of 
+global corporations, or all funds (including mutual and hedge funds and separate accounts) in 
+the case of asset managers. Furthermore, the investment decisions that pertain to pooled 
+balances are performed by a single decision maker (typically a treasurer) and through a fund 
+that is a single legal person, but one that manages the cash balances of many legal persons. 
+ 
+Based on time series data available on (i) the cash holdings of S&P500 constituents, (ii) the 
+holdings of liquid assets by all long-term mutual funds and (iii) the balances in securities 
+lenders’ cash collateral reinvestment accounts, the volume of institutional cash pools rose 
+from $100 billion in 1990 to over $2.2 trillion at their peak in 2007; the volume of 
+institutional cash pools stood at $1.9 trillion during the fourth quarter of 2010.
+5 
+ 
+These estimates are conservative, however, as due to data limitations, they do not include 
+cash pools associated with (v) wealthy individuals; (vi) endowments; (vii) separate accounts, 
+(viii) hedge funds, (ix) derivatives-based investment strategies, and (x) insurance companies 
+and pension funds. Industry surveys and discussions with numerous market participants 
+suggest that a conservative estimate of these additional types of cash pools would raise the 
+2007 and 2010 totals to $3.8 and $3.4 trillion, respectively (see Figure 1; for additional data 
+see Appendix, Figures A1-A4).6 Note that money funds are not included as institutional cash 
+pools; institutional cash pools are investors in money funds but are not funds themselves. 
+                                                 
+3Parallel to the globalization of corporations and the pooling of their globally earned cash balances, cash and 
+cash equivalents as a share of corporate assets have also increased in recent decades (see Appendix, Figure A5 
+and Stulz, et al (1998) and Holmström and Tirole (2000)). 
+4Since the cash balances of high net worth individuals are typically managed out of family offices, the paper 
+considers them as institutional cash pools. 
+5The data sources used to compile these estimates include CapitalIQ, ICI and RMA. 
+6The additional data sources used to compile these estimates include The Economist, Credit Suisse, BIS 
+Working Papers No 343, and discussions with numerous market participants and asset managers. For the 
+purposes of this paper, only privately-owned institutional cash pools are considered. Those of the foreign 
+official sector, oil exporters and state and local governments in the U.S. are not. 
+ 6 
+ 
+ 
+ 
+To understand the rationale behind the portfolio allocation of institutional cash pools, and 
+why and how their secular rise in the financial ecosystem poses risks to financial stability, the 
+paper next examines (i) the average size of institutional cash pools and their investment 
+preferences, (ii) how the parameters of the official safety net cast around cash investors and 
+(iii) the outstanding volume of short-term government guaranteed instruments have evolved 
+relative to the aggregate volume of institutional cash pools over time. 
+ 
+III.   PROFILING INSTITUTIONAL CASH POOLS 
+Institutional cash pools are large, with their sizes ranging from $1 billion to in some cases 
+over $100 billion. For example, when the aggregate volume of institutional cash pools 
+peaked in 2007, the cash pools associated with the most cash-rich corporations averaged $15 
+billion (see Appendix, Figures A6 and A7)7; the cash pools associated with long-term mutual 
+funds averaged $20 billion per large asset manager; and cash collateral associated with 
+securities lending programs averaged $75 billion per securities lender (see Figure 2).8 With 
+the increase in corporate liquidity and the consolidation of the asset management and 
+                                                 
+7The names of S&P500 constituents with the 20 largest cash pools in 2010 are provided in the left-hand panel of 
+Figure 7A, while the right-hand panel provides a rolling (and anonymous) list of the top 20 pools over time. The 
+color codes indicate the evolution of the size of corporate cash pools over time. 
+8These averages are rough estimates and were derived by dividing the 2007 aggregates by 20 in the case of 
+long-term mutual funds’ cash pools (to reflect the number of large asset managers in the U.S. at the time); and 
+22 in the case of securities lenders cash collateral pools (to reflect the actual number of securities lenders that 
+regularly report their activities and which form the basis of deriving the aggregate volume of securities lending. 
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+Figure 1: The Secular Rise of  Institutional Cash Pools
+$ trillions
+Institutional cash pools (based on available data) Institutional cash pools (estimate of total volume)
+Source: CapitalIQ, RMA, ICI, BIS, The Economist, Pozsar (2011)
+ 7 
+securities lending complexes since the financial crisis, the average size of associated 
+institutional cash pools has likely grown further.9 In addition, according to one estimate, the 
+regulated migration of OTC derivatives to CCPs will add $200 billion to wholesale cash 
+pools (see Singh (2011b)). 
+ 
+ 
+ 
+The Association of Finance Professionals’ annual Liquidity Surveys
+ provide a wealth of 
+information for understanding the investment preferences of the average institutional cash 
+pool. The surveys provide an overview of the cash management policies and objectives of 
+nearly 340 institutions covering non-financial corporations, financial institutions (such as 
+securities lenders) and government organizations (such as the GSEs). Of this universe, this 
+paper uses responses only from institutions with annual revenues of over $1 billion (43% of 
+respondents), which are used to proxy the investment preferences of institutional cash pools. 
+ 
+According to these surveys, over 90% of institutional cash pools are subject to written cash 
+investment policies, which govern the investment styles and fiduciary responsibilities of their 
+managers. In order of priority, the objectives of these policies are: (i) safety of principal; (ii) 
+liquidity; and (iii) yield (see Figure 3). 
+ 
+                                                
+ 
+9See for example “BGI marks milestone for BlackRock”, Financial Times, June 12, 2009 and the chart on the 
+top five asset managers in “Asset management: Conga contemplation”, Financial Times, May 2, 2011. 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Global Corporations        
+[per Corporate Treasury]
+Mutual Funds                
+[per Mutual Fund Complex]
+Securities Lenders         
+[per Securities Lender]
+Figure 2: The Average Size of Institutional Cash Pools in 2007
+$ billions
+Source: CapitalIQ, RMA, ICI, Pozsar (2011)
+ 8 
+ 
+ 
+Given their strong preferences for safety, institutional cash pools are not particularly well fit 
+to be intermediated through the traditional, deposit-funded banking system. This is because 
+there are not enough banks to spread the average institutional cash pool across in insured, 
+$100,000 increments—the pre-crisis deposit insurance limit (see Figure 4). This problem has 
+been present for asset managers, securities lenders and the ten most cash-rich S&P500 
+constituents since the early 1990s, and has become increasingly pressing for the one hundred 
+most cash rich S&P500 constituents since 2000 as their cash balances kept on growing. 
+ 
+ 
+ 
+Over time, the problem of the growing size of institutional cash pools was further 
+complicated by (i) unchanged deposit insurance limits of $100,000 since 1980
+10; and (ii) the 
+                                                 
+10From A Brief History of Deposit Insurance: “There were three increases in the insurance coverage limit 
+during the years 1942 to 1970. Coverage was raised from $5,000 to $10,000 in 1950, to $15,000 in 1966, and to 
+$20,000 in 1969. (p45) […] In 1974, deposit insurance coverage was increased from $20,000 to $40,000, and to 
+$100,000 for deposits held by states and political subdivisions. In 1980, despite the reservations of the FDIC, 
+deposit insurance coverage for all accounts was increased to $100,000 by provisions of the Depository 
+Institutions Deregulation and Monetary Control Act.” 
+Figure 3: Institutional Cash Pools' Prioritized Investment Objectives
+Prioritized Order of Short-Term Investment Objectives Institutions with Cash Investment Policies
+% of all institutions with cash investment policies (over 75% of institutions). % of institutions with revenues of over $1 billi on.
+2006 2007 2008 2009 2010 2011 2006 2007 2008 2009 2010 2011
+S a f e t y - 6 78 08 67 48 0 9 29 19 59 48 68 9
+Liquidity - 17 18 14 25 16
+Yield - 16 2 - 1 4
+Source: Annual AFP Liquidity Surveys 2006-2011, Pozsar (2011)
+-700
+-600
+-500
+-400
+-300
+-200
+-100
+0
+100
+1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+Figure 4: Not Enough Banks to Source Safety for Cash Pools                          
+# of  additional banks needed to get safety through insured, $100,000 deposits, thousands
+S&P500 (top 10 average) S&P500 (top 100 average) Asset managers (average) Securities lenders (average)
+Source: CapitalIQ, RMA, ICI, FDIC, Pozsar (2011)
+ 9 
+consolidation of the banking sector, which left institutional cash pools with fewer and fewer 
+destinations in fixed, $100,000 increments, and hence, fewer and fewer options for 
+counterparty diversification for purposes of cash investing in general. Between 1990 and 
+2010, the number of FDIC-insured banks shrank from 15,000 banks to 8,000, and, at the 
+same time, the top ten banks’ share of system assets trebled, from around 20% to 55% (see 
+Appendix, Figures A8 and A9). 
+ 
+In reality, the deficit of the number of banks that institutional cash pools could be spread 
+across is even bigger than what is shown in Figure 4, as (i) only the subset of banks that need 
+funding at any given point in time are interested in cash pools’ bids for deposits; (ii) 
+corporate and institutional treasurers are bound by consolidated, notional, unsecured 
+exposure limits (set by risk managers) to banks, taking into account all products and services 
+(such as derivatives, hedges and credit lines) provided by any given bank; and (iii) tax and 
+operational considerations—such as the central management of overseas cash balances from 
+low-tax jurisdictions such as Ireland—that preclude cash balances from being repatriated and 
+deposited with banks. 
+ 
+As the limits of slicing and spreading growing institutional cash pools in fixed, insured 
+increments across a shrinking number of banks and against binding unsecured exposure 
+limits were reached, institutional cash pools faced two alternatives: (i) holding uninsured 
+deposits and becoming uninsured, unsecured creditors to banks, or (ii) investing in insured 
+deposit alternatives—that is, safe, short-term and liquid instruments—such as short-term 
+(ii/a) government guaranteed instruments or (ii/b) a range of privately guaranteed instruments 
+(secured instruments and money funds) issued by the so-called “shadow” banking system. 
+ 
+With only a limited appetite for direct, unsecured exposures to banks through uninsured 
+deposits, however, institutional cash pools opted for the second set of alternatives. Relative to 
+the aggregate volume of institutional cash pools, however, there was an insufficient supply of 
+short-term government-guaranteed instruments to serve as insured deposit alternatives. This 
+shortage amounted to $1.1, $1.6 and $1.6 trillion in 2005, 2006 and 2007, respectively, and 
+has been exacerbated by increasing foreign official holdings of short-term government 
+guaranteed instruments since 2000 (see Figure 5).
+11 
+                                                 
+11Note that the actual deficit was even deeper, as the below exercise does not account for demand from (i) banks 
+(to meet their regulatory requirements for liquid assets) and (ii) state and local government investment pools in 
+the U.S. These sources of demand for short-term government guaranteed instruments are excluded due to data 
+limitations. A detailed breakdown of the ownership of short and long-term government and agency securities by 
+institutional owners’ type is presently not available. 
+ 10 
+ 
+ 
+With a shortage of short-term government-guaranteed instruments, institutional cash pools 
+next gravitated—almost by default—toward the other alternative of privately guaranteed 
+instruments, fueling the secular rise of the non-bank-to-bank subset of wholesale funding 
+markets and the “shadow” banking system in general.12  
+ 
+From a bird’s-eye view, institutional cash pools substituted for the vacuum of short-term 
+government-guaranteed instruments and insured deposits (which are ultimately sovereign 
+claims) through two alternatives. These were (i) the direct holdings of secured, privately 
+insured money market instruments—such as repurchase agreements and asset-backed 
+commercial paper—where collateral provided safety and substituted for government 
+guarantees; and (ii) the indirect holdings of primarily unsecured (but also significant amounts 
+of secured) private money market instruments through prime money funds, where funds’ 
+global portfolio diversification provided safety and substituted for government guarantees. 
+ 
+At a deeper level, both alternatives’ safety was further enhanced by a combination of credit, 
+liquidity and brand puts provided by deposit-funded banks and also bankruptcy exemptions. 
+Both of these sources of enhancement served the purpose of perfecting institutional cash 
+                                                
+ 
+12For the remainder of this paper, the terms “shadow” banking system and wholesale funding are used 
+interchangeably (see Pozsar, et al (2010)). 
+Figure 5: Not Enough Short-Term Government-Guaranteed Instruments to Source Safety for Institutional Cash Pools
+2005 2006 2007 2008 2009 2010
+Outstanding Amounts:
+Short-term Treasury securities* 1,146 1,173 1,192 1,909 2,558 2,487
+Short-term agency securities** 568 489 560 903 844 618
+Total 1,714 1,662 1,752 2,812 3,402 3,105
+(-) Foreign Official Holdings:
+Short-term Treasury securities 216 193 181 273 562 na
+Short-term agency securities 112 110 80 130 34 na
+Total 328 303 261 403 596 na
+(-) Demand from Institutional Cash Pools:
+Institutional cash pools (based on available data) 1,771 2,120 2,216 1,834 2,041 1,911
+Institutional cash pools (estimate of total volume) 3,120 3,735 3,852 3,467 3,596 3,432
+Average 2,445 2,927 3,034 2,650 2,818 2,672
+= Deficit of safe, liquid, short-term products (1,059) (1,568) (1,543) (241) (12) na
+*Includes Treasury bills and Treasury securities with a remaining maturity of one year or less; **includes agency discount notes.
+Sources: TIC, SIFMA, CapitalIQ, RMA, ICI, BIS, Pozsar (2011))
+Sources of Institutional Demand for Treasury Bills and Agency Discos  
+$ billions
+ 11 
+pools’ position in making sure that they get their funds back ahead of insured depositors (see 
+Pozsar and Singh (2011, forthcoming) and Pozsar, et al (2010)). Institutional cash managers 
+have dedicated analysts assigned to making sure that such enhancements are in the money at 
+all times. If they are not, analysts would alert portfolio managers to divest the corresponding 
+insured deposit alternatives or request the posting of additional collateral to strengthen them. 
+ 
+They key takeaway with regards to bankruptcy exemptions and puts as sources of safety 
+enhancement should be that it were primarily deposit-funded banks that were providing them 
+and were ultimately responsible for institutional cash pools’ getting their cash balances back 
+full and at par. In other words, deposit-funded banks functioned as institutional cash pools’ 
+deposit insurers
+. Apart from minor exceptions when this didn’t happen, the provision of par 
+puts cost banks their solvency and was a key propagator of the financial crisis of 2007-2008. 
+ 
+The above observation also offers an alternative explanation as to why cash pools had a 
+preference to avoid too much direct, unsecured exposure to banks through deposits. Namely, 
+in the context of privately issued deposit alternatives, the decision ultimately came down to 
+investing either in (i) an unsecured instrument that funds opaque banks’ extension of 
+systemic risk insurance (that is, deposit insurance extended through credit and liquidity puts) 
+to large volumes of money market instruments (such as asset-backed commercial paper), or 
+(ii) investing in money market instruments that are secured, more transparent thank banks 
+and that benefit from systemic risk insurance sold by banks. The second choice is optimal. 
+ 
+This rationale for institutional cash pools’ aversion to bank deposits, together with the 
+identification of the structural “deficit” of short-term government guaranteed instruments 
+refutes
+ the argument that the primary reason behind institutional cash pools’ holdings of 
+privately insured deposit alternatives was yield. It was not, as on one and three month tenors, 
+these alternatives yielded less than negotiable CDs, and while they yielded more than short-
+term government guaranteed instruments, they were not held for yield reasons but because 
+there was an insufficient supply of short-term government-guaranteed instruments. This 
+shortage naturally pushed cash pools toward relatively high-yielding private alternatives to 
+bills that were still low yielding relative to uninsured CDs (see Appendix, Figure A10). 
+ 
+IV.   C
+ASH EQUIVALENTS AND MONETARY AGGREGATES 
+The similarity between short-term privately guaranteed and government guaranteed insured 
+deposit alternatives is that they both represent solutions to institutional cash pools’ preference 
+for principal safety, and corresponding aims to (i) avoid too much direct, unsecured exposure 
+to banks through uninsured deposits and (ii) invest cash at a distance from banks.13 
+                                                 
+13Central banks themselves are very much conscious of principal safety and counterparty diversification, and are 
+active users of market-based banking. For example, the Bank of International Settlements manages nearly $250 
+billion in cash through various cash management products for central banks globally. Using interest rate and FX 
+swaps, these products transform portfolios of long-term G7 government bonds into safe, short-term and liquid 
+instruments that are “similar to certificates of deposit, priced at a margin below the OIS curve and liquidity 
+enhanced by standby repurchases by the BIS”. Central banks prefer to keep some of their cash with the BIS 
+(and hence, at a distance from banks), since as lenders of last resort to banks, it is too risky to keep all their cash 
+at banks (just as it is for institutional cash pools)! For more on these products, on Bloomberg type BIS <GO>. 
+ 12 
+ 
+These investment preferences are well documented in the portfolio allocation details of 
+institutional cash pools based on data from the AFP Liquidity Surveys (see Figure 6): 
+ 
+ 
+ 
+During the 2006-2008 period (a survey period that excludes the failure of Lehman Brothers 
+and the change in deposit insurance limits that followed) the average institutional cash pool 
+held about 20% of its portfolio in bank deposits, which likely represent insured exposures to 
+
+ 13 
+the maximum possible extent through deposit brokers and aggregators14 (see line highlighted 
+with green borders in Figure 7); about 10% in short-term government guaranteed instruments 
+(lines highlighted with blue borders); and about 60% in short-term, privately guaranteed 
+instruments, which can further be split into 20% held in collateralized private money market 
+instruments (lines highlighted with red borders) and nearly 40% in government-only and 
+globally diversified prime money market mutual funds (lines highlighted with orange 
+borders).15 
+ 
+Such institutional cash portfolios are commonly referred to in public financial statements as 
+cash and cash equivalents. Cash is traditionally thought of as dollar bills and checking 
+accounts, however, in the realm of institutional cash pools and money markets, the term 
+“cash” refers to a broad range of safe, short-term and liquid instruments that are perceived to 
+be cash (hence “equivalents”) for all intents and purposes, and which accounting rules permit 
+to be carried at amortized cost.  
+ 
+According to Statement of Financial Accounting Standards No. 95 (FAS95) issued in 1987, 
+“cash equivalents are short-term [author’s emphasis], highly liquid investments that are both: 
+readily convertible to known amounts of cash and so near their maturity that they present 
+insignificant risk of changes in value because of changes in interest rates. Examples of items 
+commonly considered to be cash equivalents are Treasury bills, commercial paper, asset-
+backed commercial paper, repurchase agreements and money market mutual funds.” 
+ 
+However, despite (i) the preferences of institutional cash pools to hold safe, short-term and 
+liquid instruments as alternatives to insured deposits, and (ii) the accounting rules that apply 
+to such instruments, they are not included in the official U.S. monetary aggregates. The 
+Federal Reserve’s M1 aggregate only includes instruments such as demand deposits and 
+other checkable deposits, and its M2 aggregate includes savings deposits, small 
+denomination time deposits (that is, time deposits in amounts of less than $100,000) and 
+balances in retail-class money market mutual funds. 
+ 
+In the context of institutional cash pools’ portfolio allocation details, there are at least two 
+conceptual problems with the scope of U.S. monetary aggregates. First, if retail-class money 
+funds are included, so should be other functional equivalents such as institutional-class 
+money funds; securities lenders’ cash collateral reinvestment pools; cash “plus”, enhanced 
+cash and offshore money funds, as well as ultra-short bond funds and the relatively recent 
+innovation of money ETFs (as an alternative to money funds).  Second, since the inclusion of 
+retail-class money funds in M2 effectively amounts to an implicit inclusion in M2 of all the 
+various types of money-market instruments that retail money funds invest in, the aggregate 
+                                                
+ 
+14One example of an aggregator is Promontory Interfinancial Network, LLC’s Certificate of Deposit Account 
+Registry Service (or CDARS). 
+15Investments in cash intermediaries such as cash “plus” funds, enhanced cash funds, ultra-short-bond funds and 
+separate accounts was a fourth distinct investment option. However, this option was not used to seek principal 
+safety, but to enhance portfolio yield. 
+ 14 
+volume of all such types of money market instruments should ideally be included in M2 as 
+well. 
+ 
+Including all these instruments in the official monetary aggregates would yield a total broad 
+money aggregate of over $15 trillion and a private broad money aggregate of around $12 
+trillion just before the bankruptcy of Lehman Brothers, compared to the official M2 
+aggregate of $8 trillion at the time (see Figure 7 below). 
+ 
+To arrive at the broad money aggregates, the official M2 measure is adjusted to exclude 
+retail-class money funds to eliminate double counting with the inclusion of all money-market 
+instruments in broad money.  Private broad money includes adjusted M2 plus large time 
+deposits, financial commercial paper, asset-backed commercial paper, the money-market 
+(A1) tranches of asset-backed securities, tender option bonds, variable rate demand 
+obligations, auction rate securities and broker-dealer’s net repos. Total broad money includes 
+private broad money plus Treasury bills, Treasury notes with a remaining maturity of a year 
+or less and agency discount notes. In other words, total broad money includes all safe, short-
+term and liquid instruments that (i) cash managers perceive as cash equivalents and trade 
+them as such in money markets and (ii) accounting rules permit to be carried at amortized 
+cost. For similar views on the ideal scope of broad money aggregates see Sweeney (2009), 
+Stein
+ (2010), Gorton (2010) and Krishnamurthy and Vissing-Jorgensen (2010). 
+ 
+ 
+ 
+The portfolio allocation of institutional cash pools suggests that the bulk of institutional cash 
+managers’ money demand is for “non-traditional”, that is, non-M2 types of money. This is 
+demonstrated in Figure 8 below, which shows the ratio of deposits to deposit alternatives for 
+4
+6
+8
+10
+12
+14
+16
+2003 2004 2005 2006 2007 2008 2009 2010 2011
+Figure 7: Broad Money and Its Components     
+$ trillion, stacked
+M2 (adjusted) Private Broad Money Total Broad Money
+Source: FRB, Pozsar (2011)
+Lehman Bankruptcy
+Start of the Crisis
+ 15 
+the average institutional cash pool, securities lenders’ cash collateral reinvestment accounts 
+and the rest of the world’s short-term dollar portfolios.16 These data highlight a perception 
+gap in the terminology that labels banks’ non-M2 liabilities as non-core (see Shin (2011)), 
+when such instruments are actually core holdings of institutional cash portfolios.17 
+ 
+ 
+ 
+This also suggests that the preferred habitat of retail and institutional (or wholesale) cash 
+investors are distinctly different along the broad money spectrum. Namely, retail cash 
+investors (or depositors) keep their funds in insured, M2 instruments (checking, savings and 
+time deposits, broadly speaking), whereas wholesale cash investors (or institutional cash 
+pools) keep their funds in uninsured, non-M2 instruments that include a broad range of safe, 
+short-term and liquid instruments. 
+ 
+Another factor that may explain the habitat discrepancy is retail and wholesale cash 
+investors’ different uses for money. Thus, whereas retail cash investors primarily use their 
+cash balances for transaction purposes, wholesale cash investors primarily use their cash 
+pools for liquidity and collateral management, as well as investing purposes. These purposes 
+                                                
+ 
+16For the instruments in securities lenders’ cash collateral portfolios and “the rest of the world’s” short-term 
+dollar portfolios see Appendix, Figures A11 and A12. 
+17 Shin looks at the question of core/non-core instruments from the borrowers’ (banks) perspective, while this 
+paper looks at the question of core/non-core instruments from the investors’ (funding providers’) perspective. 
+Figure 8: The Preferred Habitat of Institutional Cash Pools is in Non-M2 Types of Money
+2006 2007 2008 2009 2010
+All Institutional Cash Pools
+Deposits 19.6 22.1 25.3 31.4 35.6
+Deposit "alternatives" 72.5 58.3 69.5 60.8 57.7
+Ratio 3.7 2.6 2.7 1.9 1.6
+Securities Lenders' Cash Pools
+Deposits 13.9 14.7 11.1 9.3 15.1
+Deposit "alternatives" 65.5 64.1 54.3 58.9 59.1
+Ratio 4.7 4.4 4.9 6.3 3.9
+Foreign Wholesale Cash Pools
+Deposits 6.8 5.0 6.8 3.3 -
+Deposit "alternatives" 93.2 95.0 93.2 96.7 -
+Ratio 13.7 19.0 13.7 29.3 -
+Source: AFP, TIC, RMA, Pozsar (2011)
+Institutional Cash Portfolio Allocations                                                                                 
+% allocations
+ 16 
+aren’t best met by deposits, but by non-M2 instruments such as Treasury bills, repurchase 
+agreements and money market fund shares (also see Mehrling (2011)). 
+ 
+In turn, that the preferred habitat of institutional cash pools is in safe, short-term and liquid, 
+but non-M2 types of instruments helps explain why so much maturity transformation (and by 
+extension, credit intermediation) in the United States is being channeled outside the 
+traditional, M2-funded banking system. 
+ 
+At any given point in time, the volume of maturity transformation conducted outside the 
+traditional banking system is closely related to the shortage of short-term, government 
+guaranteed instruments (such as Treasury bills and agency discount notes) relative to the 
+volume of institutional cash pools.  
+ 
+Given the structural shortage of short-term, government guaranteed instruments in the U.S. 
+(see Figure 5 on page 7), and the non-M2 instrument preferences of institutional cash pools, 
+shortages of short-term, government guaranteed instruments are not being filled with the 
+issuance of deposits through the traditional banking system, but with the issuance of 
+wholesale funding instruments by various types of entities in the “shadow” banking system. 
+These entities include(d) broker-dealers, the GSEs’ retained portfolios, conduits as well as 
+limited purpose finance companies and SIVs pre-financial crisis (see Pozsar, et al
+ (2010)). 
+ 
+In the years prior to the financial crisis, there was a close to 1:1 relationship between 
+institutional cash pools’ excess demand for short-term, government guaranteed instruments 
+and the rise in wholesale funding instruments (all non-M2 by definition) issued by “shadow 
+banks” to fill this demand gap (see Figure 9).
+18 If anything, shortfalls in the 1:1 relationship 
+during the pre-crisis period suggests that the structural deficit of short-term, government 
+guaranteed instruments may be understated due to (i) a lack of data to account for banks’ 
+and local government investment pools’ demand for such instruments (see Section III on 
+page 7), or (ii) an under-estimation of the aggregate volume of institutional cash pools (the 
+potential for under-estimation is acknowledged in see Section II on page 4).19 
+ 
+                                                 
+18The “Secured + Unsecured Funding” line in Figure 9 corresponds to the instruments that make up the 
+difference between private broad money and adjusted M2 in Figure 7. 
+19The blue line in Figure 9 is calculated by subtracting from the total volume of short-term, government 
+guaranteed securities (Treasury bills, Treasury notes with a remaining maturity of less than one year, and 
+agency discount notes) the holdings of foreign official investors and the estimated volume of institutional cash 
+pools; the resulting deficit figures are based to 2003Q1 and the cumulative gain in deficits since then are plotted 
+with an opposite sign. The red and orange lines plot the cumulative incremental issuance volume of secured and 
+unsecured wholesale funding instruments since 2003Q1. The relationship between the three lines breaks down 
+after the crisis due to reasons that are outside the scope of this paper. 
+ 17 
+ 
+ 
+V.   THE TRIFFIN DILEMMA OF THE U.S. BANKING SYSTEM 
+The Triffin dilemma is often used to articulate the U.S. dollar’s problems as the global 
+reserve currency under the Bretton Woods system. Namely, as U.S. dollars became more and 
+more widely used as the world’s reserve currency in the 1960s, their volume in circulation 
+grew to exceed the amount of gold actually backing them. This was unsustainable and the 
+dilemma was “solved” by President Nixon taking the dollar off gold in 1971. 
+ 
+In the present context, Treasury bills (or more broadly, short-term government guaranteed 
+instruments) are like gold. Just as in the 1960s there were too many dollars relative to U.S. 
+gold reserves, today there is too much demand for safe, short-term and liquid instruments 
+relative to the volume of (i) short-term, government guaranteed instruments; (ii) high-quality 
+collateral to “manufacture” alternatives to short-term, government guaranteed instruments 
+(see Bernanke (2011)); and (iii) capital to support the safety, short maturity and liquidity of 
+such alternatives (see Acharya and Schnabl (2009)). All of these aspects have global 
+dimensions: 
+ 
+First, one reason for the increase in the structural deficit of short-term, government 
+guaranteed instruments is that reserve accumulation and foreign exchange management vis-à-
+vis the dollar is primarily conducted by foreign central banks through the accumulation of 
+U.S. government guaranteed securities, including short-term
+ government guaranteed 
+securities. However, these instruments are also the first-resort investment choice of cash 
+pools. As such, the “international monetary system’s [ongoing slide] towards a massive 
+dollar block” (see Carney (2010)) has implications for the portfolio composition of cash 
+pools and banks’ reliance on wholesale funding in general. 
+ 
+-1.0
+-0.5
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+2003 2004 2005 2006 2007 2008 2009 2010 2011
+Figure 9: Filling the Vacuum of Short-Term Government Guranteed Debt    
+Cumulative flows, 2003Q1=0.0, $ trillion
+Deficit of ST gov't guaranteed instruments Secured wholesale funding Secured  + unsecured wholesale funding
+Source: Pozsar (2011)
+Start of the Crisis
+Lehman Bankruptcy
+ 18 
+Second, the high-quality collateral requirements associated with the manufacturing of 
+alternatives to short-term government guaranteed instruments is also influenced by foreign 
+central banks’ accumulation of long-term U.S. government guaranteed securities. For 
+example, a shortage of Treasury bills can be filled by lending cash in a short-term repo 
+transaction backed by longer-term Treasury notes. However, if the supply of high-quality 
+term collateral becomes scarce, either (i) private alternatives (such as asset-backed securities 
+and CDOs) will take their place (see Caballero (2009) and Bernanke (2011)), or (ii) the 
+velocity of high-quality collateral will accelerate (see Singh (2011c, forthcoming)) if demand 
+for the manufacturing of more safe, short-term and liquid instruments persists. 
+ 
+Third, the transformation of term private collateral into safe, short-term, liquid instruments 
+requires the performance of credit, maturity and liquidity transformation, which were 
+conducted across a highly diverse set of institutions in the “shadow” banking system and 
+backstopped by a diverse set of banks globally. This explains the counterparty diversity, 
+counterparty intensity and global scope of the “shadow” banking system as shown by the 
+highly diverse set of entities plotted on its map
+ (see Pozsar (2008) and Pozsar (2009)). In this 
+context, the highly counterparty-intense nature of the “shadow” banking system could be 
+rationalized as an “evolutionary” response to the counterparty diversification needs of ever 
+larger institutional cash pools in a financial system with ever fewer large banks. This search 
+for counterparty diversification occurred through various channels. 
+ 
+One such channel was the provision of more and more short-term funding to the GSEs and 
+broker-dealers instead of banks.
+20 Another channel was European banks increasing their 
+market share in selling liquidity puts to dollar-funded asset-backed commercial paper 
+conduits sponsored by banks and other entities in the United States.21 And another channel 
+was prime money market funds’ gradual evolution over time into entities that intermediate 
+vast amounts of dollar funding from institutional cash pools in the U.S. to banks in Europe, 
+and thereby function as “portals” through which ever larger institutional cash pools could 
+attain adequate levels of counterparty diversification across many banks globally that was 
+becoming increasingly difficult (if not altogether impossible) to obtain with a shrinking 
+number of large banks domestically in the United States.22 
+                                                 
+20Note that the short-term funding of financial intermediaries is a function of both (i) the intermediaries’ 
+willingness to issue short-term instruments, as well as (ii) cash investors’ preference to invest in short-term as 
+opposed to long-term instruments. Without the overwhelming preference for safe, short-term and liquid 
+instruments of institutional cash pools prior to the financial crisis (another way of saying that liquidity was 
+abundant), it is unlikely that the GSEs and broker-dealers could have shortened their funding profiles to the 
+extent they did (see Brunnermeier (2011)). 
+21According to Standard and Poor’s of the 15 largest global liquidity providers to the ABCP market, 10 were 
+European banks providing a total of nearly $450 billion in liquidity puts and 5 were U.S. banks providing a total 
+of about $350 in liquidity puts as of March 31
+st, 2007. For institutional cash pools security through liquidity 
+puts, the global diversification of put providers for secured instruments such as ABCP was just as important as 
+the global diversification of unsecured exposures to banks’ through money funds (see Footnote 22 below). 
+22Thus, while the genesis of money funds was in the arbitrage of Regulation Q, their evolution into a global 
+diversification outlet isn’t well recognized. 
+ 19 
+ 
+These examples demonstrate that not unlike the soaring volume of U.S. dollars relative to the 
+volume of U.S. gold reserves stretched the convertibility of the dollar in the 1960s, the rise of 
+institutional cash pools and their safety preferences stretched the U.S banking system to its 
+limits in its ability to guarantee cash pools’ principal safety and redeemability on demand and 
+at par and in unlimited amounts and in all states of the world. The U.S. banking system failed 
+at a task no less than endogenously creating private alternatives to Treasury bills, that had the 
+same degree of safety and liquidity than the real T-bills that were in short supply. 
+ 
+This modern-day Triffin dilemma was ultimately solved in two-steps. The first step was the 
+Federal Reserve taking over from banks the responsibility of making good on credit and 
+liquidity puts extended to privately issued insured deposit alternatives through the creation of 
+a series of 13(3) lending facilities (see Pozsar, et al
+ (2010)). In retrospect, however, it should 
+have been the Federal Reserve providing these puts from the outset, not the banking system. 
+Note, that the same guarantees have been provided to retail cash balances by the official 
+sector since the creation of the Federal Reserve and the FDIC in 1913 and 1933, respectively. 
+ 
+The second step was the subsequent ramp-up of the supply of short-term government 
+guaranteed instruments by $2 trillion to accommodate cash pools’ trading out of private 
+alternatives and into Treasury bills as the crisis intensified and the supply of the latter 
+7instrument increased. In essence, the provision of funds through 13(3) facilities provided the 
+funds to purchase newly minted, short-term government guaranteed paper. Also, in this 
+sense, the “shadow” banking system did not shrink in a vacuum, but the instrument-void 
+created by its shrinkage has been filled with the increased issuance of T-bills (see Figure 10). 
+ 
+ 
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+2003 2004 2005 2006 2007 2008 2009 2010 2011
+Figure 10: Broad Money and Its Components     
+$ trillion
+M2 (adjusted) Private Broad Money Public Broad Money
+Source: FRB, Pozsar (2011)
+Lehman Bankruptcy
+Start of the Crisis
+ 20 
+The diagnosis that deposit-funded banks were the ultimate guarantors of institutional cash 
+pools’ principal balances is an important one given that the volume of uninsured institutional 
+cash pools at $3.5 trillion is not far behind the volume of households’ insured cash balances 
+at $6 trillion (both as of the first quarter of 2011). 
+ 
+At just over 5%, uninsured institutional cash pools were a negligible fraction of insured 
+deposits as recently as two decades ago (see Figure 11), but account for over 55% of insured 
+deposits today. In light of these developments, it is legitimate to ask whether the secular rise 
+of institutional cash pools relative to the volume of insured deposits in the U.S. financial 
+system is making banks increasingly less able to backstop them.
+23 
+ 
+ 
+ 
+Indeed, if institutional cash pools continue to rely on banks as their credit and liquidity put 
+providers of last resort, the secular rise of uninsured institutional cash pools relative to the 
+size of insured deposits is going to make the U.S. financial system increasingly run-prone, 
+not unlike it used to be prior to the creation of the Federal Reserve and the FDIC (see 
+Appendix, Figure A13). 
+ 
+Put another way, the secular rise of cash pools reduces the effectiveness of deposit insurance 
+in promoting system-stability, if depository institutions are wired to serve as insurers of last 
+                                                
+ 
+23The flipside of this question is whether too big to fail banks should be allowed to provide credit and liquidity 
+puts to institutional cash pools through the privately issued insured deposit alternatives they sell them. The 
+provision of these puts are tempting, as selling systemic risk insurance is what any large (that is too-big-to-fail) 
+bank would “naturally” start doing once the market perceives it as too-big-to-fail. 
+0
+1
+2
+3
+4
+5
+6
+7
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+Figure 11: Has the Effectiveness of  Deposit Insurance Been Eroded?     
+$ trillions
+Households' insured cash balances (~$6 trillion in 2011Q1) Institutions' uninsured cash pools (~$3.5 trillion in 2011Q1)
+Source: Flow of Funds, CapitalIQ, ICI, RMA, BIS, Pozsar (2011)
+ 21 
+resort for the world’s uninsured dollar liquidity. By extension, it also weakens Diamond-
+Dybvig (1983) as an ex-post narrative for explaining the post-war quiet period in banking. 
+ 
+VI.   POLICY ALTERNATIVES FOR DEALING WITH INSTITUTIONAL CASH POOLS 
+Permanent solutions to the Triffin dilemma of the U.S. banking system requires policies that 
+deal explicitly with institutional cash pools. These solutions include (i) the break-up of 
+institutional cash pools; (ii) the matching of Treasury bill issuance to the volume of 
+institutional cash pools; (iii) the expansion of lender of last resort access to non-banks 
+(levered credit, maturity and liquidity transformers) that issue insured deposit alternatives; 
+and (iv) the creation of a new class(es) of intermediaries that issue such deposit alternatives. 
+ 
+First, the break-up option of institutional cash pools is the least feasible alternative, as it 
+would require “trust-busting” on unprecedented scales across various industries in the non-
+financial and financial sectors, globally, and at the cost of giving up efficiency gains that 
+come from globalization and the central management of pooled cash balances in general. 
+ 
+Second, if the policy choice is to satiate institutional cash pools’ demand for insured deposit 
+alternatives with Treasury bills, the debt management office of the U.S. Treasury Department 
+should consider the size and duration preferences of institutional cash pools. One should 
+note, however, that this solution, while relatively straightforward, is not without costs as it 
+would (i) shift rollover risks from the U.S. financial system to the U.S. Treasury Department; 
+(ii) shift the focus away from optimizing the funding costs of the nation’s debt to 
+accommodating the portfolio preferences of institutional cash pools; and (iii) disengage a 
+dominant source of short-term funding from credit intermediation to the real economy. 
+ 
+All that said, the synchronization of the issuance of U.S. Treasury bills to the aggregate 
+volume of institutional cash pools could be a promising addition to the macroprudential 
+toolkit in managing the size of the “shadow” banking system, and an operationally less 
+cumbersome one than regulating and monitoring the shadow banking system.
+24 Had there 
+been more bills in circulation in the run-up to the crisis, it is likely that a greater share of 
+subprime mortgages would have ended up not with levered money market accounts but 
+instead with unlevered real money accounts, with less severe disruptions in a downturn.25  
+ 
+                                                 
+24 Issuing more Treasury bills would simply soak up the liquidity that institutional cash pools represent. It 
+would reduce the “burden” of the banking system to soak up the same liquidity through the much more 
+cumbersome process generating collateral and issuing levered, secured, short-term instruments against them. 
+25 This argument is essentially the reverse of the so-called portfolio balance channel (see Bernanke (2010)). 
+Thus, if the removal of duration via the purchases of Treasury notes currently incents market participants to 
+substitute Treasury notes with long-term corporate bonds and equities, the removal of duration via the issuance 
+of more Treasury bills would have resulted in duration-seeking market participants buying alternative assets 
+such as private-label MBS and ABS CDOs. Had these assets been held in real money accounts, their implosion 
+would have wreaked much less havoc in financial markets. 
+ 22 
+For a similar take on the greater need for bills issuance—although from a different angle—
+see Greenwood, Hanson and Stein (2010), who in their abstract conclude that “if there are 
+negative externalities associated with private money creation, the government should tilt its 
+issuance more towards short maturities. The idea is that the government may have a 
+comparative advantage relative to the private sector in bearing refinancing risk, and hence 
+should aim to partially crowd out the private sector’s issuance of short-term debt.” 
+ 
+Also note that the flipside of large-scale asset purchases (excess reserves) are an alternative 
+to Treasury bills as safe, short-term, liquid assets—albeit a less optimal one from the 
+perspective of institutional cash pools as they can only have intermediated
+ exposures to 
+reserves through unsecured exposures to banks; Treasury bills are directly held and 
+explicitly guaranteed alternatives to holding reserves indirectly through deposits. 
+ 
+Third, if the aim is to involve institutional cash pools in credit intermediation to the private 
+sector, recognizing the fact that institutional cash pools prefer to invest cash at a distance 
+from banks and in secured, that is non-M2 types of instruments, implies the broadening of 
+lender of last resort access to non-bank intermediaries that issue such instruments, such as 
+broker-dealers (in the case of repo) and various types of maturity transformation vehicles that 
+issued instruments such as asset-backed commercial paper, et cetera. The Federal Reserve’s 
+facilities created during the crisis were a step (albeit not a permanent step) in this direction 
+(see Mehrling (2011), Grad, Mehrling and Neilson
+ (2011), and Pozsar, et al (2010)). 
+ 
+Fourth, and finally, to the extent that the counterparty intensity of the―shadow banking 
+system was an evolutionary response to institutional cash pools needs for counterparty 
+diversification in a banking system that is dominated by a shrinking number of large banks, 
+the creation of a series of intermediaries that fund in secured funding markets and serve as 
+bridges between pools of long-term assets and the short-term cash balances of institutional 
+cash pools merit consideration (see Gorton and Metrick
+ (2010)). This is especially relevant 
+given the run-off mode the GSEs (which served as such bridges) and the shrinkage of agency 
+discount note supply it implies. The shrinkage of agency discos outstanding is another factor 
+that’s chipping away on institutional cash pools’ preferred non-M2 habitat, which, unless 
+countered by the issuance of more bills will likely lead to the increased issuance of new 
+products such as collateralized commercial paper or putable CDs as alternatives. 
+ 
+None of these alternatives appear in the policy debate surrounding the reform of the banking 
+system or regulating the “shadow” banking system, however. Instead, reform to date took the 
+stance of (i) pushing banks away from short-term wholesale funding (that is, away from 
+private, non-M2 instruments) and toward more stable deposit funding, but without asking the 
+related question of whether there is more demand for deposits; (ii) adjusting deposit 
+insurance amounts on the margin and repealing Regulation Q, under the assumption that the 
+motivation of institutional cash pools’ aversion to deposits and bills and preference for repos 
+was yield; and (iii) mandating money funds to market their share as floating, as opposed to 
+stable value instruments, but without considering what else will provide diversification for 
+ever larger dollar-denominated cash pools away from an ever more concentrated U.S. 
+banking system. Far from satisfying cash pools, these policies will likely frustrate them. 
+ 
+ 23 
+Of all reform efforts to date, the Dodd-Frank Act has influenced the portfolio allocation of 
+institutional cash pools the most through (i) the temporary provision of unlimited insurance 
+for noninterest-bearing transaction accounts (until December 31, 2012); (ii) the repeal of 
+Section 19(i) of the Federal Reserve Act prohibiting the payment of interest on transaction 
+accounts (otherwise known as Regulation Q) effective July 21, 2011; and (iii) the increase in 
+the deposit insurance limit on interest-bearing accounts from $100,000 to $250,000. 
+ 
+According to the AFP surveys, the portfolio allocations of institutional cash pools to deposits 
+have roughly doubled between June 2008 and June 2011, from 16% to 33% (see Figure 6). 
+This has been driven by the 150% increase in the FDIC’s maximum insurance amount from 
+$100,000 to $250,000, and the temporary provision of unlimited insurance on noninterest-
+bearing transaction accounts. 
+ 
+However, these allocations to deposits are unlikely to increase much further from here, even 
+when the repeal of Regulation Q goes into effect on July 21
+st, 2011. According to a special 
+question in the June 2011 survey, 45% of institutional cash pools “have no plans to increase 
+their balances held at their U.S. relationship banks as a result of the repeal of Regulation Q or 
+unlimited insurance on transaction accounts though of 2012.” 
+ 
+Several safety considerations could explain why: 
+ 
+First, noninterest-bearing transaction accounts that are fully insured up through December 
+31
+st, 2012 still represent direct, unsecured exposures, and uncertainty as to how soon after a 
+bank’s bankruptcy one’s balances could be recovered. Treasury bills and secured instruments 
+such as repurchase agreements (or repos) being safer (and also interest bearing26) alternatives, 
+with the latter offering more immediate (almost instantaneous) and certain (collateral quality 
+dependent) recoveries than insured deposits.27 
+ 
+Second, for interest-bearing transaction accounts, unlimited insurance will not apply, but 
+only the new, standard maximum deposit insurance amount of $250,000. Given the average 
+size of institutional cash pools and the number of FDIC-insured banks, even the higher 
+insurance limits aren’t an efficient way for cash pools to attain safety. Here too, Treasury 
+bills and repos will continue to represent safer alternatives.
+28 
+                                                 
+26 Substituting noninterest bearing checking accounts with interest bearing Treasury bills or repo should not be 
+considered as search for yield. First, for example Krishnamurthy and Vissing-Jorgensen (2010) argue that 
+Treasury bills are just as safe and liquid as checking accounts, with the added benefit that they earn interest. 
+Second, when managing billions of dollars in cash, one is more like a funding provider, rather than a depositor. 
+On very large balances, fiduciary responsibilities necessitate earning some return, even on an overnight basis. 
+27An example of sophisticated cash investors’ relentless effort of securing certainty to get their principal back 
+instantaneously is provided by the fact that not all cash managers invested in TLGP debt. Although FDIC 
+insured (and hence backed by the sovereign), such claims were deemed subordinated in credit seniority to U.S. 
+Treasuries as it was unclear when payment on them would be made in case of bankruptcy. 
+28Several institutional cash pool managers highlighted this point as it would raise the risk of their own 
+bankruptcies. Additional concerns raised by the managers of institutional cash pools were whether cash 
+balances that amount to tens of billions would really rank pari passu with the balances of main street if the 
+(continued…) 
+ 24 
+ 
+Third, for interest-bearing non-transaction accounts (that is, for non-overnight institutional 
+cash balances), similar to interest-bearing transaction accounts, even the higher, $250,000 
+deposit insurance limits do not appear to be sufficient to attain full safety for institutional 
+cash pools through insured deposits (see Appendix, Figure A14). Provided that a shortage of 
+short-term, government guaranteed instruments exists, future leakage of funding into the 
+“shadow” banking system is most likely to come from this maturity spectrum. 
+ 
+VII.   CONCLUSIONS 
+Through the profiling of the size and investment preferences of institutional cash pools, this 
+paper explained the rise of the “shadow” banking system from a demand-side perspective. 
+Explaining the rise of “shadow” banking from this perspective paints a very different picture 
+than the supply-side angle that views “shadow” banking as a story of banks’ funding 
+preferences and arbitrage. The conclusion of the paper is that institutional cash pools 
+prioritize principal safety and portfolio diversification over yield and are hesitant (in many 
+cases due to fiduciary reasons) to take on too much direct, unsecured exposures to banks 
+through even insured deposits. In other words, institutional cash pools are not particularly 
+keen on being intermediated through the traditional banking system. 
+ 
+Between 2003 and 2008, institutional cash pools’ cumulative demand for short-term 
+government guaranteed instruments (as alternatives to insured deposits) exceeded the supply 
+of such instruments by at least $1.5 trillion. The “shadow” banking system rose to fill this 
+vacuum, through the creation of safe, short-term and liquid instruments. Thus, from this 
+perspective the “shadow” banking system was just as much about networks of banks, 
+investment banks and asset managers working together to respond to institutional cash 
+pools’s preference to invest cash at a distance from banks as it was about banks’ funding 
+preferences and off-balance sheet banking. From this perspective, the rise of “shadow” 
+banking has an under-appreciated demand-side dimension to it. 
+ 
+In turn, if the development of the “shadow” banking system was an evolutionary response to 
+the safety and counterparty diversification preferences of wholesale cash pools and a 
+structural deficit of short-term government guaranteed instruments, there are indeed some 
+strong macro reasons for why the “shadow” banking system exists. In other words, what 
+looks like undesirable regulatory arbitrage from the perspective of regulated institutions, was 
+desired portfolio diversification from the perspective of institutional cash pools. This is to say 
+that if regulatory arbitrage inspired the pejoratively-sounding term shadow banking
+,                     
+cash portfolio diversification could imply renaming it to market-based banking. 
+ 
+Central banks themselves are very much conscious of principal safety and counterparty 
+diversification, and are active users of market-based banking solutions. The Bank of 
+International Settlements manages nearly $250 billion in cash through various cash 
+                                                                                                                                                      
+ 
+payout of billions in balances would force the FDIC to impose uncomfortably large haircuts on small 
+depositors. 
+ 25 
+management products for central banks globally. Using interest rate and FX swaps, these 
+products transform portfolios of long-term G7 government bonds into safe, short-term and 
+liquid instruments that are “similar to certificates of deposit, priced at a margin below the 
+OIS curve and liquidity enhanced by standby repurchases by the BIS”. Central banks prefer 
+to keep some of their cash with the BIS (ergo, at a distance from banks), since as lenders of 
+last resort to banks, it is too risky to keep all their cash at banks (just as it is for cash pools)!29 
+ 
+Against this backdrop, the questions that regulators should be asking are: (i) whether to 
+incorporate the issuance of short-term government guaranteed instruments in the macro-
+prudential toolkit and aim to fully meet institutional cash pools’ demand for such 
+instruments; and (ii) how, as an alternative, institutional cash pools could be involved in 
+credit intermediation to the real economy through a market-based credit system and how this 
+system—and the insured deposit alternatives it generates as a byproduct of its credit 
+intermediation activities—should be embraced by central banks (see Mehrling
+ (2010)). 
+ 
+Institutional cash pools strong safety preferences were the principal drivers of the emergence 
+of the market-based financial system. These preferences are either satisfied through policy or 
+through solutions devised by the financial system. Frustrating the system’s ability to provide 
+these solutions while at the same time not addressing the vacuum this creates through policy 
+remain fundamental sources of systemic risk and point to more frequent banking crises ahead 
+ 
+  
+                                                
+ 
+29For more on these deposit alternatives see page 164 of the 81st  BIS Annual Report. 
+ 26 
+APPENDIX 
+ 
+ 
+ 
+        Figure A2: High Net-Worth Individuals 
+        Number of $ billionaires worldwide 
+ 
+         
+ 
+        Source: The Economist (http://www.economist.com/node/17929057) 
+  
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010Figure A1: Non-Financial Corporations' Cash and Cash Equivalents Holding     
+totals, $ billions
+S&P500 (top 10 total) S&P500 (top 100 total)
+Source: CapitalIQ, Pozsar (2011)
+
+ 27 
+ 
+ 
+ 
+ 
+0
+100
+200
+300
+400
+500
+600
+90 91 92 93 94 95 96 97 98 99 00 01 02 03 04 05 06 07 08 09 10 11
+Figure A3: Long-Term Mutual Funds' Cash and Cash Equivalents Holdings     
+$ billions
+Source: ICI, Pozsar (2011 )
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+90 91 92 93 94 95 96 97 98 99 00 01 02 03 04 05 06 07 08 09 10
+Figure A4: Securities Lenders' Holdings of  Cash and Cash Equivalents     
+$ trillions
+Source: RMA, Pozsar (2011 )
+ 28 
+ 
+ 
+ 
+ 
+0
+2
+4
+6
+8
+10
+12
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+Figure A5: Cash and Cash Equivalents as a Share of  Total Assets     
+Non-financial corporations, %
+S&P500 (top 10 average) S&P500 (top 100 average)
+Source: CapitalIQ, Pozsar (2011 )
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+Figure A6: Non-Financial Corporations Cash and Cash Equivalent Holdings     
+averages, $ billions
+S&P500 - Top 10 S&P500 - Top 100 S&P500 - The rest S&P400 - All firms S&P600 - All firms
+Source: CapitalIQ, Pozsar (2011)
+ 29 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure A7: Top Holdings of Cash and Cash Equivalents
+Holdings of Cash and Cash Equivalents Holdings of Cash and Cash Equivalents
+Ranked by 2010 balances, $ millions Ranked for each year on a dynamic and "anonymous" basis, $ millions
+Rank Company Name 2010 2009 2008 2007 2005 Rank 2010 2008 2005 2003 2000 1995 1990
+1 General Electric Co.                  78,958 70,488 48,187 15,731 8,825 1 78,958 48,187 28,671 13,576 8,195 7,259 3,853
+2 Johnson & Johnson                   19,355 15,810 10,768 7,770 16,055 2 19,355 31,437 16,055 12,664 7,080 5,750 1,896
+3 Chevron Corp.                          14,060 8,716 9,347 7,362 10,043 3 14,060 12,741 13,388 10,626 4,910 3,730 1,430
+4 Dell Inc.                                   13,913 10,635 8,352 7,764 7,054 4 13,913 11,189 12,568 7,971 4,278 2,839 670
+5 Google Inc.                               13,630 10,198 8,657 6,082 3,877 5 13,630 10,768 11,934 7,790 4,166 2,458 609
+6 Merck & Co. Inc.                       10,900 9,311 4,368 5,336 9,585 6 10,900 9,782 10,043 7,290 4,115 2,323 403
+7 Apple Inc.                                 10,734 7,609 7,236 9,162 4,150 7 10,734 9,347 9,585 6,149 3,994 1,847 390
+8 IBM Corp.                               10,661 12,183 12,741 14,991 12,568 8 10,661 8,657 8,903 5,427 3,563 1,668 309
+9 Oracle Corp.                             10,420 14,919 7,353 6,733 2,837 9 10,420 8,352 8,825 5,377 3,531 1,646 270
+10 HewlettPackard Company          9,934 13,547 11,189 9,903 11,934 10 9,934 8,346 7,816 5,199 3,407 1,645 265
+11 ConocoPhillips                         9, 454 542 755 1,456 2,214 11 9,454 7,976 7,324 4,943 3,374 1,559 256
+12 Unitedhealth Group, Inc.           9,123 9,800 7,426 8,865 5,421 12 9,123 7,916 7,054 4,806 3,301 1,508 204
+13 The Coca-Cola Company           8,517 7,021 4,701 4,093 4,701 13 8,517 7,426 6,258 4,317 3,182 1,463 186
+14 News Corp.                              8,456 7,266 3,621 3,495 5,243 14 8,456 7,353 6,193 4,266 2,976 1,408 179
+15 Exxon Mobil Corporation         7,825 10,693 31,437 33,981 28,671 15 7,825 7,275 5,421 4,225 2,610 1,364 173
+16 WalMart Stores Inc.                   7,395 7,907 7,275 5,492 6,193 16 7,395 7,236 5,412 4,173 2,543 1,201 171
+17 The Dow Chemical Company   6,894 2,846 2,800 1,736 3,806 17 6,894 6,377 5,243 3,917 2,537 1,167 166
+18 Verizon Communications Inc.   6,668 2,009 9,782 1,153 760 18 6,668 5,844 5,151 3,777 2,430 1,140 140
+19 Ford Motor Co.                        6,301 9,762 6,377 20,678 13,388 19 6,301 5,653 4,701 3,724 2,328 1,138 132
+20 Eli Lilly & Co.                          5,993 4,463 5,497 3,221 3,007 20 5,993 5,497 4,440 3,658 2,297 1,083 129
+Top 10 192,565 173,416 128,198 90,834 86,929 Top 10 192,565 158,806 127,788 82,069 47,239 31,165 10,095
+Top 20 269,191 235,725 207,869 175,003 160,332 Top 20 269,191 227,358 184,985 123,875 74,816 44,196 11,831
+Colors indicate cash and equivalents portfolios of: and
+Red and green borders indicate corporations with significant finance company subsidiaries that have boosted their cash holdings  in anticipation of regulatory measures.
+Source: Capital IQ; Pozsar (2011)
+more than $10bn between $10 and $7.5bn between $7.5 and $5bn between $5 and $2.5bn less than $2.5bn
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+Figure A8: The Number of FDIC Insured Banks in the U.S.     
+thousands
+Source: FDIC, Pozsar (2011)
+ 30 
+ 
+ 
+ 
+ 
+20
+25
+30
+35
+40
+45
+50
+55
+60
+1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+Figure A9: Counterparty Diversification for Large Cash Investors Is Getting Harder     
+Top 10 banks share of  all FDIC insured bank assets, rolling, dynamic top 10, % share
+Source: FDIC, Pozsar (2011)
+-3.0
+-2.5
+-2.0
+-1.5
+-1.0
+-0.5
+0.0
+0.5
+1.0
+1.5
+2004 2005 2006 2007 2008 2009 2010 2011
+Figure A10: Yield Difference Between 3-mo. CDs and Other Instruments     
+ppts
+Eurodollar deposits Financial CP Nonfinancial CP Treasury bills Asset-backed CP Agency discos
+Start of the Crisis
+Lehman Bankruptcy
+Source: Haver, Pozsar (2011)
+ 31 
+ 
+ 
+  
+Figure A11: Securities Lenders' Cash Collateral Reinvestment Account Size (in $ trillions) and Composition (in %)
+Securities Lending:                                    
+Cash collateral under management, $ trilllion
+2005 2006 07H1 07H2 08H1 08H2 09H1 09H2 10H1 10Q3 10Q4
+Cash Collateral AuM:
+Global market (incl. U.S. market) - 2.54 3.28 3.56 3.60 2.56 1.73 1.80 1.91 1.85 -
+U.S. market only 0.85 1.03 1.27 1.22 1.65 1.24 0.83 0.85 0.83 0.85 0.78
+Short-Term Investments:                               
+% of total cash collateral AuM
+2005 2006 07H1 07H2 08H1 08H2 09H1 09H2 10H1 10Q3 10Q4
+Outright Holdings
+Traditional Bank Liabilities:
+Bank deposits 13.8% 13.9% 15.4% 14.1% 14.4% 7.9% 7.3% 11.4% 15.8% 15.3% 14.1%
+Total 13.8% 13.9% 15.4% 14.1% 14.4% 7.9% 7.3% 11.4% 15.8% 15.3% 14.1%
+Shadow Bank Liabilities:
+Repurchase agreements 29.5% 27.7% 27.6% 28.8% 29.4% 26.2% 28.2% 27.5% 30.5% 29.8% 32.2%
+Asset-backed securities (incl. ABCP) 23.4% 25.2% 27.5% 24.3% 16.6% 17.3% 15.3% 13.8% 10.2% 8.1% 7.6%
+Commercial paper 6.5% 5.9% 5.2% 3.9% 3.7% 4.1% 5.8% 8.9% 7.7% 8.6% 9.0%
+Funding agreements 0.7% 0.9% 1.5% 0.8% 0.8% 0.9% 0.2% 0.1% 0.1% 0.1% 0.1%
+Other instruments (VRDOs, etc.) 4.2% 3.3% 2.6% 1.8% 1.1% 1.5% 2.0% 2.1% 0.7% 1.4% 0.1%
+Total 64.4% 63.0% 64.5% 59.6% 51.6% 50.0% 51.4% 52.5% 49.2% 48.1% 48.9%
+Intermediated Holdings
+Regulated and Unregulated Intermediaries:
+Money market and other funds 1.8% 2.5% 1.5% 2.5% 3.3% 3.7% 6.4% 7.4% 8.4% 10.4% 12.5%
+Total 1.8% 2.5% 1.5% 2.5% 3.3% 3.7% 6.4% 7.4% 8.4% 10.4% 12.5%
+Aggregate Measures
+Deposits 13.8% 13.9% 15.4% 14.1% 14.4% 7.9% 7.3% 11.4% 15.8% 15.3% 14.1%
+Deposits "alternatives" 66.2% 65.5% 66.1% 62.0% 54.9% 53.6% 57.8% 60.0% 57.5% 58.4% 61.5%
+Ratio 4.8 4.7 4.3 4.4 3.8 6.8 7.9 5.3 3.6 3.8 4.4
+Medium-Term Investments:                          
+% of total cash collateral AuM
+2005 2006 07H1 07H2 08H1 08H2 09H1 09H2 10H1 10Q3 10Q4
+Outright Holdings
+Corporate bonds (incl. MTNs) 20.0% 20.6% 18.5% 23.9% 30.5% 38.5% 34.9% 28.6% 26.7% 26.3% 24.4%
+1Institutional cash balances in traditional bank liabilities.
+2Institutional cash balances in private, secured money market instruments.
+3Institutional cash balances' intermediated holdings of secured as well as unsecured bank exposures.
+Source: RMA, Data Explorers, Pozsar (2011)
+ 32 
+ 
+ 
+ 
+Figure A13: The Frequency of Banking Crises 
+ 
+Source: Reinhart and Rogoff (2010) 
+ 
+Figure A12: The Portfolio Allocation of the Rest of the World's Short-Term Dollar Balances
+Short-Term Foreign Funding of the U.S.        
+$ billions
+2009 2008 2007 2006 2005 2004 2003 2002
+Traditional Bank Liabilities:
+Bank deposits (CDs) 40.5 53.9 33.4 33.9 27.2 26.1 16.3 17.9
+Total 40.5 53.9 33.4 33.9 27.2 26.1 16.3 17.9
+Government Obligations:
+Treasury bills 862.1 378.5 229.1 253.2 283.8 316.9 268.6 23.2
+Agency discos 89.8 173.6 109.0 147.0 150.0 123.8 97.1 88.1
+Total 951.9 552.1 338.1 400.2 433.8 440.7 365.7 111.3
+Shadow Bank Liabilities:
+Financial CP 73.5 73.6 121.6 47.9 25.5 60.4 39.4 34.2
+ABCP 42.3 84.8 115.6 na na na na na
+Other 122.1 27.3 55.9 18.4 13.0 13.4 7.8 6.0
+Total 237.9 185.7 293.1 66.3 38.5 73.8 47.2 40.2
+Aggregate Measures:
+Deposits (%) 3.3 6.8 5.0 6.8 5.4 4.8 3.8 10.6
+Deposits "alternatives" (%) 96.7 93.2 95.0 93.2 94.6 95.2 96.2 89.4
+Ratio 29.4 13.7 18.9 13.8 17.4 19.7 25.3 8.5
+1Institutional cash balances in traditional bank liabilities.
+2Institutional cash balances in government-guaranteed obligations.
+3Institutional cash balances in private, secured money market instruments.
+Source: TIC; Pozsar (2011)
+1
+2
+3
+
+ 33 
+ 
+  
+-300
+-250
+-200
+-150
+-100
+-50
+0
+50
+1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+Figure A14: Still Not Enough Banks to Source Safety for Cash Pools                 
+# of  additional banks needed to get safety through insured, $250,000 deposits, thousands
+S&P500 (top 10 average) S&P500 (top 100 average) Asset managers (average) Securities lenders (average)
+Source: ISDA, CapitalIQ, RMA, ICI, FDIC, Pozsar (2011)
+ 34 
+References 
+ 
+Acharya, Viral, and Schabl, Philipp, 2009, “Do Global Banks Spread Global Imbalances?”            
+10th Jacques Polak Annual Research Conference, November 5-6, 2009. 
+ 
+Bernanke, Ben S., 2011, “International Capital Flows and the Returns to Safe Assets in the 
+United States,” Banque de France Financial Stability Review no. 15. 
+ 
+Caballero, Ricardo J., 2010, “The “Other” Imbalance and the Financial Crisis
+,”                        
+NBER Working Paper No. 15636 
+ 
+Carney, Mark, 2010, “Living with Low for Long
+,” Remarks by Governor Carney at the 
+Economic Club of Canada, Toronto, Ontario, 13th December, 2010. 
+ 
+Gorton, Gary, 2010, “Slapped by the Invisible Hand
+,” Oxford University Press. 
+ 
+Gorton, Gary, and Metrick, Andrew, 2010, “Regulating the Shadow Banking System
+,” 
+Brookings Papers on Economic Activity (forthcoming). 
+ 
+Holmström, Bengt, and Tirole, Jean, 2000, “Liquidity and Risk Management
+,”Journal of 
+Money, Credit and Banking, Vol. 32, No. 3, Part 1. (Aug., 2000), pp. 295-319. 
+ 
+Krishnamurthy, Arvind, and Vissing-Jorgensen, Annette, 2010, “The Aggregate Demand for 
+Treasury Debt,” NBER Working Paper No. 12881. 
+ 
+Mehrling, Perry, 2010, “The New Lombard Street: How the Fed Became the Dealer of Last 
+Resort,” Princeton University Press. 
+ 
+Mehrling, Perry, 2011, “The New Lombard Street: Financial Globalization and the Future of 
+the Fed,” Unpublished Mimeo. 
+ 
+Pozsar, Zoltan, 2008, “The Rise and Fall of the Shadow Banking System
+,”                           
+Moodys’s Economy.com, July. 
+ 
+–––––, 2010, “Banks Are No Longer Special: The Market-Based Banking System Is,” 
+Unpublished Mimeo, November. 
+ 
+ –––––, 2011, “Does the Secular Rise of Wholesale Cash Pools Necessitate Shadow 
+Banking?” Unpublished Mimeo, May. 
+ 
+–––––, et al., 2010, “Shadow Banking
+,” Federal Reserve Bank of New York Staff Report 
+No. 458, July. 
+ 
+–––––, and Singh, Manmohan, 2011, “Money Creation through Static and Dynamic Chains 
+in the Market-Based Financial System,” forthcoming. 
+ 
+ 35 
+Shin, Hyun Song, 2011, “Global Liquidity,” Remarks at the IMF conference on “Macro and 
+Growth Policies in the Wake of the Crisis,” Washington, D.C. 
+ 
+Singh, Manmohan, 2011a, “Puts in the Shadows,” forthcoming. 
+ 
+–––––, 2011b, “Making OTC Derivatives Safe—A Fresh Look
+,” IMF WP/11/66. 
+ 
+–––––, 2011c, “Velocity of Collateral,” forthcoming. 
+ 
+Stein, Jeremy, 2010, “Monetary Policy as Financial Stability Regulation
+,”                                 
+NBER Working Paper No. 16883. 
+ 
+Sweeney, James, 2009, “Long Shadows—The Sequel,”                                                               
+Credit-Suisse Fixed Income Research, November 30, 2009. 
+ 
+Van Wetering, Eric, 2011, “Systems Thinking in Investment, Banking and Regulation
+,”                                 
+Unpublished Mimeo, August. 
+ 

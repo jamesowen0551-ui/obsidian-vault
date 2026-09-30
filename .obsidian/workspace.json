@@ -29,12 +29,14 @@
             "id": "d27b2ac56d8659c2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "POSZAR研究/A Tool of Their Own.pdf"
+                "file": "主动投资管理/第二章-共识预期收益与CAPM-精读.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "A Tool of Their Own"
+              "icon": "lucide-file",
+              "title": "第二章-共识预期收益与CAPM-精读"
             }
           }
         ]
@@ -212,23 +214,26 @@
   },
   "active": "d27b2ac56d8659c2",
   "lastOpenFiles": [
-    "POSZAR研究/From Exorbitant Privilege to Existential Trilemma.pdf",
+    "POSZAR研究/_extracted/Why-banking-works-one-big-confidence-trick-FT-McCulley-and-Poszar-Article.txt",
+    "POSZAR研究/_extracted/What Excess Reserves？.txt",
+    "POSZAR研究/_extracted/War and Peace.txt",
+    "POSZAR研究/_extracted/War and Interest Rates.txt",
+    "POSZAR研究/_extracted/War and Industrial Policy.txt",
+    "POSZAR研究/_extracted/War and Currency Statecraft.txt",
+    "POSZAR研究/_extracted/War and Commodity Encumbrance.txt",
+    "POSZAR研究/_extracted/U.S. Dollar Libor and War Finance.txt",
+    "POSZAR研究/_extracted/U.S. Dollar Libor and Swap Line Rollovers.txt",
+    "POSZAR研究/_extracted/The Rise and Fall of the Shadow Banking System.txt",
+    "POSZAR研究/_extracted/The Revenge of the Plumbing.txt",
+    "POSZAR研究/00 - Pozsar 总目录.md",
+    "POSZAR研究/研究专题/01 影子银行理论/Bagehot Was a Shadow Banker.md",
+    "POSZAR研究/研究专题/01 影子银行理论/A Macro View of Shadow Banking.md",
     "POSZAR研究/From Exorbitant Privilege to Existential Trilemma.md",
     "企业信贷投向生产性与非生产性/Rajan_Zingales_1998_详细笔记.md",
     "企业信贷投向生产性与非生产性/King_Levine_1993_详细笔记.md",
     "企业信贷投向生产性与非生产性/BIS_WP490_详细笔记.md",
     "企业信贷投向生产性与非生产性/Werner_1997_详细笔记.md",
     "企业信贷投向生产性与非生产性/BIS_WP381_详细笔记.md",
-    "企业信贷投向生产性与非生产性/papers_extracted/rajan_zingales_1998.txt",
-    "企业信贷投向生产性与非生产性/papers_extracted/king_levine_1993.txt",
-    "企业信贷投向生产性与非生产性/papers_extracted/bis_wp490.txt",
-    "企业信贷投向生产性与非生产性/papers_extracted/bis_wp381.txt",
-    "企业信贷投向生产性与非生产性/papers_extracted/werner_1997.txt",
-    "企业信贷投向生产性与非生产性/papers_extracted",
-    "企业信贷投向生产性与非生产性/extract_pdfs.py",
-    "企业信贷投向生产性与非生产性/papers/Werner_2005_New_Paradigm_Macroeconomics.pdf",
-    "企业信贷投向生产性与非生产性/papers/Schumpeter_1934_Theory_Economic_Development.pdf",
-    "企业信贷投向生产性与非生产性/papers/Minsky_1986_Stabilizing_Unstable_Economy.pdf",
     "POSZAR研究/Flying Blind.md",
     "POSZAR研究/Design Options for an on Repo Facility.md",
     "POSZAR研究/BEAT，FRA-OIS and the Cross-Currency Basis.md",
@@ -245,9 +250,6 @@
     "研究专题/综合短评 反转效应与股债冲击不对称.md",
     "Claude对话存档/2026-07-16 银行的外汇风险敞口.md",
     "未命名.canvas",
-    "研究专题/股债相关性文献清单.md",
-    "Claude对话存档/为什么构建的组合里把仓位和久期混在一起看了.md",
-    "claude_conversations/20260529_缇庤仈鍌ㄨ鎭細璁笌甯傚満鍒╃巼璧板娍璇嗗埆.md",
-    "claude_conversations/20260528_鍐呭瀹℃煡.md"
+    "研究专题/股债相关性文献清单.md"
   ]
 }
