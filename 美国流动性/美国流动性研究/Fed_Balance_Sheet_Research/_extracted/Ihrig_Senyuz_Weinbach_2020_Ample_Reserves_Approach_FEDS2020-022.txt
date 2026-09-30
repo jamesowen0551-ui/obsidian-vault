@@ -1,0 +1,1064 @@
+
+===== PAGE 1 =====
+Finance and Economics Discussion Series
+Divisions of Research & Statistics and Monetary Aﬀairs
+Federal Reserve Board, Washington, D.C.
+The Fed’s “Ample-Reserves” Approach to Implementing
+Monetary Policy
+Ihrig, Senyuz, and Weinbach
+2020-022
+Please cite this paper as:
+Ihrig, Jane, and Zeynep Senyuz, Gretchen Weinbach (2020). “The Fed’s “Ample-
+Reserves” Approach to Implementing Monetary Policy ,” Finance and Economics Discus-
+sion Series 2020-022. Washington: Board of Governors of the Federal Reserve System,
+https://doi.org/10.17016/FEDS.2020.022.
+NOTE: Staﬀ working papers in the Finance and Economics Discussion Series (FEDS) are preliminary
+materials circulated to stimulate discussion and critical comment. The analysis and conclusions set forth
+are those of the authors and do not indicate concurrence by other members of the research staﬀ or the
+Board of Governors. References in publications to the Finance and Economics Discussion Series (other than
+acknowledgement) should be cleared with the author(s) to protect the tentative character of these papers.
+===== PAGE 2 =====
+ 
+ 
+The Fed’s “Ample-Reserves” Approach to 
+Implementing Monetary Policy  
+ 
+ 
+Jane Ihrig, Zeynep Senyuz, and Gretchen C. Weinbach* 
+ 
+ 
+February 19, 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstract 
+We describe the Federal Reserve’s (the Fed’s) approach to imple menting monetary policy in an 
+ample-reserves regime.  We use a stylized model to explain the factors the Fed considers and the 
+tools it uses to ensure interest rate control when the quantity  of reserves is ample.  Then, we take 
+a close look at the Fed’s experience operating in this regime in the post-crisis period, both as it has 
+raised and lowered its policy rate.  Looking ahead, we highligh t some considerations relevant for 
+maintaining a level of reserves consistent with the efficient a nd effective implementation of 
+monetary policy, and conclude with an overview of the benefits of an ample-reserves regime. This 
+primer is intended to enhance discussions and understanding of the Fed’s actions and 
+communications regarding monetary policy implementation, as many resources on this topic may 
+be out of date given the recent evolution of the policy environment. 
+ 
+Keywords:  Monetary policy implementation, reserve balances, ample-reserves regime, 
+administered rates, interest on reserves, open market operations 
+JEL:  E58, E52, E43 
+* Ihrig, Senyuz, and Weinbach are economists at the Federal Reserve Board.  Corresponding author:  Jane 
+Ihrig; Board of Governors of the Federal Reserve System; 20th Street and Constitution, NW, Washington, 
+DC 20551; 202-452-3372 (O); jane.e.ihrig@frb.gov.  Luke Morgan provided excellent research 
+assistance.  We thank Kathryn Chen, Jim Clouse, Margaret DeBoer, Laura Lipscomb, Lorie Logan, Matt 
+Malloy, Antoine Martin, John McGowan, Fabiola Ravazzolo, Julie Remache, Will Riordan, Sam 
+Schulhofer-Wohl, and Patricia Zobel for their useful comments. 
+ 
+Analysis and conclusions set forth in this paper are those of the authors and do not indicate 
+concurrence by other members of the staff of the Federal Reserve Board.  
+===== PAGE 3 =====
+Page 2 of 40 
+ 
+1. Introduction 
+The Federal Open Market Committee’s (FOMC) primary means of achieving its dual 
+mandate of maximum employment and stable prices is to set the target range for its policy rate—
+the federal funds rate—and communicate any expected changes in the near-term path of that 
+rate.1  Adjustments to the target range, when combined with careful policy communications and 
+transparent policy strategy, transmit to other short-term interest rates and set off a chain of 
+broader influences on financial conditions, making them more or less accommodative of 
+economic growth.  But how does the Federal Reserve (the Fed) ensure that adjustments in the 
+target range for its policy rate affect the market-determined federal funds rate and other short-
+term rates?  It does so through careful attention to monetary policy implementation.           
+In January 2019, the FOMC communicated its intention to continue implementing 
+monetary policy in a regime with an ample supply of reserves.2  This decision was reached 
+following more than a decade of successful policy implementation in an environment with 
+plentiful reserves in the banking system.  In this regime, when the FOMC wants to adjust the 
+stance of policy, it moves the target range for the federal funds rate up or down and 
+communicates information about the range to the public.  To implement a corresponding change 
+in market rates, the Fed adjusts its administered interest rates.  Together these steps affect the 
+market-determined federal funds rate and other overnight market interest rates.   In contrast to 
+the Fed’s previous implementation regime, in which the quantity of reserves was substantially 
+less plentiful (and thus termed “limited,” or sometimes “scarce”), the Fed is not required to 
+                                                             
+1 The Federal Reserve Act directs the Board of Governors and the FOMC to conduct monetary policy “so as to 
+promote effectively the goals of maximum employment, stable prices, and moderate long-term interest rates.” 
+Because long-term interest rates remain moderate in a stable economy with low expected inflation, this set of goals 
+is often referred to as the “dual mandate” of maximum employment and price stability. 
+2 The FOMC’s announcement may be found on the Federal Reserve Board’s web site at the following link:   
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20190130c.htm.  
+===== PAGE 4 =====
+Page 3 of 40 
+ 
+actively manage, or frequently adjust, the supply of reserves to maintain interest rate control.  
+The ample-reserves regime provides good control of the federal funds rate in a simple and 
+efficient manner and enables effective transmission of the stance of policy to broader financial 
+markets.  Moreover, this regime has proven resilient to significant changes in the monetary and 
+regulatory environments since the Global Financial Crisis of 2007-09.3   
+In this paper, we describe the Fed’s “ample reserves” approach to implementing 
+monetary policy, review its experience operating in this regime, and highlight some operational 
+issues it may face on the path forward.  This information is intended to enhance discussions and 
+understanding of the Fed’s actions and communications related to monetary policy 
+implementation.  In particular, the material may be used to supplement textbooks and other 
+existing learning materials that may be out of date in their descriptions of how the Fed 
+implements monetary policy when reserve supply is considered ample.     
+The rest of the paper proceeds as follows.  Using a stylized demand and supply 
+framework, we begin in section 2 by describing the roles of banks and the Fed in influencing 
+reserves.  We then describe how an “ample” quantity of reserves is determined and how the Fed 
+controls the federal funds rate when the quantity of reserves is ample, including the basic 
+mechanics of the tools the Fed uses in this operating regime.  In section 3, we take a close look at 
+the Fed’s experience using this regime, and discuss the technical adjustments the Fed has 
+implemented to ensure interest rate control.  Turning to section 4, we describe some operational 
+considerations the Fed may encounter as it seeks to maintain an ample quantity of reserves over 
+time.  Finally, section 5 concludes by highlighting the benefits of the FOMC’s chosen 
+                                                             
+3 For an overview of these changes and an analysis of their effects on money markets, see Klee, Senyuz, and Yoldas 
+(2019). 
+===== PAGE 5 =====
+Page 4 of 40 
+ 
+implementation regime and reminds the reader of some key takeaways about its use going 
+forward. 
+2. Policy implementation with ample reserves  
+The Fed implements monetary policy with the aim of keeping the federal funds rate in the 
+FOMC’s target range.4  The federal funds rate (FFR) is the interest rate at which depository 
+institutions, or what we term “banks,” borrow reserves from and lend reserves to one another on 
+an overnight basis to meet short-term funding needs.5  To understand how the Fed implements 
+policy, it is easiest to consider a stylized model of the demand for and supply of reserves.   
+2.1 Banks’ demand for reserves 
+Banks may hold a portion of their cash in an account at the Fed; these funds are referred 
+to as reserve balances, or reserves.  One can think of banks’ reserve accounts in much the same 
+way as households’ checking accounts.  Just as individuals use the cash in their checking and 
+other transactional accounts to facilitate their deposit and payment activities, banks use reserves 
+in managing their liquidity needs.  Unlike other liquid assets, reserve balances are immediately 
+available throughout the day to make payments for lending, securities settlement, meeting 
+deposit outflows, and for other intermediation activities.   
+There are many reasons for banks to demand reserves.  Before the crisis, banks’ demand 
+was largely driven by the Fed’s reserve requirements and banks’ intraday payment needs.  
+Today, a host of additional factors come into play.  First, the Fed now pays interest on reserves, 
+                                                             
+4 The Fed actually seeks to keep the daily “effective” FFR in the target range.  The effective FFR is the volume-
+weighted median rate of all overnight federal funds transactions that occurred on a given day.  These data, published 
+daily, may be found on the Federal Reserve Bank of New York’s web site here:  
+https://apps.newyorkfed.org/markets/autorates/fed%20funds.  
+5 We use the term “banks” throughout to refer to depository institutions, which include commercial banks, savings 
+banks, credit unions, thrift institutions, and most U.S. branches and agencies of foreign banks.   
+===== PAGE 6 =====
+Page 5 of 40 
+ 
+and so holding these balances has become more attractive.  Second, in response to the financial 
+crisis, banks have enhanced their internal liquidity risk management practices, taking into 
+account their individual business models and liquidity preferences, and reserves are useful for 
+this purpose.  Third, banks may hold reserves to help meet several post-crisis regulatory liquidity 
+standards created in part to enhance banks’ self-sufficiency in times of financial stress, such as 
+resolution planning and the liquidity coverage ratio.  Finally, some changes in the federal funds 
+market since the financial crisis have also boosted banks’ demand for reserves.  In particular, 
+late-day trading conditions are less liquid and banks are more hesitant to tap intraday or other 
+credit from the Fed.  Taken together, the mix of factors influencing banks’ demand for reserves 
+today is complex and also likely to continue to evolve over time.6  
+Figure 1 provides a stylized illustration of a demand curve for reserves.  This downward-
+sloping curve has two portions.  The steep portion of the curve captures the idea that the higher 
+the opportunity cost of holding reserve balances, the lower is banks’ demand.  Conversely, as the 
+cost of overnight borrowing in the federal funds market falls, banks are generally inclined to hold 
+more reserves to provide themselves with an extra liquidity cushion.  On this steep portion of the 
+curve, banks’ demand is quite sensitive to changes in reserve supply; the rate at which these 
+funds are traded, the federal funds rate, adjusts with even modest changes in reserve supply.  The 
+demand curve also has a nearly flat, or flat, portion, located where the quantity of reserves in the 
+banking system is significantly larger.  The transition from the steep portion of the curve to the 
+nearly flat portion illustrates that as the quantity of reserves in the banking system increases, at 
+                                                             
+6 Beginning in September 2018, the Federal Reserve has periodically conducted a Senior Financial Officer Survey to 
+ask individual banks about their reserve balance management practices, including the importance of various factors 
+in driving their reserve demand.  In August 2019, banks responded that meeting routine intraday payment flows and 
+satisfying internal liquidity stress metrics were very important factors in determining their demand for reserves.  A 
+summary of the results of each survey is published on the Federal Reserve Board’s web site, available at the 
+following link:  https://www.federalreserve.gov/data/sfos/sfos.htm.  In addition, Logan (2019a) discusses banks’ 
+demand for reserves. 
+===== PAGE 7 =====
+Page 6 of 40 
+ 
+some point, banks do not find much benefit from holding additional reserves other than earning 
+the interest the Fed pays on these balances.  As a result, and as we’ll see below, the demand 
+curve flattens out at a level that is close to the interest rate earned on reserve balances.  On the 
+flat portion of the curve, banks’ demand is not sensitive to changes in reserve supply; the federal 
+funds rate does not materially move when supply is adjusted either up or down.    
+Figure 1  
+Banks’ Demand for Reserves 
+ 
+2.2 The Fed’s supply of reserves  
+Many factors that affect the supply of reserves.  Some influences are independent of the 
+Fed’s control, termed autonomous factors, and others are directly related to the Fed’s actions, 
+termed open market operations.  Because the Fed understands how autonomous factors affect the 
+supply of reserves, it can choose what operations to take, if any, in response.  As a result, one 
+should think of the Fed as controlling the supply of reserves in the banking system.   
+
+===== PAGE 8 =====
+Page 7 of 40 
+ 
+So what quantity of reserves must the Fed supply to be in an ample-reserves regime?  The 
+term “ample” is fundamentally tied to the location of the Fed’s supply curve relative to banks’ 
+demand curve.  In particular, to be ample, the Fed’s reserve supply must be positioned so that the 
+equilibrium FFR does not materially change with movements in the quantity of reserves in the 
+banking system.  This condition is met when the Fed’s supply curve intersects banks’ demand 
+curve on the portion of the demand curve that is nearly flat.   
+Figure 2 illustrates the Fed’s ample-reserves regime.  The red supply curves are vertical 
+because the Fed controls the level of reserves.  To be in an ample reserves-regime, the quantity  
+Figure 2 
+The Fed’s Ample-Reserves Regime 
+ 
+of reserves must be at least as large as the (stylized) quantity labeled “A”—reserve supply must 
+fall in the gray shaded region.  In this region, any supply curve will intersect the demand curve at 
+its relatively flat portion, meeting the condition for being in an ample regime.  While the quantity 
+labeled “A” represents the minimum level of reserves needed to be in an ample-reserves regime, 
+
+===== PAGE 9 =====
+Page 8 of 40 
+ 
+the quantity “B” represents a super plentiful amount of reserves, and one that is also consistent 
+with being in an ample regime.   
+An important takeaway from figure 2 is that the stylized gray region is very wide.  An 
+ample-reserves regime functions well with a wide range of reserve levels in the banking system, 
+such as a quantity near, or even greater than, vertical line “B,” as well as a quantity that is 
+significantly smaller, such as closer to vertical line “A,” or with any reserve quantity in between.   
+Over the past several years, the quantity of reserves supplied by the Fed has moved 
+widely within this gray range.  During the period from late 2008 to late 2014, the Fed conducted 
+a series of large-scale purchases of longer-term securities to put downward pressure on longer-
+term interest rates in response to the Great Recession that severely weaken the U.S economy.  
+When the Fed completed these purchases, reserves stood at a peak of $2.8 trillion, or 15 percent 
+of U.S. nominal GDP.7  At this time, the vertical supply curve was essentially near “B,” a 
+quantity sometimes referred to as “abundant” or “super abundant.”8  Then, as the economy 
+recovered, the Fed took steps to reduce the supply of reserves.  Between late 2014 and August 
+2019, reserves slowly declined, on balance, and at the end of this period, they stood near $1.5 
+trillion, a quantity much closer to “A.”  So at what approximate quantity of reserves might the 
+Fed prefer to operate in the long run?  
+In January 2019, the FOMC announced its plans for implementing monetary policy over 
+the longer run.  The Committee described its choice of implementation regime this way:9     
+                                                             
+7 A summary of the Fed’s purchase programs may be found on the Federal Reserve Board’s web site at this link:  
+https://www.federalreserve.gov/monetarypolicy/bst_openmarketops.htm.  In addition, see Bernanke (2012) for a 
+broader discussion of the Fed’s response to the crisis.  
+8 See Yellen (2017) for a discussion of the role of reserves in the policy implementation framework, both when 
+reserves were relatively limited and when they were characterized as abundant.      
+9 The FOMC’s announcement may be found on the Federal Reserve Board’s web site at the following link:   
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20190130c.htm.  
+===== PAGE 10 =====
+Page 9 of 40 
+ 
+ 
+ 
+ 
+With this announcement, the Committee communicated that it will not return to its pre-crisis 
+implementation regime.  In that limited-reserves regime, the Fed supplied an amount of reserves 
+well to the left of vertical line “A” in figure 2; it operated on the steep portion of banks’ demand 
+curve where even modest changes in the supply of reserves affect the equilibrium level of the 
+FFR.  In addition, characterizing the desired supply of reserves as “ample” signaled that the 
+Committee does not want to operate in the long run with a super plentiful amount of reserves, 
+such as one depicted as being closer to vertical line “B.”  This indication is also tied to the 
+Committee’s previously stated intention that the Fed will, in the longer run, hold no more 
+securities than necessary to implement monetary policy efficiently and effectively.
+10  Thus, 
+taking the pieces together, the Committee’s announcement indicated that, going forward, the Fed 
+will keep supplying a quantity of reserves in the gray region, and that the quantity will be closer 
+to the vertical line labeled “A” than “B.”  With this framing, we now turn to how the Fed 
+controls the FFR when the quantity of reserves in the banking system is in the gray region.     
+2.3 Rate control tools  
+ When implementing monetary policy in an ample-reserves regime,  the Fed primarily 
+relies on its administered interest rates to keep the FFR within its target range.  But it also 
+                                                             
+10 Holding other parts of the Fed’s balance sheet constant, an increase (decrease) in securities will increase 
+(decrease) reserves.  So a statement about “holding no more securities than necessary” is also saying the Fed plans 
+to hold no more reserves than necessary to implement policy efficiently and effectively.  Information about the 
+Federal Reserve’s Policy Normalization Principles and Plans is summarized on the Federal Reserve Board’s web 
+site at the following link:  https://www.federalreserve.gov/monetarypolicy/policy-normalization-discussions-
+communications-history.htm. 
+The Committee intends to continue to implement monetary policy in a regime 
+in which an ample supply of reserves ensures that control over the level of the 
+federal funds rate and other short-term interest rates is exercised primarily 
+through the setting of the Federal Reserve's administered rates, and in which 
+active management of the supply of reserves is not required. 
+===== PAGE 11 =====
+Page 10 of 40 
+ 
+periodically needs to adjust the quantity of reserves in the banking system, using open market 
+operations, to maintain an ample supply.  We describe each of these rate control tactics in turn.   
+Administered rates 
+Administered rates are standing interest rates the Fed sets, or administers.  Currently, the 
+Fed predominantly relies on two such interest rates.  Each rate is available to a specific set of 
+counterparties on particular cash deposits held at the Fed.  The counterparties can decide if they 
+want to deposit their cash at the Fed and earn the relevant standing rate or lend it instead to 
+another market participant at a negotiated rate in one of the various money markets for cash.  
+One can think of the Fed’s administered rates as reservation rates—they set a lower bar on the 
+return a counterparty is willing to accept from others in money markets.  Hence, movements in 
+the Fed’s administered rates directly help steer money market interest rates.   
+The Fed’s key administered rate is the interest on reserves (IOR) rate, the rate that banks 
+earn from the Fed on the funds they deposit in their reserve accounts.11  When choosing whether 
+to hold some cash in their accounts at the Fed and earn the IOR rate or invest the cash in another 
+money market instrument, such as Treasury bills, banks mainly consider their liquidity needs and 
+the relative returns available on alternative investments.  With the payment of IOR, banks have 
+little or no incentive to lend reserves at rates lower than IOR, which is reflected in the flattening 
+out of banks’ reserve demand curve near the IOR rate (see figure 2).  In this sense, the IOR rate 
+acts as a reservation rate in banks’ intermediation activities, helping to establish a minimum, or a 
+                                                             
+11 Technically, the Fed pays interest on two different components of reserves—required reserves, tied to the Fed’s 
+reserve requirements as specified in Regulation D, and excess reserves, balances that are above the level of reserves 
+banks are required by the Fed to hold.  Under authority from Congress granted in the Financial Services Regulatory 
+Relief Act of 2006 and the Emergency Economic Stabilization Act of 2008, the Board of Governors directed the 
+Federal Reserve Banks to pay interest on required reserve balances and on excess balances, and these two rates are 
+currently set equal.  For simplicity, we use “IOR rate” to refer to the single rate at which the Federal Reserve Banks 
+pay interest on all reserve balances.   
+===== PAGE 12 =====
+Page 11 of 40 
+ 
+floor, under the various overnight market returns that banks consider.  In addition, as long as the 
+supply of reserves remains ample, banks should compete with each other so that lending in the 
+federal funds market occurs at rates that are never too far above the IOR rate.  As a result, in an 
+ample reserves regime, the FFR is expected to trade near the IOR rate.  While it can be modestly 
+above or below the IOR rate depending on seasonal factors and market conditions, the incentives 
+described above combine to prevent the FFR from drifting away from the IOR rate.  Because of 
+the close linkage between the IOR rate and the FFR, the IOR rate is the Fed’s primary tool of 
+policy implementation—for keeping the FFR in its target range.     
+In addition to banks, various nonbank institutions actively participate in U.S. money 
+markets, and these institutions are not eligible to earn IOR.  For example, government-sponsored 
+enterprises account for the majority of lending in the federal funds market since the financial 
+crisis, and they often lend excess cash at rates below IOR.  As a result, IOR by itself is unable to 
+set a firm floor under the constellation of overnight money market rates.  To enhance its rate 
+control, the Fed introduced a supplementary tool, the standing overnight reverse repurchase (ON 
+RRP) facility, to influence the interest rates at which nonbanks lend cash in money markets.  The 
+Fed began testing this form of open market operation in September 2013 and employed the 
+facility when the FOMC first raised interest rates following the crisis in December 2015.12   
+The FOMC sets the facility’s offering rate (ON RRP rate), the maximum interest rate the 
+Fed is willing to pay in an ON RRP transaction.13  Figure 3 illustrates a reverse repurchase 
+                                                             
+12 The Fed introduced the ON RRP facility in September 2013 and conducted test operations through late 2015.  In 
+September 2014, the FOMC indicated that it intended to use the facility as needed to help control the federal funds 
+rate.  For more information, see the Federal Reserve Board’s and the Federal Reserve Bank of New York’s web sites 
+at these links, respectively:  https://www.federalreserve.gov/monetarypolicy/overnight-reverse-repurchase-
+agreements.htm; https://www.newyorkfed.org/markets/rrp_faq.html.  
+13 The interest rate a counterparty receives is the facility’s offering rate except in the highly unlikely event that the 
+amount of propositions the Fed receives exceeds the amount of securities available for the operation.  In that case, 
+the interest rate would be determined by an auction process conducted by the Federal Reserve Bank of New York, as 
+described in the FAQs available at the following link:  https://www.newyorkfed.org/markets/rrp_faq.html.    
+===== PAGE 13 =====
+Page 12 of 40 
+ 
+agreement (or reverse repo, or RRP) transaction between the Fed and one of its counterparties, 
+and notes its effect on reserves.  In the first leg of the transaction, the counterparty deposits its 
+cash in the Fed’s ON RRP facility and the Fed recognizes that some of its Treasury securities are 
+temporarily sold to the counterparty.  With this step, reserve supply declines by the amount of 
+cash deposited in the Fed’s facility.  On the second day, or leg 2, the transaction is unwound, 
+with the Fed returning to the counterparty their cash deposit plus interest earned, and with the 
+interest tied to the ON RRP transaction rate.  In addition, the temporary sale of the Treasury 
+securities is unwound, and reserve supply increases.  Given the nature of this transaction, take-up 
+of the Fed’s ON RRPs constitutes a type of open market operation.   
+Figure 3 
+Illustration of a Reverse Repo (RRP) Transaction 
+ 
+The ON RRP facility is available to about 130 counterparties.  Many of these 
+counterparties, including money market funds, government-sponsored enterprises, in addition to 
+banks, are very active in money markets.14  Because of the possibility of doing reverse repo with 
+the Fed at its standing offering rate, these market participants have little incentive to lend cash to 
+                                                             
+14 For more on how the ON RRP facility complements the use of IOR and helps control short-term interest rates, 
+including some issues the Fed considered in its design, see Frost et al. (2015). 
+
+===== PAGE 14 =====
+Page 13 of 40 
+ 
+others at a lower rate.  Thus, for these counterparties, the ON RRP facility’s offering rate plays a 
+role similar to that of the IOR rate for banks—the ON RRP rate acts as a reservation rate in 
+money market investment and cash management decisions, helping to put a floor under the 
+various overnight market rates that these institutions consider, regardless of whether these 
+counterparties actually use the Fed’s facility on any given day or not.  So while it’s true that 
+when take-up at the ON RRP facility rises, reserves decline (all else equal), the primary purpose 
+of the facility is not to adjust reserve supply but to directly influence short-term interest rates 
+faced by nonbanks.     
+Figure 4 illustrates how the Fed’s IOR and ON RRP rates act as reservation rates for the 
+Fed’s counterparties—providing standing options for a range of money market participants when 
+they consider investing their cash in various money market instruments or with the Fed.     
+Figure 4 
+The Fed’s Administered Rates act as Reservation Rates 
+ 
+
+===== PAGE 15 =====
+Page 14 of 40 
+ 
+The Fed adjusts these administered rates in concert with changes in the target range for its policy 
+rate, and its counterparties use the new levels of these reservation rates in their evaluation of 
+where to invest cash.  This dynamic allows the Fed to achieve the FOMC’s desired stance of 
+policy.15  And, importantly, this approach to interest rate control does not require the Fed to 
+frequently adjust the quantity of reserves in the banking system.  But how does the Fed ensure 
+the quantity of reserves remains ample over time? 
+Open market operations (OMOs) 
+Open market operations, or OMOs—purchasing or selling securities in the open 
+market—are a long-standing tool of policy implementation.  This tool is currently used in two 
+different ways.  As we noted above, for the past several years the Fed has been using an ON RRP 
+facility designed to directly influence short-term interest rates.  In addition, for decades, the Fed 
+has used OMOs to alter the quantity of reserves it supplies—to purposefully expand or contract 
+the amount of reserves in the banking system.16  The latter type of OMOs, designed to adjust 
+reserve quantities, is specifically used by the Fed to maintain an ample level of reserves in the 
+banking system.  As discussed above, to be in an ample-reserves regime, the Fed needs to 
+maintain a quantity of reserves that is in the gray shaded region in figure 2, one that is at least as 
+large as the (stylized) quantity “A.”  And, in so doing, the Fed must account for the effects of 
+autonomous factors on the supply of reserves.   
+ As noted in section 2.2, the Fed monitors several autonomous f actors.  Highlighted in 
+Table 1, these factors are liabilities of the Fed other than reserves and include currency in 
+                                                             
+15 Some erroneously refer to the Fed’s ample-reserves implementation regime as a “corridor” regime.  The Fed’s 
+ample-reserves regime is a “floor” regime with two floor, or deposit rates:  one for banks (the IOR rate) and one 
+primarily for nonbanks (the ON RRP rate).  The fact that the Fed may set the IOR rate a bit above the ON RRP rate 
+does not reflect an intention to create a rate corridor.   
+16 For more information on how various OMOs affect reserves, see Ihrig, Mize, and Weinbach (2017).   
+===== PAGE 16 =====
+Page 15 of 40 
+ 
+circulation, the Treasury’s cash account, or General Account, at the Fed (the TGA), and 
+outstanding reverse repo agreements (the latter includes the Fed’s foreign repurchase pool and 
+balances at the ON RRP facility).  Box 1 describes each of these non-reserve liabilities and their 
+purpose.  Here we describe how these factors intersect policy implementation.   
+Table 1 
+The Fed’s Liabilities:  Autonomous Factors Highlighted 
+Fed Liability Item Amount* 
+($ billions) 
+Currency in circulation 1,748 
+Reserve Balances 1,695 
+U.S. Treasury, General Account (TGA) 404 
+Reverse repurchase agreements 224 
+Other liabilities 73 
+    * As of February 12, 2020. 
+Source: Federal Reserve Board, H.4.1 statistical release. 
+ 
+The levels of the Fed’s non-reserve liabilities move over time, exhibiting both long-run 
+trend growth as well as short-run fluctuations.  For example, currency in circulation has grown 
+on average about 6 percent a year, and the public’s demand often temporarily expands around 
+holidays.  Each of these influences causes reserves to decline, all else equal.  In addition, 
+Treasury’s account at the Fed fluctuates, sometimes substantially, including around corporate 
+and personal tax payment dates; the movements cause aggregate reserves to fluctuate in 
+response, in the opposite direction.  In general, reserves decline dollar-for-dollar when the Fed’s 
+non-reserve liabilities increase, and vice versa.  The effects on reserves from changes in the 
+===== PAGE 17 =====
+Page 16 of 40 
+ 
+autonomous factors reflect the fact that the activities associated with each of the Fed’s non-
+reserve liabilities clear through reserve accounts at the Fed.17   
+Does the Fed need to respond to the effects of changes in autonomous factors on 
+reserves?  The answer is, sometimes.  When currency or another non-reserve liability grows, the 
+Fed has to decide if it wants to offset the decline in reserves by purchasing securities in the open 
+market.  The Fed will conduct a permanent OMO (buy securities and hold them to maturity) if it 
+thinks the drain in reserves is permanent; it will conduct a temporary OMO (a repurchase 
+agreement or repo) if it thinks the drain is temporary.18  Either of these actions will immediately 
+expand the supply of reserves in the banking system, shifting any supply curve in figure 2 
+rightward within the gray region.  Whether the Fed judges it needs to undertake one of these 
+actions or not depends on the location of the original supply curve and the size of the effect on 
+reserve supply relative to the quantity associated with the vertical line “A” in figure 2. 
+The discount window and other tools 
+The Fed also continues to administer several interest rates that it charges to banks for 
+loans extended through its long-standing lending programs known collectively as the discount 
+window.  The Fed typically adjusts these rates in sync with its other administered rates.  The 
+main lending program is for primary credit—overnight loans extended to banks in generally 
+sound financial condition.  The primary credit rate is typically set above the general level of 
+                                                             
+17 For example, when a bank requests currency for its customers, an armored truck comes to a regional Federal 
+Reserve Bank, picks up the cash that was ordered, and delivers it to the requesting bank.  The Fed decreases the 
+ordering bank’s reserve account to take payment for the cash.  (These steps are similar to those that occur when you 
+go to your bank or an ATM for cash:  When you withdraw cash, your bank takes payment by debiting your bank 
+account.)  
+18 A repo (or RP) operation is the opposite of the RRP transaction shown in figure 3.  When the Fed conducts a repo, 
+it lends cash to the market, temporarily purchases a security from an eligible counterparty, and agrees to sell the 
+security back when the term of the contract ends, receiving the lent cash back plus interest when the transaction 
+unwinds.  Each year, the Federal Reserve Bank of New York publishes an annual report of open market operations 
+conducted during the previous year, available at the following link: 
+https://www.newyorkfed.org/markets/annual_reports.    
+===== PAGE 18 =====
+Page 17 of 40 
+ 
+short-term interest rates.  This rate is depicted in figure 2 as the intercept of the demand curve on 
+the y-axis because banks should be unwilling to buy reserves at market rates that are much, if 
+any, above the rate they can pay to borrow from the Fed.  In that sense, the discount window 
+provides a backup source of funding for banks, with pricing that is intended to discourage 
+frequent borrowing while still providing a ceiling on short-term market rates.  However, for 
+many years, banks have demonstrated reluctance to use the discount window out of concern that 
+borrowing from the central bank sends negative signals about their financial condition, a 
+dynamic typically referred to as the stigma associated with the use of the discount window.  The 
+Fed also maintains other policy implementation tools, ones that are less frequently relied upon.19    
+3. How has policy implementation worked with ample reserves? 
+The Fed has accumulated a lot of experience implementing policy with a sizable level of 
+reserves.  Here we take a look at the Fed’s experience using an ample-reserves regime, including 
+how the Fed has adjusted its tools to maintain the FFR in the FOMC’s target range. 
+3.1 Transmission of the policy rate to other interest rates 
+Figure 5 illustrates the movements in the Fed’s administered rates and selected overnight 
+money market rates over the most recent period of ups (panel A) and downs (panel B) in the 
+target range, shown by the gray shaded regions.  The IOR and ON RRP rates are shown by the 
+dotted and dashed black lines, respectively.  The blue solid line shows the (effective) federal 
+funds rate, and the red dash-dotted line shows the secured overnight financing rate, or SOFR, 
+which is a broad measure of the cost of borrowing cash overnight when collateralized by  
+Treasury securities.  Panel A begins with the first step in the Fed’s process of normalizing the 
+ 
+stance of monetary policy after the Great Recession.  Specifically, in December 2015, after seven  
+                                                             
+19 A summary of all of the Fed’s policy tools can be found on the Federal Reserve Board’s website.  
+https://www.federalreserve.gov/monetarypolicy/policytools.htm. 
+===== PAGE 19 =====
+Page 18 of 40 
+ 
+Figure 5 
+Policy Rate Pass-through to Selected Overnight Money Market Rates 
+Panel A:  Pass through of policy rate hikes   
+ 
+Panel B:  Pass through of policy rate cuts 
+ 
+
+===== PAGE 20 =====
+Page 19 of 40 
+ 
+years of keeping the fed funds rate near zero (in a range of 0 to ¼ percent), the FOMC increased 
+its target range for the federal funds rate by ¼ percent (25 basis points), to a range of ¼ to ½ 
+percent.  At that time, the Fed’s key administered rates, the IOR and ON RRP rates, were set at 
+the top (0.50 percent) and bottom (0.25 percent) of the target range, respectively.20  Immediately 
+after the Fed increased both administered rates, a constellation of short-term market interest rates 
+moved up simultaneously.  Since then, the FOMC increased the target range for the federal funds 
+rate eight more times through the end of 2018.  Then, as shown in panel B, the FOMC reduced 
+the target range three times in 2019 to cushion the economy from possible headwinds to 
+economic growth.  With each of the FOMC’s decisions to move the target range up or down, the 
+Fed adjusted its administered rates accordingly, and the federal funds rate and other short-term 
+market rates followed suit.21   
+One can see that the changes in the FFR and other short-term interest rates also passed 
+through to longer-term interest rates.  For example, figure 6 plots three such rates.  The rate 
+shown in solid green is the net yield on government money funds held by institutional investors, 
+which reflects the weighted-average return on the underlying assets held, less fees charged, by 
+the fund.  Also shown are rates on 3-month Treasury bills (the purple dashed line) and AA-rated 
+commercial paper of financial companies (the red dash-dotted line).  Each of these rates also 
+moved with the changes in the FOMC’s target range.  In fact, these rates moved up and down a 
+bit in anticipation of the Fed’s policy rate changes as term interest rates reflect not only 
+prevailing overnight interest rates but also market participants' expectations for the level of 
+                                                             
+20 For a full discussion of how the Fed designed its tools to work at liftoff, see Ihrig, Meade, and Weinbach (2015). 
+21 During the period shown, there were two days only when the daily effective FFR printed outside of the target 
+range. On December 31, 2015, the effective FFR printed five basis points below the bottom of the target range and 
+on September 17, 2019, it printed five basis point above the top of the target range. 
+===== PAGE 21 =====
+Page 20 of 40 
+ 
+overnight rates in the future.22  When market participants expect the Fed to tighten or ease the 
+stance of policy, term rates can rise or fall to some extent ahead of the FOMC’s actual decision. 
+Figure 6 
+Policy Rate Pass-through to Selected Longer-term Interest Rates 
+ 
+Overall, the FOMC’s adjustments to the stance of policy have transmitted to a relatively 
+broad set of market interest rates and influenced financial conditions, as well as consumers’ and 
+businesses’ economic decisions.  These adjustments ultimately created conditions that have 
+helped prolong the post-crisis economic expansion by fostering the achievement of both legs of 
+the FOMC’s dual mandate.  
+                                                             
+22 For a more detailed account of how the first three post-crisis rate hikes were transmitted to other interest rates, see 
+Anderson, Ihrig, Styczynski, and Weinbach (2017). 
+
+===== PAGE 22 =====
+Page 21 of 40 
+ 
+3.2 Technical adjustments within the implementation regime 
+As we just discussed, the FOMC has been successful in steering the federal funds rate up 
+and down to reflect the desired stance of monetary policy, and those changes have transmitted to 
+broader financial conditions.  Part of the Fed’s success in maintaining the FFR within the target 
+range has been due to its flexibility in adjusting the parameters of its implementation tools as 
+needed to support interest rate control.  These actions are purely technical measures to support 
+the effective implementation of monetary policy; such actions do not represent a change in the 
+stance of monetary policy.  In this subsection, we discuss two broad categories of technical 
+adjustments that the Fed has made in response to evolving financial market conditions and as it 
+has gained more experience with the current operating regime. 
+Technical adjustments to the Fed’s administered rates   
+A close look at either panel in figure 5 reveals that the position of the IOR rate (the dotted 
+black line) relative to the top of the FOMC’s target range (the top of the shaded region) has not 
+remained fixed.  At times, such as when pressures in short-term funding markets have emerged, 
+the Fed has made technical adjustments to the setting of the IOR rate to help keep the FFR 
+trading within the target range.  For example, in the spring of 2018, upward pressure on money 
+market rates, including the effective FFR, materialized.  The pressure seemed to stem from a 
+large increase in the net supply of Treasury bills, which pushed the yields on those securities 
+higher and, with increased repo financing activity on the part of the bill holders, put some 
+upward pressure on repo rates.  As a result, a constellation of short-term money market interest 
+rates moved higher, the effective FFR increased within the target range, and money funds 
+allocated their cash investments into higher-yielding Treasury bills and private repo instead of 
+into the Fed’s ON RRP facility.  To ensure that the effective FFR remained well within the target 
+===== PAGE 23 =====
+Page 22 of 40 
+ 
+range, the Fed made a small downward technical adjustment to the IOR rate, reducing it by 5 
+basis points, to a level that was 5 basis points below the top of the target range.  This change was 
+accomplished by implementing a 20-basis-point increase in the IOR rate at a time when the 
+FOMC raised the target range by 25 basis points.   
+The Fed made a few more technical adjustments to the IOR rate between 2018 and 2020.  
+In 2018 and 2019, the Fed again lowered the IOR rate relative to the top of the target range.  And 
+in September 2019, the Fed also simultaneously lowered the ON RRP rate, setting it 5 basis 
+points below the bottom of the target range, keeping a spread between the IOR and the ON RRP 
+rates of 10 basis points.  These small technical adjustments exerted downward pressure on the 
+federal funds rate and other money market rates and fostered trading in the federal funds market 
+at rates well within the target range.  The Fed has also made adjustments in the other direction.  
+In January 2020, the Fed unwound its previous step, adjusting the IOR and ON RRP rates each 
+higher by 5 basis points, to keep the FFR trading well within the target range.  These technical 
+adjustments, all made within the ample-reserves regime, are used for policy implementation 
+purposes only.23       
+Technical adjustments to the supply of reserves   
+Although active management of the supply of reserves is not, by design, a feature of an 
+ample-reserves regime, there are times when the Desk may take steps, in accordance with the 
+direction it receives from the FOMC, to adjust the supply of reserves in order to support interest 
+rate control.  This step was taken in mid-September 2019 when strains in funding markets 
+                                                             
+23 The Fed publishes an Implementation Note after every FOMC meeting and any time implementation adjustments 
+are made, available on the Federal Reserve Board’s web site (with other FOMC meeting documents) at the 
+following link:  https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm. 
+===== PAGE 24 =====
+Page 23 of 40 
+ 
+emerged as quarterly corporate tax payments and the settlement of Treasury securities coincided 
+and resulted in a large amount of cash being drained from money markets.24  In fact, reserve 
+balances fell by more than $100 billion over just two days.  Although the drain in reserves 
+associated with seasonal tax payments was expected to put some upward pressure on money 
+market rates, the increases in rates that materialized were exceptionally large by historical 
+standards.  As shown in panel B of figure 5, the SOFR (red dash-dotted line) spiked and the 
+effective FFR (blue solid line) moved 5 basis points above the target range.  The moves in each 
+rate were much larger than those observed over the past few years.  (Box 2 presents an analysis 
+of the relationship between changes in the quantity of reserves and the FFR and provides 
+estimates of rate sensitivity at various reserve levels.)  In response to these market developments, 
+and consistent with the directive from the FOMC to maintain the FFR in the FOMC’s target 
+range, the Desk undertook OMOs to temporarily purchase securities to add reserves.  
+Specifically, the Desk conducted repos to provide immediate liquidity to the market and help 
+alleviate the funding strains, ensuring the FFR resumed trading within the target range.   
+In addition, the FOMC judged that the prevailing level of reserve supply at that time may 
+have been a bit too low to be consistent with operating in an ample-reserves regime.  
+Accordingly, in early October 2019, the FOMC directed the Desk to maintain over time reserve 
+balances at least as large as the level that had prevailed in “early September,” a time when there 
+were no evident pressures in money markets, and instructed the Desk how to go about increasing 
+reserve supply. Consistent with those instructions, the Desk announced further overnight and 
+term repos (temporary OMOs) as well as reserve management purchases in the form of outright 
+                                                             
+24 See Anbil, Anderson, and Senyuz (forthcoming 2020) for an overview of money market events in September 
+2019, including a more detailed discussion of the factors that contributed to the strains that emerged in the repo 
+market. 
+===== PAGE 25 =====
+Page 24 of 40 
+ 
+purchases (permanent OMOs) of Treasury bills at a pace of about $60 billion per month at least 
+into the second quarter of 2020.  The Committee explicitly noted that these bill purchases were 
+purely a technical measure to increase reserve levels and support the effectiveness of monetary 
+policy implementation.25  Figure 7 shows the composition of these reserve management OMOs, 
+which totaled several hundred billion dollars as of February 2020.  
+Figure 7 
+          The Fed’s Reserve Management OMOs in 2019-2020 
+ 
+Looking ahead, once reserve balances are judged to be sufficiently high, the need for 
+sizable Treasury bill purchases will diminish, and the Fed will likely scale back or phase out its 
+repo operations.26  At that time, the Fed will be in position to conduct OMOs over time solely to 
+                                                             
+25 See the FOMC’s October 2019 “Statement Regarding Monetary Policy Implementation,” available at this link:  
+https://www.federalreserve.gov/monetarypolicy/files/monetary20191011a1.pdf.  Logan (2019b) reviews money 
+market developments over the year and also discusses these particular open market operations. 
+26 For a discussion of FOMC participants’ views on this issue, see the minutes to the January 2020 FOMC minutes, 
+available at the following link:  https://www.federalreserve.gov/newsevents/pressreleases/monetary20200219a.htm.   
+
+===== PAGE 26 =====
+Page 25 of 40 
+ 
+accommodate trend growth in autonomous factors to maintain an ample level of reserves, a 
+discussion we take up in the next section.    
+4. Maintaining ample reserves   
+Looking ahead, the Fed will seek to stay in an ample-reserves regime by supplying a 
+quantity of reserves that is consistently ample, avoiding the need to actively manage the supply 
+of reserves.  To do so, the Fed will continue to be vigilant in monitoring various factors that 
+could potentially affect the level or variability of reserves, continue to gain more information 
+about banks’ evolving demand for reserves, and remain ready to respond if the need arises.  Here 
+we discuss some considerations that might arise in maintaining an ample reserves-regime.  Note 
+that our discussion of these issues is intended to be illustrative, not exhaustive.   
+4.1 Evolution of autonomous factors 
+As we discussed in section 2.3, autonomous factors include currency, the Treasury’s 
+General Account (TGA), reverse repos, and other Fed liabilities that are directly linked, 
+operationally, with the supply of reserves.  As the level of these factors increase or decrease, they 
+drain or add reserves, shifting the Fed’s supply curve left or right, respectively.   
+Equation 1 shows how the Fed’s supply of reserves, R, evolves over time:  
+                       ௧                                         (1) 
+The equation captures the fact that today’s level of reserves will be equal to yesterday’s quantity 
+in the absence of any changes in autonomous factors (AF) or OMOs.27  But, as shown in Figure 
+                                                             
+27 In this equation, “OMOs” are defined as the aggregate net addition to reserves from these operations (any reverse 
+repos would be accounted for with a negative sign). 
+===== PAGE 27 =====
+Page 26 of 40 
+ 
+8, autonomous factors exhibit substantial fluctuations in the short run and also grow over time.  
+Moreover, the degree of variation in these factors can change over time; each of the factors 
+exhibits more variability now than prior to the crisis.  This pattern is particularly true for the 
+TGA, the most volatile factor (the solid red line).  Taken together, over the past few years, the 
+weekly swings in the factors suggest that, at the extreme, they can jointly change by about $200 
+billion from one week to the next.  
+ 
+Figure 8 
+Selected Fed Non-Reserve Liabilities 
+ 
+The Fed needs to consider these short-run movements in autonomous factors in ensuring 
+its supply of reserves remains ample.  In particular, the variability of the autonomous factors 
+influences the Fed’s judgment about the practical location of the vertical line “A” in figure 2—
+the minimum quantity of reserves that constitutes being in an ample-reserves regime.  So what is 
+
+===== PAGE 28 =====
+Page 27 of 40 
+ 
+the Fed’s desired minimum level of reserves?  When asked about this topic, Chair Powell replied 
+with a detailed response that is linked to our discussion.28  
+ 
+ 
+ 
+ 
+ 
+In other words, in setting the quantity “A,” the Fed explicitly accounts for the short-run 
+variability in autonomous factors.  The Fed sets “A” large enough to stay consistently in an 
+ample reserves-regime, even when autonomous factors occasionally cause a very large drain in 
+reserves.  And, given that the behavior of the autonomous factors could evolve over time, the 
+Fed’s view of the location of “A” could change going forward.  
+In addition to daily fluctuations in autonomous factors, the Fed also needs to consider 
+their long-run growth in ensuring its supply of reserves remains ample, that is, at least as large as 
+a given quantity “A.”  As shown in figure 8, currency (the purple dash-dotted line), trends up 
+over time.  As noted above, currency has expanded an average of about 6 percent per year, and 
+with more than $1.5 trillion of currency in circulation, such growth amounts to a large nominal 
+increase each year.29  The TGA has also grown over the past decade, and the size of this account 
+                                                             
+28 See the transcript of Chair Powell’s January 2020 press conference, available on the Federal Reserve Board’s web 
+site at the following link:  https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20200129.pdf.   
+29 For example, currency in circulation has nearly doubled over the past decade, expanding from about $985 billion 
+at the end of 2010 to about $1.7 trillion in February 2020.  This means that the Fed’s balance sheet would have 
+expanded by more than $700 billion over that period regardless of any other factors.  Data on currency in circulation 
+are available on the Federal Reserve Board’s web site at the following link:  
+https://www.federalreserve.gov/releases/h6/. 
+“… in terms of the actually desired reserve level, we know that reserves will continue 
+to move up and down over the course of the calendar year in a wide range 
+depending on volatility in non‐reserve liabilities, particularly the Treasury General 
+Account, or TGA.  In particular, reserve levels will need to be at a level high enough 
+to remain ample even when the TGA peaks during the April tax season.  Effectively, 
+what that means is that we need reserves at all times to be no lower than they were 
+in early September [2019]—and, I would say, around $1½ trillion, subject to learning 
+more.  … So, most of the time, reserves will be moving in a range substantially 
+higher than that but not going below $1½ trillion.”   
+===== PAGE 29 =====
+Page 28 of 40 
+ 
+could continue to expand as the nominal value of payment flows managed by the Treasury 
+increases over time.  Overall, the long-term growth of these autonomous factors will slowly, but 
+permanently, drain reserves.  This reserve-draining effect is illustrated in figure 9, with the 
+leftward shift in the supply curve, from S0 to S1.  
+Figure 9 
+Reserve Supply is Drained by an Expansion of Autonomous Factors 
+ 
+ 
+ 
+To offset the reserve-draining effect of trend growth in its non-reserve liabilities, the Fed 
+will, over time, need to regularly conduct permanent OMOs (reserve management purchases) to 
+inject reserves into the banking system and shift the supply curve back to the right.  For example, 
+if the Fed estimates that its non-reserve liabilities will grow by $10 billion a month, it would 
+need to purchase $10 billion of Treasury securities each month to offset the reserve-draining 
+effects of this growth.  These OMOs will be necessary over time to keep the quantity of reserves 
+ample.  
+
+===== PAGE 30 =====
+Page 29 of 40 
+ 
+4.2 Other factors  
+Unlike the autonomous factors that are known to affect the supply of reserves each day, 
+other, less certain, factors may change the supply of or demand for reserves over time.  And, of 
+course, still other factors may one day need to be taken into consideration that are not yet 
+conceived today.  Here we provide a couple of examples of such potential factors for illustrative 
+purposes.  Given the uncertainty with which various factors may materialize, as well as their 
+ultimate influence on the federal funds and other money markets, the Fed will need to stay 
+vigilant in monitoring conditions in money markets going forward. 
+We start by thinking about factors that could affect the demand for reserves.  First, 
+consider a development that significantly reduces banks’ demand for reserves.  For example, a 
+technological change could enable banks to speed the processing of payments and economize on 
+cash, or the Fed could introduce a change to its existing policies or tools that lead banks to have a 
+greater preference for investing in non-reserve liquid assets.  In this situation, the Fed’s existing 
+supply of reserves would still be ample.  Next, consider the opposite case, a development that 
+results in a marked increase in banks’ demand for reserves.  For example, banks’ preference for 
+holding reserves could shift higher as a result of new or persistently heightened perceptions of 
+liquidity risks.  In this situation, the Fed could need to take action to ensure the quantity of 
+reserves it supplies remains ample. 
+Figure 10 illustrates a rightward shift in the demand curve, from D0 to D1.  In this 
+scenario, the vertical line “A” would move to the right along with the outward shift of the 
+demand curve.  Would the Fed need to adjust its supply curve?  The answer is that it depends.  If 
+supply was sufficiently to the right of “A” when that point shifts, the Fed’s current 
+implementation regime would still work fine.  If instead reserve supply was close to “A” when 
+===== PAGE 31 =====
+Page 30 of 40 
+ 
+that point shifts, the Fed would likely need to add some reserves to the banking system, by 
+conducting OMOs in the form of permanent purchases of securities, to remain in an ample-
+reserves regime relative to the new position of “A.”      
+ 
+Figure 10 
+Increase in Demand for Reserves in an Ample-Reserves Regime 
+ 
+ 
+One can also conceive of considerations that could affect the Fed’s long-run supply of 
+reserves.  One such consideration is the long-run implications of the current, low interest rate 
+environment on reserve supply.  For some time now in the United States and in other advanced 
+economies around the world, macroeconomic variables such as average inflation, output growth, 
+and short- and longer-term interest rates have been persistently low relative to their longer-term 
+historical norms.30  As a result, the Fed and many other central banks have been operating in  
+                                                             
+30 Many factors are contributing to the current macroeconomic environment—well-anchored inflation expectations 
+in the context of improved monetary policy, aging demographics, increased globalization, slower productivity 
+
+===== PAGE 32 =====
+Page 31 of 40 
+ 
+economic environments in which the policy rate is set relatively low.  If growth of the U.S. 
+economy were to significantly slow, the FOMC would likely lower the policy rate, as usual, to 
+provide stimulus to economy activity.  However, there is less room for the FOMC to provide 
+stimulus to the economy by lowering the policy rate if the federal funds rate is already relatively 
+low.  To provide additional policy accommodation in such circumstances, the FOMC would 
+most likely need to employ large-scale asset purchases, as it did during the financial crisis and 
+subsequent severe recession.  Regardless of its starting point, purchases of this size would shift 
+the supply curve well to the right, closer to vertical line “B” in figure 2.  On balance in this 
+situation, the current regime would seamlessly continue to work, providing the Fed a means of 
+stable interest rate control as the FOMC provided needed economic stimulus to the economy.   
+5. Concluding remarks 
+The Fed is one of many central banks around the world that is implementing monetary 
+policy with plentiful reserves.  In this primer, we provided a stylized framework to describe how 
+a central bank implements policy in such a regime, including the specific tools the Fed uses to 
+ensure interest rate control with ample reserves.  We reviewed the effectiveness of the regime 
+over the past decade and discussed some operational considerations relevant for maintaining an 
+ample supply of reserves going forward.   
+Our discussion highlighted some of the Fed’s key motivations for choosing to operate in 
+an ample-reserves regime in the long run.  First, as described in section 2, an ample-reserves 
+regime is simple and efficient to operate.  While the Fed needs to manage reserve supply in any 
+implementation regime, the ample-reserves regime eliminates the need for the Fed to intervene in 
+                                                             
+growth, greater demand for safe assets, and weaker links between unemployment and inflation.  And these factors 
+seem likely to persist.  For more discussion of this issue, see Chair Powell’s speech on “Challenges for Monetary 
+Policy,” available at the following link:  https://www.federalreserve.gov/newsevents/speech/powell20190823a.htm.  
+===== PAGE 33 =====
+Page 32 of 40 
+ 
+markets on a daily basis, which is an operationally attractive feature.  Second, as shown in 
+section 3, the regime is effective.  The Fed’s administered rates have enabled successful control 
+of the federal funds rate and its transmission to other short-term interest rates as well as to 
+broader financial conditions, all of which support the FOMC’s achievement of its dual mandate.  
+Third, as highlighted in section 3 and discussed in section 4, the regime has proven resilient to a 
+variety of changes in the economic, financial, and regulatory environments, and is expected to 
+stay so going forward.   
+Finally, we emphasized that operating in an ample-reserves regime going forward, the 
+Fed will periodically need to add reserves to the banking system to accommodate ongoing 
+growth in its non-reserve liabilities, and also highlighted the importance of monitoring for 
+developments that could necessitate a shift in the Fed’s assessment of the minimal quantity of 
+reserves needed to stay in an ample-reserves regime.  Overall, the Fed will need to be vigilant in 
+monitoring conditions that influence banks’ evolving reserve demand, the autonomous factors 
+that affect reserve supply, and other dynamics that might shift reserve demand or supply as the 
+economy and financial markets continue to evolve.         
+ 
+      
+   
+  
+===== PAGE 34 =====
+Page 33 of 40 
+ 
+Box 1 
+The Fed’s Non-reserve Liabilities  
+ 
+Many of the Fed’s liabilities arise from its statutory responsibilities, such as supplying 
+currency to the public and serving as the U.S. Treasury’s fiscal agent.  Each liability has social 
+benefits and plays an important role as a safe and liquid asset for the public, the banking system, 
+the U.S. government, or other institutions.  Here we briefly describe each of the Fed’s primary 
+non-reserve liabilities.31  A key point is that, taken together, the Fed’s non-reserve liabilities tend 
+to increase over time.  This is because the Fed’s largest liability, currency, and to which we first 
+turn, exhibits trend growth.   
+Federal Reserve notes.  Federal Reserve notes outstanding—also known as (paper) currency in 
+circulation, or simply currency, shown as the green region in the chart—have traditionally been 
+the largest liability item on the Fed’s balance sheet.  The public’s demand for currency tends to 
+increase with the nominal size of the economy because households and businesses have sought, 
+collectively, to hold more cash as the volume of economic transactions grows.  In addition, with 
+heavy usage of U.S. currency overseas, changes in global economic growth, as well as in 
+financial and geopolitical stability, can also materially affect the rate of U.S. currency growth. 
+Over the past decade, the amount of notes in circulation has almost doubled, from about $900 
+billion in late 2009 to almost $1.8 trillion by early 2020. 
+Treasury General Account (TGA).  The U.S. Treasury holds cash balances at the Fed in the 
+TGA, shown by the blue region in the chart.  Treasury’s payments activity flows through this 
+account—the account is used to collect tax payments and to receive the proceeds of Treasury’s 
+securities sales, and it is used to pay the federal government's bills, including interest and 
+principal on maturing Treasury securities.  Prior to 2008, the Treasury targeted a steady, low 
+balance of $5 billion in the TGA on most days, and it used separate, private accounts at 
+commercial banks to manage the bulk of its cash flows outside of the TGA.  Since 2008, the 
+Treasury has used the TGA as its primary account for managing its cash flows.  In May 2015, the 
+Treasury announced its intention to hold in the TGA a level of cash generally sufficient to cover 
+                                                             
+31 Data on the Fed’s assets and liabilities are published weekly on the Board’s H.4.1 statistical release, available at 
+the following link:  https://www.federalreserve.gov/releases/h41/.  
+===== PAGE 35 =====
+Page 34 of 40 
+ 
+one week of outflows, subject to a minimum balance of roughly $150 billion.32  The rationale for 
+this decision was to protect the resilience of government payments and to avoid potential 
+concerns about the safety of U.S. government debt that could be damaging for the global 
+financial system.  As of the end of 2019, the TGA stood above $300 billion.  
+Foreign Repo Pool.  The Fed conducts overnight reverse repo with foreign official accounts, 
+also known as the foreign repo pool and included in the yellow region of the chart, in order to 
+provide an investment option for foreign official institutions.  The daily amount invested in the 
+foreign repo pool has also increased in recent years.  The Fed has long offered this custodial 
+service to foreign central banks, foreign governments, and international official institutions to 
+facilitate immediate access to dollar liquidity to support their operational needs, to clear and 
+settle securities in their accounts, or to address any unexpected dollar shortages.  The foreign 
+repo pool has grown from an average level of around $30 billion before the crisis to a current 
+average of about $250 billion, equivalent to a little more than 1 percent of GDP, reflecting in part 
+foreign central banks' preference to maintain more substantial dollar liquidity buffers since the 
+crisis.   
+Figure 1.1 
+The Fed’s Liabilities as a Share of Nominal GDP 
+ 
+                                                             
+32 Treasury’s press release containing this announcement may be found on its web site at the following link:  
+https://www.treasury.gov/press-center/press-releases/Pages/jl0249.aspx.  
+
+===== PAGE 36 =====
+Page 35 of 40 
+ 
+Other deposits.  Other deposits, also included in the yellow region of the chart, consist of 
+balances held at the Fed by international and multilateral organizations as well as government-
+sponsored enterprises.  This liability item also includes the accounts of Designated Financial 
+Market Utilities (DFMUs) which provide the infrastructure for transferring, clearing, and settling 
+payments, securities, and other transactions among financial institutions.  Other deposits have 
+risen from less than $1 billion before the crisis to about [$80 billion] at the end of 2019, owing 
+mainly to the establishment of accounts for DFMUs that have been designated as systemically 
+important by the Financial Stability Oversight Council (FSOC).  
+Overnight reverse repo (ON RRP) facility.  When the Fed’s eligible counterparties choose to 
+take up ON RRPs at the Fed’s facility, the cash they deposit is logged as an increase in the Fed’s 
+reverse repo liabilities; this item is also included in the yellow region of the chart.  Over the past 
+half-decade, the outstanding amount of ON RRPs has ranged from $0 to more than $350 billion, 
+largely depending on the relative positions of comparable money market interest rates and other 
+conditions in money markets.     
+  
+===== PAGE 37 =====
+Page 36 of 40 
+ 
+Box 2 
+The Relationship between the Federal Funds Rate and the Level of Reserves 
+ 
+Theoretical models on the relationship between overnight interest rates and the level of 
+aggregate reserve balances generally predict that as reserve balances decline, the level of 
+overnight interest rates as well as their responsiveness to changes in the level of reserves 
+increase; that is, the demand curve for reserves steepens.33  
+Figure 2.1 plots the level of the spread between the effective federal funds rate (EFFR) 
+and the interest on reserves (IOR) rate, the purple dashed line, and the level of reserves, the green 
+solid line, from April 2018 to September 2019.  (This sample ends just prior to the volatility 
+observed in money markets followed by the Fed’s repo operations to increase reserves.)  Starting 
+in March 2018, a substantial increase in Treasury bill issuance pushed the yields on these 
+securities as well as the constellation of money market rates higher.  As a result, as shown in the 
+figure, the EFFR started to increase in the target range relative to the IOR rate, increasing the 
+spread between the two.  During this time, reserve balances had also been declining gradually 
+with the ongoing normalization of the Fed’s balance sheet and growth in the Fed’s non-reserve 
+liabilities. The combination of the declining level of reserves and the increasing rate spread led 
+some to speculate about a causal link between the two series—that a shrinking level of reserves 
+could cause the EFFR to trade up relative to the IOR rate.  
+To measure the sensitivity of the federal funds rate to the level of reserves we estimate 
+the simple regression below: 
+                 ௧                     (1.1)              
+Our endogenous variable is the spread of the FFR to IOR rate to account for the effects of 
+the FOMC’s changes in the target range as well as the effects of technical adjustments to the IOR 
+rate.34  We drop month-end days from the sample to exclude the effects of regulatory reporting 
+days when many money market borrowers scale down their positions to meet regulatory or 
+                                                             
+33 These models date back to the classic paper by Poole (1968).  More recent examples that incorporate aspects of 
+current money markets structure include Schulhofer-Wohl and Clouse (2018) and Afonso, Armenter, Lester (2018). 
+In addition, Potter (2018) provides a discussion of the dynamics between reserve levels and short-term rates. 
+34 We use the volume-weighted average federal funds (VWA FF) rate, instead of the effective federal funds rate 
+(EFFR), which is the volume-weighted median, since the volume-weighted mean rate has more variation than the 
+median and captures all movements in the distribution.  The correlation of 5-day changes between the volume-
+weighted mean and median rate is close to 1 and results are qualitatively similar when the EFFR is used.  
+===== PAGE 38 =====
+Page 37 of 40 
+ 
+internal targets.  Note that equation (1.1) is specified in differences, rather than in levels, since 
+the two series were trending during the time period considered.   
+Figure 2.1 
+EFFR-IOR Spread and Reserve Balances  
+(April 2018 to September 2019) 
+           
+When we regress daily changes in the FFR-IOR spread on changes in reserve balances, 
+we estimate the slope of the reserve demand curve, denoted by ߚWe allow this slope to vary 
+with levels of reserves to identify points at which the demand curve becomes steeper—more 
+interest sensitive—as reserves decline.  This is achieved by using a “threshold model” in which 
+the threshold variable—the level of reserves—is used to estimate the slope at different regions of 
+the reserve demand curve.  
+Figure 2.2 shows point estimates of the slope coefficient, ߚthe black circles), and 95 
+percent confidence bands (the red brackets) at different reserve levels using the thresholds 
+determined by the model.  Moving from the right to the left in the figure, the slope coefficient is 
+not significant for reserves levels above $2 trillion, but it becomes negative and statistically 
+significant when reserves fall below $2 trillion.  The model identifies two thresholds, one at a 
+reserves level of $2 trillion and another at a level of $1.6 trillion.  The FFR shows slight 
+sensitivity to changes in reserves for reserves levels between $1.6 and $2 trillion—the FFR is 
+expected to increase one-half a basis point per $100 billion decline in reserves.  The slope 
+
+===== PAGE 39 =====
+Page 38 of 40 
+ 
+coefficient increases to just under 1 basis point when reserves were between $1.5 trillion and 
+$1.6 trillion.  Reserves became consistently below $2 trillion in the third quarter of 2018, and 
+reached levels around $1.6 trillion in early 2019.  
+  
+Figure 2.2 
+Sensitivity of the Federal Funds Rate to the Level of Reserves 
+ 
+Source: Authors’ calculations. 
+Note: Black dashed lines show the estimated thresholds for reserve levels.  Red  
+brackets show the 95 percent confidence bands around the point estimates, shown  
+by the black circles. 
+ 
+ 
+ 
+ 
+
+===== PAGE 40 =====
+Page 39 of 40 
+ 
+References 
+Afonso, Gara, Roc Armenter, and Benjamin Lester (2018). “A Model of the Federal Funds 
+Market: Yesterday, Today and Tomorrow.” Federal Reserve Bank of New York Staff Reports, 
+no.840. 
+Anbil, Sriya, Alyssa Anderson, Zeynep Senyuz (2020). “What Happened in Money Markets in 
+September 2019?,” forthcoming FEDS Notes, Board of Governors of the Federal Reserve 
+System (U.S.). 
+Anderson, Alyssa, Jane Ihrig, Mary-Frances Styczynski, and Gretchen C. Weinbach (2017). 
+“How Have the Fed's Three Rate Hikes Passed Through to Selected Short-term Interest Rates?,” 
+FEDS Notes 2017-06-02. Board of Governors of the Federal Reserve System (U.S.). 
+Bernanke, Ben S. (2012).  “Monetary Policy since the Onset of the Crisis.”  Remarks at the 
+Federal Reserve Bank of Kansas City Economic Symposium, Jackson Hole, Wyoming:   
+https://www.federalreserve.gov/newsevents/speech/bernanke20120831a.htm. 
+Frost, Josh, Lorie Logan, Antoine Martin, Patrick McCabe, Fabio Natalucci, and Julie Remache, 
+(2015). “Overnight RRP Operations as a Monetary Policy Tool: Some Design Considerations,” 
+Finance and Economics Discussion Series 2015-010. Board of Governors of the Federal Reserve 
+System (U.S.). 
+Ihrig, Jane E., Ellen E. Meade, and Gretchen C. Weinbach (2015). "Rewriting Monetary Policy 
+101: What's the Fed's Preferred Post-Crisis Approach to Raising Interest Rates?," Journal of 
+Economic Perspectives, vol. 29, no. 4, pp.177-98. 
+Ihrig, Jane E., Lawrence Mize, Gretchen C. Weinbach (2017). “How does the Fed adjust its 
+Securities Holdings and Who is Affected?," Finance and Economics Discussion Series 2017-099. 
+Washington: Board of Governors of the Federal Reserve System, 
+https://doi.org/10.17016/FEDS.2017.099.  
+Klee, Elizabeth, Zeynep Senyuz, and Emre Yoldas (2019). "Effects of Changing Monetary and 
+Regulatory Policy on Overnight Money Markets," International Journal of Central Banking, vol. 
+15, no. 4, pp. 165-205. 
+Logan, Lorie K. (2019a). “Observations on Implementing Monetary Policy in an Ample-
+Reserves Regime,” Remarks before the Money Marketeers of New York University, New York 
+City: https://www.newyorkfed.org/newsevents/speeches/2019/log190417.  
+Logan, Lorie K. (2019b). “Money Market Developments: Views from the Desk.” Remarks at the 
+Annual Primary Dealer Meeting, Federal Reserve Bank of New York, New York City: 
+https://www.newyorkfed.org/newsevents/speeches/2019/log191104.html.  
+Poole, William (1968). “Commercial Bank Reserve Management in a Stochastic Model: 
+Implications for Monetary Policy,” The Journal of Finance, vol.23, no.5, pp. 769-791. 
+===== PAGE 41 =====
+Page 40 of 40 
+ 
+Potter, Simon (2018). “U.S. Monetary Policy Normalization is Proceeding Smoothly,” Remarks 
+at the China Finance 40 Forum-Euro 50 Group-CIGI Roundtable, Banque de France, Paris, 
+France: https://www.newyorkfed.org/newsevents/speeches/2018/pot181026.  
+Schulhofer-Wohl, Sam, and James Clouse (2018). “A Sequential Bargaining Model of the Fed 
+Funds Market with Excess Reserves,” Federal Reserve Bank of Chicago working paper 2018-08. 
+Yellen, Janet L. (2017). “A Challenging Decade and a Question for the Future.” Remarks at the 
+2017 Herbert Stein Memorial Lecture, National Economists Club, Washington D.C.: 
+https://www.federalreserve.gov/newsevents/speech/files/yellen20171020a.pdf. 
+ 

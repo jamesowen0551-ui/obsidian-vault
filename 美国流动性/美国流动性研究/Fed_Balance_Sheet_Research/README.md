@@ -1,7 +1,8 @@
 # 美联储资产负债表研究 · 论文库阅读指南
 
 > 主题：央行资产负债表管理（缩表 / QT / 准备金需求 / 操作框架设计）。
-> 共 31 篇（16 + 三轮增补 15 篇），按 7 个主题归档。整理日期：2026-08-04。
+> 共 35 篇（16 + 五轮增补 19 篇），按 7 个主题归档。整理日期：2026-08-06。
+> 全部读书笔记已按 research-note 技能新格式重排（YAML 元数据 + 一句话总结 + 原文 wiki 链接 + 研究问题与核心发现 + 理论框架 + 实证方法 + 关键概念速查 + 对本研究的含义 + 理论定位 + 局限与待跟进 + 相关笔记）。
 
 ## 一句话主线
 
@@ -44,6 +45,10 @@
 | 29 | [[读书笔记/29_Schnabel_2025_Towards_New_Eurosystem_Balance_Sheet\|Schnabel 2025：走向新的欧元体系资产负债表]] |
 | 30 | [[读书笔记/30_Bailey_2024_Importance_of_Central_Bank_Reserves\|Bailey 2024：央行准备金的重要性（PMRR）]] |
 | 31 | [[读书笔记/31_Gravelle_2025_End_of_QT_and_What_Comes_Next\|Gravelle 2025：QT 的终结与之后]] |
+| 32 | [[读书笔记/32_Anbil_Infante_Senyuz_2026_Tale_of_Demand_and_Supply\|Anbil et al. 2026：准备金供需的微观故事]] |
+| 33 | [[读书笔记/33_Barr_2026_Beyond_the_Balance_Sheet\|Barr 2026：缩表是个错误目标]] |
+| 34 | [[读书笔记/34_Cavallino_et_al_2025_Operational_Frameworks_Taxonomy\|Cavallino et al. 2025：BIS 操作框架分类法]] |
+| 35 | [[读书笔记/35_Ihrig_Senyuz_Weinbach_2020_Ample_Reserves_Approach\|Ihrig et al. 2020：充裕准备金框架的官方教科书]] |
 
 ## 01_Core_Papers 核心论文
 
@@ -78,6 +83,7 @@
 |---|---|
 | Borio (2023), *Getting up from the Floor*, BIS WP 1100 | BIS 视角：地板系统的代价（市场纪律弱化、央行 footprint 过大、财政化风险），主张回到"稀缺准备金 + 频繁操作"的走廊式框架，配合常设工具。与 Nelson 呼应。 |
 | Arce, Nuño, Thaler, Thomas (2020), *A Large Central Bank Balance Sheet? Floor vs Corridor*, JME 114（作者版 PDF，BdE WP 1851） | 学术对照面：含匹配摩擦银行间市场的新凯恩斯模型。资产负债表扩张使市场利率贴向地板（"银行间传导渠道"）；**地板体制提供更大政策空间**（稳态 DFR 离 ELB 更远）；但"小表 + 及时临时 QE"可达到与"大表地板"相近的稳定与福利结果——即大表并非必需。 |
+| Cavallino, Drehmann, Finlay & Remache (2025), *Operational Frameworks Across Central Banks: A Taxonomy*, BIS（PDF） | BIS 跨国分类法：用**准备金稀缺程度 × 操作工具结构**两个维度给全球央行操作框架定位，地板/走廊不再是二元对立而是二维坐标；为比较 Fed 充裕框架与 ECB/BoE/BoC 终局提供统一语言。 |
 
 ## 05_2019_Repo_Crisis 2019 年 9 月回购危机
 
@@ -94,6 +100,7 @@
 | Remache (2025), *Balance Sheet Reduction and Ample Reserves*，2025 一级交易商年会（HTML） | ⚠️ 原清单标注为 Perli，实际演讲者为 SOMA 副经理 **Julie Remache**（2025-09-29）。官方立场：缩表进展评估、充裕准备金的判定标准、RMP 思路。 |
 | Perli (2025), *Money Market Conditions and the Federal Reserve's Balance Sheet*，2025 美债市场会议 11-12（HTML） | SOMA 经理的一线判断：货币市场压力指标（SOFR–IORB、回购在利率曲线位置）如何指导缩表终点；SRF 作为上限工具的定位。 |
 | Logan & Schulhofer-Wohl (2026-04-02), *Options for Reducing the Size of the Fed's Balance Sheet*（Dallas Fed Economics HTML） | 体系内最全面缩表选项清单：四大权衡（私人价值/外部性/固定 vs 或有负债/纳税人成本）× 四大负债（现钞/准备金/TGA/外国官方）；需求曲线左移 > 润滑再分配 > 压缓冲 >> 稀缺化；刻意不量化、不排序。 |
+| Barr (2026-05-14), *Efficient and Effective Central Banking: Beyond the Balance Sheet*（理事演讲 HTML） | 缩表阵营的正面回击：表规模是"足迹"的错误度量；稀缺化/最低充裕/压 TGA/抵押视同准备金都只是把足迹换形式，且削弱银行韧性；"缩表是错误的目标，削弱韧性是错误的手段"。 |
 
 ## 07_Background_Context 背景与官方理论（2026-08-04 增补）
 
@@ -109,7 +116,9 @@
 | Acharya & Rajan (2022), *Liquidity, Liquidity Everywhere, Not a Drop to Use*（NBER 29680 PDF） | Liquidity Dependence 的理论篇：准备金引致可兑付无保险存款；压力时索取权同兑现 + 盈余行囤积 → 扩表创造的净流动性远小于表面。 |
 | Afonso, La Spada, Mertens & Williams (2023), *The Optimal Supply of Central Bank Reserves under Uncertainty*（NY Fed SR 1077 PDF） | 官方方法论引擎：不确定性 → 预防性超供（可多到 abundant）；贷款便利若定价最优可换更小供给；供给数量与便利设计是联合决策。Williams 演讲与 Clouse 仪表盘的理论底稿。 |
 | Bianchi & Bigio (2022), *Banks, Liquidity Management, and Monetary Policy*（明尼阿波利斯联储 SR 503 作者版 PDF；刊于 Econometrica 90(1)） | 该范式的奠基模型：存款随机流动须以准备金结算 → 预防性缓冲 → 信贷渠道。2008 分解：先银行间失灵、后信贷需求持续萎缩。 |
+| Anbil, Infante & Senyuz (2026), *A Tale of Demand and Supply for Central Bank Reserves*（FEDS 2026-028 PDF） | 理事会微观研究：隔离联邦基金市场银行—银行拆借段作"传感器"；FHLB 供给完全弹性、银行出借方无弹性且随准备金下降更僵硬（bankers' banks 最敏感）——分布摩擦先于总量稀缺报警。 |
 | Greenwood, Hanson & Stein (2016), *The Fed's Balance Sheet as a Financial-Stability Tool*（⚠️ 仅摘要+要点 md，PDF 三处来源均被反爬） | 大表派奠基：政府安全短债（准备金+RRP）挤出私人过度期限转换。与 Acharya & Rajan (2022) 构成文献网络最深的理论对立。 |
+| Ihrig, Senyuz & Weinbach (2020), *The Ample-Reserves Approach to Implementing Monetary Policy*, FEDS 2020-022（PDF） | 充裕准备金框架的**官方教科书原点**：需求曲线的平坦区定位、IORB/ONRRP 管理利率体系、2019 年 1 月永久化声明的来龙去脉；"充裕框架基础三连"之一。 |
 
 ## 下载状态备注
 

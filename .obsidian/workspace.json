@@ -29,10 +29,12 @@
             "id": "d27b2ac56d8659c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "POSZAR研究/A Tool of Their Own.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "A Tool of Their Own"
             }
           }
         ]

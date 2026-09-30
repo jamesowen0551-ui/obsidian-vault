@@ -1,0 +1,1176 @@
+
+===== PAGE 1 =====
+Finance and Economics Discussion Series
+Federal Reserve Board, Washington, D.C.
+ISSN 1936-2854 (Print)
+ISSN 2767-3898 (Online)
+A Tale of Demand and Supply for Central Bank Reserves
+Sriya Anbil, Sebastian Infante, Zeynep Senyuz
+2026-028
+Please cite this paper as:
+Anbil, Sriya, Sebastian Infante, and Zeynep Senyuz (2026). “A Tale of Demand
+and Supply for Central Bank Reserves,” Finance and Economics Discussion Se-
+ries 2026-028. Washington: Board of Governors of the Federal Reserve System,
+https://doi.org/10.17016/FEDS.2026.028.
+NOTE: Staﬀ working papers in the Finance and Economics Discussion Series (FEDS) are preliminary
+materials circulated to stimulate discussion and critical comment. The analysis and conclusions set forth
+are those of the authors and do not indicate concurrence by other members of the research staﬀ or the
+Board of Governors. References in publications to the Finance and Economics Discussion Series (other than
+acknowledgement) should be cleared with the author(s) to protect the tentative character of these papers.
+===== PAGE 2 =====
+A Tale of Demand and Supply for
+Central Bank Reserves ∗
+Sriya Anbil† Sebastian Infante‡ Zeynep Senyuz§
+February 2026
+Abstract
+In an ample-reserves framework, administered rates anchor money markets but sup-
+press information from unsecured interbank trading. We recover that information by
+isolating the small interbank segment of the federal funds market. Using high-frequency
+bank-level data, we employ deposit shocks as an instrument for bank borrowing de-
+mand. Our analysis reveals that non-bank lenders, such as Federal Home Loan Banks,
+supply funds elastically, whereas bank lenders exhibit price inelasticity, which intensi-
+fies as their reserve balances decline, particularly for bankers’ banks. This interbank
+segment highlights distributional frictions in the federal funds market that emerge well
+before aggregate reserves become scarce and provides new evidence on monetary policy
+transmission in an ample-reserves regime.
+Keywords: monetary policy implementation, balance sheet policy, central bank re-
+serves, fed funds market
+∗We thank David Bowman, Garth Baughman, James Clouse, Adrien d’Avernas, Francesca Carapella,
+Cynthia Doniger, Thomas Eisenbach, Stefan Gissler, Jay Kahn, Dina Marchioni, Ralf Meisenzahl, Borghan
+Narajabad, David Rappaport, Sam Schulhofer-Wohl, Carla Soares, Francisco Vasquez-Grande, Kathy Yuan,
+seminar participants at the BIGFI Conference on Central Banking and Big Data, Bank of Canada, Central
+Bank of Chile, Pontificia Universidad Cat´ olia, Universidad de los Andes, University of California, Riverside,
+the ECB Money Markets Conference 2025, the American Finance Association 2026 Meeting, and the Board
+of Governors of the Federal Reserve for helpful comments. Lucy Cordes, Benjamin Eyal, Emily Markowitz,
+and Amy Rose provided excellent research assistance. The views expressed in this paper are solely the
+responsibility of the authors and should not be interpreted as reflecting the views of the Federal Reserve
+Board or other members of its staff. All remaining errors are our own.
+†Board of Governors of the Federal Reserve, E-mail: sriya.l.anbil@frb.gov
+‡Corresponding Author, Board of Governors of the Federal Reserve; 20th and C Streets NW, Washington,
+DC 20551; E-mail: sebastian.infantebilbao@frb.gov
+§Board of Governors of the Federal Reserve; E-mail: zeynep.senyuz@frb.gov
+===== PAGE 3 =====
+1 Introduction
+The Federal Reserve’s (Fed) monetary policy implementation framework underwent a sig-
+nificant shift following the policy response to the Global Financial Crisis (GFC) and the
+official adoption of an ample-reserves regime in 2019. In this framework, the Fed steers
+money market rates into the target range by setting administered rates on its liabilities,
+primarily the interest on reserve balances (IORB) and the overnight reverse repo facility
+(ON RRP).1 IORB is the main policy tool for rate control and conceptually operates by de-
+termining banks’ opportunity cost to lend to the broader financial system and the economy
+as a whole. This framework departs from the pre-GFC approach. Rather than managing
+reserve quantities on a day-to-day basis through open market operations, the Fed now relies
+on administered rates, along with banks’ liquidity management and arbitrage behavior, to
+keep its policy rate—the effective federal funds rate (EFFR)—within the target range.
+A consequence of the ample-reserves framework is the atrophy of interbank markets.
+By greatly increasing the amount of reserves in the system, banks have not had to rely on
+unsecured interbank borrowing and lending in the federal funds market (fed funds) to manage
+their liquidity. In this environment, the lion share of trading reflects arbitrage opportunities
+between participants that do and do not receive IORB. Therefore, short-term money market
+rates often trade well below IORB, suggesting that it is a poor measure of banks’ true
+opportunity cost of lending to one another. Most trading in the federal funds market thus
+appears largely disconnected from broader bank liquidity conditions and from the price
+of the marginal interbank dollar. Moreover, the framework also mutes a classic real-time
+barometer of bank health: the price and quantity of interbank credit. With few unsecured
+trades, movements in the interbank rate become harder to observe precisely when they are
+most useful—during episodes when the cross-sectional distribution of liquidity tightens. Our
+paper converts this challenge into an identification strategy: we exploit the remaining sliver
+of unsecured interbank activity in the federal funds market to measure demand and supply
+conditions and diagnose reserve-related fragilities among banks.
+Our contribution is twofold. First, we show that intermediaries who lend in fed funds
+market shape what the data say about reserve conditions. When trades are dominated by
+nonbank lenders—most notably FHLBs that price elastically to capture the spread between
+IORB and fed funds trading—standard regressions of rates on aggregate reserves mainly
+identify nonbank arbitrage activity, not banks’ aggregate demand for reserves to manage
+1IORB is the rate the Fed pays banks on their reserve deposits held at the Fed. The ON RRP offering
+rate is the rate the Fed offers to non-bank financial institutions for overnight cash investments in reverse
+repurchase agreements; it is set below the IORB rate to establish a floor under short-term money market
+rates.
+1
+===== PAGE 4 =====
+their liquidity. By contrast, bank lenders’ volume-weighted rates co-move with aggregate
+reserves and with the lenders’ own reserve positions. These facts underscore the importance
+of accounting for lender heterogeneity for inferring bank liquidity conditions. Second, we
+show that the thin interbank segment still carries rich information about the cross-sectional
+distribution of reserves well before important information on distributional frictions becomes
+apparent in aggregate reserve conditions.
+Much of the literature devoted to understanding at what point reserves transition from
+“abundant” to “ample” levels involves the estimation of an aggregate reserve demand curve
+and identifying the“kink” as the onset of reserve scarcity (Lopez-Salido & Vissing-Jorgensen
+(2023), Afonso et al. (2022), Acharya & Rajan (2024)). By regressing daily changes in
+EFFR relative to IORB on fluctuations in aggregate reserves and deposits, they trace a two-
+regime relationship that is essentially flat when reserves exceed a threshold and steepens
+once reserves dip below a certain level. We argue that this representative-bank framework is
+ill-suited to the problem at hand because it overlooks heterogeneity—by which we mean sys-
+tematic differences across participants in constraints, objectives, and pricing (e.g., large vs.
+small banks, foreign vs. domestic banks, and nonbanks). Aggregating across different types
+of market participants blends activity which is motivated by arbitrage from that which is
+driven by the demand and supply of liquidity, confounding identification and the information
+content of fed funds rates.
+Our approach is motivated by two stylized facts. First, lender composition in fed funds is
+heterogeneous: nonbanks (FHLBs), who do not earn IORB on their reserve balances, supply
+the majority of fed funds to earn the spread between EFFR and IORB (Anderson et al.
+2021). FHLBs mainly lend to foreign banks, that are subject to less stringent regulations
+relative to domestic banks, and thus have a greater willingness to expand their balance
+sheet to earn the spread between EFFR and IORB to capture arbitrage. Bank lenders,
+in contrast, lend subject to their own reserve positions and liquidity needs of their other
+bank counterparties. For these bank lenders IORB, and their own liquidity considerations,
+are the effective opportunity cost to lend reserves into fed funds. Second, bank borrower
+heterogeneity is stark: only a specific subset of domestic banks—those under $10 billion in
+assets—meaningfully expand their reserve holdings in response to deposit inflows, thereby
+putting into question the notion of a uniform aggregate demand curve. Only when these
+smaller banks’ demand for reserves increases, do trading volumes increase in the fed funds
+market.
+The structure of the fed funds market poses challenges for measuring bank liquidity
+conditions. When transactions in the fed funds market are dominated by nonbank lending,
+slopes estimated on the EFFR primarily nonbanks’ incentives to supply reserves to profit
+2
+===== PAGE 5 =====
+from arbitrage spreads, not a tightening in banks’ reserve management. Conversely, the
+interbank rate between bank borrowers and lenders moves in response to their funding needs
+and their willingness to deploy those funds relative earning IORB, yielding a cleaner signal
+of distributional frictions among banks.
+In this paper, we rely on micro data to disentangle these two distinct drivers of fed
+funds trading activity. Specifically, we estimate the supply elasticity of lenders in the fed
+funds market, separating between non-bank and domestic bank lenders. 2 We show that the
+volume-weighted average rates offered by bank lenders vary systematically with aggregate
+reserves. By exploiting plausibly exogenous deposit shocks at small domestic borrowing
+banks as an instrumental variable for their borrowing demand, we estimate supply elasticities
+by lender type and find that non-bank lending remains highly elastic—consistent with pure
+arbitrage behavior—whereas bank lending is inelastic. We then measure both non-bank and
+bank supply elasticities as a function of their reserve holdings. While non-bank lending is
+elastic regardless of the level of reserves, domestic bank lending become more inelastic as
+reserves decline. In other words, as aggregate liquidity conditions tighten with the decline
+in aggregate reserves, domestic banks require more compensation to deploy reserves into
+interbank markets.
+To emphasize the importance of banks’ reserve holdings even further, we also measure
+supply elasticity as a function of reserve holdings of banks that are the more relevant lenders
+in the fed funds market: bankers’ banks. These are specialized institutions that manage
+reserves for community bank customers and are the principal lenders in this market, making
+their reserve holdings particularly relevant to measure domestic bank lending activity (Anbil
+et al. 2026a). We find that domestic bank supply elasticity is particularly sensitive to bankers’
+banks reserve holdings, underscoring the role of distributional frictions in affecting fed funds
+activity.
+These insights from the fed funds market reveal that, even as the market has declined
+in size, it remains informative as it highlights distributional frictions that may challenge
+the Fed’s control of short-term interest rates and in times of heightened stress could impair
+monetary policy transmission. Our findings suggest that the apparent steepening of the
+aggregate demand curve in the existing literature most likely reflects FHLBs raising their
+lending rates in response to repo-market disruptions rather than evidence of genuine system-
+wide reserve scarcity which drive banks’ liquidity management. Crucially, we find that the
+rates offered by bank lenders in the fed funds market remained stable during the September
+2019 repo market stress episode, showing that the turmoil likely arose from repo market
+2In our analysis we calculate a semi-elasticity which we will refer to as “supply elasticity”, for simplicity.
+3
+===== PAGE 6 =====
+strains-driven by collateral shortages and settlement frictions-rather than from any shortage
+of bank reserves, consistent with recent findings by Anbil et al. (2024).
+Taken together, these findings reframe “reserve scarcity” as a distributional, not aggre-
+gate, concept in the ample-reserves era. Our analysis demonstrates that despite the signif-
+icant contraction of the fed funds market, it continues to serve as a valuable lens through
+which to examine distributional frictions within the financial system. By focusing on activity
+in the small interbank segment of the fed funds market, which is driven by banks’ trade-off
+between borrowing funds when their reserve balances are relatively low and their willingness
+to lend when their reserves are relatively high, our results underscore the importance of
+a well-functioning interbank market for assessing liquidity conditions among banks. These
+frictions, often obscured in aggregate analyses, have the potential to challenge the Fed’s abil-
+ity to maintain precise control over short-term interest rates and may, at critical junctures,
+impede the efficient transmission of monetary policy.
+Our findings offer a nuanced understanding of interbank market dynamics and challenge
+existing models of reserve demand. Our work has significant implications for monetary policy
+implementation and financial stability assessments, emphasizing the importance of accurately
+interpreting signals of reserve scarcity. Finally, our results speak to the scope of monetary
+policy implementation in an ample-reserves framework. While the framework succeeds in
+anchoring short-term rates with administered rates, distributional frictions can still challenge
+rate control and, at times, interfere with policy transmission. The small interbank fed funds
+market provides a lens on those frictions, making it possible to distinguish between broader
+stress in repo markets and genuine bank reserve tightness, and to tailor responses accordingly.
+These insights are likely to become more important if there are less reserves in the banking
+system. In a potentially more dynamic fed funds market, the price discovery process provides
+valuable signals about the distribution of liquidity. As a result, interbank trading dynamics
+can provide early warnings of emerging liquidity pressures before aggregate measures indicate
+reserve tightness.
+The rest of the paper is structured as follows. Section 2 provides a brief review of the
+existing literature and highlights the main differences with our bank-level approach. Section
+3 reviews the mechanics of the fed funds market, describing the trading dynamics between
+borrowers and lenders, and the importance of this market relative to other short-term funding
+markets. Section 4 presents our empirical analysis, which unfolds in two key stages: first, we
+document the heterogeneity in banks’ reserve demand responses to demand deposit shocks,
+and then, we employ an innovative instrumental variable approach to estimate the supply
+elasticity of both bank and non-bank lenders. Finally, Section 5 summarizes our main
+findings and provides some concluding remarks.
+4
+===== PAGE 7 =====
+2 Related Literature
+Our paper contributes to several strands of research on monetary policy implementation,
+reserve-demand estimation, and interbank market microstructure. The earliest empirical
+investigations into the sensitivity of overnight rates to reserve fluctuations date back to
+Hamilton (1997), who identified a liquidity effect by exploiting unexpected changes in Trea-
+sury General Account balances as exogenous shocks to reserves, and Carpenter & Demiralp
+(2006), who documented a nonlinear liquidity effect at daily frequency using Federal Reserve
+forecast errors. These foundational studies identified the liquidity effect in a scarce-reserves
+regime, where changes in aggregate reserves directly influenced the fed funds rate.
+Building on this work, a growing literature has sought to estimate the aggregate demand
+curve for reserves in an ample-reserves regime, typically assuming a representative bank.
+Lopez-Salido & Vissing-Jorgensen (2023) use changes in deposit aggregates to identify the
+point at which reserve demand begins to slope downward; Acharya et al. (2023) highlight
+asymmetries in deposit dynamics between periods of quantitative easing and tightening and
+their effects on the spread between EFFR and IORB; Anbil et al. (2024) structurally esti-
+mate reserve demand by incorporating repo-market capacity and emphasize the role of non-
+bank cash demand in determining the optimal size of the Fed’s balance sheet; and Afonso,
+La Spada, Mertens & Williams (2023) employ a time-varying econometric model to trace
+shifts in the aggregate demand slope over several decades. While these studies yield valuable
+benchmarks for “ample” versus “scarce” reserves, they collapse diverse institutions into a
+single curve and thus may conflate genuine reserve scarcity with changes in counterparty
+composition or trading frictions.
+A parallel strand of the literature leverages payment-system data to detect the onset of
+reserve tightness. Afonso et al. (2024) document strategic complementarities in interbank
+payments—banks’ reliance on incoming flows to fund outgoing transactions—that intensify
+as reserves fall, and Lagos & Navarro (2023) develop a structural model of payments across
+bank types to infer aggregate reserve demand from payment flows. These approaches illumi-
+nate how payment patterns can reveal emerging pressures of reserves scarcity, but they do
+not directly address price formation in the fed funds market itself.
+Theoretical models of bank liquidity management form a third nexus of related research.
+Poole (1968) laid the groundwork by showing how individual banks’ demand for reserves
+depends on the risk of intraday shortfalls, and subsequent work by Bech & Klee (2011),
+Afonso et al. (2019), Armenter & Lester (2017), and Kim et al. (2020) has examined how
+changes in the Fed’s implementation framework and balance-sheet size affect interbank trad-
+ing and segmentation. More recent studies by d’Avernas et al. (2023) and d’Avernas et al.
+5
+===== PAGE 8 =====
+(2024) emphasize how limits on central bank intraday credit and collateral constraints al-
+ter banks’ precautionary motives and willingness to participate in unsecured and secured
+funding markets.
+Our approach diverges from aggregate-demand and payment-flow studies by harnessing
+high-frequency, bank-level data to highlight heterogeneity and microstructure in the fed funds
+market. We first show that only small domestic banks (assets under$10 billion) meaningfully
+adjust reserves in response to deposit shocks, and we then demonstrate that changes in the
+volume-weighted rates offered by bank lenders on reserve fluctuations provide a coherent
+gauge of true reserve demand and supply, whereas regressions of the headline EFFR on
+aggregate reserves largely capture elastic non-bank supply. In doing so, we reveal that the
+familiar “kink” in the reserve-demand curve reflects shifts in counterparty composition and
+trading frictions—such as repo-market disruptions—rather than indicating genuine system-
+wide reserve scarcity.
+3 Overview of the Fed Funds Market
+In this section, we first describe the institutional structure and main incentives of the
+fed funds market before turning to summary statistics on borrowing and lending volumes,
+spreads, reserve balances, and deposit flows.
+3.1 Institutional Background
+The fed funds market is the overnight unsecured funding venue for depository institutions,
+and the EFFR is calculated as a volume-weighted median of transactions reported in the FR
+2420 Report of Selected Money Market Rates. 3 Prior to the Global Financial Crisis (GFC),
+aggregate reserve balances averaged around $40 billion, and banks borrowed primarily to
+manage end-of-day reserve requirements, trading only to avoid excess balances. In response
+to the crisis, the Fed’s large-scale asset purchases expanded its balance sheet and increased
+reserves to nearly $3 trillion, effectively ending daily reserve scarcity as a binding constraint
+on rate control (Ihrig et al. 2020).
+To maintain interest-rate control under abundant reserves, the Fed now adjusts two ad-
+ministered rates—the IORB and the ON RRP rates—in lieu of fine-tuning reserve quantities.
+This framework has delivered remarkably stable control of the EFFR despite unprecedented
+reserve levels (Clouse et al. 2025). In January 2019, the FOMC formally adopted an “ample
+reserves” strategy, after which active borrowing by domestic banks in the fed funds market
+3More information about the FR 2420 Report of Selected Money Market Rates can be found here.
+6
+===== PAGE 9 =====
+declined sharply, even as overall trading volumes stabilized and later rose, driven largely
+by non-bank arbitrage activity and foreign bank participation under the new rate-control
+framework (FOMC 2019).4
+In the current environment, non-bank entities, chiefly Federal Home Loan Banks (FHLBs),
+provide over 90 percent of fed funds lending. Because FHLBs cannot earn IORB on funds
+parked at the Fed, they lend in the fed funds market at rates below IORB in order to earn
+a positive return on otherwise idle balances. Their capacity to supply large volumes at
+these rates hinges on the scale of their regulatory liquidity buffers and the relative appeal
+of alternative short-term investments such as lending in the repo market (Banegas & Tase
+2020).5
+Borrowers split into two main groups. U.S. branches of foreign banks, which face fewer
+regulatory constraints, routinely borrow at rates below IORB to earn the spread between fed
+funds and IORB, and account for roughly 90 percent of total borrowing volume (Anderson
+et al. 2021). Domestic banks, by contrast, borrow mainly to address liquidity needs and
+typically pay spreads around IORB. Among these domestic institutions, larger banks some-
+times access fed funds to optimize their Liquidity Coverage Ratio (LCR), since borrowing
+from FHLBs carries lower assumed outflow rates and can improve the LCR; banks reporting
+their LCR daily are willing to pay higher rates for this reason (Anderson et al. 2024).
+A broader set of smaller domestic banks—including those with assets under $10 bil-
+lion—engage intermittently in the fed funds market to manage transient liquidity shocks. As
+aggregate reserves decline under quantitative tightening (QT), competition among liquidity-
+sensitive banks intensifies, translating into higher borrowing rates and volumes in the in-
+terbank market (Kim et al. 2020). In the next subsection, we present summary statistics
+on these participant groups, their trading volumes and spreads, and their reserve-deposit
+dynamics.
+3.2 Borrower-Lender Activity in the Fed Funds Market
+We next exploit our micro-level dataset to illustrate how heterogeneous incentives among
+participants shape trading volumes and rates in the federal funds market. We distinguish
+four counterparty pairings: domestic banks borrowing from banks, domestic banks borrowing
+from non-banks, foreign banks borrowing from banks, and foreign banks borrowing from non-
+banks.
+4Afonso, Cisternas, Gowen, Miu & Younger (2023) estimate that daily trading volumes fell from over
+$150 billion (about 2 percent of commercial bank assets) before 2008 to $60–80 billion in the 2010s, then
+rose to around $110 billion (0.5 percent of assets) per day in 2023.
+5See Anderson et al. (2024), Gissler & Narajabad (2017a), and Gissler & Narajabad (2017b) for a detailed
+analysis of the effects of FHLBs overall liquidity management on the fed funds activity.
+7
+===== PAGE 10 =====
+The top panel of Figure 1 plots weekly borrowing volumes and the bottom panel shows
+corresponding volume-weighted spreads to IORB for each pairing over 2016–2024. Consistent
+with the institutional background in Section 3.1, the dominant category is foreign banks
+borrowing from non-bank lenders—primarily Federal Home Loan Banks (FHLBs)—at low
+spreads. Foreign borrowing from other banks is nearly zero, indicating that FHLBs supply
+large volumes at rates below IORB, exploiting the “fed arb” opportunity of pocketing the
+spread between fed funds and IORB (Anderson et al. 2021).
+By contrast, domestic banks borrow both from non-banks and from peer banks, but
+at materially higher spreads. Their willingness to pay these higher rates reflects genuine
+liquidity needs rather than arbitrage. Notably, as QT ran from 2018 into 2019, domestic bank
+borrowing volumes rose alongside their spreads, suggesting that declining aggregate reserves
+prompted greater reliance on the fed funds market for liquidity management (Anderson &
+Na 2024). The bottom panel also shows an increased share of domestic borrowing from
+non-banks during this period.
+Figure 1 therefore highlights a clear dichotomy: foreign banks borrow large volumes
+cheaply from non-banks, while domestic banks borrow smaller volumes at higher rates from
+both lender types. These patterns persist outside the zero lower bound period (shaded),
+when money-market spreads generally widen, underscoring that domestic banks, more so
+than foreign institutions, tap the fed funds market to manage liquidity.
+Focusing exclusively on domestic bank activity, Figure 2 plots cumulative volume against
+spread for each lender type, averaging across all trading days from October 2015 to January
+2024 (with each point aggregating at least seven distinct domestic borrowers). 6 Borrowing
+from non-banks (red dots) features low, flat spreads even at high volumes, indicating highly
+elastic supply. In contrast, borrowing from banks (blue dots) carries higher spreads that rise
+markedly with volume, signifying inelastic supply.
+Together, these figures demonstrate that supply elasticity in the fed funds market varies
+sharply by lender type: non-bank lenders behave as elastic arbitrageurs, while bank lenders
+price their funds according to marginal spreads and aggregate liquidity conditions. This
+divergence in supply behavior underlies our subsequent empirical strategy for measuring
+true reserve scarcity.
+4 Empirical Analysis
+The evidence in Section 3.2 indicates that domestic banks—rather than foreign banks—rely
+on the fed funds market chiefly for liquidity management, and that the elasticity of supply
+6A parallel chart for foreign banks appears as Figure A.1 in the Appendix.
+8
+===== PAGE 11 =====
+varies sharply by lender type. We therefore focus our empirical analysis on domestic bank
+borrowing incentives and associated price dynamics.
+Figure 3, which plots the EFFR minus IORB spread against the ratio of aggregate re-
+serve balances to total banking-sector assets, highlights the oft-cited spike on September 17,
+2019—an episode many studies interpret as evidence of reserve scarcity (e.g. Lopez-Salido
+& Vissing-Jorgensen (2023), Afonso, La Spada, Mertens & Williams (2023)). On September
+17, the EFFR printed outside the target range prompting the Fed to intervene with tempo-
+rary repo operations. EFFR also increased during the onset of COVID but barely moved
+when Silicon Valley Bank (SVB) failed. Changes in EFFR are associated with indicators of
+reserve scarcity, yet, the headline EFFR conflates the behavior of heterogeneous lenders and
+can obscure the true drivers of rate movements.
+In Figure 4, we decompose EFFR into the volume-weighted average spreads to IORB of-
+fered by non-bank lenders (chiefly FHLBs) and by bank lenders, again plotted again against
+aggregate reserves-to-assets. The non-bank spread (purple line) remains near zero when re-
+serves are abundant and moves only modestly as reserves contract, reflecting highly elastic
+arbitrage supply. By contrast, the bank-lender spread (yellow line) is much more sensitive
+to reserve fluctuations—rising noticeably as reserves decline—and shows little reaction to
+the September 2019 episode, indicating that repo-market frictions, rather than true reserve
+scarcity, likely drove that spike (Anbil et al. 2024). Instead, bank-lender rates surge dur-
+ing episodes such as the onset of COVID-19 and the SVB failure, consistent with funding
+constraints and credit concerns in the banking sector.
+Together, these figures underscore that aggregating all lenders into the EFFR masks
+the distributional frictions experienced by banks when reserves dwindle. It is the pricing
+behavior of bank lenders that furnishes a far more informative signal of genuine reserve
+tightness.
+To quantify these effects, we exploit plausibly exogenous weekly shocks to domestic banks’
+demand deposits as an instrument for their fed funds borrowing. First, Section 4.2 documents
+that changes in demand deposits at small domestic banks induce corresponding adjustments
+in their reserve holdings, validating the use of deposit shocks to isolate reserve demand.
+We then use these shocks to instrument for aggregate fed funds borrowing by lender type,
+estimating supply elasticities separately for non-bank and bank lenders. Consistent with
+the price patterns in Figure 4, we find that non-bank supply is highly elastic, whereas bank
+supply is markedly inelastic and grows more so as the aggregate reserves-to-assets ratio falls.
+This two-stage approach confirms that the conventional “kink” in the aggregate reserve-
+demand curve captures shifts in counterparty composition and repo-market frictions rather
+than a systemwide shortage of reserves.
+9
+===== PAGE 12 =====
+4.1 Data
+Our empirical analysis combines two main sources: the FR 2900 (“Report of Deposits and
+Vault Cash”) and the FR 2420 (“Report of Selected Money Market Rates”). The FR 2900
+collects daily bank-level data on reserve balances, vault cash, and deposits (including demand
+deposits, other liquid deposits, and small-time deposits under $100,000), with each institu-
+tion submitting one weekly filing that records its daily values. The FR 2420 data set records
+every overnight fed funds transaction—including the borrowing bank’s identity, transaction
+volume, and rate—enabling construction of the EFFR. While FR 2420 identifies the borrow-
+ing institution, it does not report specific lender identities; instead, we observe only whether
+lending occurs between banks or between non-banks (most of which are FHLBs).
+From the merged data, we construct for each week and for each lender type (bank vs.
+non-bank) the total federal funds borrowing volume and the volume-weighted average spread
+to IORB, separately for domestic and foreign borrowers. We also compute weekly averages
+of each bank’s reserve balances and deposit measures from the FR 2900.
+We merge FR 2900 observations to the Federal Financial Institutions Examination Coun-
+cil (FFIEC) Call Reports via an internal FR 2900-RSSD roadmap maintained by the Board
+of Governors, yielding a panel of 1,983 institutions from October 27, 2015 (the date of the
+first consistently clean FR 2420 data) through January 16, 2024. 7 Of these, 1,822 are classi-
+fied as domestic banks in the Call Reports. We further categorize domestic banks into three
+tiers based on quarterly total assets: “small” banks with under $10 billion (1,294 banks),
+“medium” banks with $10–100 billion (156 banks), and “large” banks with over $100 billion
+(31 banks).8
+Table 1 summarizes these key variables. Across all 1,983 institutions, the average weekly
+reserve balance is $1.3 billion, demand deposits average $1.6 billion, and total deposits
+average $2.1 billion. Restricting to the 1,822 domestic banks, average reserves fall to $0.7
+billion. Among the 78 domestic banks that borrowed in the federal funds market during our
+sample, the mean weekly borrowing volume is $8.7 billion and the average spread to IORB
+is –3.4 basis points; when borrowing specifically from peer banks, the mean weekly volume
+is $2.6 billion at a spread of +2.3 basis points.
+7Though the FR 2420 form began in April 2014, we restrict our sample start to October 2015 for data
+quality and consistency.
+8Because institutions can migrate between size categories over time, the sum of banks across categories
+(1,481) exceeds the number of unique domestic banks in the sample (1,379).
+10
+===== PAGE 13 =====
+4.2 Bank-level Sensitivity of Reserves to Deposits
+To isolate genuine changes in reserve demand—rather than mechanical payment flows or
+aggregate balance-sheet effects—we exploit plausibly exogenous weekly shocks to individual
+banks’ demand deposits and trace their impact on each bank’s reserve holdings. This strategy
+follows the spirit of the representative-bank approach (e.g. Lopez-Salido & Vissing-Jorgensen
+(2023)), but critically relaxes its core assumption by recognizing that banks differ in their
+balance-sheet structure and liquidity incentives. In particular, a given deposit shock need not
+translate into higher reserve demand for all banks: institutions with ample excess reserves
+or more diversified funding sources may not adjust reserves at all, whereas smaller, deposit-
+dependent banks may respond aggressively.
+Figure 5 illustrates this heterogeneity. The distribution of reserve-to-deposit ratios for
+medium and large banks is relatively flat and centered at higher values, suggesting abun-
+dant buffers, whereas small banks exhibit a tightly skewed distribution toward lower ratios,
+indicating greater sensitivity to deposit outflows. In light of this heterogeneity, we estimate
+the following panel specification for bank i in week t:
+∆Reserves i,t = α + β1∆DemandDepositsi,t + β2∆Reserves i,t−1
++θi + ϕmonth + ϵi,t. (1)
+where ∆DemandDepositsi,t captures week-over-week deposit shocks, and we include lagged
+reserves, bank fixed effects, and month fixed effects to control for persistence and seasonality.
+Standard errors are clustered by bank.
+Table 2 reports the results. For the full domestic-bank sample, deposit shocks and reserve
+holdings are positively correlated, but the effect is driven entirely by small banks: a $100
+increase in weekly deposits at small institutions is associated with a $16 increase in reserves.
+Medium and large banks show a much smaller response, consistent with their higher reserve
+buffers. Moreover, the estimated coefficients for small banks are far below unity, ruling out a
+simple “payment pass-through” interpretation—if deposit changes merely reflected interbank
+payments, we would expect a one-for-one offset.
+These findings validate our use of small-bank deposit shocks as an instrument for changes
+in reserve demand: only those banks whose liquidity incentives are deposit-driven adjust
+reserves, and thus their fed funds activity, in response to deposit fluctuations. By contrast,
+aggregating across all banks—many of which do not react—would dilute the true variation
+needed to identify supply elasticities in the fed funds market.
+11
+===== PAGE 14 =====
+4.2.1 Alternative Interpretations
+An alternative view, advanced by Acharya et al. (2023), attributes the positive deposit–reserve
+relationship to mechanical effects of the Fed’s balance-sheet expansions: as the Fed injects
+reserves via LSAPs, aggregate deposits rise and banks simply hold more cash. While this
+channel operates in the aggregate, Figure 6 shows that during periods of rapid reserve growth
+only large—and to a lesser extent medium—banks expand their deposits, whereas small
+banks’ deposit levels remain unchanged. This non-uniform deposit response underscores
+that deposit shocks at small banks are not driven by Fed asset purchases, but rather by
+idiosyncratic funding needs, making them a valid instrument for reserve demand shocks.
+Finally, one might worry that deposit changes mechanically induce reserve changes via
+interbank payments. Two facts mitigate this concern. First, our weekly frequency attenuates
+high-frequency payments noise; second, Table 1 shows that small banks participate only
+sparsely in fed funds. Consistent with this, Afonso et al. (2022) document that large banks
+account for over 75% of Fedwire Funds Service (Fedwire), implying that small-bank reserve
+adjustments are unlikely to be driven primarily by payment-system churn.
+We nevertheless test for a payments channel. Appendix Table A.3 augments Equation 1
+with an additional controls, namely P aymentsi,t and P aymentsi,t−1, the net Fedwire inflows
+(inflows minus outflows) to banki on day t and t−1. If reserves moved mechanically one-for-
+one with payments, we would expect sensitivity of ∆ Reserves i,t to P aymentsi,t to be close
+to 1, and the coefficient on ∆DemandDepositsi,t to collapse toward zero. Instead, Appendix
+Table A.3 shows that while reserves respond to net payments—a 1-percentage-point increase
+in P aymentsi,t is associated with a 30% increase in reserves (and decrease somewhat with an
+increase in P aymentsi,t−1)—the coefficient on ∆ DemandDepositsi,t remains economically
+large and statistically significant, across all bank cohorts. Thus, banks meaningfully adjust
+reserves in response to deposit changes, over and above any mechanical response to interbank
+payments.9
+4.3 Supply Elasticity in the Fed Funds Market
+Having documented that deposit shocks drive reserve demand chiefly among small domes-
+tic banks, we now assess how these shocks transmit into fed funds borrowing volumes and
+spreads, and identify which lenders facilitate price formation. Because domestic bank bor-
+rowing is motivated by liquidity management rather than arbitrage, we use weekly shocks
+9We identify each bank’s federal funds transactions in Fedwire using the algorithm of Anbil et al. (2026b)
+and exclude these when constructing P aymentsi,t so that the control variable is not conflated with fed
+funds activity. The number of observations declines relative to the results in Table 2 because the matching
+algorithm only provides data between January 2018 and December 2023.
+12
+===== PAGE 15 =====
+to individual banks’ demand deposits as plausibly exogenous instruments for aggregate bor-
+rowing demand and then recover supply elasticities by lender type.
+Figure 7 provides a stylized depiction of our empirical approach. The horizontal axis
+measures fed funds quantity and the vertical axis measures the spread to IORB. Non-bank
+lenders supply funds elastically at low spreads (red), whereas bank lenders supply more
+inelastically at higher spreads (blue). A deposit shock shifts the bank-reserve demand curve
+(black) outward, leading to changes in borrowed quantity ∆ Q and in the market spread
+∆(F F–IORB ).
+In practice, individual bank trading is too sporadic to estimate directly. Instead, for each
+week t and lender type L ∈ {banks, non-banks}, we regress:
+∆ln(V olumeL,t) = α + γ1∆DemandDepositsi,t + γ2∆ln(V olumeL,t−1)
++γ3∆(F FL,t−1 − IORB t−1) + θi + ϕmonth + ϵi,t (2)
+∆(F FL,t − IORB t) = α + γ′
+1∆DemandDepositsi,t + γ′
+2∆(F FL,t−1 − IORB t−1)
++γ′
+3∆ln(V olumeL,t−1) + θ′
+i + ϕ′
+month + ϵi,t (3)
+where ∆DemandDepositsi,t (in trillions) is the weekly change in bank i’s demand deposits,
+and we include bank fixed effects θi, monthly fixed effects ϕmonth, and lagged dependent
+variables to capture seasonality and autocorrelation. Table 3 presents two sets of OLS
+regressions: the top panel pools all 1,822 domestic banks, while the bottom panel restricts
+the sample to the 1,294 smaller banks (assets ≤ $10 billion). In the top panel, a $10 billion
+increase in weekly demand deposits raises non-bank borrowing volumes (Column 5) by about
+2% (significant at the 1 percent level), indicating that FHLBs absorb additional liquidity
+without adjusting their rates—that is, they supply elastically. In contrast, the same deposit
+shock widens bank-lender spreads (Column 4) by roughly 11 basis points (highly significant),
+despite little change in their volumes.
+These effects intensify in the bottom panel, which focuses on small banks. A $10 billion
+shock among small institutions boosts non-bank borrowing volumes by 141 percent (signif-
+icant at the 1 percent level), while bank-lender spreads jump by approximately 16 basis
+points. The stark divergence—non-banks adjusting quantities and banks reacting through
+price increases—confirms that banks, particularly smaller ones, exhibit inelastic supply in
+response to reserve-demand shocks.
+13
+===== PAGE 16 =====
+4.3.1 Instrumental Variable Approach
+We now implement a two-stage instrumental-variable approach to recover the true price
+elasticity of fed funds supply. OLS estimates of Equations 2 and 3 separately capture how
+deposit shocks affect borrowing volumes and spreads, our IV strategy instead isolates how
+changes in borrowing volumes drive price changes. We rely on the identifying assumption
+that weekly shocks to small banks’ demand deposits shift only reserve demand—and not
+supply—which, as discussed in Section 4.2.1, is most plausible for small banks.
+Concretely, for each lender type L ∈ {banks, non-banks} and week t, we first instrument
+the change in log borrowing volume,
+ˆ∆ln(V olumeL,t) = α + γ1∆DemandDepositsi,t
++γ2∆ln(V olumeL,t−1) + θi + ϕmonth + ϵi,t
+(4)
+using the weekly change in bank i’s demand deposits ∆DemandDepositsi,t (in trillions). We
+include a lagged dependent variable, bank fixed effects θi, and monthly fixed effects ϕmonth
+to absorb persistence and seasonality.
+In the second stage, we estimate how these instrumented volumes affect the fed funds
+spread:
+∆(F FL,t − IORB t) = α + γ′
+1
+ˆ∆ln(V olumeL,t) + γ′
+2∆(F FL,t−1 − IORB t−1)
++γ′
+3∆ln(V olumeL,t−1) + θ′
+i + ϕ′
+month + ϵi,t (5)
+Again, we include a lagged dependent variable, bank fixed effects θi, and monthly fixed
+effects ϕmonth to absorb persistence and seasonality.
+Table 4 presents our two-stage IV estimates of bank and non-bank supply elasticities in
+the federal funds market, first for the entire sample of 1,822 domestic banks (top panel) and
+then restricting the instrument to deposit shocks at the 1,294 small banks (bottom panel).
+In the top-panel specification, the first-stage regression instrumenting weekly fed-funds
+borrowing volumes with aggregate demand-deposit shocks yields an F-statistic of about 14,
+indicating a strong instrument. In the second stage, a one-unit increase in instrumented
+bank borrowing—equivalent to roughly $10 billion—raises the volume-weighted bank-lender
+spread by 18 basis points, a result that is both highly statistically and economically mean-
+ingful given typical daily spread movements of just a few basis points. By contrast, the
+non-bank coefficient on instrumented volume is slightly negative and statistically indistin-
+14
+===== PAGE 17 =====
+guishable from zero, confirming that FHLBs absorb increases in liquidity demand elastically
+without a significant increase in their lending rates.
+When we narrow the instrument to shocks in small banks’ deposits (bottom panel), the
+first-stage F-statistic jumps to nearly 50, reflecting that these shocks more cleanly capture
+unexpected shifts in reserve demand. In this specification, the bank-lender spread response to
+a $10 billion increase in borrowing rose by 20 basis points, demonstrating even stronger price
+sensitivity when focusing on the smallest, most liquidity-constrained institutions. The non-
+bank coefficient remains economically small; indeed, a $10 billion increase in borrowing from
+non-banks lowered the spread by 3.5 basis points. Taken together, these results underscore
+that bank lenders—particularly smaller banks—adjust their pricing in response to demand
+shocks, whereas non-bank lenders continue to supply at essentially constant spreads.
+4.3.2 Supply Elasticity as a Function of Reserves
+To assess how fed funds supply responds to changing reserve abundance, we augment our
+two-stage IV specification (equation 5) by interacting the instrumented change in borrowing,
+ˆ∆ln(V olumeL,t) with the system-wide reserves-to-assets ratio, Reserves
+BankAssets .
+Table 5 reports these estimates. When reserves are plentiful, bank lenders exhibit mod-
+est price sensitivity; as reserves shrink, their supply elasticity rises to about 0.37 (highly
+statistically significant), while non-bank lenders remain effectively price-insensitive. The
+negative interaction coefficient (–1.25) confirms that bank-lender spreads become markedly
+more responsive to volume as aggregate reserves fall, consistent with inelastic supply under
+tightening conditions. Assuming an average Reserves
+BankAssets of 0.14, a $10 billion increase in bor-
+rowing volume from banks increased spreads by 20 basis points (0.37 minus -1.25 × 0.14).
+In contrast, the supply elasticity for non-banks does not change with the reserves-to-assets
+ratio.
+In the top panel of Figure 9, we plot the estimated supply elasticities for bank lenders
+(solid blue line) and non-bank lenders (solid red line) against the system-wide reserves-to-
+assets ratio, which ranges from roughly 8 percent to 19 percent over our sample period. The
+shaded areas around each line show the 95 percent confidence bands. As aggregate reserves
+decline with respect to bank assets, bank-lender elasticity increases. In our sample, we ob-
+serve that bank lender elasticity almost doubles from 0.15 at high reserve levels to about 0.30
+at the lowest observed reserve ratio, reflecting that banks become increasingly price-sensitive
+when liquidity is tight. By contrast, the non-bank elasticity curve remains essentially flat
+and statistically indistinguishable from zero across the entire range, confirming that FHLBs
+and other non-bank suppliers continue to supply reserves at near-constant spreads regardless
+15
+===== PAGE 18 =====
+of aggregate reserve conditions. This stark divergence underscores that bank lenders drive
+the inelastic price response in the fed funds market as reserve levels come down.
+However, treating all bank lenders as a single group masks the true source of these price
+pressures. In practice, a small network of bankers’ banks—about a dozen U.S. cooperatives
+owned by community banks—serves as the principal channel through which hundreds of
+smaller institutions access wholesale liquidity. By law, bankers’ banks do not take retail
+deposits; instead, they pool their members’ balances to achieve sufficient scale and credit
+standing to transact directly in overnight and term money markets, including federal funds
+and repurchase agreements, thereby supplying reserves to community banks that lack direct
+market access.10,11 Because the 12 bankers’ banks are the marginal lenders to banks without
+repo-market access, bankers’ banks hold substantially larger reserve buffers than the typical
+commercial bank—often two to three times higher as a share of assets—to ensure they can
+meet fluctuating liquidity demands.
+Figure 8 plots the volume-weighted bank-lender spread against the reserve ratio of bankers’
+banks, Bankers ′ Banks Reserves
+Bankers Bank Assets . The correlation with bankers’-bank reserves is strikingly stronger
+than with the system-wide reserves ratio shown in Figure 4: as these intermediaries’ re-
+serves fell—especially following the start of QT in mid-2022—the bank-lender spread climbed
+sharply, while non-bank spreads remained essentially flat.
+In light of this observation, we re-estimate our IV specification with the interaction term,
+replacing the aggregate ratio with the bankers’ banks’ reserve ratio. In column 3, an instru-
+mented change in borrowing volume of 1% increases the spread that bank lenders charge by
+46 basis points when bankers’-bank reserves are at their mean. Crucially, the interaction
+between instrumented volume and the bankers’-bank reserve ratio enters at –0.054, so that
+as these reserves fall, each additional 1 percent increase in borrowing raises the spread by
+an extra 5.4 basis points. Finally, the direct effect of the bankers’-bank reserve ratio on the
+spread is –0.025, meaning that, holding volume constant, a lower reserve buffer at bankers’
+banks increases the baseline spread by 2.5 basis points.
+Taken together, these coefficients imply a total bank supply elasticity of ˆ γ1 + ˆγ3 ×
+Bankers ′ Bank Reserves
+Bankers ′ Bank Assets = 0 .46 − .054 × Bankers ′ Bank Reserves
+Bankers ′ Bank Assets . The bottom panel of Figure 9
+plots this bankers’-bank-based elasticity (solid blue curve) over the 15 percent to 60 percent
+range of Bankers ′ Bank Reserves
+Bankers ′ Bank Assets , clearly illustrating its steeper decline compared to the much
+flatter curve based on system-wide reserves shown in the top panel.
+1012 C.F.R. § 204.121 (2025)
+11Examples of current bankers’ banks are The Independent Bankers Bank or TIB and First National
+Bankers Bank.
+16
+===== PAGE 19 =====
+Together, these findings demonstrate that true “reserve tightness” in the federal funds
+market does not stem from the aggregate reserve pool but from distributional frictions at
+bankers’ banks, the marginal suppliers whose own liquidity constraints dictate the rates paid
+by community and smaller banks.
+5 Concluding Remarks
+Our paper provides a novel microstructure-based framework for understanding demand and
+supply dynamics in the U.S. fed funds market, challenging the conventional aggregate re-
+serve demand approach and offering crucial insights for monetary policy implementation.
+We show that the thin interbank segment of the fed funds market provides a window into
+distributional frictions in the fed funds market, and offer signals of reserve scarcity well
+before it manifests itself in aggregate reserve conditions. This discovery reframes the con-
+cept of ”reserve scarcity” as a distributional rather than an aggregate phenomenon in the
+ample-reserves era.
+By distinguishing between bank and non-bank lenders, we show that standard approaches
+to measuring reserve demand often capture non-bank supply elasticity rather than true bank
+demand for reserves. This finding underscores the importance of accounting for lender hetero-
+geneity when assessing liquidity conditions in the banking system. Our innovative approach,
+leveraging an instrumental variable strategy based on deposit shocks, allows for the estima-
+tion of supply elasticities by lender type. These estimates reveal stark differences between
+the highly elastic lending behavior of non-banks and the increasingly inelastic lending by
+banks as aggregate reserves decline. This heterogeneity in supply elasticity has significant
+implications for interpreting market signals and designing effective monetary policy inter-
+ventions. Crucially, our analysis distinguishes between genuine reserve scarcity and other
+sources of market stress. By showing that bank lenders’ rates remained stable during the
+September 2019 stress episode, we provide evidence that the turmoil was likely driven by
+repo market strains rather than a shortage of bank reserves.
+Our findings emphasize the continued informational value of the fed funds market, despite
+its diminished size. Our work not only challenges the existing models of reserve demand
+but also offer a more nuanced understanding of interbank market dynamics. As the Fed
+continues to navigate the complexities of monetary policy implementation in an ample-
+reserves framework, the insights provided by our research will be instrumental in identifying
+and addressing distributional frictions that could impede policy transmission. These insights
+are likely to become more important if there are less reserves in the banking system. In
+a lower reserves environment interbank activity should increase, strengthening the role of
+17
+===== PAGE 20 =====
+the fed funds market as a barometer for liquidity conditions and frictions related to the
+distribution of liquidity across the banking system.
+Looking ahead, our work opens up new avenues for research into the microstructure
+of money markets and the role of heterogeneity in shaping market outcomes. Refining
+our understanding of these dynamics can enhance the effectiveness of monetary policy and
+contribute to greater financial stability in an ever-evolving economic landscape.
+18
+===== PAGE 21 =====
+References
+Acharya, V. V., Chauhan, R. S., Rajan, R. & Steffen, S. (2023), ‘Liquidity dependence and
+the waxing and waning of central bank balance sheets’, NBER Working Paper (31050).
+Acharya, V. V. & Rajan, R. (2024), ‘Liquidity, liquidity everywhere, not a drop to use:
+Why flooding banks with central bank reserves may not expand liquidity’, The Journal of
+Finance 79(5), 2943–2991.
+Afonso, G., Armnenter, R. & Lester, B. (2019), ‘A Model of the Federal Funds Market:
+Yesterday, Today, and Tomorrow’,Review of Economic Dynamics 33, 177–204.
+Afonso, G., Cisternas, G., Gowen, B., Miu, J. & Younger, J. (2023), ‘Who’s borrowing and
+lending in the fed funds market today?’, FRB of New York Liberty Street Economics .
+Afonso, G., Duffie, D., Rigon, L. & Shin, H. S. (2022), ‘How abundant are reserves? evidence
+from the wholesale payment system’, NBER Working Paper (30736).
+Afonso, G., Giannone, D., La Spada, G. & Williams, J. C. (2024), ‘Scarce, abundant, or
+ample? a time-varying model of the reserve demand curve’, FRB of New York Staff
+Report (1019).
+Afonso, G., La Spada, G., Mertens, T. M. & Williams, J. C. (2023), ‘The optimal supply of
+central bank reserves under uncertainty’, FRB of New York Staff Report (1077).
+Anbil, S., Anderson, A., Cohen, E. & Ruprecht, R. (2024), ‘Stop believing in reserves’,SSRN
+Working Paper .
+Anbil, S., Anderson, A. & Eyal, B. (2026 a), ‘Bankers’ banks and their role in the federal
+funds market’. FEDS Notes.
+Anbil, S., Anderson, A. & Eyal, B. (2026 b), ‘Relationship dynamics in the federal funds
+market’. SSRN.
+Anderson, A., Cohen, E. & Ruprecht, R. (2024), ‘Lcr premium in the federal funds market’,
+SSRN Working Paper .
+Anderson, A. G., Du, W. & Schlusche, B. (2021), ‘Arbitrage capital of global banks’,Finance
+and Economics Discussion Series 2021-032. Washington: Board of Governors of the
+Federal Reserve System.
+19
+===== PAGE 22 =====
+Anderson, A. & Na, D. (2024), ‘The recent evolution of the federal funds market and its
+dynamics during reductions of the federal reserve’s balance sheet’. FEDS Notes.
+Armenter, R. & Lester, B. (2017), ‘Excess reserves and monetary policy implementation’,
+Review of Economic Dynamics 23, 212–235.
+Banegas, A. & Tase, M. (2020), ‘Reserve balances, the federal funds market and arbitrage
+in the new regulatory framework’, Journal of Banking & Finance 118, 105893.
+URL: https://www.sciencedirect.com/science/article/pii/S037842662030159X
+Bech, M. L. & Klee, E. (2011), ‘The mechanics of a graceful exit: Interest on reserves and
+segmentation in the federal funds market’, Journal of Monetary Economics 58(5), 415–
+431.
+Carpenter, S. & Demiralp, S. (2006), ‘The liquidity effect in the federal funds market:
+Evidence from daily open market operations’, Journal of Money, Banking, and Credit
+38(4), 901–920.
+Clouse, J. A., Infante, S. & Senyuz, Z. (2025), ‘Market-based indicators on the road to ample
+reserves’. FEDS Notes.
+d’Avernas, A., Vandeweyer, Q. & Petersen, D. (2024), ‘The central bank’s balance sheet and
+treasury market disruptions’, Available at SSRN 4826919 .
+d’Avernas, A., Han, B. & Vandeweyer, Q. (2023), ‘Intraday liquidity and money market
+dislocations’.
+FOMC (2019), ‘Statement regarding monetary policy implementation and balance
+sheet normalization’. Available at https://www.federalreserve.gov/newsevents/
+pressreleases/monetary20190130c.htm.
+Gissler, S. & Narajabad, B. (2017 a), ‘The increased role of the federal home loan bank
+system in funding markets, part 1: Background’. FEDS Notes.
+Gissler, S. & Narajabad, B. (2017b), ‘The increased role of the federal home loan bank system
+in funding markets, part 2: Recent trends and potential drivers’. FEDS Notes.
+Hamilton, J. D. (1997), ‘Measuring the liquidity effect’, The American Economic Review
+pp. 80–97.
+20
+===== PAGE 23 =====
+Ihrig, J., Senyuz, Z. & Weinbach, G. C. (2020), ‘The Fed’s “ample-reserves” approach to
+implementing monetary policy”’, Finance and Economics Discussion Series 2020-022.
+Washington: Board of Governors of the Federal Reserve System.
+Kim, K., Martin, A. & Nosal, E. (2020), ‘Can the u.s. interbank market be revived?’,Journal
+of Money, Credit and Banking 52(7), 1645–1689.
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/jmcb.12693
+Lagos, R. & Navarro, G. (2023), ‘Monetary policy operations: Theory, evidence, and tools
+for quantitative analysis’, NBER Working Paper (31370).
+Lopez-Salido, D. & Vissing-Jorgensen, A. (2023), ‘Reserve demand, interest rate control,
+and quantitative tightening’, Federal Reserve Board, January 10.
+Poole, W. (1968), ‘Commercial bank reserve management in a stochastic model: implications
+for monetary policy’, The Journal of Finance 23(5), 769–791.
+21
+===== PAGE 24 =====
+Figures and Tables
+Figure 1: Time Series of Aggregate Trading Volumes in Fed Funds Market
+This figure displays borrowing dynamics in the fed funds market for domestic and foreign banks. Source:
+FR 2420 Report on Selected Money Market Rates
+22
+===== PAGE 25 =====
+Figure 2: Rates and Volumes Borrowed by Domestic Bank in the Fed Funds Market
+This figure displays cumulative average trading volumes and spreads in the fed funds market for domestic
+banks. Each volume/spread dot reflects at least 7 domestic banks’ trading behavior averaged across our
+sample between October 2015 and January 2024. This figure does not single out trading behavior on a
+particular day, but represents average trading behavior between October 2015 and January 2024. Blue dots
+represent the cumulative trading volume lent by bank lenders. Red dots represent the cumulative trading
+volume lent by non-bank lenders. Source: FR 2420 Report on Selected Money Market Rates
+23
+===== PAGE 26 =====
+Figure 3: EFFR and Aggregate Reserves
+This figure displays the Effective Federal Funds Rate minus IORB and system-wide reserves divided by total
+banking assets in the financial system between October 2015 and January 2024. Source: Federal Reserve
+Bank of New York, FR H.4.1 Factors Affecting Reserve Balances, FR H.8 Assets & Liabilities of Commercial
+Banks in the US
+24
+===== PAGE 27 =====
+Figure 4: Rates Offered by Lender Type and Aggregate Reserves
+This figure displays the volume-weighted average lending rate offered by non-banks (purple line) and banks
+(yellow line) minus IORB, respectively, and system-wide reserves divided by total banking assets in the
+financial system between October 2015 and January 2024. Source: FR 2420 Selected Money Market Rates,
+FR H.4.1 Factors Affecting Reserve Balances, FR H.8 Assets & Liabilities of Commercial Banks in the US
+25
+===== PAGE 28 =====
+Figure 5: Reserves to Deposits across Domestic Banks
+Histograms of domestic banks’ reserves to deposit ratios, separated by small sized banks (less than$10 billion
+in assets), and medium and large sized banks (greater than $10 billion). Source: FR 2900 Report of Deposits
+and Vault Cash, internal Federal Reserve accounting records
+26
+===== PAGE 29 =====
+Figure 6: Aggregate Reserves and Deposits per Bank Size to GDP
+0
+5
+10
+15
+20
+2015 2016 2017 2018 2019 2020 2021 2022 2023
+0
+2
+4
+6
+8
+10
+12
+% GDP
+Reserve Balances of All Banks (LHS)
+Total Deposits of Small Banks (RHS)
+Total Deposits of Medium Banks (RHS)
+Total Deposits of Large Banks (RHS)
+This figure displays aggregate reserves balances as a fraction of GDP and aggregate deposits of banks by
+bank size to GDP. Small banks are banks with less than $10 billion in assets. Large banks have assets greater
+than $100 billion in assets. Source: FR 2900 Report of Deposits and Vault Cash, FFIEC Call Reports, FR
+H.4.1 Factors Affecting Reserve Balances, internal Federal Reserve accounting records
+27
+===== PAGE 30 =====
+Figure 7: Theoretical Demand and Supply Curves in the Fed Funds Market
+Vertical axis is spread of fed funds rate to IORB, horizontal line is trading volumes in the fed funds market.
+Red and blue lines depict supply in the fed funds market by non-bank and banks, respectively. Black solid
+line depicts demand in the fed funds market, dashed black lines depicts demand after a deposit shock.
+28
+===== PAGE 31 =====
+Figure 8: Rates Offered by Lender Type and Bankers’ Bank Reserves
+This figure displays the volume-weighted average lending rate offered by non-banks (purple line) and banks
+(yellow line) minus IORB, respectively, and system-wide reserves divided by total banking assets in the
+financial system between October 2015 and January 2024. Source: FR 2420 Selected Money Market Rates,
+FFIEC Call Reports.
+29
+===== PAGE 32 =====
+Figure 9: Estimate of Supply Elasticity for Small Domestic Banks as a Function of Reserves
+to Bank Assets
+This figure illustrates how reserve ratios influence our estimated supply elasticity from the two-stage IV re-
+gression of equation 5. In the top panel, the blue line shows the total bank-lender elasticityγ′
+1+γ′
+3
+Reserves
+BanksAssets t
+plotted over the range of the aggregate reserve-to-assets ratio Reserves
+BanksAssets t. These curves use the coefficients
+from Table 5 for both banks and non-bank lenders. In the bottom panel, we replace the aggregate ratio with
+the bankers’ banks reserve ratio Bankers ′ Banks Reserves
+Bankers ′ Banks Assets t, again plotting the sum of the baseline elasticity and
+its interaction term using the point estimates from Table 6. This panel highlights that bank supply elastic-
+ity is far more sensitive to bankers’ banks’ reserves than to system-wide reserves, while non-bank elasticity
+remains essentially flat. The shaded area illustrates the confidence intervals of our elasticity measure at the
+95th percentile. Source: FR 2420 Report of Selected Money Market Rates, FR 2900 Report of Deposits and
+Vault Cash, FR H.4.1 Factors Affecting Reserve Balances, FR H.8 Assets & Liabilities of Commercial Banks
+in the US, FFIEC Call Reports, internal Federal Reserve accounting records.
+30
+===== PAGE 33 =====
+V ariable No. of Banks Mean Median Std. Dev.
+All Banks
+Reserves (in billions) 1,983 1.3 0.06 8.4
+DemandDeposits (in billions) 1,983 1.6 0.07 19.0
+T otalDeposits (in billions) 1,983 2.1 0.26 20.4
+Assets (in billions) 1,543 14.4 2.0 90.6
+Domestic Banks
+Reserves (in billions) 1,822 0.7 0.04 7.1
+DemandDeposits (in billions) 1,822 1.9 0.25 18.6
+Assets (in billions) 1,379 13.0 1.8 91.4
+F Fall − IORB (in bps) 78 -3.4 -4.6 4.0
+F Fbank − IORB (in bps) 78 2.3 0.4 5.7
+F Fnon−bank − IORB (in bps) 78 -5.7 -6.9 4.6
+V olumeall (in billions) 78 8.7 7.3 4.7
+V olumebank (in billions) 78 2.6 2.2 1.1
+V olumenon−bank (in billions) 78 6.1 5.2 4.1
+Small Banks
+Reserves (in millions) 1,294 105.2 32.7 212.4
+DemandDeposits (in millions) 1,294 288.1 110.4 523.5
+Assets (in billions) 1,294 2.4 1.7 2.2
+F Fall − IORB (in bps) 21 -3.5 -4.7 4.1
+F Fbank − IORB (in bps) 21 2.1 0.2 5.5
+F Fnon−bank − IORB (in bps) 21 -5.8 -6.9 4.7
+V olumeall (in billions) 21 8.7 7.3 4.6
+V olumebank (in billions) 21 2.6 2.2 1.1
+V olumenon−bank (in billions) 21 6.1 5.1 4.1
+Table 1: Summary Statistics.
+This table presents summary statistics about the independent and dependent variables in our analysis be-
+tween October 27, 2015 and January 26, 2024. F FL − IORB where L refers to the type of lender and F FL
+with L ∈ { all, banks, non-banks} is the volume-weighted average rate in the fed funds market across for
+lender type L. V olumeL is the summed borrowed volume in the fed funds market from lender type L. Total
+deposits are equal to the sum of demand deposits, other liquid deposits, and small-time deposits. Small
+banks are banks with assets less than $10 billion during their last Call Report quarter. Source: FR 2900
+Report of Deposits and Vault Cash, FFIEC Call Reports, FR 2420 Report on Selected Money Market Rates,
+internal Federal Reserve accounting records
+31
+===== PAGE 34 =====
+-
+(1) (2) (3) (4)
+All Domestic Large Medium Small
+∆DemandDepositsi,t 0.031∗∗∗ 0.029∗∗∗ 0.072∗∗∗ 0.16∗∗∗
+(3.00) (2.80) (2.63) (4.95)
+∆Reservesi,t−1 0.15 0.14 0.017 -0.024
+(1.31) (1.21) (0.46) (-0.37)
+Observations 455287 8496 38356 291010
+AdjustedR2 0.0270 0.0386 0.0143 0.0347
+Month FE? Yes Yes Yes Yes
+Table 2: The Effect of Deposits on Reserves for Domestic Banks.
+This table shows the results of equation (1). All columns show the estimates from a weekly
+panel regression between October 27, 2015 and January 26, 2024 examining the effects of the
+change in deposits on the change in reserves. Column 1 shows the results for 1,822 domestic
+banks, Column 2 shows for small banks, Column 3 shows for medium banks, and Column
+4 shows for large banks. We include bank and month fixed effects. Standard errors are
+clustered at the bank level. t statistics are shown in parentheses. Statistical significance:
+*** p ≤ .01, ** p ≤ .05, * p ≤ .10. Source: (1) FR 2900 Report of Deposits and Vault Cash;
+(2) FFIEC Call Reports; (3) internal Federal Reserve accounting records
+32
+===== PAGE 35 =====
+(1) (2) (3) (4) (5) (6)∆ln(V olumeall,t) ∆(F Fall,t−IORBt) ∆ln(V olumebanks,t) ∆(F Fbanks,t−IORBt) ∆ln(V olumenon-banks,t) ∆(F Fnon-banks,t−IORBt)
+∆DemandDepositsi,t 1.11∗∗∗ 0.039∗∗∗ 0.62∗∗∗ 0.11∗∗∗ 2.00∗∗∗ -0.0043(3.69) (3.42) (3.76) (4.01) (3.57) (-0.39)
+Observations 455287 455287 453900 453900 453900 453900AdjustedR2 0.1496 0.1052 0.1417 0.1733 0.1769 0.0990Month FE? Yes Yes Yes Yes Yes YesLagged LHS? Yes Yes Yes Yes Yes Yes
+(1) (2) (3) (4) (5) (6)∆ln(V olumeall,t) ∆(F Fall,t−IORBt) ∆ln(V olumebanks,t) ∆(F Fbanks,t−IORBt) ∆ln(V olumenon-banks,t) ∆(F Fnon-banks,t−IORBt)
+∆DemandDepositsi,t 107.7∗∗∗ 2.29∗∗∗ 76.6∗∗∗ 16.2∗∗∗ 140.5∗∗∗ -4.27∗∗∗
+(4.87) (2.75) (6.97) (7.53) (3.25) (-4.76)
+Observations 291010 291010 291010 289980 291010 289980AdjustedR2 0.1381 0.1057 0.1388 0.1516 0.1743 0.0952Month FE? Yes Yes Yes Yes Yes YesLagged LHS? Yes Yes Yes Yes Yes Yes
+Table 3: The Effect of Deposit Shocks on Fed Funds Trading.
+This table shows the results from estimating equation (2) and (3), separately, using demand deposit shocks
+to all and small domestic banks. The results of a panel regression between October 27, 2015 and January
+26, 2024, with Panel A using deposit shocks to all 1,822 domestic banks and Panel B using shocks to
+1,294 small domestic banks (banks with total assets last quarter less than $10 billion USD). The dependent
+variables are ∆ ln(V olumeL,t), the total trading volume in the fed funds market, and ∆( F FL,t − IORB t),
+the aggregate volume-weighted average borrowing rate in the fed funds market minus IORB, where L refers
+to the type of lender and L ∈ { all, banks, non-banks}. The independent variable is ∆ DemandDepositsi,t,
+weekly changes in individual bank demand deposits, expressed in trillions. We include bank and month fixed
+effects. Standard errors are clustered at the bank level. t statistics are shown in parentheses. Statistical
+significance: *** p ≤ .01, ** p ≤ .05, * p ≤ .10. Source: (1) FR 2900 Report of Deposits and Vault Cash;
+(2) FFIEC Call Reports; (3) FR 2420 Report on Selected Money Market Rates; (4) internal Federal Reserve
+accounting records
+33
+===== PAGE 36 =====
+∆(F Fall,t−IORBt) ∆( F Fbanks,t−IORBt) ∆( F Fnon-banks,t−IORBt)
+(1) (2) (3) (4) (5) (6)
+First Stage Second Stage First Stage Second Stage First Stage Second Stage
+∆ln(V olumeall,t) 0.035 ∗∗∗
+(6.20)
+∆ln(V olumebanks,t) 0.18 ∗∗∗
+(6.00)
+∆ln(V olumenon-banks,t) -0.0022
+(-0.37)
+∆DemandDepositsi,t 1.11∗∗∗ 0.62∗∗∗ 2.00∗∗∗
+(3.69) (3.76) (3.57)
+Observations 455287 455287 453900 453900 453900 453900
+First-Stage F statistic 13.7 14.1 12.7
+Month FE? Yes Yes Yes
+Lagged LHS? Yes Yes Yes
+∆(F Fall,t−IORBt) ∆( F Fbanks,t−IORBt) ∆( F Fnon-banks,t−IORBt)
+(1) (2) (3) (4) (5) (6)
+First Stage Second Stage First Stage Second Stage First Stage Second Stage
+∆ln(V olumeall,t) 0.026 ∗∗∗
+(4.61)
+∆ln(V olumebanks,t) 0.20 ∗∗∗
+(17.06)
+∆ln(V olumenon-banks,t) -0.035 ∗∗
+(-2.27)
+∆DemandDepositsi,t 93.0∗∗∗ 76.4∗∗∗ 122.7∗∗∗
+(4.42) (6.94) (2.92)
+Observations 291010 291010 289980 289980 289980 289980
+First-Stage F statistic 19.5 48.1 8.50
+Month FE? Yes Yes Yes
+Lagged LHS? Yes Yes Yes
+Table 4: Supply Elasticity in the Fed Funds Market for Banks and Non-Banks.
+This table shows our instrumental variable approach estimate supply elasticity using equation 5, using
+demand deposit shocks to all (top panel) and small domestic banks (bottom panel). The results of a weekly
+IV panel regression between October 27, 2015 and January 26, 2024, with Panel A using shocks to 1,822 all
+domestic banks in our sample and Panel B using shocks to 1,294 small domestic banks in our sample (banks
+with total assets last quarter less than $10 billion USD), to examine the elasticity of supply in the fed funds
+market. Columns 1, 3, and 5 show the results of the first stage regression where we regress ∆ ln(V olumeL,t)
+where L refers to the type of lender and L ∈ {all, banks, non-banks} on ∆DemandDepositsi,t, expressed in
+trillions. The dependent variable, ∆( F FL,t − IORB t) is the aggregate volume-weighted average borrowing
+rate to lender type L in the fed funds market on day t minus IORB. We include bank and month fixed
+effects. Standard errors are clustered at the bank level. t statistics are shown in parentheses. Statistical
+significance: *** p ≤ .01, ** p ≤ .05, * p ≤ .10. Source: (1) FR 2900 Report of Deposits and Vault Cash;
+(2) FFIEC Call Reports; (3) FR 2420 Report on Selected Money Market Rates; (4) internal Federal Reserve
+accounting records
+34
+===== PAGE 37 =====
+∆(F Fall,t−IORBt) ∆( F Fbanks,t−IORBt) ∆( F Fnon-banks,t−IORBt)
+(1) (2) (3) (4) (5) (6) (7) (8) (9)First Stage First Stage Second Stage First Stage First Stage Second Stage First Stage First Stage Second Stage
+∆ln(V olumeall,t) 0.32 ∗∗∗
+(7.13)
+∆ln(V olumebanks,t) 0.37∗∗∗
+(8.82)
+∆ln(V olumenon-banks,t) -0.020(-0.32)
+∆ln(V olumeall,t)× ReservesBankAssetst -1.93∗∗∗
+(-6.24)
+∆ ln(V olumebanks,t)× ReservesBankAssetst -1.25∗∗∗
+(-4.52)
+∆ln(V olumenon-banks,t)× ReservesBankAssetst -0.12(-0.30)
+ReservesBankAssetst -3.73∗∗∗ -0.58∗∗∗ -0.22∗∗∗ -2.51∗∗∗ -0.33∗∗∗ -0.53∗∗∗ -5.37∗∗∗ -0.90∗∗∗ 0.11(-60.21) (-55.13) (-5.57) (-32.42) (-27.40) (-16.86) (-49.85) (-51.21) (1.14)
+∆DemandDepositsi,t 20.0 -10.4 189.4 ∗∗∗ 12.1∗∗∗ -251.9 -55.3(0.29) (-0.81) (4.99) (2.60) (-1.29) (-1.52)
+∆DemandDepositsi,t× ReservesBankAssetst 485.7 165.2 -784.4 ∗∗∗ -9.99 2527.7 511.0 ∗
+(0.85) (1.52) (-3.32) (-0.29) (1.57) (1.71)
+Observations 291010 291010 291010 289980 289980 289980 289980 289980 289980First-Stage F statistic 18.6 26.8 9.43Month FE? Yes Yes YesLagged LHS? Yes Yes Yes
+Table 5: How Aggregate Reserves Affects Supply Elasticity in the Fed Funds Market.
+This table reports instrumental variable estimates of supply elasticity in the fed funds market for small
+domestic banks (assets ≤ $10 billion USD) using equation 5 using weekly panel data from October 27,
+2015 and January 26, 2024 for 1,294 small domestic banks. In the “First Stage” (columns 1, 3, 5) we regress
+∆ln(V olumeL,t) for each lender type L ∈ {all, banks, non-banks} on weekly shocks to ∆DemandDepositsi,t
+(in trillions), controlling for lagged volume, bank fixed effects, and month fixed effects. In the “Second Stage”
+(columns 2, 4, 6), we regress ∆(F FL,t −IORB t) on the instrumented volume, interacting it with Reserves
+BankAssets t,
+the ratio of total reserves held at the Fed to total domestic bank assets. All regressions include bank and
+month fixed effects. Standard errors are clustered at the bank level. t statistics are shown in parentheses.
+Statistical significance: *** p ≤ .01, ** p ≤ .05, * p ≤ .10. Source: (1) FR 2900 Report of Deposits and
+Vault Cash; (2) FFIEC Call Reports; (3) FR 2420 Report on Selected Money Market Rates; (4) FR H.4.1
+Factors Affecting Reserve Balances; (5) FR H.8 Assets & Liabilities of Commercial Banks in the US; (6)
+internal Federal Reserve accounting records
+35
+===== PAGE 38 =====
+∆(F Fbanks,t− IORBt)
+(1) First Stage (2) First Stage (3) Second Stage
+∆ ln(V olumebanks,t) 0.46 ∗∗∗
+(7.55)
+∆ ln(V olumebanks,t) × Bankers′ Bankers Reservest
+Bankers′ Banks Assetst -0.054∗∗∗
+(-4.72)
+Bankers′ Bankers Reservest
+Bankers′ Banks Assetst 0.16∗∗∗ 0.58∗∗∗ -0.025∗∗∗
+(211.79) (201.49) (-6.46)
+∆DemandDepositsi,t 43.0∗∗∗ -79.9
+(3.07) (-1.31)
+∆DemandDepositsi,t × Bankers′ Bankers Reservest
+Bankers′ Banks Assetst 1.72 73.6 ∗∗∗
+(0.43) (3.09)
+Observations 289,980 289,980 289,980
+First-Stage F statistic 22.5
+Month FE? Yes
+Lagged LHS? Yes
+Table 6: How Bankers’ Bank Reserves Affects Supply Elasticity in the Fed Funds Market.
+This table reports instrumental variable estimates of supply elasticity in the fed funds market for small
+domestic banks (assets ≤ $10 billion USD) using equation 5 using weekly panel data from October 27,
+2015 and January 26, 2024 for 1,294 small domestic banks. In the “First Stage” (columns 1, 2) we regress
+∆ln(V olumebank,t) on weekly shocks to ∆ DemandDepositsi,t (in trillions), controlling for lagged volume,
+bank fixed effects, and month fixed effects. In the “Second Stage” (column 3), we regress ∆( F Fbank,t −
+IORB t) on the instrumented volume, interacting it with Bankers ′ Banks Reserves
+Bankers ′ Banks Assets t, the ratio of total reserves
+held at the Fed by bankers’ banks to total domestic bank assets. All regressions include bank and month
+fixed effects. Standard errors are clustered at the bank level. t statistics are shown in parentheses. Statistical
+significance: *** p ≤ .01, ** p ≤ .05, * p ≤ .10. Source: (1) FR 2900 Report of Deposits and Vault Cash; (2)
+FFIEC Call Reports; (3) FR 2420 Report on Selected Money Market Rates; (4) FR H.4.1 Factors Affecting
+Reserve Balances; (5) FR H.8 Assets & Liabilities of Commercial Banks in the US; (6) internal Federal
+Reserve accounting records
+36
+===== PAGE 39 =====
+Appendix
+Figure A.1: Rates and Volumes Borrowed by Domestic and Foreign Bank in the Fed Funds
+Market.
+This figure displays cumulative average trading volumes and spreads in the fed funds market for domestic
+banks (left) and foreign banks (right). Each volume/spread dot on the left panel for domestic banks reflects
+at least 7 banks’ trading behavior averaged across our sample between October 2015 and January 2024. Each
+volume/spread dot on the right panel for foreign banks reflects at least 5 banks’ trading behavior averaged
+across our sample between October 2015 and January 2024. Both panels do not single out trading behavior
+on a particular day but represent average trading behavior between October 2015 and January 2024. Blue
+and yellow dots represent the cumulative trading volume lent by bank lenders. Red and green dots represent
+the cumulative trading volume lent by non-bank lenders. Source: FR 2420 Report on Selected Money Market
+Rates
+37
+===== PAGE 40 =====
+∆(F Fall,t−IORBt) ∆( F Fbanks,t−IORBt) ∆( F Fnon-banks,t−IORBt)
+(1) (2) (3) (4) (5) (6)
+First Stage Second Stage First Stage Second Stage First Stage Second Stage
+∆ln(V olumeall,t) 0.035 ∗∗∗
+(6.30)
+∆ln(V olumebanks,t) 0.18 ∗∗∗
+(6.15)
+∆ln(V olumenon-banks,t) -0.0023
+(-0.39)
+∆T otalDepositsi,t 1.10∗∗∗ 0.62∗∗∗ 1.99∗∗∗
+(3.69) (3.75) (3.57)
+Observations 454829 454829 453446 453446 453446 453446
+First-Stage F statistic 13.6 14.1 12.8
+Month FE? Yes Yes Yes
+Lagged LHS? Yes Yes Yes
+∆(F Fall,t−IORBt) ∆( F Fbanks,t−IORBt) ∆( F Fnon-banks,t−IORBt)
+(1) (2) (3) (4) (5) (6)
+First Stage Second Stage First Stage Second Stage First Stage Second Stage
+∆ln(V olumeall,t) 0.025 ∗∗∗
+(4.19)
+∆ln(V olumebanks,t) 0.19 ∗∗∗
+(17.01)
+∆ln(V olumenon-banks,t) -0.036 ∗∗
+(-2.32)
+∆T otalDepositsi,t 89.0∗∗∗ 73.6∗∗∗ 116.6∗∗∗
+(4.48) (7.12) (2.93)
+Observations 290719 290719 289691 289691 289691 289691
+First-Stage F statistic 20.0 50.7 8.56
+Month FE? Yes Yes Yes
+Lagged LHS? Yes Yes Yes
+Table A.1: Elasticity of Supply in the Fed funds Market Using Total Deposits.
+This table shows the two stage strategy to estimate supply elasticity, first using equation (2) and then
+equation (3), using total deposit shocks to all and small domestic banks. The results of a weekly IV panel
+regression between October 27, 2015 and January 26, 2024, with Panel A using shocks to 1,822 all domestic
+banks in our sample and Panel B using shocks to 1,294 small domestic banks in our sample (banks with total
+assets last quarter less than $10 billion USD), to examine the elasticity of supply in the fed funds market.
+Columns 1, 3, and 5 show the results of the first stage regression where we regress ∆ ln(V olumeL,t) where
+L refers to the type of lender and L ∈ {all, banks, non-banks} on ∆T otalDepositsi,t, expressed in trillions.
+The dependent variable, ∆( F FL,t − IORB t) is the aggregate volume-weighted average borrowing rate to
+lender type L in the fed funds market on day t minus IORB. We include bank and month fixed effects.
+Standard errors are clustered at the bank level. t statistics are shown in parentheses. Statistical significance:
+*** p ≤ .01, ** p ≤ .05, * p ≤ .10. Source: (1) FR 2900 Report of Deposits and Vault Cash; (2) FFIEC
+Call Reports; (3) FR 2420 Report on Selected Money Market Rates; (4) internal Federal Reserve accounting
+records
+38
+===== PAGE 41 =====
+∆(F Fall,t−IORBt) ∆( F Fbanks,t−IORBt) ∆( F Fnon-banks,t−IORBt)
+(1) (2) (3) (4) (5) (6) (7) (8) (9)First Stage First Stage Second Stage First Stage First Stage Second Stage First Stage First Stage Second Stage
+∆ln(V olumeall,t) 0.30 ∗∗∗
+(6.73)
+∆ln(V olumebanks,t) 0.39∗∗∗
+(9.90)
+∆ln(V olumenon-banks,t) 0.052(0.69)
+∆ln(V olumeall,t)× ReservesBankAssetst -1.84∗∗∗
+(-5.94)
+∆ ln(V olumebanks,t)× ReservesBankAssetst -1.43∗∗∗
+(-5.38)
+∆ln(V olumenon-banks,t)× ReservesBankAssetst -0.54(-1.15)
+ReservesBankAssetst -3.73∗∗∗ -0.58∗∗∗ -0.22∗∗∗ -2.51∗∗∗ -0.33∗∗∗ -0.59∗∗∗ -5.37∗∗∗ -0.90∗∗∗ -0.14(-60.20) (-55.13) (-5.69) (-32.46) (-27.43) (-19.17) (-49.83) (-51.21) (-1.40)
+∆T otalDepositsi,t 14.8 -10.7 172.8 ∗∗∗ 10.3∗∗ -239.9 -53.0(0.22) (-0.84) (4.97) (2.35) (-1.25) (-1.48)
+∆T otalDepositsi,t× ReservesBankAssetst 497.0 163.9 -691.1 ∗∗∗ -0.82 2416.5 490.6 ∗
+(0.87) (1.52) (-3.11) (-0.02) (1.52) (1.68)
+Observations 290719 290719 290719 289691 289691 289691 289691 289691 289691First-Stage F statistic 20.8 28.9 10.4Month FE? Yes Yes YesLagged LHS? Yes Yes Yes
+Table A.2: How Elasticity of Supply in the Fed funds Market Using Total Deposits Changes
+With Aggregate Reserves.
+This table shows the two stage strategy to estimate supply elasticity, first using equation (2) and then
+equation (3), using total deposit shocks to small domestic banks; augmented by including an interaction term
+of the level of aggregate reserves to total bank deposits. This table shows the results of a weekly IV panel
+regression between October 27, 2015 and January 26, 2024 for 1,294 small domestic banks (banks with total
+assets last quarter less than $10 billion USD). Columns 1, 3, and 5 show the results of the first stage regression
+where we regress ∆ ln(V olumeL,t) where L refers to the type of lender and L ∈ { all, banks, non-banks} on
+∆T otalDepositsi,t, expressed in trillions. The dependent variable, ∆( F FL,t − IORB t) is the aggregate
+volume-weighted average borrowing rate to lender type L in the fed funds market on day t minus IORB.
+Reserves
+BankAssets t is the ratio of all reserve balances held at the Fed to total domestic bank assets. We include
+bank and month fixed effects. Standard errors are clustered at the bank level. t statistics are shown in
+parentheses. Statistical significance: *** p ≤ .01, ** p ≤ .05, * p ≤ .10. Source: (1) FR 2900 Report of
+Deposits and Vault Cash; (2) FFIEC Call Reports; (3) FR 2420 Report on Selected Money Market Rates;
+(4) FR H.8; (5) internal Federal Reserve accounting records
+39
+===== PAGE 42 =====
+(1) (2) (3) (4)
+All Domestic Large Medium Small
+∆DemandDepositsi,t 0.039∗∗∗ 0.038∗∗∗ 0.075∗∗∗ 0.17∗∗∗
+(3.58) (3.45) (3.07) (4.46)
+∆Reservesi,t−1 0.21 0.19 -0.011 0.032
+(1.62) (1.54) (-0.31) (0.58)
+P aymentsi,t 0.30∗∗∗ 0.29∗∗∗ 0.90∗∗∗ 1.18∗∗∗
+(3.17) (3.09) (3.17) (2.75)
+P aymentsi,t−1 -0.16∗∗ -0.15∗∗ 0.39∗ -0.14
+(-2.27) (-2.34) (1.76) (-0.57)
+Observations 280817 6894 30338 167458
+AdjustedR2 0.0656 0.0792 0.1119 0.1606
+Month FE? Yes Yes Yes Yes
+Table A.3: The Effect of Deposits on Reserves for Domestic Banks Controlling for Payment
+Flows.
+This table shows the results of equation (1) with an additional control variables of net
+payments (P aymentsi,t and P aymentsi,t−1). P ayments equals Fedwire Funds Received -
+Fedwire Funds Sent - (Federal Funds Received - Federal Funds Sent). We control for federal
+funds payment flows in t and t − 1 to ensure that payment flows do not affect the sensitivity
+of deposit shocks on changes in reserves. All columns show the estimates from a weekly
+panel regression between January 2, 2018 and December 26, 2023 examining the effects of
+the change in deposits on the change in reserves. Column 1 shows the results for 1,822
+domestic banks, Column 2 shows for small banks, Column 3 shows for medium banks, and
+Column 4 shows for large banks. We include bank and month fixed effects. Standard errors
+are clustered at the bank level. t statistics are shown in parentheses. Statistical significance:
+*** p ≤ .01, ** p ≤ .05, * p ≤ .10. Source: (1) FR 2900 Report of Deposits and Vault Cash;
+(2) FFIEC Call Reports; (3) internal Federal Reserve accounting records
+40

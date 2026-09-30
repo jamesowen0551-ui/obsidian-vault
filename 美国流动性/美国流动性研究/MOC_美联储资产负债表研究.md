@@ -4,8 +4,8 @@ tags: [MOC, 美联储, 资产负债表, QT, 准备金, 知识地图]
 
 # 🗺️ MOC · 美联储资产负债表研究
 
-> 16+7 篇文献的知识地图主页。按**立场光谱**组织，辅以主题与阅读路径索引。
-> 论文原文与提取文本见 [[Fed_Balance_Sheet_Research/README|论文库 README]]；早期综述见 [[文献综述_美联储资产负债表缩表之争]]；**31 篇整合长文见 [[深度综述_缩表之争_31篇]]**。
+> 35 篇文献的知识地图主页。按**立场光谱**组织，辅以主题与阅读路径索引。
+> 论文原文与提取文本见 [[Fed_Balance_Sheet_Research/README|论文库 README]]；早期综述见 [[文献综述_美联储资产负债表缩表之争]]；**35 篇整合长文见 [[深度综述_缩表之争_35篇]]**。全部笔记已按 research-note 新格式重排。
 
 ## 核心问题
 
@@ -44,6 +44,8 @@ tags: [MOC, 美联储, 资产负债表, QT, 准备金, 知识地图]
 | [[Fed_Balance_Sheet_Research/读书笔记/18_Williams_2025_On_the_Optimal_Supply_of_Reserves\|Williams 2025]] | 纽约联储主席：不确定性下最优供给更高；工具组合无唯一最优 |
 | [[Fed_Balance_Sheet_Research/读书笔记/20_Clouse_Infante_Senyuz_2025_Market_Based_Indicators\|Clouse et al. 2025]] | 官方仪表盘：利差水平 × 曲线斜率 × 敏感度三类指标 |
 | [[Fed_Balance_Sheet_Research/读书笔记/28_Logan_Schulhofer-Wohl_2026_Options_for_Reducing_Fed_Balance_Sheet\|Logan & Schulhofer-Wohl 2026]] | 达拉斯联储：全负债缩表选项清单；需求曲线左移优于稀缺化；不量化不排序 |
+| [[Fed_Balance_Sheet_Research/读书笔记/33_Barr_2026_Beyond_the_Balance_Sheet\|Barr 2026]] | 理事回击：表规模是"足迹"的错误度量；缩表方案只换足迹形式且削弱韧性 |
+| [[Fed_Balance_Sheet_Research/读书笔记/35_Ihrig_Senyuz_Weinbach_2020_Ample_Reserves_Approach\|Ihrig, Senyuz & Weinbach 2020]] | 充裕框架官方教科书原点：需求曲线平坦区 + IORB/ONRRP 管理体系的来龙去脉 |
 
 ### 🟨 学术定量派——"还能缩多少"的标尺
 
@@ -74,6 +76,7 @@ tags: [MOC, 美联储, 资产负债表, QT, 准备金, 知识地图]
 | [[Fed_Balance_Sheet_Research/读书笔记/14_Smith_Valcarcel_2023_Financial_Market_Effects_of_Unwinding\|Smith & Valcarcel 2023]] | QT ≠ QE 倒放：影响在实施期经流动性渠道浮现 |
 | [[Fed_Balance_Sheet_Research/读书笔记/21_Copeland_Duffie_Yang_2021_Reserves_Not_So_Ample\|Copeland, Duffie & Yang 2021]] | 中介机构的准备金才关键；日内支付延迟是前瞻预警（QJE 2025） |
 | [[Fed_Balance_Sheet_Research/读书笔记/22_Acharya_et_al_2023_Liquidity_Dependence\|Acharya et al. 2023]] | Jackson Hole：QE 养大的存款+信贷额度不随 QT 收缩 → 流动性依赖 |
+| [[Fed_Balance_Sheet_Research/读书笔记/32_Anbil_Infante_Senyuz_2026_Tale_of_Demand_and_Supply\|Anbil et al. 2026]] | FEDS：银行间拆借段作传感器；FHLB 弹性兜底 vs 银行出借方僵硬 → 分布摩擦先于总量报警 |
 
 ### 🟫 支付系统派——"下限由支付需求划定"
 
@@ -89,6 +92,7 @@ tags: [MOC, 美联储, 资产负债表, QT, 准备金, 知识地图]
 | [[Fed_Balance_Sheet_Research/读书笔记/29_Schnabel_2025_Towards_New_Eurosystem_Balance_Sheet\|Schnabel 2025（ECB）]] | QN 已缩 45% 且无冲击；终局 = 需求驱动：标准再融资→结构性 LTRO→短久期结构组合 |
 | [[Fed_Balance_Sheet_Research/读书笔记/30_Bailey_2024_Importance_of_Central_Bank_Reserves\|Bailey 2024（BoE）]] | PMRR £345–490bn；到达后 QT 只换资产构成；终局资产或转向 repo 组合 |
 | [[Fed_Balance_Sheet_Research/读书笔记/31_Gravelle_2025_End_of_QT_and_What_Comes_Next\|Gravelle 2025（BoC）]] | 首个走完 QT 的 G7 央行：终点区间上调至 500–700 亿加元；提前购债平滑大额到期 |
+| [[Fed_Balance_Sheet_Research/读书笔记/34_Cavallino_et_al_2025_Operational_Frameworks_Taxonomy\|Cavallino et al. 2025（BIS）]] | 操作框架分类法：准备金稀缺度 × 工具结构二维坐标，统一比较 Fed/ECB/BoE/BoC 终局 |
 
 ---
 
@@ -103,7 +107,7 @@ tags: [MOC, 美联储, 资产负债表, QT, 准备金, 知识地图]
 ## 主题索引
 
 - **准备金需求估计**：LS&VJ · Lagos & Navarro · User's Guide §选项表
-- **操作框架设计**：Nelson 2025 · Borio · Arce et al. · Trilemma
+- **操作框架设计**：Nelson 2025 · Borio · Arce et al. · Trilemma · Cavallino et al.（BIS 分类法）
 - **监管与流动性要求**：Miran · User's Guide · Nelson 2024（棘轮）
 - **QT 实证**：DFL · Smith & Valcarcel · 2019 危机三篇
 - **政策现状**：Remache · Perli · Miran
@@ -112,4 +116,4 @@ tags: [MOC, 美联储, 资产负债表, QT, 准备金, 知识地图]
 
 ## 待补充（下一轮候选）
 
-Ihrig/Senyuz/Weinbach (2020) 充裕框架基础三连；Gissler et al. (2025) 非银资金出借方监测；Cordes & Infante (2025) 回购利率敏感度；Cavallino et al. (2025) BIS 操作框架分类法；Barr (2026) "Beyond the Balance Sheet"；Anbil, Infante & Senyuz (2026) "A Tale of Demand and Supply for Central Bank Reserves"（FEDS 2026-028）。
+Gissler et al. (2025) 非银资金出借方监测；Cordes & Infante (2025) 回购利率敏感度。
