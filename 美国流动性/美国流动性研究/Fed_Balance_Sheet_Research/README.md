@@ -1,7 +1,7 @@
 # 美联储资产负债表研究 · 论文库阅读指南
 
 > 主题：央行资产负债表管理（缩表 / QT / 准备金需求 / 操作框架设计）。
-> 共 35 篇（16 + 五轮增补 19 篇），按 7 个主题归档。整理日期：2026-08-06。
+> 共 38 篇（16 + 七轮增补 22 篇），按 7 个主题归档。整理日期：2026-10-08。
 > 全部读书笔记已按 research-note 技能新格式重排（YAML 元数据 + 一句话总结 + 原文 wiki 链接 + 研究问题与核心发现 + 理论框架 + 实证方法 + 关键概念速查 + 对本研究的含义 + 理论定位 + 局限与待跟进 + 相关笔记）。
 
 ## 一句话主线
@@ -49,6 +49,9 @@
 | 33 | [[读书笔记/33_Barr_2026_Beyond_the_Balance_Sheet\|Barr 2026：缩表是个错误目标]] |
 | 34 | [[读书笔记/34_Cavallino_et_al_2025_Operational_Frameworks_Taxonomy\|Cavallino et al. 2025：BIS 操作框架分类法]] |
 | 35 | [[读书笔记/35_Ihrig_Senyuz_Weinbach_2020_Ample_Reserves_Approach\|Ihrig et al. 2020：充裕准备金框架的官方教科书]] |
+| 36 | [[读书笔记/36_Gissler_et_al_2025_Nonbank_Cash_Lenders\|Gissler et al. 2025：非银出资人稀缺监测四指标]] |
+| 37 | [[读书笔记/37_Cordes_Infante_2025_Repo_Rate_Sensitivity\|Cordes & Infante 2025：回购利率对国债发行的敏感度]] |
+| 38 | [[读书笔记/38_Anbil_et_al_2026_Repo_Markets_Balance_Sheet\|Anbil et al. 2026：回购市场与联储表（RMP 时代官方框架）]] |
 
 ## 01_Core_Papers 核心论文
 
@@ -119,6 +122,9 @@
 | Anbil, Infante & Senyuz (2026), *A Tale of Demand and Supply for Central Bank Reserves*（FEDS 2026-028 PDF） | 理事会微观研究：隔离联邦基金市场银行—银行拆借段作"传感器"；FHLB 供给完全弹性、银行出借方无弹性且随准备金下降更僵硬（bankers' banks 最敏感）——分布摩擦先于总量稀缺报警。 |
 | Greenwood, Hanson & Stein (2016), *The Fed's Balance Sheet as a Financial-Stability Tool*（⚠️ 仅摘要+要点 md，PDF 三处来源均被反爬） | 大表派奠基：政府安全短债（准备金+RRP）挤出私人过度期限转换。与 Acharya & Rajan (2022) 构成文献网络最深的理论对立。 |
 | Ihrig, Senyuz & Weinbach (2020), *The Ample-Reserves Approach to Implementing Monetary Policy*, FEDS 2020-022（PDF） | 充裕准备金框架的**官方教科书原点**：需求曲线的平坦区定位、IORB/ONRRP 管理利率体系、2019 年 1 月永久化声明的来龙去脉；"充裕框架基础三连"之一。 |
+| Gissler, Hempel, Kahn, McCabe & Narajabad (2025), *Monitoring Reserve Scarcity Through Nonbank Cash Lenders*, FEDS Notes（HTML） | 机构维度稀缺监测：MMF 回购高于 IORB 占比、MMF 利差的 TGA 弹性、"真"银行间拆借段量价、FHLB 倒挂出借——四指标 2019Q1 即报警；EFFR 被 FBO 套利与 LCR 交易稀释，报警最晚。 |
+| Cordes & Infante (2025), *Repo Rate Sensitivity to Treasury Issuance and Quantitative Tightening*, FEDS Notes（HTML） | 稀缺的连续刻度尺：回购利率对国债净发行的敏感度随 QT 爬升；本轮目前 $100B 息票 ≈ 5–6bp，远低于上轮末期——"仍充裕但趋势向上"；Perli 演讲反复引用。 |
+| Anbil, Anderson, Cordes & Ruprecht (2026), *Repo Markets and the Fed's Balance Sheet: Implications for Monetary Policy Implementation*, FEDS Notes（HTML） | **RMP 时代的官方技术框架**：充裕表有银行+非银**双约束**；$100B 息票发行→TGCR–IORB +3.9bp；流动性 <10–12% GDP 时敏感度陡增（2019 年准备金 <9% GDP 即此区间）；回购压力经 FHLB 套利传导至 EFFR；2025-12 FOMC 宣布充裕并启动 RMP 的框架性注脚。 |
 
 ## 下载状态备注
 

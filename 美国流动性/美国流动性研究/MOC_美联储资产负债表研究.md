@@ -4,8 +4,8 @@ tags: [MOC, 美联储, 资产负债表, QT, 准备金, 知识地图]
 
 # 🗺️ MOC · 美联储资产负债表研究
 
-> 35 篇文献的知识地图主页。按**立场光谱**组织，辅以主题与阅读路径索引。
-> 论文原文与提取文本见 [[Fed_Balance_Sheet_Research/README|论文库 README]]；早期综述见 [[文献综述_美联储资产负债表缩表之争]]；**35 篇整合长文见 [[深度综述_缩表之争_35篇]]**。全部笔记已按 research-note 新格式重排。
+> 38 篇文献的知识地图主页。按**立场光谱**组织，辅以主题与阅读路径索引。
+> 论文原文与提取文本见 [[Fed_Balance_Sheet_Research/README|论文库 README]]；早期综述见 [[文献综述_美联储资产负债表缩表之争]]；**38 篇整合长文见 [[深度综述_缩表之争_38篇]]**。全部笔记已按 research-note 新格式重排。
 
 ## 核心问题
 
@@ -46,6 +46,9 @@ tags: [MOC, 美联储, 资产负债表, QT, 准备金, 知识地图]
 | [[Fed_Balance_Sheet_Research/读书笔记/28_Logan_Schulhofer-Wohl_2026_Options_for_Reducing_Fed_Balance_Sheet\|Logan & Schulhofer-Wohl 2026]] | 达拉斯联储：全负债缩表选项清单；需求曲线左移优于稀缺化；不量化不排序 |
 | [[Fed_Balance_Sheet_Research/读书笔记/33_Barr_2026_Beyond_the_Balance_Sheet\|Barr 2026]] | 理事回击：表规模是"足迹"的错误度量；缩表方案只换足迹形式且削弱韧性 |
 | [[Fed_Balance_Sheet_Research/读书笔记/35_Ihrig_Senyuz_Weinbach_2020_Ample_Reserves_Approach\|Ihrig, Senyuz & Weinbach 2020]] | 充裕框架官方教科书原点：需求曲线平坦区 + IORB/ONRRP 管理体系的来龙去脉 |
+| [[Fed_Balance_Sheet_Research/读书笔记/36_Gissler_et_al_2025_Nonbank_Cash_Lenders\|Gissler et al. 2025]] | 机构维度监测：MMF/FHLB 四指标 2019Q1 即报警；EFFR 被套利交易稀释、报警最晚 |
+| [[Fed_Balance_Sheet_Research/读书笔记/37_Cordes_Infante_2025_Repo_Rate_Sensitivity\|Cordes & Infante 2025]] | 稀缺连续刻度尺：回购利率对国债发行敏感度随 QT 爬升；仍充裕但趋势向上 |
+| [[Fed_Balance_Sheet_Research/读书笔记/38_Anbil_et_al_2026_Repo_Markets_Balance_Sheet\|Anbil et al. 2026]] | RMP 时代官方框架：充裕=银行+非银双约束；流动性 <10–12% GDP 敏感度陡增；回购经 FHLB 传导至 EFFR |
 
 ### 🟨 学术定量派——"还能缩多少"的标尺
 
@@ -116,4 +119,4 @@ tags: [MOC, 美联储, 资产负债表, QT, 准备金, 知识地图]
 
 ## 待补充（下一轮候选）
 
-Gissler et al. (2025) 非银资金出借方监测；Cordes & Infante (2025) 回购利率敏感度。
+待补充清单已清空（37 篇）。后续可按新发表动态增补（如 2026 年 FEDS《Repo Markets and the Fed's Balance Sheet》、Perli RMP 反思演讲）。
